@@ -25,10 +25,16 @@ RATE_LIMIT_SLEEP = 0.15  # gentle pacing; adjust if needed
 # Head & neck cancer topic definition (for classification prompt)
 TOPIC_GUIDANCE = """
 Head & neck cancer includes cancers of the oral cavity, oropharynx, hypopharynx, larynx,
-nasopharynx, salivary glands, sinonasal tract, thyroid cancer (if clearly head/neck),
-head & neck squamous cell carcinoma (HNSCC), HPV-associated oropharyngeal cancer,
-and related treatments/diagnostics (surgery, radiotherapy, chemo, immunotherapy) specific to these.
+nasopharynx, salivary glands, sinonasal tract, thyroid cancer,
+head & neck squamous cell carcinoma (HNSCC), HPV-associated oropharyngeal cancer, head and neck skin cancers,
+and related treatments/diagnostics (surgery, radiotherapy, chemotherapy, immunotherapy, targeted therapy) specific to these.
 Exclude: non-head/neck sites unless clearly metastatic to head/neck or the study is explicitly about head/neck oncology.
+
+- PRIMARY focus: Head and neck squamous cell carcinoma (HNSCC)
+  (oropharynx, larynx, hypopharynx, nasopharynx, oral cavity)
+- SECONDARY topics: thyroid cancers and salivary gland cancers
+  (ACC, MEC, salivary duct carcinoma), head and neck skin cancer. rare head and neck tumors.
+  
 """
 
 # -----------------------------
