@@ -4,7 +4,7 @@
 <title>Head &amp; Neck Cancer – Curated Journal Feed</title>
 <link>https://colmmemedsurv.github.io/sentinelnode/</link>
 <description>Automatically curated from selected journal RSS feeds. Metadata is copied only when present in the source feed.</description>
-<lastBuildDate>Sun, 21 Dec 2025 22:08:14 +0000</lastBuildDate>
+<lastBuildDate>Sun, 21 Dec 2025 22:31:48 +0000</lastBuildDate>
 <item>
 <title>Merkel-Cell Carcinoma</title>
 <link>https://www.nejm.org/doi/full/10.1056/NEJMicm2513302?rss=searchAndBrowse</link>
@@ -55,6 +55,30 @@ DOI: 10.1001/jamaoncol.2025.4092
 
 Abstract/summary (from RSS):
 To the Editor We read with interest the results of the phase 3 randomized clinical trial by Guo et al that investigated the important question if induction chemotherapy (IC) was superior to adjuvant chemotherapy (AC) when added to a backbone of concurrent chemoradiotherapy (CCRT) in patients with N2-3 nasopharyngeal carcinoma (NPC). For IC, the investigators used the triplet combination of paclitaxel-cisplatin-fluorouracil (TPF), whereas doublet cisplatin-fluorouracil (PF) was used for AC. The trial was powered to detect a 12% difference in progression-free survival (PFS) in favor of IC, and enrolled 324 patients, with 162 patients in each group. However, this was a negative trial with comparable 3-year PFS between IC plus CCRT and CCRT plus AC, contrasting the results of the NPC-0501 trial by the Hong Kong NPC study group, which showed an improvement for PFS in favor of IC, albeit subtle differences exist between both trials. Intriguingly, in the present study, IC was associated with poorer local control compared with AC.</description>
+</item>
+<item>
+<title>Definitive Radiotherapy for Organ Preservation in Nasal Cavity Cancers</title>
+<link>https://jamanetwork.com/journals/jamaoncology/fullarticle/2842809</link>
+<guid isPermaLink='true'>https://jamanetwork.com/journals/jamaoncology/fullarticle/2842809</guid>
+<pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
+<description>Journal: JAMA Oncology Online First
+DOI: 10.1001/jamaoncol.2025.5241
+
+
+Abstract/summary (from RSS):
+This cohort study evaluates the use of definitive rhinectomy and adjuvant radiotherapy with or without chemotherapy for patients who declined rhinectomy or had unresectable disease.</description>
+</item>
+<item>
+<title>JAMA Otolaryngology–Head &amp;amp; Neck Surgery</title>
+<link>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2842420</link>
+<guid isPermaLink='true'>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2842420</guid>
+<pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+<description>Journal: JAMA Otolaryngology–Head &amp;amp; Neck Surgery Current Issue
+DOI: 10.1001/jamaoto.2024.3469
+
+
+Abstract/summary (from RSS):
+Mission Statement: To advance the patient-centered, evidence-based practice of otolaryngology–head and neck surgery by publishing scientifically rigorous and innovative research, reviews, and commentary. Our journal serves as a vital resource for clinicians, researchers, educators, and trainees by providing high-quality, peer-reviewed content focused on improving the understanding and treatment of ear, nose, and throat conditions. We are dedicated to fostering dialogue and action on critical issues in otolaryngology, including the education and training of health care professionals, quality improvement, and the ethics and economics of equitable health care delivery.</description>
 </item>
 <item>
 <title>Mind, Machine, and Medicine</title>
@@ -307,6 +331,1969 @@ DOI: 10.1001/jamaoto.2025.4576
 
 Abstract/summary (from RSS):
 This cohort study examines perioperative risk factors associated with opioid refill prescriptions within 90 days after discharge among adults patients who underwent otolaryngology–head and neck surgery procedures.</description>
+</item>
+<item>
+<title>Development of a simplified scoring system for MRI-detected retropharyngeal lymph node features to optimize AJCC 9th edition N classification in nasopharyngeal carcinoma</title>
+<link>https://www.sciencedirect.com/science/article/pii/S1368837525006542?dgcid=rss_sd_all</link>
+<guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006542?dgcid=rss_sd_all</guid>
+<description>Journal: ScienceDirect Publication: Oral Oncology
+
+
+Abstract/summary (from RSS):
+&amp;lt;p&amp;gt;Publication date: February 2026&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Source:&amp;lt;/b&amp;gt; Oral Oncology, Volume 173&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Author(s): Qin Liu, Jing-Ni Wei, Jia-Yu Zhou, Chuan-Run Zhang, Liang-Ru Ke, Nian Lu, Ying Deng, Yu-Wen Kuang, Yu-Chen Hua, Meng-Wen Wang, Jie Gong, Shu-Hui Dong, Longjunyu Wu, Xing Lv, Yan-Qun Xiang, Xiang Guo, Wei-Xiong Xia&amp;lt;/p&amp;gt;</description>
+</item>
+<item>
+<title>Jaw-in-a-day (JIAD) for malignant indications: A systematic review</title>
+<link>https://www.sciencedirect.com/science/article/pii/S1368837525006529?dgcid=rss_sd_all</link>
+<guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006529?dgcid=rss_sd_all</guid>
+<description>Journal: ScienceDirect Publication: Oral Oncology
+
+
+Abstract/summary (from RSS):
+&amp;lt;p&amp;gt;Publication date: February 2026&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Source:&amp;lt;/b&amp;gt; Oral Oncology, Volume 173&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Author(s): Jessica Trac, Rashi Ramchandani, Pallavi Dutta, Leba Sarkis, Robert Calvisi, Noémie Villemure-Poliquin, Joel Davies, Eszter Somogyi-Ganss, Nick Blanas, Karl Cuddy, Danny Enepekides, Kevin Higgins, Justine Philteos, Antoine Eskander&amp;lt;/p&amp;gt;</description>
+</item>
+<item>
+<title>Trans-hairline robotic neck dissection and robotic microvascular free flap reconstruction in oral cavity cancer</title>
+<link>https://www.sciencedirect.com/science/article/pii/S1368837525006487?dgcid=rss_sd_all</link>
+<guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006487?dgcid=rss_sd_all</guid>
+<description>Journal: ScienceDirect Publication: Oral Oncology
+
+
+Abstract/summary (from RSS):
+&amp;lt;p&amp;gt;Publication date: January 2026&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Source:&amp;lt;/b&amp;gt; Oral Oncology, Volume 172&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Author(s): Velda Ling-Yu CHOW, Valerie Wai-Yee HO, Arthur Shing-Ho LO&amp;lt;/p&amp;gt;</description>
+</item>
+<item>
+<title>Letter to the editor: Stroke risk after head and neck cancer diagnosis and treatment in a Real-World clinical cohort</title>
+<link>https://www.sciencedirect.com/science/article/pii/S1368837525005342?dgcid=rss_sd_all</link>
+<guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525005342?dgcid=rss_sd_all</guid>
+<description>Journal: ScienceDirect Publication: Oral Oncology
+
+
+Abstract/summary (from RSS):
+&amp;lt;p&amp;gt;Publication date: January 2026&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Source:&amp;lt;/b&amp;gt; Oral Oncology, Volume 172&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Author(s): Cunxi Zou&amp;lt;/p&amp;gt;</description>
+</item>
+<item>
+<title>Methodological considerations in profiling the immune microenvironment and HPV status of oral multiple primary cancers</title>
+<link>https://www.sciencedirect.com/science/article/pii/S1368837525006517?dgcid=rss_sd_all</link>
+<guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006517?dgcid=rss_sd_all</guid>
+<description>Journal: ScienceDirect Publication: Oral Oncology
+
+
+Abstract/summary (from RSS):
+&amp;lt;p&amp;gt;Publication date: January 2026&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Source:&amp;lt;/b&amp;gt; Oral Oncology, Volume 172&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Author(s): Shanshan Yuan, Jingjing Gao&amp;lt;/p&amp;gt;</description>
+</item>
+<item>
+<title>Refining surveillance in surgically treated HPV(+)OPSCC: The path to Risk-Adapted strategies</title>
+<link>https://www.sciencedirect.com/science/article/pii/S1368837525006414?dgcid=rss_sd_all</link>
+<guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006414?dgcid=rss_sd_all</guid>
+<description>Journal: ScienceDirect Publication: Oral Oncology
+
+
+Abstract/summary (from RSS):
+&amp;lt;p&amp;gt;Publication date: January 2026&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Source:&amp;lt;/b&amp;gt; Oral Oncology, Volume 172&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Author(s): Jiaqian Wu, Jianning Zhang, Jiachuan Lin, Yan Huo&amp;lt;/p&amp;gt;</description>
+</item>
+<item>
+<title>The diagnostic trade-off in post-treatment surveillance for HPV-positive oropharyngeal carcinoma</title>
+<link>https://www.sciencedirect.com/science/article/pii/S136883752500627X?dgcid=rss_sd_all</link>
+<guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S136883752500627X?dgcid=rss_sd_all</guid>
+<description>Journal: ScienceDirect Publication: Oral Oncology
+
+
+Abstract/summary (from RSS):
+&amp;lt;p&amp;gt;Publication date: January 2026&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Source:&amp;lt;/b&amp;gt; Oral Oncology, Volume 172&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Author(s): Yaling Tang, Heng Gan, Xin Gan&amp;lt;/p&amp;gt;</description>
+</item>
+<item>
+<title>Intrathyroid thymic carcinoma diagnosed following an odontogenic infection: Insights from a rare clinical presentation</title>
+<link>https://www.sciencedirect.com/science/article/pii/S1368837525006268?dgcid=rss_sd_all</link>
+<guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006268?dgcid=rss_sd_all</guid>
+<description>Journal: ScienceDirect Publication: Oral Oncology
+
+
+Abstract/summary (from RSS):
+&amp;lt;p&amp;gt;Publication date: January 2026&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Source:&amp;lt;/b&amp;gt; Oral Oncology, Volume 172&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Author(s): Hitoshi Miyashita, Haruka Saito, Masashi Katoh, Fumiyoshi Fujishima, Nobuo Ohta&amp;lt;/p&amp;gt;</description>
+</item>
+<item>
+<title>Influencing factors on occurrence and prognosis of oral squamous cell carcinoma after organ transplantation</title>
+<link>https://www.sciencedirect.com/science/article/pii/S1368837525006530?dgcid=rss_sd_all</link>
+<guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006530?dgcid=rss_sd_all</guid>
+<description>Journal: ScienceDirect Publication: Oral Oncology
+
+
+Abstract/summary (from RSS):
+&amp;lt;p&amp;gt;Publication date: January 2026&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Source:&amp;lt;/b&amp;gt; Oral Oncology, Volume 172&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Author(s): Yiheng Feng, Maged Ali Al-Aroomi, Jie Chen, Saiwen Song, Canhua Jiang, Jie Wang&amp;lt;/p&amp;gt;</description>
+</item>
+<item>
+<title>Treatment and outcome for 2,111 patients with vermilion lip squamous cell carcinoma: A nationwide, population-based study from the SweHNCR</title>
+<link>https://www.sciencedirect.com/science/article/pii/S1368837525006475?dgcid=rss_sd_all</link>
+<guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006475?dgcid=rss_sd_all</guid>
+<description>Journal: ScienceDirect Publication: Oral Oncology
+
+
+Abstract/summary (from RSS):
+&amp;lt;p&amp;gt;Publication date: January 2026&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Source:&amp;lt;/b&amp;gt; Oral Oncology, Volume 172&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Author(s): A. Hafström, E. Hammerlid, M. Beran, M. Olin, A. Högmo, L. Farnebo&amp;lt;/p&amp;gt;</description>
+</item>
+<item>
+<title>Is 55 years an optimal age cutoff point for clinical staging in T1 papillary thyroid cancer?</title>
+<link>https://www.sciencedirect.com/science/article/pii/S1368837525006463?dgcid=rss_sd_all</link>
+<guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006463?dgcid=rss_sd_all</guid>
+<description>Journal: ScienceDirect Publication: Oral Oncology
+
+
+Abstract/summary (from RSS):
+&amp;lt;p&amp;gt;Publication date: January 2026&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Source:&amp;lt;/b&amp;gt; Oral Oncology, Volume 172&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Author(s): Daixing Hu, Zhuolin Dai, Yang Feng, Xinliang Su, Chun Huang&amp;lt;/p&amp;gt;</description>
+</item>
+<item>
+<title>A pilot study of a digital workflow for navigated tumor bed marking to reduce clinical target volume during adjuvant radiotherapy for oral squamous cell carcinoma</title>
+<link>https://www.sciencedirect.com/science/article/pii/S1368837525006499?dgcid=rss_sd_all</link>
+<guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006499?dgcid=rss_sd_all</guid>
+<description>Journal: ScienceDirect Publication: Oral Oncology
+
+
+Abstract/summary (from RSS):
+&amp;lt;p&amp;gt;Publication date: January 2026&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Source:&amp;lt;/b&amp;gt; Oral Oncology, Volume 172&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Author(s): Frederik Holdorf, Henning Schliephake, Kathi Goldstein, Lennart Johannes Gruber, Phillipp Brockmeyer, Martin Leu, Stefan Rieken, Boris Schminke&amp;lt;/p&amp;gt;</description>
+</item>
+<item>
+<title>Patient-derived 3D organoid platform for functional assessment of GPC3-targeted CAR T cell cytotoxic activity in head and neck squamous cell carcinoma</title>
+<link>https://www.sciencedirect.com/science/article/pii/S1368837525006438?dgcid=rss_sd_all</link>
+<guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006438?dgcid=rss_sd_all</guid>
+<description>Journal: ScienceDirect Publication: Oral Oncology
+
+
+Abstract/summary (from RSS):
+&amp;lt;p&amp;gt;Publication date: January 2026&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Source:&amp;lt;/b&amp;gt; Oral Oncology, Volume 172&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Author(s): Han-Na Yoon, Jin-ha Kim, Doeon Gu, Jonghyun Lee, Soo Yoon Kim, Hye Jin Kim, Jaehyeon Jeong, Dongkwan Shin, Yuh-Seog Jung, Man Ki Chung, Sang-Jin Lee, Sung Yong Choi&amp;lt;/p&amp;gt;</description>
+</item>
+<item>
+<title>&lt;em&gt;NOTCH1&lt;/em&gt; loss promotes chemo and radio-resistance in head and neck cancer</title>
+<link>https://www.sciencedirect.com/science/article/pii/S136883752500644X?dgcid=rss_sd_all</link>
+<guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S136883752500644X?dgcid=rss_sd_all</guid>
+<description>Journal: ScienceDirect Publication: Oral Oncology
+
+
+Abstract/summary (from RSS):
+&amp;lt;p&amp;gt;Publication date: January 2026&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Source:&amp;lt;/b&amp;gt; Oral Oncology, Volume 172&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Author(s): Mushfiq H. Shaikh, Walid Gazala, Cindy Zheng, Mahdi Farzad Naimi, Matthew Cecchini, Amir Karimi, Halema Khan, Krista Joris, Shengjie Ying, Harrison Pan, Mohd Wessam Al Jawhri, David A. Palma, Joe S. Mymryk, Peter YF. Zeng, John W. Barrett, Anthony C. Nichols&amp;lt;/p&amp;gt;</description>
+</item>
+<item>
+<title>Integrated geriatric assessment and intervention in the head and neck oncology care pathway reduces adverse events and does not affect survival</title>
+<link>https://www.sciencedirect.com/science/article/pii/S1368837525006402?dgcid=rss_sd_all</link>
+<guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006402?dgcid=rss_sd_all</guid>
+<description>Journal: ScienceDirect Publication: Oral Oncology
+
+
+Abstract/summary (from RSS):
+&amp;lt;p&amp;gt;Publication date: January 2026&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Source:&amp;lt;/b&amp;gt; Oral Oncology, Volume 172&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Author(s): Beniamino Vincenzoni Padovan, Marleen Beenker, Johannes A. Langendijk, Hans Paul van der Laan, Boukje A.C. van Dijk, Geertrudia H. de Bock, Boudewijn E.C. Plaat, Pauline de Graeff, Suzanne Festen, Gyorgy B. Halmos&amp;lt;/p&amp;gt;</description>
+</item>
+<item>
+<title>Neoadjuvant tislelizumab plus chemotherapy in locally advanced oral and oropharyngeal squamous cell carcinoma: A single-arm phase II clinical trial</title>
+<link>https://www.sciencedirect.com/science/article/pii/S1368837525006384?dgcid=rss_sd_all</link>
+<guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006384?dgcid=rss_sd_all</guid>
+<description>Journal: ScienceDirect Publication: Oral Oncology
+
+
+Abstract/summary (from RSS):
+&amp;lt;p&amp;gt;Publication date: January 2026&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Source:&amp;lt;/b&amp;gt; Oral Oncology, Volume 172&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Author(s): Wen-Jie Wu, Pu-Gen An, Zi-Qi Zhang, Li-Hang Shen, Jian-Yun Zhang, Yan Chen, Ming-Wei Huang, Shu-Ming Liu, Jie Yao, Jie Zhang&amp;lt;/p&amp;gt;</description>
+</item>
+<item>
+<title>Blinded comparative evaluation of GPT-generated, online search-derived, and guideline-based answers for HPV-associated oropharyngeal cancer</title>
+<link>https://www.sciencedirect.com/science/article/pii/S1368837525006426?dgcid=rss_sd_all</link>
+<guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006426?dgcid=rss_sd_all</guid>
+<description>Journal: ScienceDirect Publication: Oral Oncology
+
+
+Abstract/summary (from RSS):
+&amp;lt;p&amp;gt;Publication date: January 2026&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Source:&amp;lt;/b&amp;gt; Oral Oncology, Volume 172&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Author(s): Sholem Hack, Rebecca Attal, Karin Geva, Armin Farzad, Shibli Alsleibi, Naseem Saleh, Ben Gvili, David Yogev, David Shahal, Benyamin Meir Kaminer, Eric Remer&amp;lt;/p&amp;gt;</description>
+</item>
+<item>
+<title>Incidence of HPV-independent second primary malignancies following treatment of HPV-associated malignancy</title>
+<link>https://www.sciencedirect.com/science/article/pii/S1368837525006190?dgcid=rss_sd_all</link>
+<guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006190?dgcid=rss_sd_all</guid>
+<description>Journal: ScienceDirect Publication: Oral Oncology
+
+
+Abstract/summary (from RSS):
+&amp;lt;p&amp;gt;Publication date: January 2026&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Source:&amp;lt;/b&amp;gt; Oral Oncology, Volume 172&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Author(s): Sarah C. Nyirjesy, Yana Al-Inaya, Selena Zhang, Omar A. Karadaghy, Derrick T. Lin, Daniel G. Deschler, Allen L. Feng, Mark A. Varvares, Adam S. Fisch, Daniel L. Faden, Jeremy D. Richmon&amp;lt;/p&amp;gt;</description>
+</item>
+<item>
+<title>Establishment and characterization of a new immortalized human oral keratinocyte (HOK) cell line harboring various &lt;em&gt;TP53&lt;/em&gt; mutations</title>
+<link>https://www.sciencedirect.com/science/article/pii/S1368837525006281?dgcid=rss_sd_all</link>
+<guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006281?dgcid=rss_sd_all</guid>
+<description>Journal: ScienceDirect Publication: Oral Oncology
+
+
+Abstract/summary (from RSS):
+&amp;lt;p&amp;gt;Publication date: January 2026&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Source:&amp;lt;/b&amp;gt; Oral Oncology, Volume 172&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Author(s): Mei Zhao, Zhiyi Liu, Mutsuki Kawabe, Abdullah A Osman, Mitchell J. Frederick, Jeffrey N Myers&amp;lt;/p&amp;gt;</description>
+</item>
+<item>
+<title>Hpv-driven rewiring of the tumor immune microenvironment through single-cell profiling informs prognosis and therapy in HNSCC</title>
+<link>https://www.sciencedirect.com/science/article/pii/S1368837525006189?dgcid=rss_sd_all</link>
+<guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006189?dgcid=rss_sd_all</guid>
+<description>Journal: ScienceDirect Publication: Oral Oncology
+
+
+Abstract/summary (from RSS):
+&amp;lt;p&amp;gt;Publication date: January 2026&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Source:&amp;lt;/b&amp;gt; Oral Oncology, Volume 172&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Author(s): Ying Li, Qianzi Kou, Chongyang Zheng, Pengkhun Nov, Changqian Wang, Peizan Ni, Lilin Li, Yangfeng Zhang, Duanyu Wang, Arzoo Prasai, Wen Fu, Jiqiang Li, Kunpeng Du&amp;lt;/p&amp;gt;</description>
+</item>
+<item>
+<title>Patterns of metastasis and nodal disease in tongue and buccal carcinomas: Case-based reflections in Delhi NCR Region</title>
+<link>https://www.sciencedirect.com/science/article/pii/S1368837525006451?dgcid=rss_sd_all</link>
+<guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006451?dgcid=rss_sd_all</guid>
+<description>Journal: ScienceDirect Publication: Oral Oncology
+
+
+Abstract/summary (from RSS):
+&amp;lt;p&amp;gt;Publication date: January 2026&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Source:&amp;lt;/b&amp;gt; Oral Oncology, Volume 172&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Author(s): Kripa Bajaj, Ramya Ramadoss, Sandhya Sundar, Suganya Panneer Selvam, Hema Shree K.&amp;lt;/p&amp;gt;</description>
+</item>
+<item>
+<title>Cerebrovascular events after head and neck radiation therapy: A systematic review and Meta-Analysis</title>
+<link>https://www.sciencedirect.com/science/article/pii/S1368837525006396?dgcid=rss_sd_all</link>
+<guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006396?dgcid=rss_sd_all</guid>
+<description>Journal: ScienceDirect Publication: Oral Oncology
+
+
+Abstract/summary (from RSS):
+&amp;lt;p&amp;gt;Publication date: January 2026&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Source:&amp;lt;/b&amp;gt; Oral Oncology, Volume 172&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Author(s): Kennedy Ayoo, Elliot Koo, Noémie Villemure-Poliquin, Rui Fu, Jonathan C Irish, Thomas Lindsay, Antoine Eskander&amp;lt;/p&amp;gt;</description>
+</item>
+<item>
+<title>Survival rates and oncologic outcomes of adeno squamous carcinoma of oral cavity: A systematic review</title>
+<link>https://www.sciencedirect.com/science/article/pii/S1368837525006505?dgcid=rss_sd_all</link>
+<guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006505?dgcid=rss_sd_all</guid>
+<description>Journal: ScienceDirect Publication: Oral Oncology
+
+
+Abstract/summary (from RSS):
+&amp;lt;p&amp;gt;Publication date: January 2026&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Source:&amp;lt;/b&amp;gt; Oral Oncology, Volume 172&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Author(s): Francesco Chiari, Andrea Luigi Camillo Carobbio, Marco Ferrari, Piero Nicolai, Claudio Donadio Caporale, Pierre Guarino&amp;lt;/p&amp;gt;</description>
+</item>
+<item>
+<title>Feasibility and Adherence to Home‐Based Intensive Treatment Programs for Chronic Radiation‐Associated Dysphagia in Head and Neck Cancer Survivors—The HIT‐CRAD Trial</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70136?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70136?af=R</guid>
+<pubDate>Sat, 20 Dec 2025 00:55:06 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70136
+Authors: Hanne Massonet, 
+Ann Goeleven, 
+Sandra Nuyts, 
+Alice Vergauwen, 
+Margot Baudelet, 
+Fréderic Duprez, 
+Peter Tomassen, 
+Leen Van den Steen, 
+Gwen Van Nuffelen
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, EarlyView.</description>
+</item>
+<item>
+<title>Brain Metastases From Differentiated Thyroid Cancer in the Era of Targeted Therapies: A Multi‐Center Retrospective Cohort</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70139?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70139?af=R</guid>
+<pubDate>Fri, 19 Dec 2025 07:04:44 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70139
+Authors: Liyona Kampel, 
+Shaun Edalati, 
+Eyal Yosefof, 
+Anton Warshavsky, 
+Gilad Horowitz, 
+Nidal Muhanna, 
+Hagit Shoffel‐Havakuk, 
+Eyal Robenshtok, 
+Aron Popovtzer, 
+Inbar Finkel
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, EarlyView.</description>
+</item>
+<item>
+<title>Differences in Survival Following Surgery Versus Chemoradiotherapy for Clinical Stage T4a Laryngeal Squamous Cell Carcinoma: A Propensity Score‐Matched Analysis</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70114?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70114?af=R</guid>
+<pubDate>Tue, 16 Dec 2025 23:15:30 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70114
+Authors: Beverly J. Fu, 
+Alexandra L. Potter, 
+Patrik Pipkorn, 
+Kristen L. Kraimer, 
+Michelle M. Chen, 
+Karthik Rajasekaran, 
+Chi‐Fu Jeffrey Yang, 
+Jake J. Lee
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, EarlyView.</description>
+</item>
+<item>
+<title>Neutrophil to Lymphocyte and Lymphocyte to Monocyte Ratios Predict Improved Survival and Response to Induction Chemotherapy in Locally Advanced Squamous Cell Carcinoma of the Larynx</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70132?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70132?af=R</guid>
+<pubDate>Tue, 16 Dec 2025 23:00:44 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70132
+Authors: Zachary Risch, 
+Emily Bellile, 
+Moneb S. Bughrara, 
+Paul L. Swiecicki, 
+Keith Casper, 
+Kelly Malloy, 
+Norman Hogikyan, 
+Matthew Spector, 
+Andrew Shuman, 
+Chaz Stucken, 
+Steven Chinn, 
+Douglas C. Chepeha, 
+Shruti Jolly, 
+Michelle Mierzwa, 
+Carol Bradford, 
+Avraham Eisbruch, 
+Thomas Carey, 
+Mark Prince, 
+Gregory T. Wolf, 
+Francis P. Worden
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, EarlyView.</description>
+</item>
+<item>
+<title>Traumatic Intrathyroidal Hematoma: Case Report and Review of Literature</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.28248?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.28248?af=R</guid>
+<pubDate>Mon, 15 Dec 2025 01:34:20 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.28248
+Authors: Morgan Terry, 
+Ana Araujo, 
+Skylar Trott, 
+Mark K. Wax
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, Volume 48, Issue 1, Page E10-E13, January 2026.</description>
+</item>
+<item>
+<title>Magnifying Glass on Sinonasal NUT Carcinoma Heterogeneity via Spatial Transcriptomics</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.28231?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.28231?af=R</guid>
+<pubDate>Mon, 15 Dec 2025 01:34:20 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.28231
+Authors: Diana Bell, 
+Garret Choby, 
+Michelle Afkhami, 
+Ellie Maghami, 
+Renata Ferrarotto, 
+Carl Snyderman, 
+Eric Wang, 
+Ehab Hanna, 
+Raja Seethala
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, Volume 48, Issue 1, Page E1-E9, January 2026.</description>
+</item>
+<item>
+<title>Epithelioid Hemangioendothelioma of the Head and Neck: A Systematic Review and an Institutional Case Study</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70087?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70087?af=R</guid>
+<pubDate>Mon, 15 Dec 2025 01:34:20 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70087
+Authors: Gianluca Scalia, 
+Valentina Zagardo, 
+Gianluca Ferini, 
+Eliana Giurato, 
+Agata Bosco, 
+Cinzia Molino, 
+Mauro Pavone, 
+Gianluca Galvano, 
+Giovanni Federico Nicoletti, 
+Giuseppe Emmanuele Umana, 
+Francesca Graziano
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, Volume 48, Issue 1, Page 261-301, January 2026.</description>
+</item>
+<item>
+<title>Malignant Transformation of Oral Leukoplakia and Proliferative Verrucous Leukoplakia and Its Biomarker Predictors: A Systematic Umbrella Review</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70073?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70073?af=R</guid>
+<pubDate>Mon, 15 Dec 2025 01:34:20 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70073
+Authors: Mohammed Taib Fatih, 
+Mohammed Khalid Mahmood, 
+Balkees Taha Garib, 
+Yad Mariwan Mohammed Amin, 
+Ranjdar Mahmood Talabani, 
+Tara Ali Rasheed, 
+Handren Ameer Kurda, 
+Balen Hamid Qadir, 
+Zana Fuad Noori, 
+Mohammed Aso Abdulghafor, 
+Ariwan Othman Saeed, 
+Herve Tassery, 
+Delphine Tardivo, 
+Romain Lan
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, Volume 48, Issue 1, Page 246-260, January 2026.</description>
+</item>
+<item>
+<title>Non‐Pharmacological Interventions for Improving Xerostomia Among Patients With Head and Neck Cancer: A Systematic Review and Network Meta‐Analysis</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70100?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70100?af=R</guid>
+<pubDate>Mon, 15 Dec 2025 01:34:20 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70100
+Authors: Xueyan Cheng, 
+Lizhen Wang, 
+Mu‐Hsing Ho, 
+Shing Fung Lee, 
+Frederick K. Ho, 
+Wing‐Fai Yeung, 
+Chia‐Chin Lin, 
+Denise Shuk Ting Cheung
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, Volume 48, Issue 1, Page 302-316, January 2026.</description>
+</item>
+<item>
+<title>On Behalf of Surgical Versus Non‐Surgical Treatment of Advanced Oropharyngeal Squamous Cell Carcinoma: A Systematic Review and Meta‐Analysis</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70083?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70083?af=R</guid>
+<pubDate>Mon, 15 Dec 2025 01:34:20 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70083
+Authors: Alvaro Sanabria
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, Volume 48, Issue 1, Page 317-318, January 2026.</description>
+</item>
+<item>
+<title>Prognostic Significance of Solid Subtype of Papillary Thyroid Carcinoma: Analysis of 63 Patients</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.28266?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.28266?af=R</guid>
+<pubDate>Mon, 15 Dec 2025 01:34:20 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.28266
+Authors: Andre Ywata de Carvalho, 
+Felipe D&amp;apos; Almeida Costa, 
+Jose Guilherme Vartanian, 
+Luiz Paulo Kowalski
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, Volume 48, Issue 1, Page 5-12, January 2026.</description>
+</item>
+<item>
+<title>A New Orthotopic Mouse Model of Laryngeal Squamous Cell Carcinoma</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70001?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70001?af=R</guid>
+<pubDate>Mon, 15 Dec 2025 01:34:20 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70001
+Authors: Junrong Wang, 
+Ming Song, 
+Lei Wang, 
+Xueying Wang, 
+Xianguang Yang, 
+Lunhua Guo, 
+Jianfeng Chen, 
+Hongxue Meng, 
+Xionghui Mao, 
+Erliang Guo, 
+Susheng Miao
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, Volume 48, Issue 1, Page 106-113, January 2026.</description>
+</item>
+<item>
+<title>Does Modified 5‐Item Frailty Index Correlate With Survival in Oropharyngeal Squamous Cell Carcinoma?</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70005?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70005?af=R</guid>
+<pubDate>Mon, 15 Dec 2025 01:34:20 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70005
+Authors: Marta Chmielecka, 
+Rhona Hurley, 
+Mohd Afid Mohd Slim, 
+Nichola Philp, 
+Matthew Donachie, 
+Jan Horackiewicz, 
+Josh McGovern, 
+Katrina Knight, 
+Nicholas J. W. Rattray, 
+Claire Paterson, 
+Catriona M. Douglas
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, Volume 48, Issue 1, Page 82-98, January 2026.</description>
+</item>
+<item>
+<title>The Use of Deep Epigastric Composite Vascular Autograft in the Vessel Depleted Neck</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70010?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70010?af=R</guid>
+<pubDate>Mon, 15 Dec 2025 01:34:20 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70010
+Authors: Jian‐Xun Chen, 
+Andreea Gavrilescu, 
+Shane D. Morrison, 
+Pin‐Keng Shih
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, Volume 48, Issue 1, Page 39-44, January 2026.</description>
+</item>
+<item>
+<title>Feasibility and Efficacy of Indocyanine Green Angiography in Transoral Robotic Thyroidectomy: A Pilot Study</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70011?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70011?af=R</guid>
+<pubDate>Mon, 15 Dec 2025 01:34:20 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70011
+Authors: Kyung Tae, 
+Van Cuong Nguyen, 
+Hae Won Choi, 
+Dong Won Lee, 
+Kyu Nam Kim, 
+Gregory W. Randolph
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, Volume 48, Issue 1, Page 71-81, January 2026.</description>
+</item>
+<item>
+<title>Oncological Impact of Surgical Margin Status After Transoral Laser Microsurgery for Early Glottic Cancer</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70013?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70013?af=R</guid>
+<pubDate>Mon, 15 Dec 2025 01:34:20 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70013
+Authors: Sae Hatomi, 
+Shuta Tomisato, 
+Ken Kasahara, 
+Hiroyuki Ozawa, 
+Takeyuki Kono
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, Volume 48, Issue 1, Page 99-105, January 2026.</description>
+</item>
+<item>
+<title>Fuel for Recovery: Predicting G‐Tube Dependence in HPV‐Negative Operable HNSCC</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70015?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70015?af=R</guid>
+<pubDate>Mon, 15 Dec 2025 01:34:20 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70015
+Authors: Marie‐Michelle McNicoll, 
+Alex M. Mlynarek, 
+Keith Richardson, 
+Michael Hier, 
+Nader Sadeghi, 
+Anna Casola, 
+Nathaniel Bouganim, 
+Khashayar Esfahani, 
+Christina Tsien, 
+George Shenouda, 
+Khalil Sultanem, 
+Marco A. Mascarella
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, Volume 48, Issue 1, Page 114-124, January 2026.</description>
+</item>
+<item>
+<title>Geographic Trends and Geospatial Analysis of Head and Neck Fellowship‐Trained Surgeons</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70016?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70016?af=R</guid>
+<pubDate>Mon, 15 Dec 2025 01:34:20 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70016
+Authors: Jad Zeitouni, 
+Harry May, 
+Hannah Seo, 
+Preston Thipaphay, 
+Nosayaba Osazuwa‐Peters, 
+Mark A. Varvares, 
+Yusuf Dundar
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, Volume 48, Issue 1, Page 125-133, January 2026.</description>
+</item>
+<item>
+<title>Survival Impact and Risk Factors of Cervical Lymph Node Metastasis in Maxillary Gingival Squamous Cell Carcinoma: A Retrospective Study of 81 Patients</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70021?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70021?af=R</guid>
+<pubDate>Mon, 15 Dec 2025 01:34:20 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70021
+Authors: Takeshi Kuroshima, 
+Naoya Kinoshita, 
+Naoto Nishii, 
+Yu Oikawa, 
+Takuma Kugimoto, 
+Hideaki Hirai, 
+Hirofumi Tomioka, 
+Yasuyuki Michi, 
+Hiroyuki Harada
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, Volume 48, Issue 1, Page 219-226, January 2026.</description>
+</item>
+<item>
+<title>Evaluation of a Novel Prognostic System for Surgically Resected Oral Cavity Carcinoma</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70022?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70022?af=R</guid>
+<pubDate>Mon, 15 Dec 2025 01:34:20 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70022
+Authors: Alisa Rybkin, 
+Victor Lee, 
+Melissa R. Young, 
+Antoine Eskander, 
+Barbara Burtness, 
+Henry S. M. Park, 
+Zain A. Husain
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, Volume 48, Issue 1, Page 175-183, January 2026.</description>
+</item>
+<item>
+<title>Tongue Surface Electromyography Detects Reduced Motor Unit Recruitment in Oropharyngeal Cancer Survivors With Hypoglossal Neuropathy</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70025?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70025?af=R</guid>
+<pubDate>Mon, 15 Dec 2025 01:34:20 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70025
+Authors: Nathan J. Hansen, 
+Katherine A. Hutcheson, 
+Holly McMillan, 
+Shitong Mao, 
+Katelyn Vidad, 
+Carly E. Barbon, 
+Karin Woodman, 
+Nicolaas C. Anderson, 
+Benjamin Sanchez,  on behalf of the OPC‐SURVIVOR Program Working Group
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, Volume 48, Issue 1, Page 195-205, January 2026.</description>
+</item>
+<item>
+<title>Management of Retropharyngeal Lymph Node Metastases in Thyroid Cancer</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70027?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70027?af=R</guid>
+<pubDate>Mon, 15 Dec 2025 01:34:20 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70027
+Authors: Isabelle Fournier, 
+Ashwini Venkata Bandi, 
+Sarah Hamidi, 
+Priyanka Iyer, 
+Naifa L. Busaidy, 
+Maria E. Cabanillas, 
+Ramona Dadu, 
+Mimi I. Hu, 
+Steven G. Waguespack, 
+Ugur Nur Basmaci, 
+Michelle D. Williams, 
+Mena Mansour, 
+Maria Gule Monroe, 
+Neil D. Gross, 
+Ryan P. Goepfert, 
+Nancy D. Perrier, 
+Victoria Banuchi, 
+Jennifer R. Wang, 
+Anastasios Maniakas, 
+Mark E. Zafereo
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, Volume 48, Issue 1, Page 237-245, January 2026.</description>
+</item>
+<item>
+<title>Prognostic Impact of Age and Treatment Strategies in Elderly Patients With Oral Squamous Cell Carcinoma: An 11‐Year Retrospective Analysis</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70028?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70028?af=R</guid>
+<pubDate>Mon, 15 Dec 2025 01:34:20 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70028
+Authors: Yuki Oikawa, 
+Shoken Suzuki, 
+Hidemitsu Igarashi, 
+Yasunori Konno, 
+Masato Yamazaki, 
+Hiroshi Takano, 
+Masayuki Fukuda
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, Volume 48, Issue 1, Page 227-236, January 2026.</description>
+</item>
+<item>
+<title>Lip Reconstruction Following Cancer Resection</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70020?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70020?af=R</guid>
+<pubDate>Mon, 15 Dec 2025 01:34:20 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70020
+Authors: Abbas M. Hassan, 
+Michael M. Talanker, 
+Peirong Yu, 
+David M. Adelman, 
+Mark T. Villa, 
+Matthew M. Hanasono
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, Volume 48, Issue 1, Page 206-218, January 2026.</description>
+</item>
+<item>
+<title>Association of PD‐L1 Expression With Tertiary Lymphoid Structures and Prognosis in Oral Cancer</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.28262?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.28262?af=R</guid>
+<pubDate>Mon, 15 Dec 2025 01:34:20 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.28262
+Authors: Emi Saitou, 
+Mai Seki, 
+Takaaki Sano, 
+Masaru Ogawa, 
+Satoshi Yokoo, 
+Tetsunari Oyama
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, Volume 48, Issue 1, Page 26-38, January 2026.</description>
+</item>
+<item>
+<title>Late Toxicity and Long‐Term Quality of Life in Survivors of Cancer of the Major Salivary Glands More Than 5 Years After Diagnosis: A Multi‐National Study</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.28263?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.28263?af=R</guid>
+<pubDate>Mon, 15 Dec 2025 01:34:20 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.28263
+Authors: Susanne Singer, 
+Cecilie Delphin Amdal, 
+Kristin Bjordal, 
+Bente Brokstad Herlofson, 
+Guro Lindviksmoen Astrup, 
+Andreas Boehm, 
+Ulrike Wöhner, 
+Eva Hammerlid, 
+Ricardo Ribeiro Gama, 
+Alexandre Arthur Jacinto, 
+Femke Jansen, 
+Irma M. Verdonck‐de Leeuw, 
+Tatiana Dragan, 
+Fréderic Duprez, 
+Naomi Kiyota, 
+Monica Pinto, 
+Maximilian Krüger, 
+Orlando Guntinas‐Lichius, 
+Johanna Inhestern, 
+Francesco Tramacere, 
+Pierluigi Bonomo, 
+Giuseppe Fanetti, 
+Sandra Nuyts, 
+Michaela Plath, 
+Noa Stempler, 
+Kristine Løken Westgaard, 
+Katherine J. Taylor
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, Volume 48, Issue 1, Page 13-25, January 2026.</description>
+</item>
+<item>
+<title>Thyroid Volume Measurement With AI‐Assisted Freehand 3D Ultrasound Compared to 2D Ultrasound—A Clinical Trial</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.28267?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.28267?af=R</guid>
+<pubDate>Mon, 15 Dec 2025 01:34:20 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.28267
+Authors: Klara Bay Rask, 
+Fatemeh Makouei, 
+Marcus Hans Jakowlew Wessman, 
+Tina Toft Kristensen, 
+Tobias Todsen
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, Volume 48, Issue 1, Page 64-70, January 2026.</description>
+</item>
+<item>
+<title>A Novel Peculiarity of TXNIP Reversing the Radioresistance of NPC and Inducing Ferroptosis by xCT‐GSH‐GPX4‐ROS Axis</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70004?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70004?af=R</guid>
+<pubDate>Mon, 15 Dec 2025 01:34:20 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70004
+Authors: Jin Zhou, 
+Qi Zhou, 
+Yan Mo, 
+Hanghao Zhang, 
+Ruiyue Dang, 
+Min Lin, 
+Runsha Xiao, 
+Yiting Chen, 
+Xin Deng, 
+Shuanglian Wang, 
+Chengmin Li, 
+Jidong Hong, 
+Chushuang Lin, 
+Haoyang Tang, 
+Jiahui Jiang, 
+Zuozhong Xie, 
+Xueping Feng
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, Volume 48, Issue 1, Page 134-147, January 2026.</description>
+</item>
+<item>
+<title>Aberrant Splicing Burden Predicts Immune Infiltration and Prognosis in Head and Neck Squamous Cell Carcinomas</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70007?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70007?af=R</guid>
+<pubDate>Mon, 15 Dec 2025 01:34:20 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70007
+Authors: Sandhya Kalavacherla, 
+Joseph Bendik, 
+Mitchell Victor, 
+Hannah Carter, 
+Joseph A. Califano, 
+Theresa Guo
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, Volume 48, Issue 1, Page 45-55, January 2026.</description>
+</item>
+<item>
+<title>Nasopharyngeal Endoscopic Resection Extended to the Internal Carotid Artery (Type 4): Technical Notes, Indications, and Outcomes</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70008?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70008?af=R</guid>
+<pubDate>Mon, 15 Dec 2025 01:34:20 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70008
+Authors: Francesco Boaria, 
+Alessandro Vinciguerra, 
+Stefano Taboni, 
+Martina Conti, 
+Paola Costantino, 
+Vittorio Rampinelli, 
+Marco Valentini, 
+Francesca Gennarini, 
+Benjamin Verillaud, 
+Elisabetta Zanoletti, 
+Davide Mattavelli, 
+Alberto Schreiber, 
+Mario Turri‐Zanoni, 
+Alberto Daniele Arosio, 
+Piergiorgio Gaudioso, 
+Paolo Battaglia, 
+Maurizio Bignami, 
+Paolo Castelnuovo, 
+Philippe Herman, 
+Piero Nicolai, 
+Marco Ferrari
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, Volume 48, Issue 1, Page 148-159, January 2026.</description>
+</item>
+<item>
+<title>Safety and Efficacy Findings From a Phase Ib/II Study of ASP‐1929 Photoimmunotherapy With Pembrolizumab in Recurrent and/or Metastatic Head and Neck Squamous Cell Carcinoma</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70014?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70014?af=R</guid>
+<pubDate>Mon, 15 Dec 2025 01:34:20 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70014
+Authors: David M. Cognetti, 
+Joseph M. Curry, 
+Jennifer Johnson, 
+Michael Kwon, 
+Shirley Y. Su, 
+Francisco Civantos, 
+Coral Olazagasti, 
+Joseph Valentino, 
+Susanne M. Arnold, 
+R. Bryan Bell, 
+Michael K. Gibson, 
+Kyle Mannion, 
+Kathryn M. Van Abel, 
+Katharine A. Price, 
+Haiying Dong, 
+Amy H. Thorne, 
+Toshiaki Suzuki, 
+Ann M. Gillenwater
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, Volume 48, Issue 1, Page 160-174, January 2026.</description>
+</item>
+<item>
+<title>Postoperative Radiotherapy for Head and Neck Merkel Cell Carcinoma: Sometimes, Less Is More</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70023?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70023?af=R</guid>
+<pubDate>Mon, 15 Dec 2025 01:34:20 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70023
+Authors: Yuan Zheng, 
+Di Zhang, 
+Qihao Sun, 
+Jiaoyang Lu
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, Volume 48, Issue 1, Page 184-194, January 2026.</description>
+</item>
+<item>
+<title>Application of a Saliva‐Based Liquid Biopsy for the Detection of HPV in Patients With Oral Cavity Squamous Cell Carcinoma (OCSCC)</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70003?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70003?af=R</guid>
+<pubDate>Mon, 15 Dec 2025 01:34:20 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70003
+Authors: Michela Bulfoni, 
+Alessandro Tel, 
+Beatrice Krpan, 
+Barbara Marcon, 
+Maria De Martino, 
+Giorgia Vesca, 
+Cinzia Lombardo, 
+Stefania Marzinotto, 
+Emanuele Nencioni, 
+Salvatore Sembronio, 
+Corrado Pipan, 
+Massimo Robiony, 
+Francesco Curcio
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, Volume 48, Issue 1, Page 56-63, January 2026.</description>
+</item>
+<item>
+<title>The Prognostic Value of Worst Pattern of Invasion‐5 on Low‐Risk and Early‐Stage Oral Tongue Cancer</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70135?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70135?af=R</guid>
+<pubDate>Mon, 15 Dec 2025 01:24:54 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70135
+Authors: Ming‐Hsien Tsai, 
+Hui‐Shan Huang, 
+Chih‐Chi Chou, 
+Hui‐Ching Chuang, 
+Yu‐Tsai Lin, 
+Hui Lu, 
+Chih‐Yen Chien, 
+Fu‐Min Fang
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, EarlyView.</description>
+</item>
+<item>
+<title>Nomogram for Predicting Osteoradionecrosis After Fibula Free Flap for Mandibular Reconstruction</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70138?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70138?af=R</guid>
+<pubDate>Mon, 15 Dec 2025 01:21:09 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70138
+Authors: Andrea Costantino, 
+Bianca Festa, 
+Filippo Marchi, 
+Chung‐Kan Tsao, 
+Raul Pellini, 
+Luca Gazzini, 
+Peter T. Dzięgielewski, 
+Mario Ciniglio, 
+Francesco Mazzola, 
+Luca Calabrese, 
+Antonio Sarno, 
+Giampiero Parrinello, 
+Linda Chow, 
+Jyh‐Kwei Chen, 
+Giorgio Peretti, 
+Armando De Virgilio
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, EarlyView.</description>
+</item>
+<item>
+<title>Rates of ICU Delirium After Microvascular Free Tissue Transfer Reconstruction of the Oral Cavity and Oropharynx</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70137?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70137?af=R</guid>
+<pubDate>Fri, 12 Dec 2025 23:37:46 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70137
+Authors: William Nesmith, 
+Shayan Fakurnejad, 
+Danielle Gillard, 
+Katherine Wai, 
+Mary Jue Xu, 
+Ilya Likhterov, 
+Jonathan George, 
+William Ryan, 
+Ivan El‐Sayed, 
+Patrick Ha, 
+Andrea Park, 
+Rahul Seth, 
+P. Daniel Knott, 
+Chase Heaton
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, EarlyView.</description>
+</item>
+<item>
+<title>Application of Acellular Dermal Matrix With or Without Flap Repair in Postoperative Defect Repair of Hypopharyngeal Carcinoma</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70131?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70131?af=R</guid>
+<pubDate>Fri, 12 Dec 2025 17:06:13 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70131
+Authors: Zhiyan Lu, 
+Dan li, 
+Yi Fang, 
+Yimiao Wang, 
+Siyi Chen, 
+Shuaichi Ma, 
+Kexin Pang, 
+Chen Zhao, 
+Harry Hoang, 
+Min Shu, 
+Lei Cheng, 
+Jian Chen, 
+Haitao Wu, 
+Peijie He
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, EarlyView.</description>
+</item>
+<item>
+<title>Intraoperatıve Nerve Monıtorıng Durıng Thyroıdectomy Can Reduce the Injury to the External Branch of the Superıor Laryngeal Nerve Durıng Superıor Thyroıd Pole Dıssectıon: A Prospective Randomized Study</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70128?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70128?af=R</guid>
+<pubDate>Fri, 12 Dec 2025 17:05:21 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70128
+Authors: Nurcihan Aygun, 
+Marika D. Russell, 
+Kinyas Kartal, 
+Adnan Isgor, 
+Gregory W. Randolph, 
+Mehmet Uludag
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, EarlyView.</description>
+</item>
+<item>
+<title>Chloride Intracellular Channel 2 Can Function as a Malignant Factor in Head and Neck Squamous Cell Carcinoma</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70133?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70133?af=R</guid>
+<pubDate>Fri, 12 Dec 2025 00:00:00 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70133
+Authors: Yuki Hosokawa, 
+Shoko Miyoshi, 
+Yuji Hayashi, 
+Yuki Irifune, 
+Eriko Sato, 
+Sohei Mitani, 
+Mohammed Choudhury, 
+Hajime Yano, 
+Junya Tanaka, 
+Naohito Hato
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, EarlyView.</description>
+</item>
+<item>
+<title>Risk of Occult Contralateral Neck Metastasis in Early‐Stage HPV‐Related Lateralized Cancer of the Base of the Tongue</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70117?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70117?af=R</guid>
+<pubDate>Wed, 10 Dec 2025 01:14:46 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70117
+Authors: Tyler R. Halle, 
+Austin C. Cao, 
+Anusha G. Naik, 
+Gregory S. Weinstein, 
+Jake J. Lee, 
+Theodore A. Gobillot, 
+Erin R. Kaye, 
+Robert M. Brody, 
+Devraj Basu, 
+Bert W. O&amp;apos;Malley Jr, 
+D. Gregory Farwell, 
+Steven B. Cannady, 
+Alexander Lin, 
+John Lukens, 
+Michelle Gentile, 
+Jason G. Newman, 
+Ara A. Chalian, 
+Christopher H. Rasskeh, 
+Karthik Rajasekaran
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, EarlyView.</description>
+</item>
+<item>
+<title>Malignant Craniofacial Perivascular Epithelioid Cell Tumor: A Review of Literature With a Rare Presentation</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70126?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70126?af=R</guid>
+<pubDate>Wed, 10 Dec 2025 01:10:57 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70126
+Authors: Jai Paris, 
+Almater Abdullah I, 
+Terence Ang, 
+Sarah Shepard, 
+Dinesh Selva, 
+Alkis J. Psaltis
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, EarlyView.</description>
+</item>
+<item>
+<title>Quantifying Neck Disability After Neck Dissection in HNSCC—A Prospective Study of Patient‐Reported and Objective Functional Outcomes</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70130?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70130?af=R</guid>
+<pubDate>Tue, 09 Dec 2025 07:40:16 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70130
+Authors: Hongli Zhang, 
+Fujiang Wang, 
+Minjie Gu, 
+Quanqing Wan, 
+Rubao Guo, 
+Lingling Duan, 
+Mingbo Tian
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, EarlyView.</description>
+</item>
+<item>
+<title>Appraisal of Radiologic Size Criteria for Malignant Lymph Nodes in Parotid Region in Nasopharyngeal Carcinoma: Implication for Parotid‐Sparing IMRT</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70096?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70096?af=R</guid>
+<pubDate>Mon, 08 Dec 2025 03:57:34 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70096
+Authors: Qiaojuan Guo, 
+Xiaojing Yang, 
+Zhiwei Yan, 
+Xinlan Chen, 
+Lisha Chen, 
+Caizhu Pan, 
+Jingfeng Zong, 
+Hanchuan Xu, 
+Yahan Zheng, 
+Ziyi Wu, 
+Youping Xiao, 
+Jianji Pan, 
+Shao Hui Huang, 
+Shaojun Lin
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, EarlyView.</description>
+</item>
+<item>
+<title>Minimizing Chemoradiation Using a Surgical Algorithm for HPV‐Associated Cancer of Unknown Primary</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70124?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70124?af=R</guid>
+<pubDate>Mon, 08 Dec 2025 01:09:15 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70124
+Authors: Georges E. Daoud, 
+Andre J. Burnham, 
+Nikhil T. Vettikattu, 
+Nicole C. Schmitt, 
+Brian J. Boyce, 
+Jennifer H. Gross, 
+Harry M. Baddour, 
+Mark W. El‐Deiry, 
+Conor E. Steuer, 
+Nabil F. Saba, 
+James E. Bates, 
+William A. Stokes, 
+Kelly R. Magliocca, 
+Mihir R. Patel, 
+Azeem S. Kaka
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, EarlyView.</description>
+</item>
+<item>
+<title>Disparities in Proton Radiation Utilization for HPV‐Associated Oropharyngeal Cancer Following TORS</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70122?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70122?af=R</guid>
+<pubDate>Thu, 04 Dec 2025 22:20:26 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70122
+Authors: Jane Y. Tong, 
+Vera Bzhilyanskaya, 
+Jason K. Molitoris, 
+Matthew J. Ferris, 
+Kyle M. Hatten
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, EarlyView.</description>
+</item>
+<item>
+<title>Obstructive Sleep Apnea in Head and Neck Cancer Patients After Primary Treatment: A Review Focused on Oropharyngeal Cancer</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70098?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70098?af=R</guid>
+<pubDate>Thu, 04 Dec 2025 01:44:37 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70098
+Authors: Nina Patel, 
+Kennedy Johnson, 
+Jolie Chang, 
+Yi Cai, 
+Patrick Ha, 
+Ilya Likhterov
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, EarlyView.</description>
+</item>
+<item>
+<title>Longitudinal Patterns of Radiation‐Associated Dysphagia in Patients With Head and Neck Cancer: A Systematic Review</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70107?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70107?af=R</guid>
+<pubDate>Thu, 04 Dec 2025 01:40:48 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70107
+Authors: Anuja H. Shah, 
+Megan T. Nguyen, 
+Shaun A. Nguyen, 
+Justin C. Pelic, 
+Kate Davidson, 
+Ashli K. O&amp;apos;Rourke
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, EarlyView.</description>
+</item>
+<item>
+<title>Hypofractionated Spot Scanning Proton Therapy for Head and Neck Mucosal Melanoma: A Retrospective Analysis With Quality‐of‐Life Outcome</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70121?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70121?af=R</guid>
+<pubDate>Wed, 03 Dec 2025 03:21:17 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70121
+Authors: Koichiro Nakajima, 
+Hiromitsu Iwata, 
+Gaku Takano, 
+Daiki Kojima, 
+Yukiko Hattori, 
+Yusuke Tsuzuki, 
+Shuou Sudo, 
+Kensuke Hayashi, 
+Toshiyuki Toshito, 
+Hideo Fukano, 
+Hiroyuki Ogino, 
+Akio Hiwatashi
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, EarlyView.</description>
+</item>
+<item>
+<title>Oral Carcinoma Cuniculatum: A Rare, Clinically Challenging Entity—A Case Report and Updated Systematic Review</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70111?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70111?af=R</guid>
+<pubDate>Tue, 02 Dec 2025 01:39:28 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70111
+Authors: Po‐Jung Huang, 
+Ching‐Heng Ting, 
+Yi‐Shing Leu, 
+Nien‐Hsuan Ho, 
+Chien‐Fu Lin
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, EarlyView.</description>
+</item>
+<item>
+<title>Radiotherapy Outcomes and Prognostic Factors in Head and Neck NUT Carcinoma: A Single‐Center Cohort Analysis</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70119?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70119?af=R</guid>
+<pubDate>Tue, 02 Dec 2025 01:36:46 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70119
+Authors: Zhuomiao Ye, 
+Helei Yan, 
+Xin Li, 
+Dan Yang, 
+Fei Xie, 
+Chao Deng, 
+Mingzhu Yin
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, EarlyView.</description>
+</item>
+<item>
+<title>Modified Platysma Myocutaneous Flap Reconstruction for Advanced Laryngeal Carcinoma: A Multicenter Retrospective Cohort Study</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70120?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70120?af=R</guid>
+<pubDate>Sun, 30 Nov 2025 21:10:30 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70120
+Authors: Zhen Jiang, 
+Pengwei Zhao, 
+Zheng Jiang, 
+Jun Liu, 
+Xinliang Pan
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, EarlyView.</description>
+</item>
+<item>
+<title>Postoperative Adjuvant Therapy in Resectable Advanced Oral Squamous Cell Carcinoma With Intermediate Risk Factors</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70106?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70106?af=R</guid>
+<pubDate>Thu, 27 Nov 2025 01:47:20 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70106
+Authors: Koichi Koizumi, 
+Fumitaka Obayashi, 
+Mirai Higaki, 
+Kota Morishita, 
+Atsuko Hamada, 
+Sachiko Yamasaki, 
+Nanako Ito, 
+Souichi Yanamoto
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, EarlyView.</description>
+</item>
+<item>
+<title>Myopericytoma of the Head and Neck: A Case Series and Literature Review</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70113?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70113?af=R</guid>
+<pubDate>Wed, 26 Nov 2025 01:49:45 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70113
+Authors: Peter S. Giannaris, 
+Matthew Mendelsohn, 
+Mostafa Kokabee, 
+Shengjie Cui, 
+Dominick Guerrero, 
+Mark Chaskes, 
+Judd Fastenberg, 
+Charles C. L. Tong
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, EarlyView.</description>
+</item>
+<item>
+<title>Potential Utility of Micronucleus and Binucleus Frequencies in Malignancy Prediction in Thyroid Nodules</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70110?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70110?af=R</guid>
+<pubDate>Wed, 26 Nov 2025 01:32:30 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70110
+Authors: Hilmi Alper, 
+Makbule Nihan Somuncu, 
+Rukiye Erdem Özçelik, 
+Fakih Cihat Eravcı, 
+Ayşe Gül Zamani, 
+Hamdi Arbağ
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, EarlyView.</description>
+</item>
+<item>
+<title>Neck Spasms After Lateral Neck Dissection: A Survey of Head and Neck Cancer Patients</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70108?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70108?af=R</guid>
+<pubDate>Tue, 25 Nov 2025 03:10:23 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70108
+Authors: Kelly Bridgham, 
+Teresa Duong, 
+Praneet Kaki, 
+Tyler Allcroft, 
+Kalena Liu, 
+Eric Mastrolonardo, 
+Hannah Kenny, 
+Emma De Ravin, 
+Arielle Thal, 
+Joseph Curry
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, EarlyView.</description>
+</item>
+<item>
+<title>The Anti‐Thyroglobulin Antibody Trajectory and Risk of Structural Recurrence in Patients With Papillary Thyroid Cancer</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70109?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70109?af=R</guid>
+<pubDate>Tue, 25 Nov 2025 01:44:46 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70109
+Authors: Hongxi Wang, 
+Tian Tian, 
+Qianrui Li, 
+Rong Tian
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, EarlyView.</description>
+</item>
+<item>
+<title>Preoperative Anxiety and Depression Symptoms Stratifying Based on Gender Differences Influence Outcome of Oral Squamous Cell Carcinoma</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70105?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70105?af=R</guid>
+<pubDate>Mon, 24 Nov 2025 23:26:01 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70105
+Authors: Lirui Zhang, 
+Chang Liu, 
+Qiaoshi Xu, 
+Chong Wang, 
+Bo Li, 
+Huan Liu, 
+Hao Wang, 
+Zhien Feng
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, EarlyView.</description>
+</item>
+<item>
+<title>Tracheostomy in Flap‐Based Head and Neck Cancer Surgery: A Meta‐Analysis of Indications and Adverse Outcomes</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70102?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70102?af=R</guid>
+<pubDate>Fri, 21 Nov 2025 23:54:46 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70102
+Authors: Raisa Chowdhury, 
+Khanh Linh Tran, 
+Naser Karimi, 
+Jhorrit Kahlon, 
+Cornelius Kürten, 
+Sena Turkdogan, 
+Eitan Prisman
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, EarlyView.</description>
+</item>
+<item>
+<title>Fully COVID‐19 Vaccinated Status Enhanced the Efficacy of Immune Checkpoint Inhibitors in Patients With Recurrent or Metastatic Head and Neck Squamous Cell Carcinoma</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70104?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70104?af=R</guid>
+<pubDate>Wed, 19 Nov 2025 22:48:59 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70104
+Authors: Chien‐Chung Wang, 
+Chih‐Chun Wang, 
+Chuan‐Chien Yang, 
+Tzer‐Zen Hwang, 
+Ching‐Feng Lien, 
+Yu‐Chen Shih, 
+Shyh‐An Yeh, 
+Meng‐Che Hsieh
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, EarlyView.</description>
+</item>
+<item>
+<title>Transoral Robotic Surgery (TORS) for Head and Neck Cancer in the Elderly Population: Functional Outcomes, Survival, and Complications</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70097?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70097?af=R</guid>
+<pubDate>Wed, 19 Nov 2025 02:58:14 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70097
+Authors: Erim Pamuk, 
+Avinash Beharry, 
+Karma Lambercy, 
+Margaux Dalla‐Vale, 
+Nina Wahler, 
+Şefik Hoşal, 
+Christian Simon
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, EarlyView.</description>
+</item>
+<item>
+<title>Geriatric Nutritional Risk Index Predicts Treatment Intolerance and Survival in Head and Neck Cancer</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70101?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70101?af=R</guid>
+<pubDate>Wed, 19 Nov 2025 02:44:35 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70101
+Authors: Raisa Chowdhury, 
+Alex M. Mlynarek, 
+Keith Richardson, 
+Nader Sadeghi, 
+Michael P. Hier, 
+Sabrina Wurzba, 
+Khashayar Esfahani, 
+Nathaniel Bouganim, 
+Khalil Sultanem, 
+George Shenouda, 
+Christina Tsien, 
+Marco A. Mascarella
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, EarlyView.</description>
+</item>
+<item>
+<title>Sclerotic Head and Neck Paragangliomas: An Unfavorable Indicator Associated With Surgical Outcomes</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70049?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70049?af=R</guid>
+<pubDate>Wed, 19 Nov 2025 02:14:19 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70049
+Authors: Chenliang Yao, 
+Dingfang Cao, 
+Yaru Feng, 
+Yiming Ding, 
+Jing Zhou, 
+Zhigang Huang, 
+Yingshi Piao, 
+Zhengya Yu, 
+Xiaohong Chen
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, EarlyView.</description>
+</item>
+<item>
+<title>Dental Rehabilitation After Bone Mandibular Reconstruction for Head and Neck Cancer: A GETTEC Multicenter Study</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70090?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70090?af=R</guid>
+<pubDate>Wed, 19 Nov 2025 00:00:00 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70090
+Authors: Roussel Lise‐Marie, 
+Elaldi Roxane, 
+Anquetil Marine, 
+Lévêque Emilie, 
+Babin Emmanuel, 
+Bozec Alexandre, 
+Lasne Cardon Audrey, 
+Boulay Alexandre, 
+Le Guyader Maud, 
+Thureau Sébastien, 
+Brenet Esteban, 
+Clatot Florian
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, EarlyView.</description>
+</item>
+<item>
+<title>Computer‐Assisted Versus Freehand Surgery in Oncological Margins Control for Oral Squamous Cell Carcinomas: A Retrospective Case‐Control Clinical Study</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70095?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70095?af=R</guid>
+<pubDate>Mon, 17 Nov 2025 04:29:19 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70095
+Authors: Alice Marzi Manfroni, 
+Otto Pietro Scaccini, 
+Francesco Ceccariglia, 
+Giulia Querzoli, 
+Anna Caterina Leucci, 
+Laura Cercenelli, 
+Emanuela Marcelli, 
+Maria Pia Foschini, 
+Giovanni Badiali, 
+Achille Tarsitano
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, EarlyView.</description>
+</item>
+<item>
+<title>Regional Osteocutaneous Submental Island Flap for Premaxillary Reconstruction: A Clinical Experience</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70099?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70099?af=R</guid>
+<pubDate>Mon, 17 Nov 2025 01:50:31 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70099
+Authors: Ebrahim Karimi, 
+Pooria Mousavi, 
+Ali Yousefzadeh, 
+Niloufar Saeedi, 
+Farbood Farahbakhsh, 
+Mahdieh Mohebbi, 
+Kayvan Aghazadeh, 
+Farrokh Heidari
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, EarlyView.</description>
+</item>
+<item>
+<title>Genomic and Immune Correlates of EZH2 Expression and Activity in Olfactory Neuroblastoma</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70076?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70076?af=R</guid>
+<pubDate>Wed, 12 Nov 2025 00:00:00 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70076
+Authors: Elisabetta Xue, 
+Tolulope Adeyelu, 
+Harris Krause, 
+Andrew Elliott, 
+Ranee Mehra, 
+Heloisa Soares, 
+Emil Lou, 
+Ari Vanderwalde, 
+David Spetzler, 
+Dara Bracken‐Clarke, 
+Nyall R. London Jr., 
+James L. Gulley, 
+Charalampos S. Floudas
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, EarlyView.</description>
+</item>
+<item>
+<title>An Isolated Soft Tissue Ectopic Paraganglioma in the Head and Neck</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70093?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70093?af=R</guid>
+<pubDate>Tue, 11 Nov 2025 02:27:02 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70093
+Authors: Salmaan Sayeed, 
+Luke Stanisce, 
+Ricardo J. Ramirez, 
+Soo Yeon Sohn, 
+Azita Khorsandi, 
+Mark L. Urken
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, EarlyView.</description>
+</item>
+<item>
+<title>Quality of Life After Surgical Treatment of Head and Neck Paragangliomas</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70084?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70084?af=R</guid>
+<pubDate>Thu, 06 Nov 2025 01:56:14 -0800</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70084
+Authors: Christina Sauter, 
+Philipp Erhart, 
+Dittmar Böckler, 
+Patrick Schuler, 
+Peter K. Plinkert, 
+Ralph Hohenberger
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, EarlyView.</description>
+</item>
+<item>
+<title>Study on the Ultrasonic Characteristics of the Paraglottic Space at the Glottic Level in Normal Adults</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70050?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70050?af=R</guid>
+<pubDate>Fri, 31 Oct 2025 23:11:22 -0700</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70050
+Authors: Xiang‐ru Wang, 
+Hua Wang, 
+Yue Gao, 
+Guo Chen, 
+Xiao‐peng Li, 
+Lei Sun
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, EarlyView.</description>
+</item>
+<item>
+<title>Human Papilloma Virus Does Not Fully Inactivate p53 Cellular Activity in HNSCC</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70085?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70085?af=R</guid>
+<pubDate>Thu, 30 Oct 2025 22:05:04 -0700</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70085
+Authors: Jovanka Gencel‐Augusto, 
+Hua Li, 
+Liam C. Woerner, 
+Nuo Tian, 
+Ashir A. Borah, 
+Jeffrey N. Myers, 
+Patrick Ha, 
+Daniel E. Johnson, 
+Jennifer R. Grandis
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, EarlyView.</description>
+</item>
+<item>
+<title>Improvement in Thyroid‐Specific Quality of Life After Radio Frequency Ablation of Symptomatic Benign Solitary Thyroid Nodules: A Prospective Cohort Study</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70086?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70086?af=R</guid>
+<pubDate>Wed, 29 Oct 2025 03:01:39 -0700</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70086
+Authors: Mikkel Kaltoft, 
+Jesper Roed Sorensen, 
+Per Karkov Cramon, 
+Tobias Todsen, 
+Christoffer Holst Hahn
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, EarlyView.</description>
+</item>
+<item>
+<title>Neoadjuvant Immunotherapy for Periauricular Cutaneous Squamous Cell Carcinoma</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70080?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70080?af=R</guid>
+<pubDate>Sat, 25 Oct 2025 05:20:13 -0700</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70080
+Authors: David Z. Allen, 
+Neil Gross, 
+Marc‐Elie Nader, 
+Renata Ferrarotto, 
+Moran Amit, 
+Priyadharsini Nagarajan, 
+Paul Gidley
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, EarlyView.</description>
+</item>
+<item>
+<title>Persistent Opioid Use Following Resection of Oral Cavity Squamous Cell Carcinoma: Incidence and Risk Factors</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70089?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70089?af=R</guid>
+<pubDate>Sat, 25 Oct 2025 05:13:41 -0700</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70089
+Authors: Cameron C. Lee, 
+Sahil Gandotra, 
+Aaron Bliss, 
+Glyndwr W. Jenkins, 
+Donita Dyalram, 
+Kyle Hatten, 
+Kelly Moyer, 
+Ranee Mehra, 
+Jason Molitoris, 
+Matthew Ferris, 
+Rodney Taylor, 
+Jeffrey S. Wolf, 
+Joshua E. Lubek
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, EarlyView.</description>
+</item>
+<item>
+<title>Exploring Transitions in Care Among Patients With Head and Neck Cancer: A Scoping Review</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70061?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70061?af=R</guid>
+<pubDate>Thu, 23 Oct 2025 02:30:48 -0700</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70061
+Authors: L. Fillo, 
+A. Hezam, 
+J. Kersen, 
+S. Kurbatfinski, 
+A. Thomas, 
+S. Ibadin, 
+D. L. Lorenzetti, 
+S. P. Chandarana, 
+J. C. Dort, 
+K. M. Sauro
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, EarlyView.</description>
+</item>
+<item>
+<title>Oncologic Safety of Facial‐Vessel–Based Buccinator Myomucosal Flaps for Tongue and Oral Floor Reconstruction: A Retrospective Multicenter Case–Control Study</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70082?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70082?af=R</guid>
+<pubDate>Thu, 23 Oct 2025 02:09:53 -0700</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70082
+Authors: Luigi Angelo Vaira, 
+Olindo Massarelli, 
+Jerry Polesel, 
+Andrea Ferri, 
+Carlos M. Chiesa‐Estomba, 
+Ignacio Navarro Cuéllar, 
+Giuseppe Consorti, 
+Giulio Cirignaco, 
+Marco Cucurullo, 
+Giovanni Salzano, 
+Sourabh Padmanabhan, 
+Abhijith George, 
+Marzia Petrocelli, 
+Javeria Ali, 
+Jose A. González‐Garcia, 
+Alfonso Manfuso, 
+Tareck Ayad, 
+Carlos Navarro Cuéllar, 
+Fabiola Giudici, 
+Jerome R. Lechien, 
+Shawn T. Joseph, 
+Chiara Copelli, 
+Federico Biglioli, 
+Silvano Ferrari, 
+Giacomo De Riu
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, EarlyView.</description>
+</item>
+<item>
+<title>Vocal Fold Immobility After Radiofrequency Ablation of Thyroid Nodules: A Survey of Laryngologists and an Algorithm for Periprocedural Voice Assessment</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70081?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70081?af=R</guid>
+<pubDate>Thu, 23 Oct 2025 01:17:11 -0700</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70081
+Authors: Vaninder Kaur Dhillon, 
+Catherine Fiona Sinclair
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, EarlyView.</description>
+</item>
+<item>
+<title>Occurrence, Risk Factors, and Early Clinical Outcomes of Dysphagia on Postoperative Day 7 in Patients With Oral Cancer Undergoing Free‐Flap Reconstruction Surgery: A Hospital‐Based Retrospective Study</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70075?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70075?af=R</guid>
+<pubDate>Thu, 23 Oct 2025 00:30:44 -0700</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70075
+Authors: Wen‐Chuan Hsu, 
+Wen‐Pin Yu, 
+Hui‐Mei Han, 
+Huang‐Kai Kao, 
+Hsiao‐Yean Chiu
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, EarlyView.</description>
+</item>
+<item>
+<title>Loss of the Y Chromosome in Oral Potentially Premalignant Disorders Predicts Malignant Progression: An Integrative Cross‐Species Multi‐Cohort Bioinformatic Study</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70070?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70070?af=R</guid>
+<pubDate>Wed, 22 Oct 2025 02:06:20 -0700</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70070
+Authors: Rui Han, 
+Jos B. Poell, 
+Cristina Conde‐Lopez, 
+Tuula Salo, 
+Ina Kurth, 
+Ruud H. Brakenhoff, 
+Jochen Hess
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, EarlyView.</description>
+</item>
+<item>
+<title>Proton Therapy for Paranasal Sinus Cancer: Clinical Outcomes and Patterns of Failure</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70078?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70078?af=R</guid>
+<pubDate>Mon, 20 Oct 2025 21:47:39 -0700</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70078
+Authors: Caineng Cao, 
+Teeradon Treechairusame, 
+Nadeem Riaz, 
+Sean M. McBride, 
+Daphna Y. Gelblum, 
+Achraf Shamseddine, 
+Marc A. Cohen, 
+Richard J. Wong, 
+Jennifer R. Cracchiolo, 
+Ian Ganly, 
+Eric J. Sherman, 
+Alan L. Ho, 
+Winston Wong, 
+Lara A. Dunn, 
+Nancy Y. Lee
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, EarlyView.</description>
+</item>
+<item>
+<title>A Practical Method for Detecting Prognostic CD57+ T Cells in Head and Neck Cancer</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70074?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70074?af=R</guid>
+<pubDate>Fri, 17 Oct 2025 18:24:53 -0700</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70074
+Authors: Brianna Brammer, 
+Brendan L. C. Kinney, 
+Vikash Kansal, 
+Nicole C. Schmitt
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, EarlyView.</description>
+</item>
+<item>
+<title>A Real‐World Phase IV Superiority Trial and Cost‐Effectiveness Analysis of the Addition of Low‐Dose Nivolumab to Triple Metronomic Chemotherapy Compared to the Paclitaxel Carboplatin Regimen in Recurrent or Metastatic Head and Neck Cancer Patients</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70077?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70077?af=R</guid>
+<pubDate>Fri, 17 Oct 2025 02:28:28 -0700</pubDate>
+<description>Journal: Wiley: Head &amp;amp; Neck: Table of Contents
+DOI: 10.1002/hed.70077
+Authors: Avinash Khadela, 
+Rajsi Parikh, 
+Jaydeep Vaghela, 
+Yatra Chauhan, 
+Vraj B. Shah, 
+Rushabh Kothari, 
+Manthan Merja
+
+
+Abstract/summary (from RSS):
+Head &amp;amp;amp;Neck, EarlyView.</description>
 </item>
 </channel>
 </rss>
