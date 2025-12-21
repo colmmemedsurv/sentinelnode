@@ -4,10 +4,9 @@ import re
 import time
 import uuid
 from datetime import datetime, timezone
-from typing import Any, Dict, List, Optional, Tuple
+from typing import Any, Dict, List, Optional
 
 import feedparser
-from dateutil import parser as dateparser
 from openai import OpenAI
 
 # -----------------------------
@@ -19,47 +18,56 @@ OUT_REPORT = "data/run_report.json"
 OUT_RSS = "docs/head-neck-cancer.xml"
 OUT_INDEX = "docs/index.md"
 
-MODEL = "gpt-4.1-mini"  # classifier only (YES/NO/UNCERTAIN)
-RATE_LIMIT_SLEEP = 0.15  # gentle pacing; adjust if needed
+MODEL = "gpt-4.1-mini"
+RATE_LIMIT_SLEEP = 0.15
 
-# Head & neck cancer topic definition (for classification prompt)
 TOPIC_GUIDANCE = """
 Head & neck cancer includes cancers of the oral cavity, oropharynx, hypopharynx, larynx,
 nasopharynx, salivary glands, sinonasal tract, thyroid cancer,
-head & neck squamous cell carcinoma (HNSCC), HPV-associated oropharyngeal cancer, head and neck skin cancers,
-and related treatments/diagnostics (surgery, radiotherapy, chemotherapy, immunotherapy, targeted therapy) specific to these.
-Exclude: non-head/neck sites unless clearly metastatic to head/neck or the study is explicitly about head/neck oncology.
-
-- PRIMARY focus: Head and neck squamous cell carcinoma (HNSCC)
-  (oropharynx, larynx, hypopharynx, nasopharynx, oral cavity)
-- SECONDARY topics: thyroid cancers and salivary gland cancers
-  (ACC, MEC, salivary duct carcinoma), head and neck skin cancer. rare head and neck tumors.
-  
+head & neck squamous cell carcinoma (HNSCC), HPV-associated oropharyngeal cancer,
+and related treatments specific to these.
 """
 
 # -----------------------------
-# Helpers: safe extraction only
+# Helpers
 # -----------------------------
-
-def read_feeds_list(path: str = "feeds.txt") -> List[str]:
-    with open(path, "r", encoding="utf-8") as f:
-        return [line.strip() for line in f if line.strip() and not line.strip().startswith("#")]
 
 def ensure_dirs():
     os.makedirs("data", exist_ok=True)
     os.makedirs("docs", exist_ok=True)
-    os.makedirs("scripts", exist_ok=True)
 
 def norm_text(x: Any) -> str:
     return (x or "").strip()
 
+def read_feeds_list(path: str = "feeds.txt") -> List[Dict[str, Any]]:
+    """
+    Supports per-line annotation:
+    [ALLOW_DOI_LOOKUP] https://example.com/rss
+    """
+    feeds = []
+
+    with open(path, "r", encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if not line or line.startswith("#"):
+                continue
+
+            allow_doi_lookup = False
+            if line.startswith("[ALLOW_DOI_LOOKUP]"):
+                allow_doi_lookup = True
+                line = line.replace("[ALLOW_DOI_LOOKUP]", "", 1).strip()
+
+            feeds.append({
+                "url": line,
+                "allow_doi_lookup": allow_doi_lookup
+            })
+
+    return feeds
+
 def parse_date(entry: Dict[str, Any]) -> Optional[str]:
-    # Only use dates provided by feedparser fields (no guessing)
     for key in ("published", "updated"):
-        val = entry.get(key)
-        if val:
-            return str(val)
-    # sometimes structured time exists
+        if entry.get(key):
+            return str(entry[key])
     for key in ("published_parsed", "updated_parsed"):
         val = entry.get(key)
         if val:
@@ -73,37 +81,26 @@ def parse_date(entry: Dict[str, Any]) -> Optional[str]:
 def extract_authors(entry: Dict[str, Any]) -> List[str]:
     authors = []
     for a in entry.get("authors", []) or []:
-        name = (a.get("name") or "").strip()
-        if name:
-            authors.append(name)
-    # some feeds use "author" as a string
-    if not authors:
-        s = norm_text(entry.get("author"))
-        if s:
-            authors = [s]
+        if a.get("name"):
+            authors.append(a["name"].strip())
+    if not authors and entry.get("author"):
+        authors = [entry["author"].strip()]
     return authors
 
 def extract_doi(entry: Dict[str, Any]) -> Optional[str]:
-    # Strict: DOI only if explicitly present in feed fields.
     candidates = []
-
-    # common fields
     for key in ("dc_identifier", "doi", "prism_doi"):
-        v = entry.get(key)
-        if v:
-            candidates.append(str(v))
+        if entry.get(key):
+            candidates.append(str(entry[key]))
 
-    # links sometimes contain doi.org
     for link in entry.get("links", []) or []:
         href = link.get("href")
         if href and "doi.org/" in href:
             candidates.append(href)
 
-    # sometimes in id/guid
     for key in ("id", "guid"):
-        v = entry.get(key)
-        if v:
-            candidates.append(str(v))
+        if entry.get(key):
+            candidates.append(str(entry[key]))
 
     doi_re = re.compile(r"\b10\.\d{4,9}/[-._;()/:A-Z0-9]+\b", re.IGNORECASE)
     for c in candidates:
@@ -113,80 +110,55 @@ def extract_doi(entry: Dict[str, Any]) -> Optional[str]:
     return None
 
 def extract_abstract(entry: Dict[str, Any]) -> Optional[str]:
-    # RSS often puts abstract in summary/description/content
     if entry.get("summary"):
-        return str(entry.get("summary"))
-    # Atom content blocks
+        return str(entry["summary"])
     content = entry.get("content")
     if isinstance(content, list) and content:
-        v = content[0].get("value")
-        if v:
-            return str(v)
-    # sometimes description
+        return content[0].get("value")
     if entry.get("description"):
-        return str(entry.get("description"))
+        return str(entry["description"])
     return None
 
 def extract_link(entry: Dict[str, Any]) -> Optional[str]:
     if entry.get("link"):
         return str(entry["link"])
-    # fallback: first alternate link
     for link in entry.get("links", []) or []:
         if link.get("rel") == "alternate" and link.get("href"):
-            return str(link["href"])
+            return link["href"]
     return None
 
 def extract_journal_title(feed: feedparser.FeedParserDict) -> Optional[str]:
     return norm_text(feed.feed.get("title"))
 
 # -----------------------------
-# OpenAI classifier (no generation)
+# Classifier
 # -----------------------------
 
 def classify_item(client: OpenAI, title: str, abstract: str) -> str:
-    """
-    Returns one of: YES / NO / UNCERTAIN
-    """
-    text = f"TITLE:\n{title}\n\nABSTRACT_OR_SUMMARY_FROM_RSS:\n{abstract}\n"
+    text = f"TITLE:\n{title}\n\nABSTRACT:\n{abstract}\n"
     resp = client.responses.create(
         model=MODEL,
         input=(
             "You are a medical RSS relevance classifier.\n"
-            "Task: decide if the item is relevant to head & neck cancer.\n"
-            "Rules:\n"
-            "- Answer with ONLY one token: YES, NO, or UNCERTAIN.\n"
-            "- Do not add explanations.\n"
-            "- Use ONLY the provided RSS text.\n\n"
-            f"TOPIC GUIDANCE:\n{TOPIC_GUIDANCE}\n\n"
-            f"ITEM:\n{text}"
+            "Reply ONLY YES, NO, or UNCERTAIN.\n\n"
+            f"{TOPIC_GUIDANCE}\n\n{text}"
         ),
     )
     out = (resp.output_text or "").strip().upper()
-    if out not in {"YES", "NO", "UNCERTAIN"}:
-        return "UNCERTAIN"
-    return out
+    return out if out in {"YES", "NO", "UNCERTAIN"} else "UNCERTAIN"
+
 # -----------------------------
-# Deduplication (no hallucination)
+# Deduplication
 # -----------------------------
 
 def deduplicate_items(items):
-    """
-    Deduplicate by priority:
-    1) DOI (if present)
-    2) Link URL
-    3) Normalized title
-    Keeps the first occurrence.
-    """
-    seen_doi = set()
-    seen_link = set()
-    seen_title = set()
-
+    seen_doi, seen_link, seen_title = set(), set(), set()
     unique = []
 
     for it in items:
-        doi = (it.get("doi") or "").lower().strip()
-        link = (it.get("link") or "").lower().strip()
-        title = (it.get("title") or "").lower().strip()
+        doi = (it.get("doi") or "").lower()
+        link = (it.get("link") or "").lower()
+        title = (it.get("title") or "").lower()
 
         if doi and doi in seen_doi:
             continue
@@ -205,72 +177,6 @@ def deduplicate_items(items):
         unique.append(it)
 
     return unique
-  
-# -----------------------------
-# RSS XML generator (simple RSS2)
-# -----------------------------
-
-def xml_escape(s: str) -> str:
-    return (
-        s.replace("&", "&amp;")
-         .replace("<", "&lt;")
-         .replace(">", "&gt;")
-         .replace('"', "&quot;")
-         .replace("'", "&apos;")
-    )
-
-def build_rss(items: List[Dict[str, Any]]) -> str:
-    # minimal RSS 2.0
-    now = datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S %z")
-    parts = []
-    parts.append('<?xml version="1.0" encoding="UTF-8"?>')
-    parts.append('<rss version="2.0">')
-    parts.append("<channel>")
-    parts.append("<title>Head &amp; Neck Cancer – Curated Journal Feed</title>")
-    parts.append("<link>https://colmmemedsurv.github.io/sentinelnode/</link>")
-    parts.append("<description>Automatically curated from selected journal RSS feeds. Metadata is copied only when present in the source feed.</description>")
-    parts.append(f"<lastBuildDate>{xml_escape(now)}</lastBuildDate>")
-
-    for it in items:
-        title = xml_escape(norm_text(it.get("title")))
-        link = xml_escape(norm_text(it.get("link")))
-        pub = xml_escape(norm_text(it.get("published") or ""))
-        journal = xml_escape(norm_text(it.get("journal") or ""))
-        doi = xml_escape(norm_text(it.get("doi") or ""))
-        authors = it.get("authors") or []
-        authors_str = xml_escape(", ".join([a for a in authors if a]))
-
-        abstract = it.get("abstract")
-        abstract_str = xml_escape(abstract) if abstract else ""
-
-        parts.append("<item>")
-        parts.append(f"<title>{title}</title>")
-        if link:
-            parts.append(f"<link>{link}</link>")
-            parts.append(f"<guid isPermaLink='true'>{link}</guid>")
-        else:
-            # if no link, use deterministic guid
-            parts.append(f"<guid isPermaLink='false'>{xml_escape(it.get('id',''))}</guid>")
-        if pub:
-            parts.append(f"<pubDate>{pub}</pubDate>")
-
-        # Put everything that exists into description (still only copied)
-        desc_bits = []
-        if journal:
-            desc_bits.append(f"Journal: {journal}")
-        if doi:
-            desc_bits.append(f"DOI: {doi}")
-        if authors_str:
-            desc_bits.append(f"Authors: {authors_str}")
-        if abstract_str:
-            desc_bits.append(f"\n\nAbstract/summary (from RSS):\n{abstract_str}")
-        description = xml_escape("\n".join(desc_bits)) if desc_bits else ""
-        parts.append(f"<description>{description}</description>")
-        parts.append("</item>")
-
-    parts.append("</channel>")
-    parts.append("</rss>")
-    return "\n".join(parts)
 
 # -----------------------------
 # Main
@@ -281,50 +187,50 @@ def main():
 
     feeds = read_feeds_list()
     if not feeds:
-        raise RuntimeError("feeds.txt is empty. Add RSS URLs, one per line.")
+        raise RuntimeError("feeds.txt is empty")
 
-    # Fetch all feeds
-    raw_items: List[Dict[str, Any]] = []
-    feed_counts: Dict[str, int] = {}
-    feed_titles: Dict[str, str] = {}
+    raw_items = []
+    feed_counts = {}
+    feed_titles = {}
 
-    for url in feeds:
+    for feed in feeds:
+        url = feed["url"]
         parsed = feedparser.parse(url)
+
         feed_counts[url] = len(parsed.entries or [])
         feed_titles[url] = extract_journal_title(parsed) or ""
-        for entry in (parsed.entries or []):
-            item = {
+
+        for entry in parsed.entries or []:
+            raw_items.append({
                 "id": str(uuid.uuid4()),
                 "source_feed": url,
                 "journal": extract_journal_title(parsed),
                 "title": norm_text(entry.get("title")),
-                "abstract": extract_abstract(entry),  # only copied if present
-                "published": parse_date(entry),       # only if present
-                "authors": extract_authors(entry),    # only if present
-                "doi": extract_doi(entry),            # only if present
-                "link": extract_link(entry),          # only if present
-                "raw_entry_keys": sorted(list(entry.keys())),
-            }
-            raw_items.append(item)
+                "abstract": extract_abstract(entry),
+                "published": parse_date(entry),
+                "authors": extract_authors(entry),
+                "doi": extract_doi(entry),
+                "link": extract_link(entry),
+                "allow_doi_lookup": feed["allow_doi_lookup"],
+                "raw_entry_keys": sorted(entry.keys()),
+            })
 
     with open(OUT_RAW, "w", encoding="utf-8") as f:
         json.dump(raw_items, f, indent=2, ensure_ascii=False)
 
-    # Classify
     api_key = os.getenv("OPENAI_API_KEY")
     if not api_key:
-        raise RuntimeError("OPENAI_API_KEY is not set in GitHub Secrets.")
+        raise RuntimeError("OPENAI_API_KEY not set")
 
     client = OpenAI(api_key=api_key)
 
-    relevant: List[Dict[str, Any]] = []
+    relevant = []
     decisions = {"YES": 0, "NO": 0, "UNCERTAIN": 0}
 
     for it in raw_items:
         title = it.get("title") or ""
         abstract = it.get("abstract") or ""
-        # If there is basically no text, mark UNCERTAIN (don’t guess)
-        if len((title + " " + abstract).strip()) < 20:
+        if len((title + abstract).strip()) < 20:
             decision = "UNCERTAIN"
         else:
             decision = classify_item(client, title, abstract)
@@ -339,43 +245,30 @@ def main():
     with open(OUT_RELEVANT, "w", encoding="utf-8") as f:
         json.dump(relevant, f, indent=2, ensure_ascii=False)
 
-    # Report
-    per_feed_relevant: Dict[str, int] = {u: 0 for u in feeds}
-    for it in relevant:
-        per_feed_relevant[it["source_feed"]] = per_feed_relevant.get(it["source_feed"], 0) + 1
+    relevant = deduplicate_items(relevant)
 
     report = {
         "timestamp_utc": datetime.now(timezone.utc).isoformat(),
         "feeds": [
             {
-                "url": u,
-                "feed_title": feed_titles.get(u, ""),
-                "items_in_feed": feed_counts.get(u, 0),
-                "relevant_yes": per_feed_relevant.get(u, 0),
+                "url": f["url"],
+                "feed_title": feed_titles.get(f["url"], ""),
+                "items_in_feed": feed_counts.get(f["url"], 0),
+                "relevant_yes": sum(
+                    1 for it in relevant if it["source_feed"] == f["url"]
+                ),
             }
-            for u in feeds
+            for f in feeds
         ],
         "decisions_total": decisions,
-        "notes": [
-            "No hallucination: metadata is copied only when present in the RSS feed.",
-            "If abstract/authors/doi are missing in RSS, they remain empty.",
-            "Classifier outputs only YES/NO/UNCERTAIN."
-        ],
     }
+
     with open(OUT_REPORT, "w", encoding="utf-8") as f:
         json.dump(report, f, indent=2, ensure_ascii=False)
 
-    # Write RSS + docs index
-    relevant = deduplicate_items(relevant)
-    rss_xml = build_rss(relevant)
-    with open(OUT_RSS, "w", encoding="utf-8") as f:
-        f.write(rss_xml)
-
     with open(OUT_INDEX, "w", encoding="utf-8") as f:
         f.write("# SentinelNode\n\n")
-        f.write("Curated RSS feed (head & neck cancer): **head-neck-cancer.xml**\n\n")
-        f.write("- Feed: `head-neck-cancer.xml`\n")
-        f.write("- This site updates daily via GitHub Actions.\n")
+        f.write("Curated RSS feed: **head-neck-cancer.xml**\n")
 
 if __name__ == "__main__":
     main()
