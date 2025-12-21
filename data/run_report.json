@@ -1,5 +1,5 @@
 {
-  "timestamp_utc": "2025-12-21T20:58:35.858740+00:00",
+  "timestamp_utc": "2025-12-21T21:19:41.131058+00:00",
   "feeds": [
     {
       "url": "https://onesearch-rss.nejm.org/api/specialty/rss?context=nejm&specialty=hematology-oncology",
@@ -16,8 +16,8 @@
   ],
   "decisions_total": {
     "YES": 3,
-    "NO": 57,
-    "UNCERTAIN": 5
+    "NO": 58,
+    "UNCERTAIN": 4
   },
   "notes": [
     "No hallucination: metadata is copied only when present in the RSS feed.",

@@ -1,16 +1,16 @@
 [
   {
-    "id": "86f7d211-1291-4d35-8490-30176e79e710",
+    "id": "8a01b56a-f380-44e6-b7c5-928146ec42b4",
     "source_feed": "https://onesearch-rss.nejm.org/api/specialty/rss?context=nejm&specialty=hematology-oncology",
     "journal": "The New England Journal of Medicine: Search Results in Hematology/Oncology",
-    "title": "Noninferiority of One HPV Vaccine Dose to Two Doses",
-    "abstract": "In this trial, one dose of an HPV vaccine was noninferior to two doses in preventing HPV type 16 or 18 infection.",
+    "title": "Merkel-Cell Carcinoma",
+    "abstract": "A 72-year-old woman presented with a 3.5-month history of an enlarging, painless lump on her cheek. Examination showed a dome-shaped, reddish nodule on the left cheek, with a shiny surface and central hemorrhagic crust.",
     "published": "2025-12-18",
     "authors": [
-      "Aimée R. Kreimer, Carolina Porras, Danping Liu, Allan Hildesheim, Loretto J. Carvajal, Rebeca Ocampo, Byron Romero, Mitchell H. Gail, Bernal Cortes, Monica S. Sierra, Karla Coronado, Joshua Sampson, Carolina Coto, Casey L. Dagnall, Daniela Mora, Troy J. Kemp, Michael Zuniga, Ligia A. Pinto, Gloriana Barrientos, John Schussler, Yenory Estrada, Cristian Montero, Carlos Avila, Dave Ruggieri, Jean T. Cyr, Stephen Chanock, Douglas R. Lowy, John T. Schiller, Rolando Herrero"
+      "Zunaid Ahmed, Willem Visser"
     ],
-    "doi": "10.1056/NEJMoa2506765",
-    "link": "https://www.nejm.org/doi/full/10.1056/NEJMoa2506765?rss=searchAndBrowse",
+    "doi": "10.1056/NEJMicm2513302",
+    "link": "https://www.nejm.org/doi/full/10.1056/NEJMicm2513302?rss=searchAndBrowse",
     "raw_entry_keys": [
       "author",
       "author_detail",
@@ -29,7 +29,7 @@
     "relevance": "YES"
   },
   {
-    "id": "4c299fc7-0f95-4276-906d-de5e7d7e94de",
+    "id": "e2243e88-7158-42b9-8c9f-455fcc5758ef",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[Correspondence] Misclassification of p16-positive, HPV-negative patients biases de-escalation trials",
@@ -66,7 +66,7 @@
     "relevance": "YES"
   },
   {
-    "id": "61bfab0e-703c-41c9-949b-b192d3259219",
+    "id": "ececc177-5922-438b-90a2-3eaceb3e280c",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[Correspondence] Misclassification of p16-positive, HPV-negative patients biases de-escalation trials – Authors' reply",
