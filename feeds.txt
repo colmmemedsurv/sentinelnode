@@ -1,0 +1,2 @@
+https://onesearch-rss.nejm.org/api/specialty/rss?context=nejm&specialty=hematology-oncology
+https://www.thelancet.com/rssfeed/lanonc_current.xml
