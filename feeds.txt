@@ -1,19 +1,23 @@
-#NEJM MAIN
+# NEJM MAIN
 https://onesearch-rss.nejm.org/api/specialty/rss?context=nejm&specialty=hematology-oncology
-#Lancet Oncology
+# Lancet Oncology
 https://www.thelancet.com/rssfeed/lanonc_current.xml
-#Lancet Main
+# Lancet Main
 http://www.thelancet.com/rssfeed/lancet_current.xml
-#Lancet EclinMed
+# Lancet EclinMed
 http://www.thelancet.com/rssfeed/eclinm_current.xml
-#Lancet Healthy Longevity
+# Lancet Healthy Longevity
 http://www.thelancet.com/rssfeed/lanhl_current.xml
-#JAMA Main
+# JAMA Main
 https://jamanetwork.com/rss/site_3/67.xml
 https://jamanetwork.com/rss/site_3/onlineFirst_67.xml
-#JAMA Oncology
+# JAMA Oncology
 https://jamanetwork.com/rss/site_159/174.xml
 https://jamanetwork.com/rss/site_159/onlineFirst_174.xml
-#JAMA Otolaryngology
+# JAMA Otolaryngology
 https://jamanetwork.com/rss/site_18/74.xml
 https://jamanetwork.com/rss/site_18/onlineFirst_74.xml
+# Oral Oncology
+https://rss.sciencedirect.com/publication/science/13688375
+# Head & Neck Journal
+https://onlinelibrary.wiley.com/feed/10970347/most-recent
