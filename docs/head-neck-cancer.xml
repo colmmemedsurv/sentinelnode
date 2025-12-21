@@ -4,7 +4,7 @@
 <title>Head &amp; Neck Cancer – Curated Journal Feed</title>
 <link>https://colmmemedsurv.github.io/sentinelnode/</link>
 <description>Automatically curated from selected journal RSS feeds. Metadata is copied only when present in the source feed.</description>
-<lastBuildDate>Sun, 21 Dec 2025 21:32:03 +0000</lastBuildDate>
+<lastBuildDate>Sun, 21 Dec 2025 21:49:54 +0000</lastBuildDate>
 <item>
 <title>Noninferiority of One HPV Vaccine Dose to Two Doses</title>
 <link>https://www.nejm.org/doi/full/10.1056/NEJMoa2506765?rss=searchAndBrowse</link>
@@ -68,18 +68,6 @@ DOI: 10.1001/jamaoncol.2025.4092
 
 Abstract/summary (from RSS):
 To the Editor We read with interest the results of the phase 3 randomized clinical trial by Guo et al that investigated the important question if induction chemotherapy (IC) was superior to adjuvant chemotherapy (AC) when added to a backbone of concurrent chemoradiotherapy (CCRT) in patients with N2-3 nasopharyngeal carcinoma (NPC). For IC, the investigators used the triplet combination of paclitaxel-cisplatin-fluorouracil (TPF), whereas doublet cisplatin-fluorouracil (PF) was used for AC. The trial was powered to detect a 12% difference in progression-free survival (PFS) in favor of IC, and enrolled 324 patients, with 162 patients in each group. However, this was a negative trial with comparable 3-year PFS between IC plus CCRT and CCRT plus AC, contrasting the results of the NPC-0501 trial by the Hong Kong NPC study group, which showed an improvement for PFS in favor of IC, albeit subtle differences exist between both trials. Intriguingly, in the present study, IC was associated with poorer local control compared with AC.</description>
-</item>
-<item>
-<title>Definitive Radiotherapy for Organ Preservation in Nasal Cavity Cancers</title>
-<link>https://jamanetwork.com/journals/jamaoncology/fullarticle/2842809</link>
-<guid isPermaLink='true'>https://jamanetwork.com/journals/jamaoncology/fullarticle/2842809</guid>
-<pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
-<description>Journal: JAMA Oncology Online First
-DOI: 10.1001/jamaoncol.2025.5241
-
-
-Abstract/summary (from RSS):
-This cohort study evaluates the use of definitive rhinectomy and adjuvant radiotherapy with or without chemotherapy for patients who declined rhinectomy or had unresectable disease.</description>
 </item>
 <item>
 <title>Mind, Machine, and Medicine</title>

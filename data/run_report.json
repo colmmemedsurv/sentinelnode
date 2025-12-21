@@ -1,5 +1,5 @@
 {
-  "timestamp_utc": "2025-12-21T21:32:03.359693+00:00",
+  "timestamp_utc": "2025-12-21T21:49:54.716081+00:00",
   "feeds": [
     {
       "url": "https://onesearch-rss.nejm.org/api/specialty/rss?context=nejm&specialty=hematology-oncology",
@@ -53,7 +53,7 @@
       "url": "https://jamanetwork.com/rss/site_159/onlineFirst_174.xml",
       "feed_title": "JAMA Oncology Online First",
       "items_in_feed": 11,
-      "relevant_yes": 1
+      "relevant_yes": 0
     },
     {
       "url": "https://jamanetwork.com/rss/site_18/74.xml",
@@ -69,9 +69,9 @@
     }
   ],
   "decisions_total": {
-    "YES": 27,
-    "NO": 196,
-    "UNCERTAIN": 16
+    "YES": 26,
+    "NO": 199,
+    "UNCERTAIN": 14
   },
   "notes": [
     "No hallucination: metadata is copied only when present in the RSS feed.",
