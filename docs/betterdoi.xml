@@ -1,1 +1,362 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">
+<channel>
+<title>Head &amp; Neck Cancer – DOI-Enriched Feed</title>
+<link>https://colmmemedsurv.github.io/sentinelnode/</link>
+<description>Curated head &amp; neck cancer literature with DOI-based enrichment.</description>
+<lastBuildDate>Sun, 21 Dec 2025 23:45:34 +0000</lastBuildDate>
+<item>
+<title>Noninferiority of One HPV Vaccine Dose to Two Doses</title>
+<link>https://doi.org/10.1056/nejmoa2506765</link>
+<guid isPermaLink='true'>https://doi.org/10.1056/nejmoa2506765</guid>
+<pubDate>2025-12-18</pubDate>
+<dc:creator>Aimée R. Kreimer; Carolina Porras; Danping Liu; Allan Hildesheim; Loretto J. Carvajal; Rebeca Ocampo; Byron Romero; Mitchell H. Gail; Bernal Cortes; Monica S. Sierra; Karla Coronado; Joshua Sampson; Carolina Coto; Casey L. Dagnall; Daniela Mora; Troy J. Kemp; Michael Zuniga; Ligia A. Pinto; Gloriana Barrientos; John Schussler; Yenory Estrada; Cristian Montero; Carlos Avila; Dave Ruggieri; Jean T. Cyr; Stephen Chanock; Douglas R. Lowy; John T. Schiller; Rolando Herrero</dc:creator>
+<prism:publicationName>New England Journal of Medicine</prism:publicationName>
+<prism:doi>10.1056/NEJMoa2506765</prism:doi>
+<description>Journal: New England Journal of Medicine | DOI: 10.1056/NEJMoa2506765</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: New England Journal of Medicine</p>
+<p><strong>Authors</strong>: Aimée R. Kreimer; Carolina Porras; Danping Liu; Allan Hildesheim; Loretto J. Carvajal; Rebeca Ocampo; Byron Romero; Mitchell H. Gail; Bernal Cortes; Monica S. Sierra; Karla Coronado; Joshua Sampson; Carolina Coto; Casey L. Dagnall; Daniela Mora; Troy J. Kemp; Michael Zuniga; Ligia A. Pinto; Gloriana Barrientos; John Schussler; Yenory Estrada; Cristian Montero; Carlos Avila; Dave Ruggieri; Jean T. Cyr; Stephen Chanock; Douglas R. Lowy; John T. Schiller; Rolando Herrero</p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1056/NEJMoa2506765'>10.1056/NEJMoa2506765</a></p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>In this trial, one dose of an HPV vaccine was noninferior to two doses in preventing HPV type 16 or 18 infection.</p>
+]]></content:encoded>
+</item>
+<item>
+<title>[Correspondence] Misclassification of p16-positive, HPV-negative patients biases de-escalation trials</title>
+<link>https://doi.org/10.1016/s1470-2045(25)00616-3</link>
+<guid isPermaLink='true'>https://doi.org/10.1016/s1470-2045(25)00616-3</guid>
+<pubDate>2025-12</pubDate>
+<dc:creator>Jessica T Lovett; Michael T Wotman; Marshall Posner</dc:creator>
+<prism:publicationName>The Lancet Oncology</prism:publicationName>
+<prism:doi>10.1016/S1470-2045(25)00616-3</prism:doi>
+<description>Journal: The Lancet Oncology | DOI: 10.1016/S1470-2045(25)00616-3</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: The Lancet Oncology</p>
+<p><strong>Authors</strong>: Jessica T Lovett; Michael T Wotman; Marshall Posner</p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1016/S1470-2045(25)00616-3'>10.1016/S1470-2045(25)00616-3</a></p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>We read with interest the Article by Daniel Ma and colleagues in The Lancet Oncology.1 Ma and colleagues should be congratulated on completing a randomised trial of de-escalated radiotherapy in patients with p16-positive oropharyngeal squamous cell carcinoma. The authors report progression-free survival, local regional control, freedom from distant metastases, and overall survival as secondary endpoints. The de-escalation protocol resulted in a reduction in progression-free survival, local regional control, and systemic control in patients who received de-escalated treatment with extracapsular extension compared with patients who received standard of care.</p>
+]]></content:encoded>
+</item>
+<item>
+<title>[Correspondence] Misclassification of p16-positive, HPV-negative patients biases de-escalation trials – Authors&apos; reply</title>
+<link>https://doi.org/10.1016/s1470-2045(25)00655-2</link>
+<guid isPermaLink='true'>https://doi.org/10.1016/s1470-2045(25)00655-2</guid>
+<pubDate>2025-12</pubDate>
+<dc:creator>David M Routman; James S Lewis; Daniel J Ma</dc:creator>
+<prism:publicationName>The Lancet Oncology</prism:publicationName>
+<prism:doi>10.1016/S1470-2045(25)00655-2</prism:doi>
+<description>Journal: The Lancet Oncology | DOI: 10.1016/S1470-2045(25)00655-2</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: The Lancet Oncology</p>
+<p><strong>Authors</strong>: David M Routman; James S Lewis; Daniel J Ma</p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1016/S1470-2045(25)00655-2'>10.1016/S1470-2045(25)00655-2</a></p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>We appreciate the important points raised by Jessica T Lovett and colleagues regarding p16 immunohistochemistry as a surrogate for HPV status in oropharyngeal squamous cell carcinoma in de-escalation studies such as MC1675.1 As they noted, the prognostic implications of p16 and HPV discordance have been previously analysed, such as in a multinational study by Mehanna and colleagues.2 Patients who were p16-positive and HPV-negative had an increased rate of cancer recurrence (hazard ratio 1·92, 95% CI 1·42–2·60).</p>
+]]></content:encoded>
+</item>
+<item>
+<title>Development of a simplified scoring system for MRI-detected retropharyngeal lymph node features to optimize AJCC 9th edition N classification in nasopharyngeal carcinoma</title>
+<link>https://www.sciencedirect.com/science/article/pii/S1368837525006542?dgcid=rss_sd_all</link>
+<guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006542?dgcid=rss_sd_all</guid>
+<prism:publicationName>ScienceDirect Publication: Oral Oncology</prism:publicationName>
+<description>Journal: ScienceDirect Publication: Oral Oncology | DOI: DOI not found</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: ScienceDirect Publication: Oral Oncology</p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>Publication date: February 2026 Source: Oral Oncology, Volume 173 Author(s): Qin Liu, Jing-Ni Wei, Jia-Yu Zhou, Chuan-Run Zhang, Liang-Ru Ke, Nian Lu, Ying Deng, Yu-Wen Kuang, Yu-Chen Hua, Meng-Wen Wang, Jie Gong, Shu-Hui Dong, Longjunyu Wu, Xing Lv, Yan-Qun Xiang, Xiang Guo, Wei-Xiong Xia</p>
+]]></content:encoded>
+</item>
+<item>
+<title>Jaw-in-a-day (JIAD) for malignant indications: A systematic review</title>
+<link>https://www.sciencedirect.com/science/article/pii/S1368837525006529?dgcid=rss_sd_all</link>
+<guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006529?dgcid=rss_sd_all</guid>
+<prism:publicationName>ScienceDirect Publication: Oral Oncology</prism:publicationName>
+<description>Journal: ScienceDirect Publication: Oral Oncology | DOI: DOI not found</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: ScienceDirect Publication: Oral Oncology</p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>Publication date: February 2026 Source: Oral Oncology, Volume 173 Author(s): Jessica Trac, Rashi Ramchandani, Pallavi Dutta, Leba Sarkis, Robert Calvisi, Noémie Villemure-Poliquin, Joel Davies, Eszter Somogyi-Ganss, Nick Blanas, Karl Cuddy, Danny Enepekides, Kevin Higgins, Justine Philteos, Antoine Eskander</p>
+]]></content:encoded>
+</item>
+<item>
+<title>Trans-hairline robotic neck dissection and robotic microvascular free flap reconstruction in oral cavity cancer</title>
+<link>https://www.sciencedirect.com/science/article/pii/S1368837525006487?dgcid=rss_sd_all</link>
+<guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006487?dgcid=rss_sd_all</guid>
+<prism:publicationName>ScienceDirect Publication: Oral Oncology</prism:publicationName>
+<description>Journal: ScienceDirect Publication: Oral Oncology | DOI: DOI not found</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: ScienceDirect Publication: Oral Oncology</p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>Publication date: January 2026 Source: Oral Oncology, Volume 172 Author(s): Velda Ling-Yu CHOW, Valerie Wai-Yee HO, Arthur Shing-Ho LO</p>
+]]></content:encoded>
+</item>
+<item>
+<title>Letter to the editor: Stroke risk after head and neck cancer diagnosis and treatment in a Real-World clinical cohort</title>
+<link>https://www.sciencedirect.com/science/article/pii/S1368837525005342?dgcid=rss_sd_all</link>
+<guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525005342?dgcid=rss_sd_all</guid>
+<prism:publicationName>ScienceDirect Publication: Oral Oncology</prism:publicationName>
+<description>Journal: ScienceDirect Publication: Oral Oncology | DOI: DOI not found</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: ScienceDirect Publication: Oral Oncology</p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>Publication date: January 2026 Source: Oral Oncology, Volume 172 Author(s): Cunxi Zou</p>
+]]></content:encoded>
+</item>
+<item>
+<title>Methodological considerations in profiling the immune microenvironment and HPV status of oral multiple primary cancers</title>
+<link>https://www.sciencedirect.com/science/article/pii/S1368837525006517?dgcid=rss_sd_all</link>
+<guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006517?dgcid=rss_sd_all</guid>
+<prism:publicationName>ScienceDirect Publication: Oral Oncology</prism:publicationName>
+<description>Journal: ScienceDirect Publication: Oral Oncology | DOI: DOI not found</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: ScienceDirect Publication: Oral Oncology</p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>Publication date: January 2026 Source: Oral Oncology, Volume 172 Author(s): Shanshan Yuan, Jingjing Gao</p>
+]]></content:encoded>
+</item>
+<item>
+<title>Refining surveillance in surgically treated HPV(+)OPSCC: The path to Risk-Adapted strategies</title>
+<link>https://www.sciencedirect.com/science/article/pii/S1368837525006414?dgcid=rss_sd_all</link>
+<guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006414?dgcid=rss_sd_all</guid>
+<prism:publicationName>ScienceDirect Publication: Oral Oncology</prism:publicationName>
+<description>Journal: ScienceDirect Publication: Oral Oncology | DOI: DOI not found</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: ScienceDirect Publication: Oral Oncology</p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>Publication date: January 2026 Source: Oral Oncology, Volume 172 Author(s): Jiaqian Wu, Jianning Zhang, Jiachuan Lin, Yan Huo</p>
+]]></content:encoded>
+</item>
+<item>
+<title>The diagnostic trade-off in post-treatment surveillance for HPV-positive oropharyngeal carcinoma</title>
+<link>https://www.sciencedirect.com/science/article/pii/S136883752500627X?dgcid=rss_sd_all</link>
+<guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S136883752500627X?dgcid=rss_sd_all</guid>
+<prism:publicationName>ScienceDirect Publication: Oral Oncology</prism:publicationName>
+<description>Journal: ScienceDirect Publication: Oral Oncology | DOI: DOI not found</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: ScienceDirect Publication: Oral Oncology</p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>Publication date: January 2026 Source: Oral Oncology, Volume 172 Author(s): Yaling Tang, Heng Gan, Xin Gan</p>
+]]></content:encoded>
+</item>
+<item>
+<title>Intrathyroid thymic carcinoma diagnosed following an odontogenic infection: Insights from a rare clinical presentation</title>
+<link>https://www.sciencedirect.com/science/article/pii/S1368837525006268?dgcid=rss_sd_all</link>
+<guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006268?dgcid=rss_sd_all</guid>
+<prism:publicationName>ScienceDirect Publication: Oral Oncology</prism:publicationName>
+<description>Journal: ScienceDirect Publication: Oral Oncology | DOI: DOI not found</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: ScienceDirect Publication: Oral Oncology</p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>Publication date: January 2026 Source: Oral Oncology, Volume 172 Author(s): Hitoshi Miyashita, Haruka Saito, Masashi Katoh, Fumiyoshi Fujishima, Nobuo Ohta</p>
+]]></content:encoded>
+</item>
+<item>
+<title>Influencing factors on occurrence and prognosis of oral squamous cell carcinoma after organ transplantation</title>
+<link>https://www.sciencedirect.com/science/article/pii/S1368837525006530?dgcid=rss_sd_all</link>
+<guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006530?dgcid=rss_sd_all</guid>
+<prism:publicationName>ScienceDirect Publication: Oral Oncology</prism:publicationName>
+<description>Journal: ScienceDirect Publication: Oral Oncology | DOI: DOI not found</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: ScienceDirect Publication: Oral Oncology</p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>Publication date: January 2026 Source: Oral Oncology, Volume 172 Author(s): Yiheng Feng, Maged Ali Al-Aroomi, Jie Chen, Saiwen Song, Canhua Jiang, Jie Wang</p>
+]]></content:encoded>
+</item>
+<item>
+<title>Treatment and outcome for 2,111 patients with vermilion lip squamous cell carcinoma: A nationwide, population-based study from the SweHNCR</title>
+<link>https://www.sciencedirect.com/science/article/pii/S1368837525006475?dgcid=rss_sd_all</link>
+<guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006475?dgcid=rss_sd_all</guid>
+<prism:publicationName>ScienceDirect Publication: Oral Oncology</prism:publicationName>
+<description>Journal: ScienceDirect Publication: Oral Oncology | DOI: DOI not found</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: ScienceDirect Publication: Oral Oncology</p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>Publication date: January 2026 Source: Oral Oncology, Volume 172 Author(s): A. Hafström, E. Hammerlid, M. Beran, M. Olin, A. Högmo, L. Farnebo</p>
+]]></content:encoded>
+</item>
+<item>
+<title>Is 55 years an optimal age cutoff point for clinical staging in T1 papillary thyroid cancer?</title>
+<link>https://www.sciencedirect.com/science/article/pii/S1368837525006463?dgcid=rss_sd_all</link>
+<guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006463?dgcid=rss_sd_all</guid>
+<prism:publicationName>ScienceDirect Publication: Oral Oncology</prism:publicationName>
+<description>Journal: ScienceDirect Publication: Oral Oncology | DOI: DOI not found</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: ScienceDirect Publication: Oral Oncology</p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>Publication date: January 2026 Source: Oral Oncology, Volume 172 Author(s): Daixing Hu, Zhuolin Dai, Yang Feng, Xinliang Su, Chun Huang</p>
+]]></content:encoded>
+</item>
+<item>
+<title>A pilot study of a digital workflow for navigated tumor bed marking to reduce clinical target volume during adjuvant radiotherapy for oral squamous cell carcinoma</title>
+<link>https://www.sciencedirect.com/science/article/pii/S1368837525006499?dgcid=rss_sd_all</link>
+<guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006499?dgcid=rss_sd_all</guid>
+<prism:publicationName>ScienceDirect Publication: Oral Oncology</prism:publicationName>
+<description>Journal: ScienceDirect Publication: Oral Oncology | DOI: DOI not found</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: ScienceDirect Publication: Oral Oncology</p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>Publication date: January 2026 Source: Oral Oncology, Volume 172 Author(s): Frederik Holdorf, Henning Schliephake, Kathi Goldstein, Lennart Johannes Gruber, Phillipp Brockmeyer, Martin Leu, Stefan Rieken, Boris Schminke</p>
+]]></content:encoded>
+</item>
+<item>
+<title>Patient-derived 3D organoid platform for functional assessment of GPC3-targeted CAR T cell cytotoxic activity in head and neck squamous cell carcinoma</title>
+<link>https://www.sciencedirect.com/science/article/pii/S1368837525006438?dgcid=rss_sd_all</link>
+<guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006438?dgcid=rss_sd_all</guid>
+<prism:publicationName>ScienceDirect Publication: Oral Oncology</prism:publicationName>
+<description>Journal: ScienceDirect Publication: Oral Oncology | DOI: DOI not found</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: ScienceDirect Publication: Oral Oncology</p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>Publication date: January 2026 Source: Oral Oncology, Volume 172 Author(s): Han-Na Yoon, Jin-ha Kim, Doeon Gu, Jonghyun Lee, Soo Yoon Kim, Hye Jin Kim, Jaehyeon Jeong, Dongkwan Shin, Yuh-Seog Jung, Man Ki Chung, Sang-Jin Lee, Sung Yong Choi</p>
+]]></content:encoded>
+</item>
+<item>
+<title>&lt;em&gt;NOTCH1&lt;/em&gt; loss promotes chemo and radio-resistance in head and neck cancer</title>
+<link>https://www.sciencedirect.com/science/article/pii/S136883752500644X?dgcid=rss_sd_all</link>
+<guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S136883752500644X?dgcid=rss_sd_all</guid>
+<prism:publicationName>ScienceDirect Publication: Oral Oncology</prism:publicationName>
+<description>Journal: ScienceDirect Publication: Oral Oncology | DOI: DOI not found</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: ScienceDirect Publication: Oral Oncology</p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>Publication date: January 2026 Source: Oral Oncology, Volume 172 Author(s): Mushfiq H. Shaikh, Walid Gazala, Cindy Zheng, Mahdi Farzad Naimi, Matthew Cecchini, Amir Karimi, Halema Khan, Krista Joris, Shengjie Ying, Harrison Pan, Mohd Wessam Al Jawhri, David A. Palma, Joe S. Mymryk, Peter YF. Zeng, John W. Barrett, Anthony C. Nichols</p>
+]]></content:encoded>
+</item>
+<item>
+<title>Integrated geriatric assessment and intervention in the head and neck oncology care pathway reduces adverse events and does not affect survival</title>
+<link>https://www.sciencedirect.com/science/article/pii/S1368837525006402?dgcid=rss_sd_all</link>
+<guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006402?dgcid=rss_sd_all</guid>
+<prism:publicationName>ScienceDirect Publication: Oral Oncology</prism:publicationName>
+<description>Journal: ScienceDirect Publication: Oral Oncology | DOI: DOI not found</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: ScienceDirect Publication: Oral Oncology</p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>Publication date: January 2026 Source: Oral Oncology, Volume 172 Author(s): Beniamino Vincenzoni Padovan, Marleen Beenker, Johannes A. Langendijk, Hans Paul van der Laan, Boukje A.C. van Dijk, Geertrudia H. de Bock, Boudewijn E.C. Plaat, Pauline de Graeff, Suzanne Festen, Gyorgy B. Halmos</p>
+]]></content:encoded>
+</item>
+<item>
+<title>Neoadjuvant tislelizumab plus chemotherapy in locally advanced oral and oropharyngeal squamous cell carcinoma: A single-arm phase II clinical trial</title>
+<link>https://www.sciencedirect.com/science/article/pii/S1368837525006384?dgcid=rss_sd_all</link>
+<guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006384?dgcid=rss_sd_all</guid>
+<prism:publicationName>ScienceDirect Publication: Oral Oncology</prism:publicationName>
+<description>Journal: ScienceDirect Publication: Oral Oncology | DOI: DOI not found</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: ScienceDirect Publication: Oral Oncology</p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>Publication date: January 2026 Source: Oral Oncology, Volume 172 Author(s): Wen-Jie Wu, Pu-Gen An, Zi-Qi Zhang, Li-Hang Shen, Jian-Yun Zhang, Yan Chen, Ming-Wei Huang, Shu-Ming Liu, Jie Yao, Jie Zhang</p>
+]]></content:encoded>
+</item>
+<item>
+<title>Blinded comparative evaluation of GPT-generated, online search-derived, and guideline-based answers for HPV-associated oropharyngeal cancer</title>
+<link>https://www.sciencedirect.com/science/article/pii/S1368837525006426?dgcid=rss_sd_all</link>
+<guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006426?dgcid=rss_sd_all</guid>
+<prism:publicationName>ScienceDirect Publication: Oral Oncology</prism:publicationName>
+<description>Journal: ScienceDirect Publication: Oral Oncology | DOI: DOI not found</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: ScienceDirect Publication: Oral Oncology</p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>Publication date: January 2026 Source: Oral Oncology, Volume 172 Author(s): Sholem Hack, Rebecca Attal, Karin Geva, Armin Farzad, Shibli Alsleibi, Naseem Saleh, Ben Gvili, David Yogev, David Shahal, Benyamin Meir Kaminer, Eric Remer</p>
+]]></content:encoded>
+</item>
+<item>
+<title>Incidence of HPV-independent second primary malignancies following treatment of HPV-associated malignancy</title>
+<link>https://www.sciencedirect.com/science/article/pii/S1368837525006190?dgcid=rss_sd_all</link>
+<guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006190?dgcid=rss_sd_all</guid>
+<prism:publicationName>ScienceDirect Publication: Oral Oncology</prism:publicationName>
+<description>Journal: ScienceDirect Publication: Oral Oncology | DOI: DOI not found</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: ScienceDirect Publication: Oral Oncology</p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>Publication date: January 2026 Source: Oral Oncology, Volume 172 Author(s): Sarah C. Nyirjesy, Yana Al-Inaya, Selena Zhang, Omar A. Karadaghy, Derrick T. Lin, Daniel G. Deschler, Allen L. Feng, Mark A. Varvares, Adam S. Fisch, Daniel L. Faden, Jeremy D. Richmon</p>
+]]></content:encoded>
+</item>
+<item>
+<title>Establishment and characterization of a new immortalized human oral keratinocyte (HOK) cell line harboring various &lt;em&gt;TP53&lt;/em&gt; mutations</title>
+<link>https://www.sciencedirect.com/science/article/pii/S1368837525006281?dgcid=rss_sd_all</link>
+<guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006281?dgcid=rss_sd_all</guid>
+<prism:publicationName>ScienceDirect Publication: Oral Oncology</prism:publicationName>
+<description>Journal: ScienceDirect Publication: Oral Oncology | DOI: DOI not found</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: ScienceDirect Publication: Oral Oncology</p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>Publication date: January 2026 Source: Oral Oncology, Volume 172 Author(s): Mei Zhao, Zhiyi Liu, Mutsuki Kawabe, Abdullah A Osman, Mitchell J. Frederick, Jeffrey N Myers</p>
+]]></content:encoded>
+</item>
+<item>
+<title>Hpv-driven rewiring of the tumor immune microenvironment through single-cell profiling informs prognosis and therapy in HNSCC</title>
+<link>https://www.sciencedirect.com/science/article/pii/S1368837525006189?dgcid=rss_sd_all</link>
+<guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006189?dgcid=rss_sd_all</guid>
+<prism:publicationName>ScienceDirect Publication: Oral Oncology</prism:publicationName>
+<description>Journal: ScienceDirect Publication: Oral Oncology | DOI: DOI not found</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: ScienceDirect Publication: Oral Oncology</p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>Publication date: January 2026 Source: Oral Oncology, Volume 172 Author(s): Ying Li, Qianzi Kou, Chongyang Zheng, Pengkhun Nov, Changqian Wang, Peizan Ni, Lilin Li, Yangfeng Zhang, Duanyu Wang, Arzoo Prasai, Wen Fu, Jiqiang Li, Kunpeng Du</p>
+]]></content:encoded>
+</item>
+<item>
+<title>Patterns of metastasis and nodal disease in tongue and buccal carcinomas: Case-based reflections in Delhi NCR Region</title>
+<link>https://www.sciencedirect.com/science/article/pii/S1368837525006451?dgcid=rss_sd_all</link>
+<guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006451?dgcid=rss_sd_all</guid>
+<prism:publicationName>ScienceDirect Publication: Oral Oncology</prism:publicationName>
+<description>Journal: ScienceDirect Publication: Oral Oncology | DOI: DOI not found</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: ScienceDirect Publication: Oral Oncology</p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>Publication date: January 2026 Source: Oral Oncology, Volume 172 Author(s): Kripa Bajaj, Ramya Ramadoss, Sandhya Sundar, Suganya Panneer Selvam, Hema Shree K.</p>
+]]></content:encoded>
+</item>
+<item>
+<title>Cerebrovascular events after head and neck radiation therapy: A systematic review and Meta-Analysis</title>
+<link>https://www.sciencedirect.com/science/article/pii/S1368837525006396?dgcid=rss_sd_all</link>
+<guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006396?dgcid=rss_sd_all</guid>
+<prism:publicationName>ScienceDirect Publication: Oral Oncology</prism:publicationName>
+<description>Journal: ScienceDirect Publication: Oral Oncology | DOI: DOI not found</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: ScienceDirect Publication: Oral Oncology</p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>Publication date: January 2026 Source: Oral Oncology, Volume 172 Author(s): Kennedy Ayoo, Elliot Koo, Noémie Villemure-Poliquin, Rui Fu, Jonathan C Irish, Thomas Lindsay, Antoine Eskander</p>
+]]></content:encoded>
+</item>
+<item>
+<title>Survival rates and oncologic outcomes of adeno squamous carcinoma of oral cavity: A systematic review</title>
+<link>https://www.sciencedirect.com/science/article/pii/S1368837525006505?dgcid=rss_sd_all</link>
+<guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006505?dgcid=rss_sd_all</guid>
+<prism:publicationName>ScienceDirect Publication: Oral Oncology</prism:publicationName>
+<description>Journal: ScienceDirect Publication: Oral Oncology | DOI: DOI not found</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: ScienceDirect Publication: Oral Oncology</p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>Publication date: January 2026 Source: Oral Oncology, Volume 172 Author(s): Francesco Chiari, Andrea Luigi Camillo Carobbio, Marco Ferrari, Piero Nicolai, Claudio Donadio Caporale, Pierre Guarino</p>
+]]></content:encoded>
+</item>
+</channel>
+</rss>
