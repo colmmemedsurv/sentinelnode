@@ -27,6 +27,9 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: python scripts/run_pipeline.py
+        - name: Enrich with DOI metadata
+        run: python scripts/enrich_with_doi.py
+
 
       - name: Commit updated feed + data
         run: |
