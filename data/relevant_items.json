@@ -1,0 +1,105 @@
+[
+  {
+    "id": "86f7d211-1291-4d35-8490-30176e79e710",
+    "source_feed": "https://onesearch-rss.nejm.org/api/specialty/rss?context=nejm&specialty=hematology-oncology",
+    "journal": "The New England Journal of Medicine: Search Results in Hematology/Oncology",
+    "title": "Noninferiority of One HPV Vaccine Dose to Two Doses",
+    "abstract": "In this trial, one dose of an HPV vaccine was noninferior to two doses in preventing HPV type 16 or 18 infection.",
+    "published": "2025-12-18",
+    "authors": [
+      "Aimée R. Kreimer, Carolina Porras, Danping Liu, Allan Hildesheim, Loretto J. Carvajal, Rebeca Ocampo, Byron Romero, Mitchell H. Gail, Bernal Cortes, Monica S. Sierra, Karla Coronado, Joshua Sampson, Carolina Coto, Casey L. Dagnall, Daniela Mora, Troy J. Kemp, Michael Zuniga, Ligia A. Pinto, Gloriana Barrientos, John Schussler, Yenory Estrada, Cristian Montero, Carlos Avila, Dave Ruggieri, Jean T. Cyr, Stephen Chanock, Douglas R. Lowy, John T. Schiller, Rolando Herrero"
+    ],
+    "doi": "10.1056/NEJMoa2506765",
+    "link": "https://www.nejm.org/doi/full/10.1056/NEJMoa2506765?rss=searchAndBrowse",
+    "raw_entry_keys": [
+      "author",
+      "author_detail",
+      "authors",
+      "guidislink",
+      "id",
+      "link",
+      "links",
+      "summary",
+      "summary_detail",
+      "title",
+      "title_detail",
+      "updated",
+      "updated_parsed"
+    ],
+    "relevance": "YES"
+  },
+  {
+    "id": "4c299fc7-0f95-4276-906d-de5e7d7e94de",
+    "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
+    "journal": "The Lancet Oncology",
+    "title": "[Correspondence] Misclassification of p16-positive, HPV-negative patients biases de-escalation trials",
+    "abstract": "We read with interest the Article by Daniel Ma and colleagues in The Lancet Oncology.1 Ma and colleagues should be congratulated on completing a randomised trial of de-escalated radiotherapy in patients with p16-positive oropharyngeal squamous cell carcinoma. The authors report progression-free survival, local regional control, freedom from distant metastases, and overall survival as secondary endpoints. The de-escalation protocol resulted in a reduction in progression-free survival, local regional control, and systemic control in patients who received de-escalated treatment with extracapsular extension compared with patients who received standard of care.",
+    "published": "2025-12",
+    "authors": [
+      "Jessica T Lovett, Michael T Wotman, Marshall Posner"
+    ],
+    "doi": "10.1016/S1470-2045(25)00616-3",
+    "link": "https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(25)00616-3/fulltext?rss=yes",
+    "raw_entry_keys": [
+      "author",
+      "author_detail",
+      "authors",
+      "dc_identifier",
+      "dc_source",
+      "id",
+      "link",
+      "links",
+      "prism_issueidentifier",
+      "prism_number",
+      "prism_publicationdate",
+      "prism_publicationname",
+      "prism_section",
+      "prism_startingpage",
+      "prism_volume",
+      "summary",
+      "summary_detail",
+      "title",
+      "title_detail",
+      "updated",
+      "updated_parsed"
+    ],
+    "relevance": "YES"
+  },
+  {
+    "id": "61bfab0e-703c-41c9-949b-b192d3259219",
+    "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
+    "journal": "The Lancet Oncology",
+    "title": "[Correspondence] Misclassification of p16-positive, HPV-negative patients biases de-escalation trials – Authors' reply",
+    "abstract": "We appreciate the important points raised by Jessica T Lovett and colleagues regarding p16 immunohistochemistry as a surrogate for HPV status in oropharyngeal squamous cell carcinoma in de-escalation studies such as MC1675.1 As they noted, the prognostic implications of p16 and HPV discordance have been previously analysed, such as in a multinational study by Mehanna and colleagues.2 Patients who were p16-positive and HPV-negative had an increased rate of cancer recurrence (hazard ratio 1·92, 95% CI 1·42–2·60).",
+    "published": "2025-12",
+    "authors": [
+      "David M Routman, James S Lewis, Daniel J Ma"
+    ],
+    "doi": "10.1016/S1470-2045(25)00655-2",
+    "link": "https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(25)00655-2/fulltext?rss=yes",
+    "raw_entry_keys": [
+      "author",
+      "author_detail",
+      "authors",
+      "dc_identifier",
+      "dc_source",
+      "id",
+      "link",
+      "links",
+      "prism_issueidentifier",
+      "prism_number",
+      "prism_publicationdate",
+      "prism_publicationname",
+      "prism_section",
+      "prism_startingpage",
+      "prism_volume",
+      "summary",
+      "summary_detail",
+      "title",
+      "title_detail",
+      "updated",
+      "updated_parsed"
+    ],
+    "relevance": "YES"
+  }
+]
