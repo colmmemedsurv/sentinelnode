@@ -1,0 +1,37 @@
+name: Update Head & Neck Cancer RSS
+
+on:
+  schedule:
+    - cron: "15 6 * * *"   # runs daily (UTC). Dublin is UTC or UTC+1 depending on DST.
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run pipeline
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python scripts/run_pipeline.py
+
+      - name: Commit updated feed + data
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add docs data
+          git commit -m "Update curated RSS" || exit 0
+          git push
