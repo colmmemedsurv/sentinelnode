@@ -1,23 +1,77 @@
 {
-  "timestamp_utc": "2025-12-21T21:19:41.131058+00:00",
+  "timestamp_utc": "2025-12-21T21:32:03.359693+00:00",
   "feeds": [
     {
       "url": "https://onesearch-rss.nejm.org/api/specialty/rss?context=nejm&specialty=hematology-oncology",
       "feed_title": "The New England Journal of Medicine: Search Results in Hematology/Oncology",
       "items_in_feed": 20,
-      "relevant_yes": 1
+      "relevant_yes": 2
     },
     {
       "url": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
       "feed_title": "The Lancet Oncology",
       "items_in_feed": 45,
       "relevant_yes": 2
+    },
+    {
+      "url": "http://www.thelancet.com/rssfeed/lancet_current.xml",
+      "feed_title": "The Lancet",
+      "items_in_feed": 29,
+      "relevant_yes": 0
+    },
+    {
+      "url": "http://www.thelancet.com/rssfeed/eclinm_current.xml",
+      "feed_title": "eClinicalMedicine",
+      "items_in_feed": 2,
+      "relevant_yes": 0
+    },
+    {
+      "url": "http://www.thelancet.com/rssfeed/lanhl_current.xml",
+      "feed_title": "The Lancet Healthy Longevity",
+      "items_in_feed": 10,
+      "relevant_yes": 0
+    },
+    {
+      "url": "https://jamanetwork.com/rss/site_3/67.xml",
+      "feed_title": "JAMA Current Issue",
+      "items_in_feed": 39,
+      "relevant_yes": 0
+    },
+    {
+      "url": "https://jamanetwork.com/rss/site_3/onlineFirst_67.xml",
+      "feed_title": "JAMA Online First",
+      "items_in_feed": 20,
+      "relevant_yes": 0
+    },
+    {
+      "url": "https://jamanetwork.com/rss/site_159/174.xml",
+      "feed_title": "JAMA Oncology Current Issue",
+      "items_in_feed": 39,
+      "relevant_yes": 1
+    },
+    {
+      "url": "https://jamanetwork.com/rss/site_159/onlineFirst_174.xml",
+      "feed_title": "JAMA Oncology Online First",
+      "items_in_feed": 11,
+      "relevant_yes": 1
+    },
+    {
+      "url": "https://jamanetwork.com/rss/site_18/74.xml",
+      "feed_title": "JAMA Otolaryngology–Head & Neck Surgery Current Issue",
+      "items_in_feed": 18,
+      "relevant_yes": 17
+    },
+    {
+      "url": "https://jamanetwork.com/rss/site_18/onlineFirst_74.xml",
+      "feed_title": "JAMA Otolaryngology–Head & Neck Surgery Online First",
+      "items_in_feed": 6,
+      "relevant_yes": 4
     }
   ],
   "decisions_total": {
-    "YES": 3,
-    "NO": 58,
-    "UNCERTAIN": 4
+    "YES": 27,
+    "NO": 196,
+    "UNCERTAIN": 16
   },
   "notes": [
     "No hallucination: metadata is copied only when present in the RSS feed.",
