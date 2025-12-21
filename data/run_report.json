@@ -1,11 +1,11 @@
 {
-  "timestamp_utc": "2025-12-21T21:49:54.716081+00:00",
+  "timestamp_utc": "2025-12-21T22:08:14.301369+00:00",
   "feeds": [
     {
       "url": "https://onesearch-rss.nejm.org/api/specialty/rss?context=nejm&specialty=hematology-oncology",
       "feed_title": "The New England Journal of Medicine: Search Results in Hematology/Oncology",
       "items_in_feed": 20,
-      "relevant_yes": 2
+      "relevant_yes": 1
     },
     {
       "url": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
@@ -69,9 +69,9 @@
     }
   ],
   "decisions_total": {
-    "YES": 26,
-    "NO": 199,
-    "UNCERTAIN": 14
+    "YES": 25,
+    "NO": 197,
+    "UNCERTAIN": 17
   },
   "notes": [
     "No hallucination: metadata is copied only when present in the RSS feed.",

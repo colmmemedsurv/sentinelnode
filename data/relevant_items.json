@@ -1,35 +1,6 @@
 [
   {
-    "id": "42948330-244a-4b04-a5cc-2a6e5a41c911",
-    "source_feed": "https://onesearch-rss.nejm.org/api/specialty/rss?context=nejm&specialty=hematology-oncology",
-    "journal": "The New England Journal of Medicine: Search Results in Hematology/Oncology",
-    "title": "Noninferiority of One HPV Vaccine Dose to Two Doses",
-    "abstract": "In this trial, one dose of an HPV vaccine was noninferior to two doses in preventing HPV type 16 or 18 infection.",
-    "published": "2025-12-18",
-    "authors": [
-      "Aimée R. Kreimer, Carolina Porras, Danping Liu, Allan Hildesheim, Loretto J. Carvajal, Rebeca Ocampo, Byron Romero, Mitchell H. Gail, Bernal Cortes, Monica S. Sierra, Karla Coronado, Joshua Sampson, Carolina Coto, Casey L. Dagnall, Daniela Mora, Troy J. Kemp, Michael Zuniga, Ligia A. Pinto, Gloriana Barrientos, John Schussler, Yenory Estrada, Cristian Montero, Carlos Avila, Dave Ruggieri, Jean T. Cyr, Stephen Chanock, Douglas R. Lowy, John T. Schiller, Rolando Herrero"
-    ],
-    "doi": "10.1056/NEJMoa2506765",
-    "link": "https://www.nejm.org/doi/full/10.1056/NEJMoa2506765?rss=searchAndBrowse",
-    "raw_entry_keys": [
-      "author",
-      "author_detail",
-      "authors",
-      "guidislink",
-      "id",
-      "link",
-      "links",
-      "summary",
-      "summary_detail",
-      "title",
-      "title_detail",
-      "updated",
-      "updated_parsed"
-    ],
-    "relevance": "YES"
-  },
-  {
-    "id": "97d9b271-a51f-4dec-a40b-24a0ac75107c",
+    "id": "e751428e-da81-4293-936b-92dafab5c1fa",
     "source_feed": "https://onesearch-rss.nejm.org/api/specialty/rss?context=nejm&specialty=hematology-oncology",
     "journal": "The New England Journal of Medicine: Search Results in Hematology/Oncology",
     "title": "Merkel-Cell Carcinoma",
@@ -58,7 +29,7 @@
     "relevance": "YES"
   },
   {
-    "id": "8e6003ec-9ae7-4f5b-9e02-f2265480498f",
+    "id": "9a969d25-0f90-4662-9602-1a6ca755be8e",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[Correspondence] Misclassification of p16-positive, HPV-negative patients biases de-escalation trials",
@@ -95,7 +66,7 @@
     "relevance": "YES"
   },
   {
-    "id": "27976625-3a0e-4a9d-86f0-c56839f129a2",
+    "id": "878aeeb0-34c3-4431-92f1-b9e0c691cba0",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[Correspondence] Misclassification of p16-positive, HPV-negative patients biases de-escalation trials – Authors' reply",
@@ -132,7 +103,7 @@
     "relevance": "YES"
   },
   {
-    "id": "7ee6f074-696e-4d03-b625-4f35fe593b7f",
+    "id": "1c5d71a6-5d90-498a-b1fb-7ad735d1ea2c",
     "source_feed": "https://jamanetwork.com/rss/site_159/174.xml",
     "journal": "JAMA Oncology Current Issue",
     "title": "Unexpected Results of Induction Chemotherapy vs Adjuvant Chemotherapy",
@@ -161,7 +132,7 @@
     "relevance": "YES"
   },
   {
-    "id": "c796227c-6f00-49eb-816d-223962b4c11a",
+    "id": "14613e4d-2898-4785-8b21-833c0327b5b2",
     "source_feed": "https://jamanetwork.com/rss/site_18/74.xml",
     "journal": "JAMA Otolaryngology–Head & Neck Surgery Current Issue",
     "title": "Mind, Machine, and Medicine",
@@ -190,7 +161,7 @@
     "relevance": "YES"
   },
   {
-    "id": "65867301-4508-4efb-ba90-ca8ea29a7a33",
+    "id": "3417a170-a9c0-47ef-90e1-73366819cc1b",
     "source_feed": "https://jamanetwork.com/rss/site_18/74.xml",
     "journal": "JAMA Otolaryngology–Head & Neck Surgery Current Issue",
     "title": "Multiomic Selection of Cancer-Testis Antigens as Precision Immuno-oncologic Targets in Head and Neck Cancer",
@@ -219,7 +190,7 @@
     "relevance": "YES"
   },
   {
-    "id": "c047aa4b-6df3-41cd-a9e6-09e0e1f39abc",
+    "id": "252a74ca-be91-44f5-b37d-e56b10b885e8",
     "source_feed": "https://jamanetwork.com/rss/site_18/74.xml",
     "journal": "JAMA Otolaryngology–Head & Neck Surgery Current Issue",
     "title": "Are We Training Too Many Head and Neck Fellows?",
@@ -248,7 +219,7 @@
     "relevance": "YES"
   },
   {
-    "id": "3c269d4c-46c8-4a9b-bc69-4c7199dd0bd3",
+    "id": "b0ce8735-0e8d-4db6-aecb-cee1e90d3da9",
     "source_feed": "https://jamanetwork.com/rss/site_18/74.xml",
     "journal": "JAMA Otolaryngology–Head & Neck Surgery Current Issue",
     "title": "Reimbursement for Thyroid Surgery and Potential Solutions",
@@ -277,7 +248,7 @@
     "relevance": "YES"
   },
   {
-    "id": "3df4c1d0-9af6-47f3-bee0-6b9308fcfe00",
+    "id": "06b11a73-4522-41c1-b231-b84e91e02305",
     "source_feed": "https://jamanetwork.com/rss/site_18/74.xml",
     "journal": "JAMA Otolaryngology–Head & Neck Surgery Current Issue",
     "title": "Contralateral Tonsil in p16-Positive Tonsil Squamous Cell Carcinoma",
@@ -306,7 +277,7 @@
     "relevance": "YES"
   },
   {
-    "id": "3843da2d-88e5-46c7-8bc4-3b4df58f1913",
+    "id": "31971725-2b6a-40d6-8dea-d3a84ba5ae77",
     "source_feed": "https://jamanetwork.com/rss/site_18/74.xml",
     "journal": "JAMA Otolaryngology–Head & Neck Surgery Current Issue",
     "title": "Improving Palliative Care for Patients With Head and Neck Cancer",
@@ -335,7 +306,7 @@
     "relevance": "YES"
   },
   {
-    "id": "150728ad-d22c-4485-9f2d-d6ff1eb356eb",
+    "id": "83529a5c-bd4c-4d90-9993-e9f07b1dea11",
     "source_feed": "https://jamanetwork.com/rss/site_18/74.xml",
     "journal": "JAMA Otolaryngology–Head & Neck Surgery Current Issue",
     "title": "Palliative Care With Tube Use and End-of-Life Quality and Costs in Head and Neck Cancer",
@@ -364,7 +335,7 @@
     "relevance": "YES"
   },
   {
-    "id": "d27740eb-88f2-4e05-bed3-88be6b847543",
+    "id": "21b6d96c-3c5d-4973-9551-6ebc5a5007b0",
     "source_feed": "https://jamanetwork.com/rss/site_18/74.xml",
     "journal": "JAMA Otolaryngology–Head & Neck Surgery Current Issue",
     "title": "Barriers and Timely Postoperative Radiation Therapy in Head and Neck Cancer",
@@ -393,7 +364,7 @@
     "relevance": "YES"
   },
   {
-    "id": "4ec0871c-ef5f-4c9b-9745-9a8620e4e1f9",
+    "id": "3364c55d-09c9-483c-9fe6-7c24f107bd47",
     "source_feed": "https://jamanetwork.com/rss/site_18/74.xml",
     "journal": "JAMA Otolaryngology–Head & Neck Surgery Current Issue",
     "title": "Preexisting Psychiatric Risk Factors and Any and Long-Term Opioid Use in Head and Neck Cancer",
@@ -422,7 +393,7 @@
     "relevance": "YES"
   },
   {
-    "id": "69fb0592-7568-4bad-a780-086ac77806ff",
+    "id": "118e71d7-6bdb-400d-99a1-533712d0e6f0",
     "source_feed": "https://jamanetwork.com/rss/site_18/74.xml",
     "journal": "JAMA Otolaryngology–Head & Neck Surgery Current Issue",
     "title": "Unilateral vs Bilateral Transoral Surgery for Tonsil SCCa",
@@ -451,7 +422,7 @@
     "relevance": "YES"
   },
   {
-    "id": "68e6384f-863f-4928-9552-d4260aa99dbb",
+    "id": "93fad5ac-949d-400b-8001-3c51ad75cd7b",
     "source_feed": "https://jamanetwork.com/rss/site_18/74.xml",
     "journal": "JAMA Otolaryngology–Head & Neck Surgery Current Issue",
     "title": "Emerging Role of Pathologic Response in Head and Neck Squamous Cell Carcinoma Immunotherapy",
@@ -480,7 +451,7 @@
     "relevance": "YES"
   },
   {
-    "id": "ca6ba5f1-fa00-4551-baa0-f78735af4e46",
+    "id": "c61d8733-0ef7-40e1-bd42-afd294acfa9a",
     "source_feed": "https://jamanetwork.com/rss/site_18/74.xml",
     "journal": "JAMA Otolaryngology–Head & Neck Surgery Current Issue",
     "title": "Pathologic Treatment Effect and Survival in HPV-Negative HNSCC Following Neoadjuvant Nivolumab",
@@ -509,7 +480,7 @@
     "relevance": "YES"
   },
   {
-    "id": "3f2890f6-2e08-42c5-8191-59dfd43f2930",
+    "id": "d998110b-bafb-4d19-9571-8666d8fb555b",
     "source_feed": "https://jamanetwork.com/rss/site_18/74.xml",
     "journal": "JAMA Otolaryngology–Head & Neck Surgery Current Issue",
     "title": "Patients With Head and Neck Cancer and High Health Care Costs",
@@ -538,7 +509,7 @@
     "relevance": "YES"
   },
   {
-    "id": "407e3cb1-957b-496c-b358-a4f918bf9e6b",
+    "id": "712f3b7e-0074-4df2-8249-2f53435a246d",
     "source_feed": "https://jamanetwork.com/rss/site_18/74.xml",
     "journal": "JAMA Otolaryngology–Head & Neck Surgery Current Issue",
     "title": "Unilateral vs Bilateral Transoral Robotic Surgery for HPV-Positive Tonsillar Squamous Cell Carcinoma",
@@ -567,7 +538,7 @@
     "relevance": "YES"
   },
   {
-    "id": "2b453c93-2913-46b2-89f7-02c799ca12cf",
+    "id": "1d92c1d5-c613-4d49-8bf1-de7145c1846d",
     "source_feed": "https://jamanetwork.com/rss/site_18/74.xml",
     "journal": "JAMA Otolaryngology–Head & Neck Surgery Current Issue",
     "title": "Considerations and Cautions in Postoperative Circulating Tumor HPV DNA Kinetics",
@@ -596,7 +567,7 @@
     "relevance": "YES"
   },
   {
-    "id": "c07c6423-cf01-4d0c-8f2b-b2267836fd50",
+    "id": "81932b01-2da3-476c-aebd-1dfc4b80e311",
     "source_feed": "https://jamanetwork.com/rss/site_18/74.xml",
     "journal": "JAMA Otolaryngology–Head & Neck Surgery Current Issue",
     "title": "Postoperative ctHPVDNA Kinetics in Patients With HPV-Related Oropharyngeal Cancer",
@@ -625,7 +596,7 @@
     "relevance": "YES"
   },
   {
-    "id": "471cd137-f2d8-488e-a247-84a64f9a79d6",
+    "id": "4b5af87d-dc7a-4736-b31a-9c0bcef55eec",
     "source_feed": "https://jamanetwork.com/rss/site_18/74.xml",
     "journal": "JAMA Otolaryngology–Head & Neck Surgery Current Issue",
     "title": "Efficacy of a Brief Cognitive Behavioral Treatment Across Body Image Distress Domains",
@@ -654,7 +625,7 @@
     "relevance": "YES"
   },
   {
-    "id": "e6b4f56c-197f-4395-8417-454841b60f25",
+    "id": "f29fefc5-4893-4589-9d73-60c5195347fe",
     "source_feed": "https://jamanetwork.com/rss/site_18/onlineFirst_74.xml",
     "journal": "JAMA Otolaryngology–Head & Neck Surgery Online First",
     "title": "Pathologic Response and Survival After Neoadjuvant Immunotherapy for HNSCC",
@@ -679,7 +650,7 @@
     "relevance": "YES"
   },
   {
-    "id": "8805c669-b36a-49bb-915e-71340726609a",
+    "id": "05899dec-5689-452b-a35d-f9d43bc6b802",
     "source_feed": "https://jamanetwork.com/rss/site_18/onlineFirst_74.xml",
     "journal": "JAMA Otolaryngology–Head & Neck Surgery Online First",
     "title": "Thyroid Lobectomy and Neck Dissection for N1b Papillary Thyroid Carcinoma",
@@ -704,7 +675,7 @@
     "relevance": "YES"
   },
   {
-    "id": "e9d2a0e6-e895-4e9e-90e4-8bc0bd8ef095",
+    "id": "225de774-4dd9-4212-8e48-f6eff117b6c7",
     "source_feed": "https://jamanetwork.com/rss/site_18/onlineFirst_74.xml",
     "journal": "JAMA Otolaryngology–Head & Neck Surgery Online First",
     "title": "Pembrolizumab in Head and Neck Cancer—Promise and Price",
@@ -729,7 +700,7 @@
     "relevance": "YES"
   },
   {
-    "id": "9d01a2ec-220b-4fbb-9dea-8c84ee230c38",
+    "id": "07fa58e6-cc1e-47bb-948a-b6722f7ec6ae",
     "source_feed": "https://jamanetwork.com/rss/site_18/onlineFirst_74.xml",
     "journal": "JAMA Otolaryngology–Head & Neck Surgery Online First",
     "title": "Factors Associated With Opioid Refills After Otolaryngology–Head and Neck Surgery",

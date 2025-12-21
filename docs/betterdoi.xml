@@ -1,703 +1,309 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
 <title>Head &amp; Neck Cancer – DOI-Enriched Feed</title>
 <link>https://colmmemedsurv.github.io/sentinelnode/</link>
-<description>Curated head & neck cancer literature with DOI-based metadata enrichment when available.</description>
-<lastBuildDate>Sun, 21 Dec 2025 21:50:03 +0000</lastBuildDate>
-<item>
-<title>Noninferiority of One HPV Vaccine Dose to Two Doses</title>
-<link>https://doi.org/10.1056/nejmoa2506765</link>
-<guid isPermaLink='true'>https://doi.org/10.1056/nejmoa2506765</guid>
-<pubDate>2025-12-18</pubDate>
-<description>Journal: New England Journal of Medicine
-DOI: 10.1056/NEJMoa2506765
-Authors: Aimée R. Kreimer, Carolina Porras, Danping Liu, Allan Hildesheim, Loretto J. Carvajal, Rebeca Ocampo, Byron Romero, Mitchell H. Gail, Bernal Cortes, Monica S. Sierra, Karla Coronado, Joshua Sampson, Carolina Coto, Casey L. Dagnall, Daniela Mora, Troy J. Kemp, Michael Zuniga, Ligia A. Pinto, Gloriana Barrientos, John Schussler, Yenory Estrada, Cristian Montero, Carlos Avila, Dave Ruggieri, Jean T. Cyr, Stephen Chanock, Douglas R. Lowy, John T. Schiller, Rolando Herrero
-
-Abstract:
-In this trial, one dose of an HPV vaccine was noninferior to two doses in preventing HPV type 16 or 18 infection.</description>
-</item>
+<description>Curated head &amp; neck cancer literature. DOI metadata is looked up where available; missing DOIs are marked explicitly.</description>
+<lastBuildDate>Sun, 21 Dec 2025 22:08:30 +0000</lastBuildDate>
 <item>
 <title>Merkel-Cell Carcinoma</title>
 <link>https://doi.org/10.1056/nejmicm2513302</link>
 <guid isPermaLink='true'>https://doi.org/10.1056/nejmicm2513302</guid>
 <pubDate>2025-12-18</pubDate>
-<description>Journal: New England Journal of Medicine
-DOI: 10.1056/NEJMicm2513302
-Authors: Zunaid Ahmed, Willem Visser
-
-Abstract:
-A 72-year-old woman presented with a 3.5-month history of an enlarging, painless lump on her cheek. Examination showed a dome-shaped, reddish nodule on the left cheek, with a shiny surface and central hemorrhagic crust.</description>
+<author>Zunaid Ahmed; Willem Visser</author>
+<description>Journal: New England Journal of Medicine | DOI: 10.1056/NEJMicm2513302</description>
+<content:encoded><![CDATA[
+<p><strong>Abstract</strong></p>
+<p>A 72-year-old woman presented with a 3.5-month history of an enlarging, painless lump on her cheek. Examination showed a dome-shaped, reddish nodule on the left cheek, with a shiny surface and central hemorrhagic crust.</p>
+]]></content:encoded>
 </item>
 <item>
 <title>[Correspondence] Misclassification of p16-positive, HPV-negative patients biases de-escalation trials</title>
 <link>https://doi.org/10.1016/s1470-2045(25)00616-3</link>
 <guid isPermaLink='true'>https://doi.org/10.1016/s1470-2045(25)00616-3</guid>
 <pubDate>2025-12</pubDate>
-<description>Journal: The Lancet Oncology
-DOI: 10.1016/S1470-2045(25)00616-3
-Authors: Jessica T Lovett, Michael T Wotman, Marshall Posner
-
-Abstract:
-We read with interest the Article by Daniel Ma and colleagues in The Lancet Oncology.1 Ma and colleagues should be congratulated on completing a randomised trial of de-escalated radiotherapy in patients with p16-positive oropharyngeal squamous cell carcinoma. The authors report progression-free survival, local regional control, freedom from distant metastases, and overall survival as secondary endpoints. The de-escalation protocol resulted in a reduction in progression-free survival, local regional control, and systemic control in patients who received de-escalated treatment with extracapsular extension compared with patients who received standard of care.</description>
+<author>Jessica T Lovett; Michael T Wotman; Marshall Posner</author>
+<description>Journal: The Lancet Oncology | DOI: 10.1016/S1470-2045(25)00616-3</description>
+<content:encoded><![CDATA[
+<p><strong>Abstract</strong></p>
+<p>We read with interest the Article by Daniel Ma and colleagues in The Lancet Oncology.1 Ma and colleagues should be congratulated on completing a randomised trial of de-escalated radiotherapy in patients with p16-positive oropharyngeal squamous cell carcinoma. The authors report progression-free survival, local regional control, freedom from distant metastases, and overall survival as secondary endpoints. The de-escalation protocol resulted in a reduction in progression-free survival, local regional control, and systemic control in patients who received de-escalated treatment with extracapsular extension compared with patients who received standard of care.</p>
+]]></content:encoded>
 </item>
 <item>
 <title>[Correspondence] Misclassification of p16-positive, HPV-negative patients biases de-escalation trials – Authors&apos; reply</title>
 <link>https://doi.org/10.1016/s1470-2045(25)00655-2</link>
 <guid isPermaLink='true'>https://doi.org/10.1016/s1470-2045(25)00655-2</guid>
 <pubDate>2025-12</pubDate>
-<description>Journal: The Lancet Oncology
-DOI: 10.1016/S1470-2045(25)00655-2
-Authors: David M Routman, James S Lewis, Daniel J Ma
-
-Abstract:
-We appreciate the important points raised by Jessica T Lovett and colleagues regarding p16 immunohistochemistry as a surrogate for HPV status in oropharyngeal squamous cell carcinoma in de-escalation studies such as MC1675.1 As they noted, the prognostic implications of p16 and HPV discordance have been previously analysed, such as in a multinational study by Mehanna and colleagues.2 Patients who were p16-positive and HPV-negative had an increased rate of cancer recurrence (hazard ratio 1·92, 95% CI 1·42–2·60).</description>
+<author>David M Routman; James S Lewis; Daniel J Ma</author>
+<description>Journal: The Lancet Oncology | DOI: 10.1016/S1470-2045(25)00655-2</description>
+<content:encoded><![CDATA[
+<p><strong>Abstract</strong></p>
+<p>We appreciate the important points raised by Jessica T Lovett and colleagues regarding p16 immunohistochemistry as a surrogate for HPV status in oropharyngeal squamous cell carcinoma in de-escalation studies such as MC1675.1 As they noted, the prognostic implications of p16 and HPV discordance have been previously analysed, such as in a multinational study by Mehanna and colleagues.2 Patients who were p16-positive and HPV-negative had an increased rate of cancer recurrence (hazard ratio 1·92, 95% CI 1·42–2·60).</p>
+]]></content:encoded>
 </item>
 <item>
 <title>Unexpected Results of Induction Chemotherapy vs Adjuvant Chemotherapy</title>
 <link>https://doi.org/10.1001/jamaoncol.2025.4092</link>
 <guid isPermaLink='true'>https://doi.org/10.1001/jamaoncol.2025.4092</guid>
 <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
-<description>Journal: JAMA Oncology
-DOI: 10.1001/jamaoncol.2025.4092
-Authors: Melvin L. K. Chua, Darren W. T. Lim
-
-Abstract:
-To the Editor We read with interest the results of the phase 3 randomized clinical trial by Guo et al that investigated the important question if induction chemotherapy (IC) was superior to adjuvant chemotherapy (AC) when added to a backbone of concurrent chemoradiotherapy (CCRT) in patients with N2-3 nasopharyngeal carcinoma (NPC). For IC, the investigators used the triplet combination of paclitaxel-cisplatin-fluorouracil (TPF), whereas doublet cisplatin-fluorouracil (PF) was used for AC. The trial was powered to detect a 12% difference in progression-free survival (PFS) in favor of IC, and enrolled 324 patients, with 162 patients in each group. However, this was a negative trial with comparable 3-year PFS between IC plus CCRT and CCRT plus AC, contrasting the results of the NPC-0501 trial by the Hong Kong NPC study group, which showed an improvement for PFS in favor of IC, albeit subtle differences exist between both trials. Intriguingly, in the present study, IC was associated with poorer local control compared with AC.</description>
+<author>Melvin L. K. Chua; Darren W. T. Lim</author>
+<description>Journal: JAMA Oncology | DOI: 10.1001/jamaoncol.2025.4092</description>
+<content:encoded><![CDATA[
+<p><strong>Abstract</strong></p>
+<p>To the Editor We read with interest the results of the phase 3 randomized clinical trial by Guo et al that investigated the important question if induction chemotherapy (IC) was superior to adjuvant chemotherapy (AC) when added to a backbone of concurrent chemoradiotherapy (CCRT) in patients with N2-3 nasopharyngeal carcinoma (NPC). For IC, the investigators used the triplet combination of paclitaxel-cisplatin-fluorouracil (TPF), whereas doublet cisplatin-fluorouracil (PF) was used for AC. The trial was powered to detect a 12% difference in progression-free survival (PFS) in favor of IC, and enrolled 324 patients, with 162 patients in each group. However, this was a negative trial with comparable 3-year PFS between IC plus CCRT and CCRT plus AC, contrasting the results of the NPC-0501 trial by the Hong Kong NPC study group, which showed an improvement for PFS in favor of IC, albeit subtle differences exist between both trials. Intriguingly, in the present study, IC was associated with poorer local control compared with AC.</p>
+]]></content:encoded>
 </item>
 <item>
 <title>Mind, Machine, and Medicine</title>
 <link>https://doi.org/10.1001/jamaoto.2025.4108</link>
 <guid isPermaLink='true'>https://doi.org/10.1001/jamaoto.2025.4108</guid>
 <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
-<description>Journal: JAMA Otolaryngology–Head &amp;amp; Neck Surgery
-DOI: 10.1001/jamaoto.2025.4108
-Authors: William (Bill) M. Lydiatt
-
-Abstract:
-&lt;jats:p&gt;This Viewpoint summarizes the presidential address of the president of the American Head and Neck Society.&lt;/jats:p&gt;</description>
+<author>William (Bill) M. Lydiatt</author>
+<description>Journal: JAMA Otolaryngology–Head &amp;amp; Neck Surgery | DOI: 10.1001/jamaoto.2025.4108</description>
+<content:encoded><![CDATA[
+<p><strong>Abstract</strong></p>
+<p>This Viewpoint summarizes the presidential address of the president of the American Head and Neck Society.</p>
+]]></content:encoded>
 </item>
 <item>
 <title>Multiomic Selection of Cancer-Testis Antigens as Precision Immuno-oncologic Targets in Head and Neck Cancer</title>
 <link>https://doi.org/10.1001/jamaoto.2025.3563</link>
 <guid isPermaLink='true'>https://doi.org/10.1001/jamaoto.2025.3563</guid>
 <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
-<description>Journal: JAMA Otolaryngology–Head &amp;amp; Neck Surgery
-DOI: 10.1001/jamaoto.2025.3563
-Authors: Abdullah A. Memon, Musaddiq J. Awan, Oscar Villarreal Espinosa, Rachel Kuehn, Anne Frei, Jamie Foeckler, Jennifer Bruening, Kenneth Akakpo, Becky Massey, Michael Stadler, Stuart Wong, Heather A. Himburg, Joseph Zenga
-
-Abstract:
-&lt;jats:sec id=&quot;ab-ooi250065-4&quot;&gt;
-                    &lt;jats:title&gt;Importance&lt;/jats:title&gt;
-                    &lt;jats:p&gt;Head and neck squamous cell carcinoma (HNSCC) is an aggressive malignant neoplasm with an increasing need for precision therapeutics. Cancer-testis antigens (CTAs) represent promising targets given their aberrant tumor expression and otherwise localized expression to immune-privileged tissues with no (testis-restricted) or minimal (testis-selective) expression in other human body sites. Despite their potential, limited studies rigorously evaluate CTAs as therapeutic targets in HNSCC.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250065-5&quot;&gt;
-                    &lt;jats:title&gt;Objective&lt;/jats:title&gt;
-                    &lt;jats:p&gt;To orthogonally validate and present specific CTAs as potential precision immuno-oncologic targets in both previously untreated (de novo) and recurrent HNSCC tumors.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250065-6&quot;&gt;
-                    &lt;jats:title&gt;Design, Setting, and Participants&lt;/jats:title&gt;
-                    &lt;jats:p&gt;This was a cross-sectional study conducting multiomic analyses on a single academic tertiary care center’s tumor registry from 2018 to 2023, with validation using publicly available transcriptomic datasets. A total of 33 tumor samples from patients with HNSCC, including both de novo and radiation-recurrent tumors, were analyzed. Data were analyzed from August to December 2024.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250065-7&quot;&gt;
-                    &lt;jats:title&gt;Main Outcomes and Measures&lt;/jats:title&gt;
-                    &lt;jats:p&gt;The primary outcome was the identification and rigorous validation of specific CTAs with tumor-specific expression in HNSCC.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250065-8&quot;&gt;
-                    &lt;jats:title&gt;Results&lt;/jats:title&gt;
-                    &lt;jats:p&gt;
-                      This study analyzed 33 HNSCC institutional tumor specimens, including 25 de novo and 8 radiation-recurrent tumors. Of 33 included patients, 25 (76%) were male, 8 (24%) were female, and the median (range) age was 61 (29-87) years. Tumor subsites included the oral cavity (24 [73%]), larynx (7 [21%]), and oropharynx (2 [6%]). Tumors were primarily T4a (23 [70%]), with nodal involvement in 16 (48%). Initial analysis of bulk RNA-sequenced institutional data and single-cell RNA-sequenced external data identified several CTAs (
-                      &lt;jats:italic toggle=&quot;yes&quot;&gt;DKKL1&lt;/jats:italic&gt;
-                      ,
-                      &lt;jats:italic toggle=&quot;yes&quot;&gt;SPANXB1&lt;/jats:italic&gt;
-                      ,
-                      &lt;jats:italic toggle=&quot;yes&quot;&gt;SPANXD&lt;/jats:italic&gt;
-                      , and
-                      &lt;jats:italic toggle=&quot;yes&quot;&gt;ACTL8&lt;/jats:italic&gt;
-                      ) upregulated in recurrent tumors. An expanded reanalysis revealed that CTAs were expressed across HNSCCs, including robust expression not only in radiation-recurrent disease but also in de novo tumors. Immunohistochemistry was performed on
-                      &lt;jats:italic toggle=&quot;yes&quot;&gt;ACTL8&lt;/jats:italic&gt;
-                      to confirm transcriptional level findings at the protein level, which showed moderate focal cytoplasmic staining in tumor tissue. To refine the tumor-specific CTA list, an exclusionary analysis using single-cell RNA-sequenced data from normal oral mucosa was conducted, removing any CTAs with any expression in normal tissue. This resulted in a final list of 23 testis-restricted and 44 testis-selective CTAs specific to HNSCC, of which 14 CTAs overlapped across all transcriptomic datasets. Finally, using CopyKAT, CTAs were specifically enriched in malignant epithelial populations compared with benign populations within the same patients with HNSCC.
-                    &lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250065-9&quot;&gt;
-                    &lt;jats:title&gt;Conclusions and Relevance&lt;/jats:title&gt;
-                    &lt;jats:p&gt;In this study, a set of 23 testis-restricted and 44 testis-selective CTAs were orthogonally validated in multiple tumor datasets. Of these, a core set of 14 CTAs were consistently detected across all datasets. Their tumor specificity and broad expression bolster their potential as promising precision immuno-oncologic targets for future T-cell receptor engineering efforts.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;</description>
+<author>Abdullah A. Memon; Musaddiq J. Awan; Oscar Villarreal Espinosa; Rachel Kuehn; Anne Frei; Jamie Foeckler; Jennifer Bruening; Kenneth Akakpo; Becky Massey; Michael Stadler; Stuart Wong; Heather A. Himburg; Joseph Zenga</author>
+<description>Journal: JAMA Otolaryngology–Head &amp;amp; Neck Surgery | DOI: 10.1001/jamaoto.2025.3563</description>
+<content:encoded><![CDATA[
+<p><strong>Abstract</strong></p>
+<p>Importance Head and neck squamous cell carcinoma (HNSCC) is an aggressive malignant neoplasm with an increasing need for precision therapeutics. Cancer-testis antigens (CTAs) represent promising targets given their aberrant tumor expression and otherwise localized expression to immune-privileged tissues with no (testis-restricted) or minimal (testis-selective) expression in other human body sites. Despite their potential, limited studies rigorously evaluate CTAs as therapeutic targets in HNSCC. Objective To orthogonally validate and present specific CTAs as potential precision immuno-oncologic targets in both previously untreated (de novo) and recurrent HNSCC tumors. Design, Setting, and Participants This was a cross-sectional study conducting multiomic analyses on a single academic tertiary care center’s tumor registry from 2018 to 2023, with validation using publicly available transcriptomic datasets. A total of 33 tumor samples from patients with HNSCC, including both de novo and radiation-recurrent tumors, were analyzed. Data were analyzed from August to December 2024. Main Outcomes and Measures The primary outcome was the identification and rigorous validation of specific CTAs with tumor-specific expression in HNSCC. Results This study analyzed 33 HNSCC institutional tumor specimens, including 25 de novo and 8 radiation-recurrent tumors. Of 33 included patients, 25 (76%) were male, 8 (24%) were female, and the median (range) age was 61 (29-87) years. Tumor subsites included the oral cavity (24 [73%]), larynx (7 [21%]), and oropharynx (2 [6%]). Tumors were primarily T4a (23 [70%]), with nodal involvement in 16 (48%). Initial analysis of bulk RNA-sequenced institutional data and single-cell RNA-sequenced external data identified several CTAs ( DKKL1 , SPANXB1 , SPANXD , and ACTL8 ) upregulated in recurrent tumors. An expanded reanalysis revealed that CTAs were expressed across HNSCCs, including robust expression not only in radiation-recurrent disease but also in de novo tumors. Immunohistochemistry was performed on ACTL8 to confirm transcriptional level findings at the protein level, which showed moderate focal cytoplasmic staining in tumor tissue. To refine the tumor-specific CTA list, an exclusionary analysis using single-cell RNA-sequenced data from normal oral mucosa was conducted, removing any CTAs with any expression in normal tissue. This resulted in a final list of 23 testis-restricted and 44 testis-selective CTAs specific to HNSCC, of which 14 CTAs overlapped across all transcriptomic datasets. Finally, using CopyKAT, CTAs were specifically enriched in malignant epithelial populations compared with benign populations within the same patients with HNSCC. Conclusions and Relevance In this study, a set of 23 testis-restricted and 44 testis-selective CTAs were orthogonally validated in multiple tumor datasets. Of these, a core set of 14 CTAs were consistently detected across all datasets. Their tumor specificity and broad expression bolster their potential as promising precision immuno-oncologic targets for future T-cell receptor engineering efforts.</p>
+]]></content:encoded>
 </item>
 <item>
 <title>Are We Training Too Many Head and Neck Fellows?</title>
 <link>https://doi.org/10.1001/jamaoto.2025.3471</link>
 <guid isPermaLink='true'>https://doi.org/10.1001/jamaoto.2025.3471</guid>
 <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
-<description>Journal: JAMA Otolaryngology–Head &amp;amp; Neck Surgery
-DOI: 10.1001/jamaoto.2025.3471
-Authors: William (Bill) M. Lydiatt
-
-Abstract:
-&lt;jats:p&gt;This Viewpoint discusses the purpose of head and neck fellowship and what the correct number of practicing head and neck surgeons is.&lt;/jats:p&gt;</description>
+<author>William (Bill) M. Lydiatt</author>
+<description>Journal: JAMA Otolaryngology–Head &amp;amp; Neck Surgery | DOI: 10.1001/jamaoto.2025.3471</description>
+<content:encoded><![CDATA[
+<p><strong>Abstract</strong></p>
+<p>This Viewpoint discusses the purpose of head and neck fellowship and what the correct number of practicing head and neck surgeons is.</p>
+]]></content:encoded>
 </item>
 <item>
 <title>Reimbursement for Thyroid Surgery and Potential Solutions</title>
 <link>https://doi.org/10.1001/jamaoto.2025.3696</link>
 <guid isPermaLink='true'>https://doi.org/10.1001/jamaoto.2025.3696</guid>
 <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
-<description>Journal: JAMA Otolaryngology–Head &amp;amp; Neck Surgery
-DOI: 10.1001/jamaoto.2025.3696
-Authors: Philip R. Brauer, David Octeau, Benjamin Wajsberg, Eric D. Lamarre, Jamie A. Ku, Mario Skugor, Danielle M. Bottalico, Natalie L. Silver, Brandon L. Prendes, Joseph Scharpf
-
-Abstract:
-&lt;jats:sec id=&quot;ab-ooi250066-4&quot;&gt;
-                    &lt;jats:title&gt;Importance&lt;/jats:title&gt;
-                    &lt;jats:p&gt;In 2024, the US Senate Committee on Finance released a white paper outlining future reforms to the Medicare payment models.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250066-5&quot;&gt;
-                    &lt;jats:title&gt;Objective&lt;/jats:title&gt;
-                    &lt;jats:p&gt;To characterize trends in Medicare reimbursement for thyroid surgery and to provide evidence for future discussions on payment reforms.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250066-6&quot;&gt;
-                    &lt;jats:title&gt;Design and Setting&lt;/jats:title&gt;
-                    &lt;jats:p&gt;This retrospective economic evaluation used data on reimbursement for thyroid surgeries from the Centers for Medicare &amp;amp;amp;amp; Medicaid Services’ Physician Fee Schedule from 2000 to 2023. Data were analyzed from May to June 2024.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250066-7&quot;&gt;
-                    &lt;jats:title&gt;Main Outcomes and Measures&lt;/jats:title&gt;
-                    &lt;jats:p&gt;The main outcomes were reimbursement rates for thyroid surgery and changes in reimbursement over time. Dollar amounts were adjusted to January 2023 US dollars. Annual reimbursement was averaged nationally, and compound annual growth rate and Pearson correlation coefficient were used to characterize trends.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250066-8&quot;&gt;
-                    &lt;jats:title&gt;Results&lt;/jats:title&gt;
-                    &lt;jats:p&gt;Between 2000 and 2023, Medicare reimbursement for thyroid surgeries decreased 38.7%, from $1517.59 to $929.55, when adjusted for inflation. The reimbursement for total thyroidectomy demonstrated the greatest decline at 47.8%, from $1803.16 to $942.07. Thyroid lobectomy and completion thyroidectomy both had reduced reimbursements at 41.7% (from $1250.38 to $729.02) and 25.5% (from $1499.26 to $1117.54), respectively. The compound annual growth rate for thyroid surgeries as a whole was 0.4% when not adjusted for inflation and −2.1% when adjusted for inflation. There was 0% growth in work relative value units between 2012 and 2023 for all thyroid surgeries.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250066-9&quot;&gt;
-                    &lt;jats:title&gt;Conclusions and Relevance&lt;/jats:title&gt;
-                    &lt;jats:p&gt;This economic evaluation found an almost 40% decrease in the rate of reimbursement for thyroid surgery, with total thyroidectomy having the greatest decrease at 47.8%. These findings provide evidence that current trends are not sustainable. Thyroid surgeons should take a proactive approach to improving reimbursements before these changes impact patient access to thyroid surgery.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;</description>
+<author>Philip R. Brauer; David Octeau; Benjamin Wajsberg; Eric D. Lamarre; Jamie A. Ku; Mario Skugor; Danielle M. Bottalico; Natalie L. Silver; Brandon L. Prendes; Joseph Scharpf</author>
+<description>Journal: JAMA Otolaryngology–Head &amp;amp; Neck Surgery | DOI: 10.1001/jamaoto.2025.3696</description>
+<content:encoded><![CDATA[
+<p><strong>Abstract</strong></p>
+<p>Importance In 2024, the US Senate Committee on Finance released a white paper outlining future reforms to the Medicare payment models. Objective To characterize trends in Medicare reimbursement for thyroid surgery and to provide evidence for future discussions on payment reforms. Design and Setting This retrospective economic evaluation used data on reimbursement for thyroid surgeries from the Centers for Medicare &amp;amp;amp; Medicaid Services’ Physician Fee Schedule from 2000 to 2023. Data were analyzed from May to June 2024. Main Outcomes and Measures The main outcomes were reimbursement rates for thyroid surgery and changes in reimbursement over time. Dollar amounts were adjusted to January 2023 US dollars. Annual reimbursement was averaged nationally, and compound annual growth rate and Pearson correlation coefficient were used to characterize trends. Results Between 2000 and 2023, Medicare reimbursement for thyroid surgeries decreased 38.7%, from $1517.59 to $929.55, when adjusted for inflation. The reimbursement for total thyroidectomy demonstrated the greatest decline at 47.8%, from $1803.16 to $942.07. Thyroid lobectomy and completion thyroidectomy both had reduced reimbursements at 41.7% (from $1250.38 to $729.02) and 25.5% (from $1499.26 to $1117.54), respectively. The compound annual growth rate for thyroid surgeries as a whole was 0.4% when not adjusted for inflation and −2.1% when adjusted for inflation. There was 0% growth in work relative value units between 2012 and 2023 for all thyroid surgeries. Conclusions and Relevance This economic evaluation found an almost 40% decrease in the rate of reimbursement for thyroid surgery, with total thyroidectomy having the greatest decrease at 47.8%. These findings provide evidence that current trends are not sustainable. Thyroid surgeons should take a proactive approach to improving reimbursements before these changes impact patient access to thyroid surgery.</p>
+]]></content:encoded>
 </item>
 <item>
 <title>Contralateral Tonsil in p16-Positive Tonsil Squamous Cell Carcinoma</title>
 <link>https://doi.org/10.1001/jamaoto.2025.2410</link>
 <guid isPermaLink='true'>https://doi.org/10.1001/jamaoto.2025.2410</guid>
 <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
-<description>Journal: JAMA Otolaryngology–Head &amp;amp; Neck Surgery
-DOI: 10.1001/jamaoto.2025.2410
-Authors: Louis-Xavier Barrette, Michelle Gentile, Karthik Rajasekaran
-
-Abstract:
-&lt;jats:p&gt;This Viewpoint examines current surgical guidelines and emerging evidence regarding the optimal treatment of patients with p16-positive oropharyngeal squamous cell carcinoma.&lt;/jats:p&gt;</description>
+<author>Louis-Xavier Barrette; Michelle Gentile; Karthik Rajasekaran</author>
+<description>Journal: JAMA Otolaryngology–Head &amp;amp; Neck Surgery | DOI: 10.1001/jamaoto.2025.2410</description>
+<content:encoded><![CDATA[
+<p><strong>Abstract</strong></p>
+<p>This Viewpoint examines current surgical guidelines and emerging evidence regarding the optimal treatment of patients with p16-positive oropharyngeal squamous cell carcinoma.</p>
+]]></content:encoded>
 </item>
 <item>
 <title>Improving Palliative Care for Patients With Head and Neck Cancer</title>
 <link>https://doi.org/10.1001/jamaoto.2025.2688</link>
 <guid isPermaLink='true'>https://doi.org/10.1001/jamaoto.2025.2688</guid>
 <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
-<description>Journal: JAMA Otolaryngology–Head &amp;amp; Neck Surgery
-DOI: 10.1001/jamaoto.2025.2688
-Authors: Christine G. Gourin, Thomas J. Smith, Rebecca A. Gersten
-
-Abstract:
-In this issue of JAMA Otolaryngology–Head and Neck Surgery, Fu et al used data from the Ontario Cancer Registry to evaluate palliative care (PC) use in 11 135 patients with head and neck cancer (HNC) during their last year of life. They found that PC was utilized in 90% of patients and was associated with increased monthly costs at the end of life, a greater number of emergency department visits and hospital admissions, and a lower likelihood of dying at home compared to non-PC recipients. The majority of PC was received in the inpatient setting and was initiated in the last 6 months of life. Gastrostomy and/or tracheostomy tube placement occurred in 11% of patients in the last year of life and was associated with increased costs that were partially mitigated by early (&amp;gt;6 months before death) PC involvement. The authors conclude that early PC involvement may attenuate the costs associated with tracheostomy and gastrostomy tube use in the last year of life but that it does not reduce the use of aggressive hospital-based care or facilitate home deaths. These findings highlight the high symptom burden associated with HNC end-of-life care and demonstrate gaps in the current delivery of PC to this population.</description>
+<author>Christine G. Gourin; Thomas J. Smith; Rebecca A. Gersten</author>
+<description>Journal: JAMA Otolaryngology–Head &amp;amp; Neck Surgery | DOI: 10.1001/jamaoto.2025.2688</description>
+<content:encoded><![CDATA[
+<p><strong>Abstract</strong></p>
+<p>In this issue of JAMA Otolaryngology–Head and Neck Surgery, Fu et al used data from the Ontario Cancer Registry to evaluate palliative care (PC) use in 11 135 patients with head and neck cancer (HNC) during their last year of life. They found that PC was utilized in 90% of patients and was associated with increased monthly costs at the end of life, a greater number of emergency department visits and hospital admissions, and a lower likelihood of dying at home compared to non-PC recipients. The majority of PC was received in the inpatient setting and was initiated in the last 6 months of life. Gastrostomy and/or tracheostomy tube placement occurred in 11% of patients in the last year of life and was associated with increased costs that were partially mitigated by early (&gt;6 months before death) PC involvement. The authors conclude that early PC involvement may attenuate the costs associated with tracheostomy and gastrostomy tube use in the last year of life but that it does not reduce the use of aggressive hospital-based care or facilitate home deaths. These findings highlight the high symptom burden associated with HNC end-of-life care and demonstrate gaps in the current delivery of PC to this population.</p>
+]]></content:encoded>
 </item>
 <item>
 <title>Palliative Care With Tube Use and End-of-Life Quality and Costs in Head and Neck Cancer</title>
 <link>https://doi.org/10.1001/jamaoto.2025.2687</link>
 <guid isPermaLink='true'>https://doi.org/10.1001/jamaoto.2025.2687</guid>
 <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
-<description>Journal: JAMA Otolaryngology–Head &amp;amp; Neck Surgery
-DOI: 10.1001/jamaoto.2025.2687
-Authors: Rui Fu, Rinku Sutradhar, Qing Li, Noémie Villemure-Poliquin, Kelvin K. W. Chan, Irene Karam, Julie Hallet, Antoine Eskander
-
-Abstract:
-&lt;jats:sec id=&quot;ab-ooi250055-4&quot;&gt;
-                    &lt;jats:title&gt;Importance&lt;/jats:title&gt;
-                    &lt;jats:p&gt;Patients with head and neck cancer (HNC) have high utilization rates of tracheostomy or gastrostomy tubes (g-tubes) at the end of life, with accompanying high costs. It is unknown whether the timing of palliative care (PC) initiation may attenuate the cost or be associated with better quality of life during the last year and more home deaths.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250055-5&quot;&gt;
-                    &lt;jats:title&gt;Objective&lt;/jats:title&gt;
-                    &lt;jats:p&gt;To assess the association of palliative care (first exposure) and tracheostomy or g-tube utilization with end-of-life costs among patients with head and neck cancer during the last year of life.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250055-6&quot;&gt;
-                    &lt;jats:title&gt;Design, Setting, and Population&lt;/jats:title&gt;
-                    &lt;jats:p&gt;This was a population-based cohort study of adults diagnosed with HNC between January 1, 2007, and December 31, 2022, who died before October 1, 2023, in Ontario, Canada. Health administrative data were deterministically linked and analyzed at the ICES (formerly Institute for Clinical Evaluative Sciences). Data analysis was conducted from January 2024 to June 2025.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250055-7&quot;&gt;
-                    &lt;jats:title&gt;Exposures&lt;/jats:title&gt;
-                    &lt;jats:p&gt;Timing of PC, categorized as early (12 to 6 months before death), late (&amp;amp;amp;lt;6 months before death), and none (no PC during last year of life), was combined with tracheostomy tube use (binary) to form a 6-level categorical variable. This procedure was repeated for g-tube.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250055-8&quot;&gt;
-                    &lt;jats:title&gt;Main Outcomes&lt;/jats:title&gt;
-                    &lt;jats:p&gt;Mean monthly health care costs in last 6 months of life were estimated using a patient-level case-costing algorithm using 2023 CAD$ (CAD$ 1.00 = US$ 0.74) and evaluated by negative binomial regression.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250055-9&quot;&gt;
-                    &lt;jats:title&gt;Results&lt;/jats:title&gt;
-                    &lt;jats:p&gt;The analysis included 11 135 adults who received a diagnosis of HNC from 2007 to 2022 and died before October 1, 2023. They had a mean (SD) age of 68.4 (12.1) years at diagnosis and 8245 were male (74.0%). Nearly 90% received PC: 5866 (52.6%), late PC; 4093 (36.8%), early PC; and 1176 (10.6%) did not receive PC. Regarding tracheostomy/g-tube use in the last year of life, 1293 (11.6%) used a tracheostomy and 1235 (11.1%), a g-tube. Compared to those who did not receive PC nor use a tracheostomy tube, the cost increase on using a tracheostomy tube (rate ratio [RR] 2.93; 95% CI, 2.32-3.71) was higher than using it with early PC (RR, 2.88; 95% CI, 2.63-3.15) but lower than using it with late PC (RR 4.37; 95% CI, 4.00-4.77); results were similar for g-tube use. A large proportion of the cohort had an emergency department visit (9109 [81%]) or a non-PC hospital admission (5419 [48.7%]) in last 6 months of life, with both proportions being the lowest among nonrecipients of PC. Early PC was associated with a 46.8% lower likelihood (odd ratio, 0.53; 95% CI, 0.45-0.63) of experiencing a home death than no PC.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250055-10&quot;&gt;
-                    &lt;jats:title&gt;Conclusions and Relevance&lt;/jats:title&gt;
-                    &lt;jats:p&gt;This cohort study found that receiving a tracheostomy/g-tube in last year of life has pronounced economic implications to the health care system. Early initiation of PC may attenuate this high cost but may not reduce the use of aggressive hospital-based care at the end of life or facilitate home deaths. Team-based early provision of PC for this patient population is required.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;</description>
+<author>Rui Fu; Rinku Sutradhar; Qing Li; Noémie Villemure-Poliquin; Kelvin K. W. Chan; Irene Karam; Julie Hallet; Antoine Eskander</author>
+<description>Journal: JAMA Otolaryngology–Head &amp;amp; Neck Surgery | DOI: 10.1001/jamaoto.2025.2687</description>
+<content:encoded><![CDATA[
+<p><strong>Abstract</strong></p>
+<p>Importance Patients with head and neck cancer (HNC) have high utilization rates of tracheostomy or gastrostomy tubes (g-tubes) at the end of life, with accompanying high costs. It is unknown whether the timing of palliative care (PC) initiation may attenuate the cost or be associated with better quality of life during the last year and more home deaths. Objective To assess the association of palliative care (first exposure) and tracheostomy or g-tube utilization with end-of-life costs among patients with head and neck cancer during the last year of life. Design, Setting, and Population This was a population-based cohort study of adults diagnosed with HNC between January 1, 2007, and December 31, 2022, who died before October 1, 2023, in Ontario, Canada. Health administrative data were deterministically linked and analyzed at the ICES (formerly Institute for Clinical Evaluative Sciences). Data analysis was conducted from January 2024 to June 2025. Exposures Timing of PC, categorized as early (12 to 6 months before death), late (&amp;amp;lt;6 months before death), and none (no PC during last year of life), was combined with tracheostomy tube use (binary) to form a 6-level categorical variable. This procedure was repeated for g-tube. Main Outcomes Mean monthly health care costs in last 6 months of life were estimated using a patient-level case-costing algorithm using 2023 CAD$ (CAD$ 1.00 = US$ 0.74) and evaluated by negative binomial regression. Results The analysis included 11 135 adults who received a diagnosis of HNC from 2007 to 2022 and died before October 1, 2023. They had a mean (SD) age of 68.4 (12.1) years at diagnosis and 8245 were male (74.0%). Nearly 90% received PC: 5866 (52.6%), late PC; 4093 (36.8%), early PC; and 1176 (10.6%) did not receive PC. Regarding tracheostomy/g-tube use in the last year of life, 1293 (11.6%) used a tracheostomy and 1235 (11.1%), a g-tube. Compared to those who did not receive PC nor use a tracheostomy tube, the cost increase on using a tracheostomy tube (rate ratio [RR] 2.93; 95% CI, 2.32-3.71) was higher than using it with early PC (RR, 2.88; 95% CI, 2.63-3.15) but lower than using it with late PC (RR 4.37; 95% CI, 4.00-4.77); results were similar for g-tube use. A large proportion of the cohort had an emergency department visit (9109 [81%]) or a non-PC hospital admission (5419 [48.7%]) in last 6 months of life, with both proportions being the lowest among nonrecipients of PC. Early PC was associated with a 46.8% lower likelihood (odd ratio, 0.53; 95% CI, 0.45-0.63) of experiencing a home death than no PC. Conclusions and Relevance This cohort study found that receiving a tracheostomy/g-tube in last year of life has pronounced economic implications to the health care system. Early initiation of PC may attenuate this high cost but may not reduce the use of aggressive hospital-based care at the end of life or facilitate home deaths. Team-based early provision of PC for this patient population is required.</p>
+]]></content:encoded>
 </item>
 <item>
 <title>Barriers and Timely Postoperative Radiation Therapy in Head and Neck Cancer</title>
 <link>https://doi.org/10.1001/jamaoto.2025.2824</link>
 <guid isPermaLink='true'>https://doi.org/10.1001/jamaoto.2025.2824</guid>
 <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
-<description>Journal: JAMA Otolaryngology–Head &amp;amp; Neck Surgery
-DOI: 10.1001/jamaoto.2025.2824
-Authors: Megan T. Nguyen, Emily Kistner-Griffin, Reid DeMass, Bhisham S. Chera, Chanita Hughes Halbert, Katherine R. Sterba, Elizabeth G. Hill, Brian Nussenbaum, Anthony J. Alberg, Vlad C. Sandulache, David J. Hernandez, Ryan S. Jackson, Sidharth V. Puram, Russel Kahmke, Nosayaba Osazuwa-Peters, Gail Jackson, Sue S. Yom, Evan M. Graboyes
-
-Abstract:
-&lt;jats:sec id=&quot;ab-ooi250058-4&quot;&gt;
-                    &lt;jats:title&gt;Importance&lt;/jats:title&gt;
-                    &lt;jats:p&gt;Initiation of postoperative radiation therapy (PORT) within 6 weeks of surgery is associated with improved outcomes among patients with head and neck squamous cell carcinoma. However, the relationship of barriers to care with timely PORT is unknown.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250058-5&quot;&gt;
-                    &lt;jats:title&gt;Objective&lt;/jats:title&gt;
-                    &lt;jats:p&gt;To categorize barriers to timely PORT, evaluate the association of barriers to care with initiation of timely PORT, and describe the primary reason for delay among patients without timely PORT.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250058-6&quot;&gt;
-                    &lt;jats:title&gt;Design, Setting, and Participants&lt;/jats:title&gt;
-                    &lt;jats:p&gt;This prospective cohort study at a US academic medical center included adults with head and neck squamous cell carcinoma undergoing curative-intent surgery with an indication for PORT. Patients were recruited for the study from May 19, 2020, to November 6, 2023.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250058-7&quot;&gt;
-                    &lt;jats:title&gt;Main Outcomes and Measures&lt;/jats:title&gt;
-                    &lt;jats:p&gt;The primary outcome was initiation of timely PORT, defined as starting radiation therapy within 6 weeks of surgery. Barriers to PORT were prospectively collected via patient self-report and the electronic health record. Among patients who did not start PORT within 6 weeks of surgery, the primary reason for delay was defined as the singular barrier category that most directly led to the delay.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250058-8&quot;&gt;
-                    &lt;jats:title&gt;Results&lt;/jats:title&gt;
-                    &lt;jats:p&gt;Among 78 patients (mean [SD] age, 61.5 [10.8] years; 54 males [69.2%]), 32 patients (41%) initiated PORT within 6 weeks of surgery, and 46 patients (59%) did not initiate PORT within 6 weeks of surgery. Each additional barrier was associated with a decreased odds of initiating timely PORT (adjusted odds ratio, 0.81 [95% CI, 0.63-1.01]); patients with 5 or more barriers had a 76% reduction in the odds of starting PORT within 6 weeks of surgery relative to those with 0 to 2 barriers (adjusted odds ratio, 0.24 [95 CI%, 0.06-0.84]) on multivariable analysis. When analyzed by barrier category, patients with a perioperative adverse effects–related barrier were less likely to initiate timely PORT than patients without a perioperative adverse effects barrier (adjusted odds ratio, 0.17 [95% CI, 0.04-0.66]) on multivariable analysis. Among patients without timely PORT, the most common primary reason for delay was a barrier related to poor care coordination (19/46 [41.3%]).&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250058-9&quot;&gt;
-                    &lt;jats:title&gt;Conclusions and Relevance&lt;/jats:title&gt;
-                    &lt;jats:p&gt;In this prospective cohort study, patients with a greater number of barriers and those with a barrier related to the perioperative adverse effects category were less likely to initiate timely PORT. Among patients without timely PORT, the most common primary reason for delay was a barrier related to poor care coordination. Efforts to improve timely PORT should focus on decreasing the number of barriers, improving surgical quality, and enhancing care coordination.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;</description>
+<author>Megan T. Nguyen; Emily Kistner-Griffin; Reid DeMass; Bhisham S. Chera; Chanita Hughes Halbert; Katherine R. Sterba; Elizabeth G. Hill; Brian Nussenbaum; Anthony J. Alberg; Vlad C. Sandulache; David J. Hernandez; Ryan S. Jackson; Sidharth V. Puram; Russel Kahmke; Nosayaba Osazuwa-Peters; Gail Jackson; Sue S. Yom; Evan M. Graboyes</author>
+<description>Journal: JAMA Otolaryngology–Head &amp;amp; Neck Surgery | DOI: 10.1001/jamaoto.2025.2824</description>
+<content:encoded><![CDATA[
+<p><strong>Abstract</strong></p>
+<p>Importance Initiation of postoperative radiation therapy (PORT) within 6 weeks of surgery is associated with improved outcomes among patients with head and neck squamous cell carcinoma. However, the relationship of barriers to care with timely PORT is unknown. Objective To categorize barriers to timely PORT, evaluate the association of barriers to care with initiation of timely PORT, and describe the primary reason for delay among patients without timely PORT. Design, Setting, and Participants This prospective cohort study at a US academic medical center included adults with head and neck squamous cell carcinoma undergoing curative-intent surgery with an indication for PORT. Patients were recruited for the study from May 19, 2020, to November 6, 2023. Main Outcomes and Measures The primary outcome was initiation of timely PORT, defined as starting radiation therapy within 6 weeks of surgery. Barriers to PORT were prospectively collected via patient self-report and the electronic health record. Among patients who did not start PORT within 6 weeks of surgery, the primary reason for delay was defined as the singular barrier category that most directly led to the delay. Results Among 78 patients (mean [SD] age, 61.5 [10.8] years; 54 males [69.2%]), 32 patients (41%) initiated PORT within 6 weeks of surgery, and 46 patients (59%) did not initiate PORT within 6 weeks of surgery. Each additional barrier was associated with a decreased odds of initiating timely PORT (adjusted odds ratio, 0.81 [95% CI, 0.63-1.01]); patients with 5 or more barriers had a 76% reduction in the odds of starting PORT within 6 weeks of surgery relative to those with 0 to 2 barriers (adjusted odds ratio, 0.24 [95 CI%, 0.06-0.84]) on multivariable analysis. When analyzed by barrier category, patients with a perioperative adverse effects–related barrier were less likely to initiate timely PORT than patients without a perioperative adverse effects barrier (adjusted odds ratio, 0.17 [95% CI, 0.04-0.66]) on multivariable analysis. Among patients without timely PORT, the most common primary reason for delay was a barrier related to poor care coordination (19/46 [41.3%]). Conclusions and Relevance In this prospective cohort study, patients with a greater number of barriers and those with a barrier related to the perioperative adverse effects category were less likely to initiate timely PORT. Among patients without timely PORT, the most common primary reason for delay was a barrier related to poor care coordination. Efforts to improve timely PORT should focus on decreasing the number of barriers, improving surgical quality, and enhancing care coordination.</p>
+]]></content:encoded>
 </item>
 <item>
 <title>Preexisting Psychiatric Risk Factors and Any and Long-Term Opioid Use in Head and Neck Cancer</title>
 <link>https://doi.org/10.1001/jamaoto.2025.2649</link>
 <guid isPermaLink='true'>https://doi.org/10.1001/jamaoto.2025.2649</guid>
 <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
-<description>Journal: JAMA Otolaryngology–Head &amp;amp; Neck Surgery
-DOI: 10.1001/jamaoto.2025.2649
-Authors: Nosayaba Osazuwa-Peters, May Z. Gao, Russel R. Kahmke, Shreya P. Ramkumar, Nicole E. Bates, Jeffrey F. Scherrer
-
-Abstract:
-&lt;jats:sec id=&quot;ab-ooi250054-4&quot;&gt;
-                    &lt;jats:title&gt;Introduction&lt;/jats:title&gt;
-                    &lt;jats:p&gt;Head and neck cancer (HNC), one of the most emotionally distressing cancers, carries a significant burden of psychiatric comorbidities. While opioids are commonly prescribed in cancer care, the association between preexisting psychiatric risk factors and prescription opioid use in HNC remains unclear.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250054-5&quot;&gt;
-                    &lt;jats:title&gt;Objective&lt;/jats:title&gt;
-                    &lt;jats:p&gt;To test the hypothesis that preexisting psychiatric risk factors are associated with any opioid prescription and long-term opioid therapy in patients with HNC.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250054-6&quot;&gt;
-                    &lt;jats:title&gt;Design, Setting, and Participants&lt;/jats:title&gt;
-                    &lt;jats:p&gt;This retrospective longitudinal cohort study used deidentified data from the Optum electronic health record database, comprising a random sample of 5 million patients across the US between January 2010 and December 2018. Eligible patients were adults diagnosed with HNC. Using a 2-year look-back prior to the index date of HNC diagnosis, patients who used prescription opioids prior to HNC diagnosis were excluded. The data analysis was conducted between July 2022 and July 2023.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250054-7&quot;&gt;
-                    &lt;jats:title&gt;Main Outcomes and Measures&lt;/jats:title&gt;
-                    &lt;jats:p&gt;Outcomes of interest were receipt of any prescription opioid within 12 months of index HNC and long-term opioid therapy (LTOT), defined as 10 or more opioid prescriptions within 12 months of index HNC. Psychiatric risk factors included anxiety disorders, depression, smoking/nicotine dependence, substance use disorders, and benzodiazepine prescription. Multivariate logistic regression estimated the odds of opioid use based on preexisting psychiatric factors.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250054-8&quot;&gt;
-                    &lt;jats:title&gt;Results&lt;/jats:title&gt;
-                    &lt;jats:p&gt;Of 20 286 patients with an HNC diagnosis, 11 335 met all eligibility criteria. Patients in the analytic cohort had a mean (SD) age of 57.1 (15.5) years, and 55.4% were female. Within 12 months of HNC diagnosis, 23.4% received an opioid prescription, and 4.9% received LTOT. In fully adjusted models, depression (adjusted odds ratio [aOR], 1.21; 95% CI, 1.01-1.45), nicotine dependence (aOR, 1.56; 95% CI, 1.40-1.73), and benzodiazepine comedication (aOR, 1.44; 95% CI, 1.22-1.70) were associated with increased odds of receiving any opioid prescription. Furthermore, male patients had 49% greater odds of receiving opioid prescriptions (aOR, 1.49; 95% CI, 1.36-1.64). Only smoking/nicotine dependence was associated with increased odds of LTOT (aOR, 1.77; 95% CI, 1.21-2.61).&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250054-9&quot;&gt;
-                    &lt;jats:title&gt;Conclusions and Relevance&lt;/jats:title&gt;
-                    &lt;jats:p&gt;Preexisting psychiatric comorbidities, especially depression and smoking/nicotine dependence, were associated with increased odds of prescription opioid use and LTOT in patients with HNC in this longitudinal cohort study. Screening for these comorbidities during the management of patients with HNC can be impactful in informing clinical decisions that contribute to safer opioid prescribing.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;</description>
+<author>Nosayaba Osazuwa-Peters; May Z. Gao; Russel R. Kahmke; Shreya P. Ramkumar; Nicole E. Bates; Jeffrey F. Scherrer</author>
+<description>Journal: JAMA Otolaryngology–Head &amp;amp; Neck Surgery | DOI: 10.1001/jamaoto.2025.2649</description>
+<content:encoded><![CDATA[
+<p><strong>Abstract</strong></p>
+<p>Introduction Head and neck cancer (HNC), one of the most emotionally distressing cancers, carries a significant burden of psychiatric comorbidities. While opioids are commonly prescribed in cancer care, the association between preexisting psychiatric risk factors and prescription opioid use in HNC remains unclear. Objective To test the hypothesis that preexisting psychiatric risk factors are associated with any opioid prescription and long-term opioid therapy in patients with HNC. Design, Setting, and Participants This retrospective longitudinal cohort study used deidentified data from the Optum electronic health record database, comprising a random sample of 5 million patients across the US between January 2010 and December 2018. Eligible patients were adults diagnosed with HNC. Using a 2-year look-back prior to the index date of HNC diagnosis, patients who used prescription opioids prior to HNC diagnosis were excluded. The data analysis was conducted between July 2022 and July 2023. Main Outcomes and Measures Outcomes of interest were receipt of any prescription opioid within 12 months of index HNC and long-term opioid therapy (LTOT), defined as 10 or more opioid prescriptions within 12 months of index HNC. Psychiatric risk factors included anxiety disorders, depression, smoking/nicotine dependence, substance use disorders, and benzodiazepine prescription. Multivariate logistic regression estimated the odds of opioid use based on preexisting psychiatric factors. Results Of 20 286 patients with an HNC diagnosis, 11 335 met all eligibility criteria. Patients in the analytic cohort had a mean (SD) age of 57.1 (15.5) years, and 55.4% were female. Within 12 months of HNC diagnosis, 23.4% received an opioid prescription, and 4.9% received LTOT. In fully adjusted models, depression (adjusted odds ratio [aOR], 1.21; 95% CI, 1.01-1.45), nicotine dependence (aOR, 1.56; 95% CI, 1.40-1.73), and benzodiazepine comedication (aOR, 1.44; 95% CI, 1.22-1.70) were associated with increased odds of receiving any opioid prescription. Furthermore, male patients had 49% greater odds of receiving opioid prescriptions (aOR, 1.49; 95% CI, 1.36-1.64). Only smoking/nicotine dependence was associated with increased odds of LTOT (aOR, 1.77; 95% CI, 1.21-2.61). Conclusions and Relevance Preexisting psychiatric comorbidities, especially depression and smoking/nicotine dependence, were associated with increased odds of prescription opioid use and LTOT in patients with HNC in this longitudinal cohort study. Screening for these comorbidities during the management of patients with HNC can be impactful in informing clinical decisions that contribute to safer opioid prescribing.</p>
+]]></content:encoded>
 </item>
 <item>
 <title>Unilateral vs Bilateral Transoral Surgery for Tonsil SCCa</title>
 <link>https://doi.org/10.1001/jamaoto.2025.2235</link>
 <guid isPermaLink='true'>https://doi.org/10.1001/jamaoto.2025.2235</guid>
 <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
-<description>Journal: JAMA Otolaryngology–Head &amp;amp; Neck Surgery
-DOI: 10.1001/jamaoto.2025.2235
-Authors: Andrew M. Peterson, Lucas Cruz, Michael P. Wu, Spencer R. Bockover, Dorina Kallogjeri, Lauren H. Yaeger, Alex Harbison, Paul Zolkind, Jason T. Rich, Patrik Pipkorn, Randal C. Paniello, Sidharth V. Puram, Ryan S. Jackson
-
-Abstract:
-&lt;jats:sec&gt;
-                    &lt;jats:title&gt;Importance&lt;/jats:title&gt;
-                    &lt;jats:p&gt;Transoral surgery via a radical tonsillectomy followed by pathology-guided adjuvant therapy is standard of care for tonsillar squamous cell carcinoma (SCCa). There is significant variation in the management of the contralateral tonsil without clinical evidence of disease.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec&gt;
-                    &lt;jats:title&gt;Objective&lt;/jats:title&gt;
-                    &lt;jats:p&gt;To assess the second primary tumor rates, oncologic survival, functional outcomes, and complications between bilateral and unilateral transoral surgery for tonsillar SCCa.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec&gt;
-                    &lt;jats:title&gt;Data Sources&lt;/jats:title&gt;
-                    &lt;jats:p&gt;A search of Embase, Ovid MEDLINE, Scopus, and Cochrane was performed on September 11, 2024.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec&gt;
-                    &lt;jats:title&gt;Study Selection&lt;/jats:title&gt;
-                    &lt;jats:p&gt;Inclusion criteria were studies with more than 10 adults undergoing transoral surgery for unilateral tonsillar SCCa reporting at least 1 primary or secondary outcome. Screening of abstracts and full texts along with data extraction were performed in duplicate.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec&gt;
-                    &lt;jats:title&gt;Data Extraction and Synthesis&lt;/jats:title&gt;
-                    &lt;jats:p&gt;
-                      The Meta-analysis of Observational Studies in Epidemiology (
-                      &lt;jats:ext-link xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; ext-link-type=&quot;uri&quot; xlink:href=&quot;https://www.equator-network.org/reporting-guidelines/meta-analysis-of-observational-studies-in-epidemiology-a-proposal-for-reporting-meta-analysis-of-observational-studies-in-epidemiology-moose-group/&quot;&gt;MOOSE&lt;/jats:ext-link&gt;
-                      ) reporting guideline was followed. Data were pooled using a random-effects model.
-                    &lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec&gt;
-                    &lt;jats:title&gt;Main Outcomes and Measures&lt;/jats:title&gt;
-                    &lt;jats:p&gt;The primary outcome measure was the synchronous and metachronous contralateral tonsil second primary tumor rates. Secondary outcome measures were between-group differences in oropharyngeal hemorrhage and gastrostomy tube dependence rates and 2-year and 5-year overall survival (OS) and disease-free survival (DFS).&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec&gt;
-                    &lt;jats:title&gt;Results&lt;/jats:title&gt;
-                    &lt;jats:p&gt;
-                      Of 136 unique citations identified, 11 studies were included, representing a total of 1486 patients (634 bilateral surgery, 852 unilateral surgery). The synchronous contralateral tonsil second primary tumor rate in the bilateral surgery group was 4.0% (95% CI, 2.0%-5.0%;
-                      &lt;jats:italic&gt;I&lt;/jats:italic&gt;
-                      &lt;jats:sup&gt;2&lt;/jats:sup&gt;
-                       = 0.05%). The metachronous contralateral tonsil second primary tumor rate in the unilateral surgery group was 0.1% (95% CI, 0%-1%;
-                      &lt;jats:italic&gt;I&lt;/jats:italic&gt;
-                      &lt;jats:sup&gt;2&lt;/jats:sup&gt;
-                       = 0.04%). There were no between-group differences in oropharyngeal bleeding rate (−0.2% [95% CI, −5.6% to 5.3%]) or gastrostomy tube dependence rate (−0.5% [95% CI, −5.2% to 4.3%]). The 2-year and 5-year pooled OS proportion differences between the bilateral surgery and unilateral surgery groups were 3.6% (95% CI, −2.2% to 9.4%) and 5.3% (95% CI, −3.8% to 14.4%), respectively. The 2-year and 5-year pooled DFS proportion differences between the bilateral surgery and unilateral surgery groups were −0.5% (95% CI, −6.5% to 5.4%) and 11.1% (95% CI, 1.6%-20.5%), respectively.
-                    &lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec&gt;
-                    &lt;jats:title&gt;Conclusions and Relevance&lt;/jats:title&gt;
-                    &lt;jats:p&gt;This systematic review and meta-analysis suggests that omission of contralateral elective extracapsular tonsillectomy in tonsillar SCCa is safe with markedly low metachronous contralateral tonsillar second primary tumor rates and no compromise in survival. The decision to perform a simultaneous contralateral extracapsular tonsillectomy can be addressed via clinician-patient shared decision-making with consideration of its pros and cons.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;</description>
+<author>Andrew M. Peterson; Lucas Cruz; Michael P. Wu; Spencer R. Bockover; Dorina Kallogjeri; Lauren H. Yaeger; Alex Harbison; Paul Zolkind; Jason T. Rich; Patrik Pipkorn; Randal C. Paniello; Sidharth V. Puram; Ryan S. Jackson</author>
+<description>Journal: JAMA Otolaryngology–Head &amp;amp; Neck Surgery | DOI: 10.1001/jamaoto.2025.2235</description>
+<content:encoded><![CDATA[
+<p><strong>Abstract</strong></p>
+<p>Importance Transoral surgery via a radical tonsillectomy followed by pathology-guided adjuvant therapy is standard of care for tonsillar squamous cell carcinoma (SCCa). There is significant variation in the management of the contralateral tonsil without clinical evidence of disease. Objective To assess the second primary tumor rates, oncologic survival, functional outcomes, and complications between bilateral and unilateral transoral surgery for tonsillar SCCa. Data Sources A search of Embase, Ovid MEDLINE, Scopus, and Cochrane was performed on September 11, 2024. Study Selection Inclusion criteria were studies with more than 10 adults undergoing transoral surgery for unilateral tonsillar SCCa reporting at least 1 primary or secondary outcome. Screening of abstracts and full texts along with data extraction were performed in duplicate. Data Extraction and Synthesis The Meta-analysis of Observational Studies in Epidemiology ( MOOSE ) reporting guideline was followed. Data were pooled using a random-effects model. Main Outcomes and Measures The primary outcome measure was the synchronous and metachronous contralateral tonsil second primary tumor rates. Secondary outcome measures were between-group differences in oropharyngeal hemorrhage and gastrostomy tube dependence rates and 2-year and 5-year overall survival (OS) and disease-free survival (DFS). Results Of 136 unique citations identified, 11 studies were included, representing a total of 1486 patients (634 bilateral surgery, 852 unilateral surgery). The synchronous contralateral tonsil second primary tumor rate in the bilateral surgery group was 4.0% (95% CI, 2.0%-5.0%; I 2 = 0.05%). The metachronous contralateral tonsil second primary tumor rate in the unilateral surgery group was 0.1% (95% CI, 0%-1%; I 2 = 0.04%). There were no between-group differences in oropharyngeal bleeding rate (−0.2% [95% CI, −5.6% to 5.3%]) or gastrostomy tube dependence rate (−0.5% [95% CI, −5.2% to 4.3%]). The 2-year and 5-year pooled OS proportion differences between the bilateral surgery and unilateral surgery groups were 3.6% (95% CI, −2.2% to 9.4%) and 5.3% (95% CI, −3.8% to 14.4%), respectively. The 2-year and 5-year pooled DFS proportion differences between the bilateral surgery and unilateral surgery groups were −0.5% (95% CI, −6.5% to 5.4%) and 11.1% (95% CI, 1.6%-20.5%), respectively. Conclusions and Relevance This systematic review and meta-analysis suggests that omission of contralateral elective extracapsular tonsillectomy in tonsillar SCCa is safe with markedly low metachronous contralateral tonsillar second primary tumor rates and no compromise in survival. The decision to perform a simultaneous contralateral extracapsular tonsillectomy can be addressed via clinician-patient shared decision-making with consideration of its pros and cons.</p>
+]]></content:encoded>
 </item>
 <item>
 <title>Emerging Role of Pathologic Response in Head and Neck Squamous Cell Carcinoma Immunotherapy</title>
 <link>https://doi.org/10.1001/jamaoto.2025.2111</link>
 <guid isPermaLink='true'>https://doi.org/10.1001/jamaoto.2025.2111</guid>
 <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
-<description>Journal: JAMA Otolaryngology–Head &amp;amp; Neck Surgery
-DOI: 10.1001/jamaoto.2025.2111
-Authors: Ashish Dahal, Ravindra Uppaluri, Trisha M. Wise-Draper
-
-Abstract:
-Immune checkpoint inhibitors (ICIs) have transformed the treatment of recurrent and metastatic head and neck squamous cell carcinoma (HNSCC), but combination studies in the definitive disease setting with concurrent chemoradiation have been disappointing. New results from the KEYNOTE-689 phase 3 trial suggest the addition of neoadjuvant followed by adjuvant pembrolizumab in the perioperative setting may represent a new standard of care for resectable locally advanced HNSCC. Pembrolizumab improved event-free survival (EFS) by a median of 21.4 months compared to standard therapy. This trial also established safety in the surgical setting; similar proportions of patients in both the treatment and control arms successfully completed surgery. These findings may transform the treatment landscape of resectable locally advanced HNSCC, where current 3-year progression-free survival remains between 49% and 64%. While the contribution of components, neoadjuvant and/or adjuvant, in KEYNOTE-689 remains undefined, identifying which patients are most likely to benefit from ICI therapy in the definitive setting is an important goal.</description>
+<author>Ashish Dahal; Ravindra Uppaluri; Trisha M. Wise-Draper</author>
+<description>Journal: JAMA Otolaryngology–Head &amp;amp; Neck Surgery | DOI: 10.1001/jamaoto.2025.2111</description>
+<content:encoded><![CDATA[
+<p><strong>Abstract</strong></p>
+<p>Immune checkpoint inhibitors (ICIs) have transformed the treatment of recurrent and metastatic head and neck squamous cell carcinoma (HNSCC), but combination studies in the definitive disease setting with concurrent chemoradiation have been disappointing. New results from the KEYNOTE-689 phase 3 trial suggest the addition of neoadjuvant followed by adjuvant pembrolizumab in the perioperative setting may represent a new standard of care for resectable locally advanced HNSCC. Pembrolizumab improved event-free survival (EFS) by a median of 21.4 months compared to standard therapy. This trial also established safety in the surgical setting; similar proportions of patients in both the treatment and control arms successfully completed surgery. These findings may transform the treatment landscape of resectable locally advanced HNSCC, where current 3-year progression-free survival remains between 49% and 64%. While the contribution of components, neoadjuvant and/or adjuvant, in KEYNOTE-689 remains undefined, identifying which patients are most likely to benefit from ICI therapy in the definitive setting is an important goal.</p>
+]]></content:encoded>
 </item>
 <item>
 <title>Pathologic Treatment Effect and Survival in HPV-Negative HNSCC Following Neoadjuvant Nivolumab</title>
 <link>https://doi.org/10.1001/jamaoto.2025.1707</link>
 <guid isPermaLink='true'>https://doi.org/10.1001/jamaoto.2025.1707</guid>
 <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
-<description>Journal: JAMA Otolaryngology–Head &amp;amp; Neck Surgery
-DOI: 10.1001/jamaoto.2025.1707
-Authors: Annie E. Moroco, Kathryn Nunes, Angela Alnemri, Kelly Bridgham, Pablo Llerena, Madalina Tuluc, Stacey Gargano, Tingting Zhan, Arielle G. Thal, David M. Cognetti, Joseph M. Curry, Jennifer M. Johnson, Adam J. Luginbuhl
-
-Abstract:
-&lt;jats:sec&gt;
-                    &lt;jats:title&gt;Importance&lt;/jats:title&gt;
-                    &lt;jats:p&gt;Neoadjuvant immunotherapy shows promise in the treatment of head and neck squamous cell carcinoma (HNSCC). Pathologic treatment effect (pTE) is one way to assess response to treatment; however, the association of this response with survival outcomes is not yet clear. The current study sought to determine whether treatment response to neoadjuvant nivolumab, as measured by pTE, correlates with survival outcomes.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec&gt;
-                    &lt;jats:title&gt;Objective&lt;/jats:title&gt;
-                    &lt;jats:p&gt;To determine whether patients with HNSCC with pathologic response to neoadjuvant nivolumab have improved survival outcomes.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec&gt;
-                    &lt;jats:title&gt;Design, Setting, and Participants&lt;/jats:title&gt;
-                    &lt;jats:p&gt;
-                      A cohort study performing a pooled analysis of 2 multi-institutional neoadjuvant clinical trials (
-                      &lt;jats:ext-link xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; ext-link-type=&quot;uri&quot; xlink:href=&quot;https://pubmed.ncbi.nlm.nih.gov/34911681/&quot;&gt;NCT03238365&lt;/jats:ext-link&gt;
-                      ,
-                      &lt;jats:ext-link xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; ext-link-type=&quot;uri&quot; xlink:href=&quot;https://ascopubs.org/doi/10.1200/JCO.2022.40.16_suppl.6070&quot;&gt;NCT03854032&lt;/jats:ext-link&gt;
-                      ) enrolling patients from July 2017 to January 2022, was performed. Patients with resectable HNSCC enrolled in 1 of 2 clinical trials and treated with neoadjuvant immunotherapy and surgical resection were included in the analysis. Patients were followed up for a median (range) of 36 (4-72) months. Analysis took place on April 15, 2024.
-                    &lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec&gt;
-                    &lt;jats:title&gt;Intervention&lt;/jats:title&gt;
-                    &lt;jats:p&gt;Patients were treated with neoadjuvant nivolumab with or without the addition of immunomodulating medications (tadalafil or indoleamine 2,3 dioxygenase inhibitor).&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec&gt;
-                    &lt;jats:title&gt;Main Outcome and Measure&lt;/jats:title&gt;
-                    &lt;jats:p&gt;Pooled analysis was performed to plot Kaplan-Meier 3-year survival outcomes for pTE responders and low or nonresponders. A pTE response threshold was determined using recursive partitioning analysis.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec&gt;
-                    &lt;jats:title&gt;Results&lt;/jats:title&gt;
-                    &lt;jats:p&gt;Seventy-nine patients were included in the analysis, of whom 40 (51%) had human papillomavirus (HPV)–negative disease. Recursive partitioning analysis identified a pTE threshold of 57%, which was used to define pathologic responders vs low or nonresponders. Pathologic responders with HPV-negative disease had significantly improved disease-free survival (100% for responders vs 66.8% for low or nonresponders; 95% CI, 46.1%-80.6%) and overall survival (100% for responders vs 73.3% for low or nonresponders; 95% CI, 53.4%-85.7%). In patients with HPV-positive disease, disease-free survival was high for both responders (90%; 95% CI, 47.3%-98.5%) and low or nonresponders (92.4%; 95% CI, 72.8%-98.1%).&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec&gt;
-                    &lt;jats:title&gt;Conclusion and Relevance&lt;/jats:title&gt;
-                    &lt;jats:p&gt;This cohort study found that patients with HPV-negative disease who are deemed pathologic responders (pTE &amp;amp;amp;gt;57%) to neoadjuvant nivolumab may have improved survival outcomes compared with those who are low or nonresponders. Not only does this suggest a role for using pathologic response as a surrogate marker, but it further highlights the neoadjuvant strategy in HNSCC as associated with improved survival.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;</description>
+<author>Annie E. Moroco; Kathryn Nunes; Angela Alnemri; Kelly Bridgham; Pablo Llerena; Madalina Tuluc; Stacey Gargano; Tingting Zhan; Arielle G. Thal; David M. Cognetti; Joseph M. Curry; Jennifer M. Johnson; Adam J. Luginbuhl</author>
+<description>Journal: JAMA Otolaryngology–Head &amp;amp; Neck Surgery | DOI: 10.1001/jamaoto.2025.1707</description>
+<content:encoded><![CDATA[
+<p><strong>Abstract</strong></p>
+<p>Importance Neoadjuvant immunotherapy shows promise in the treatment of head and neck squamous cell carcinoma (HNSCC). Pathologic treatment effect (pTE) is one way to assess response to treatment; however, the association of this response with survival outcomes is not yet clear. The current study sought to determine whether treatment response to neoadjuvant nivolumab, as measured by pTE, correlates with survival outcomes. Objective To determine whether patients with HNSCC with pathologic response to neoadjuvant nivolumab have improved survival outcomes. Design, Setting, and Participants A cohort study performing a pooled analysis of 2 multi-institutional neoadjuvant clinical trials ( NCT03238365 , NCT03854032 ) enrolling patients from July 2017 to January 2022, was performed. Patients with resectable HNSCC enrolled in 1 of 2 clinical trials and treated with neoadjuvant immunotherapy and surgical resection were included in the analysis. Patients were followed up for a median (range) of 36 (4-72) months. Analysis took place on April 15, 2024. Intervention Patients were treated with neoadjuvant nivolumab with or without the addition of immunomodulating medications (tadalafil or indoleamine 2,3 dioxygenase inhibitor). Main Outcome and Measure Pooled analysis was performed to plot Kaplan-Meier 3-year survival outcomes for pTE responders and low or nonresponders. A pTE response threshold was determined using recursive partitioning analysis. Results Seventy-nine patients were included in the analysis, of whom 40 (51%) had human papillomavirus (HPV)–negative disease. Recursive partitioning analysis identified a pTE threshold of 57%, which was used to define pathologic responders vs low or nonresponders. Pathologic responders with HPV-negative disease had significantly improved disease-free survival (100% for responders vs 66.8% for low or nonresponders; 95% CI, 46.1%-80.6%) and overall survival (100% for responders vs 73.3% for low or nonresponders; 95% CI, 53.4%-85.7%). In patients with HPV-positive disease, disease-free survival was high for both responders (90%; 95% CI, 47.3%-98.5%) and low or nonresponders (92.4%; 95% CI, 72.8%-98.1%). Conclusion and Relevance This cohort study found that patients with HPV-negative disease who are deemed pathologic responders (pTE &amp;amp;gt;57%) to neoadjuvant nivolumab may have improved survival outcomes compared with those who are low or nonresponders. Not only does this suggest a role for using pathologic response as a surrogate marker, but it further highlights the neoadjuvant strategy in HNSCC as associated with improved survival.</p>
+]]></content:encoded>
 </item>
 <item>
 <title>Patients With Head and Neck Cancer and High Health Care Costs</title>
 <link>https://doi.org/10.1001/jamaoto.2025.1976</link>
 <guid isPermaLink='true'>https://doi.org/10.1001/jamaoto.2025.1976</guid>
 <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
-<description>Journal: JAMA Otolaryngology–Head &amp;amp; Neck Surgery
-DOI: 10.1001/jamaoto.2025.1976
-Authors: Noémie Villemure-Poliquin, Rui Fu, Qing Li, Kennedy Ayoo, Kelvin K. W. Chan, Irene Karam, Frances C. Wright, Natalie G. Coburn, Julie Hallet, Antoine Eskander
-
-Abstract:
-&lt;jats:sec id=&quot;ab-ooi250038-4&quot;&gt;
-                    &lt;jats:title&gt;Importance&lt;/jats:title&gt;
-                    &lt;jats:p&gt;The care for a small subset of patients is responsible for a disproportionately large share of health care expenditures. Head and neck cancer is associated with significant health care costs due to complex treatment regimens and long-term sequelae. Given this high baseline cost, identifying patients with high care costs within a population with cancer might help inform interventions to optimize resource allocation.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250038-5&quot;&gt;
-                    &lt;jats:title&gt;Objective&lt;/jats:title&gt;
-                    &lt;jats:p&gt;To characterize patients with head and neck cancer with the highest health care costs during the first year after diagnosis.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250038-6&quot;&gt;
-                    &lt;jats:title&gt;Design, Setting, and Participants&lt;/jats:title&gt;
-                    &lt;jats:p&gt;A population-based, retrospective cohort study was conducted using administrative data from the Institute for Clinical and Evaluative Sciences in Ontario, Canada, and included adults diagnosed with head and neck cancer between January 2007 and October 2020 (identified from the provincial cancer registry) with a full 1.5-year follow-up from the date of diagnosis to the date of death or October 31, 2021. The total 1-year health care costs were estimated using a patient-level algorithm and were collected in 2020 Canadian dollar values. The main analyses were performed in April 2023 and a sensitivity analysis was performed in April 2025.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250038-7&quot;&gt;
-                    &lt;jats:title&gt;Main Outcomes and Measures&lt;/jats:title&gt;
-                    &lt;jats:p&gt;High health care costs (&amp;amp;amp;gt;75th percentile) during the first year after a head and neck cancer diagnosis. Predictors of high health care costs were identified using a multivariable logistic regression model.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250038-8&quot;&gt;
-                    &lt;jats:title&gt;Results&lt;/jats:title&gt;
-                    &lt;jats:p&gt;The cohort included 13 795 patients (mean age, 63.2 [SD, 11.7] years and 3452 [25.0%] were female), 3448 (25%) of whom had high health care costs. Cancer stage was the strongest predictor of high health care costs. Compared with patients with stage I cancer, those with stage II cancer had 2-fold greater odds for high health care costs (odds ratio [OR], 3.14 [95% CI, 2.56-3.84]), those with stage III cancer had 5-fold greater odds for high health care costs (OR, 6.08 [95% CI, 4.99-7.41]), and those with stage IV cancer had 8-fold greater odds for high health care costs (OR, 8.94 [95% CI, 7.43-10.80]). Receiving multiple treatment modalities also was associated with greater odds for high-cost care.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250038-9&quot;&gt;
-                    &lt;jats:title&gt;Conclusions and Relevance&lt;/jats:title&gt;
-                    &lt;jats:p&gt;This cohort study found that more advanced disease stage and receiving multiple treatment modalities were the strongest predictors of high-cost care among patients diagnosed with head and neck cancer. Prioritizing research and implementation of screening programs, earlier cancer diagnoses, and effective treatment deescalation strategies might mitigate a significant portion of these high costs.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;</description>
+<author>Noémie Villemure-Poliquin; Rui Fu; Qing Li; Kennedy Ayoo; Kelvin K. W. Chan; Irene Karam; Frances C. Wright; Natalie G. Coburn; Julie Hallet; Antoine Eskander</author>
+<description>Journal: JAMA Otolaryngology–Head &amp;amp; Neck Surgery | DOI: 10.1001/jamaoto.2025.1976</description>
+<content:encoded><![CDATA[
+<p><strong>Abstract</strong></p>
+<p>Importance The care for a small subset of patients is responsible for a disproportionately large share of health care expenditures. Head and neck cancer is associated with significant health care costs due to complex treatment regimens and long-term sequelae. Given this high baseline cost, identifying patients with high care costs within a population with cancer might help inform interventions to optimize resource allocation. Objective To characterize patients with head and neck cancer with the highest health care costs during the first year after diagnosis. Design, Setting, and Participants A population-based, retrospective cohort study was conducted using administrative data from the Institute for Clinical and Evaluative Sciences in Ontario, Canada, and included adults diagnosed with head and neck cancer between January 2007 and October 2020 (identified from the provincial cancer registry) with a full 1.5-year follow-up from the date of diagnosis to the date of death or October 31, 2021. The total 1-year health care costs were estimated using a patient-level algorithm and were collected in 2020 Canadian dollar values. The main analyses were performed in April 2023 and a sensitivity analysis was performed in April 2025. Main Outcomes and Measures High health care costs (&amp;amp;gt;75th percentile) during the first year after a head and neck cancer diagnosis. Predictors of high health care costs were identified using a multivariable logistic regression model. Results The cohort included 13 795 patients (mean age, 63.2 [SD, 11.7] years and 3452 [25.0%] were female), 3448 (25%) of whom had high health care costs. Cancer stage was the strongest predictor of high health care costs. Compared with patients with stage I cancer, those with stage II cancer had 2-fold greater odds for high health care costs (odds ratio [OR], 3.14 [95% CI, 2.56-3.84]), those with stage III cancer had 5-fold greater odds for high health care costs (OR, 6.08 [95% CI, 4.99-7.41]), and those with stage IV cancer had 8-fold greater odds for high health care costs (OR, 8.94 [95% CI, 7.43-10.80]). Receiving multiple treatment modalities also was associated with greater odds for high-cost care. Conclusions and Relevance This cohort study found that more advanced disease stage and receiving multiple treatment modalities were the strongest predictors of high-cost care among patients diagnosed with head and neck cancer. Prioritizing research and implementation of screening programs, earlier cancer diagnoses, and effective treatment deescalation strategies might mitigate a significant portion of these high costs.</p>
+]]></content:encoded>
 </item>
 <item>
 <title>Unilateral vs Bilateral Transoral Robotic Surgery for HPV-Positive Tonsillar Squamous Cell Carcinoma</title>
 <link>https://doi.org/10.1001/jamaoto.2025.1833</link>
 <guid isPermaLink='true'>https://doi.org/10.1001/jamaoto.2025.1833</guid>
 <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
-<description>Journal: JAMA Otolaryngology–Head &amp;amp; Neck Surgery
-DOI: 10.1001/jamaoto.2025.1833
-Authors: Andrew M. Peterson, Spencer R. Bockover, Dorina Kallogjeri, Katherine Chang, Theresa Tharakan, R. Alex Harbison, Paul Zolkind, Jason T. Rich, Patrik Pipkorn, Randal C. Paniello, Sidharth V. Puram, Ryan S. Jackson
-
-Abstract:
-&lt;jats:sec id=&quot;ab-ooi250035-4&quot;&gt;
-                    &lt;jats:title&gt;Importance&lt;/jats:title&gt;
-                    &lt;jats:p&gt;The palatine tonsil is the most common subsite of human papillomavirus (HPV)–related oropharyngeal squamous cell carcinoma (SCC). There is debate on how to manage the contralateral clinically uninvolved tonsil in patients undergoing a primary surgical approach via transoral robotic surgery (TORS).&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250035-5&quot;&gt;
-                    &lt;jats:title&gt;Objective&lt;/jats:title&gt;
-                    &lt;jats:p&gt;To assess postoperative complications, functional outcomes, contralateral tonsil second primary rates, and survival in patients undergoing unilateral vs bilateral TORS with pathology-guided adjuvant treatment.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250035-6&quot;&gt;
-                    &lt;jats:title&gt;Design, Setting, and Participants&lt;/jats:title&gt;
-                    &lt;jats:p&gt;A retrospective cohort study was carried out in a quaternary care academic medical center. All consecutive unilateral tonsillar patients with SCC undergoing TORS as primary treatment from June 2016 to July 2023 were included. Analysis was conducted between October 1, 2024, and January 1, 2025.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250035-7&quot;&gt;
-                    &lt;jats:title&gt;Exposure&lt;/jats:title&gt;
-                    &lt;jats:p&gt;Unilateral TORS (ipsilateral radical tonsillectomy) vs bilateral TORS (ipsilateral radical tonsillectomy and contralateral extracapsular tonsillectomy).&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250035-8&quot;&gt;
-                    &lt;jats:title&gt;Main Outcomes&lt;/jats:title&gt;
-                    &lt;jats:p&gt;The primary outcome measure was rate of postoperative oropharyngeal hemorrhage. Secondary outcome measures included postoperative emergency department (ED) visit/hospitalization rate, time to nasogastric tube (NGT) removal, rate of discharge with an NGT tube, G-tube dependence rates, second primary rates in the contralateral tonsil, length of stay, and 2-year and 5-year disease-free survival (DFS) and overall survival (OS).&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250035-9&quot;&gt;
-                    &lt;jats:title&gt;Results&lt;/jats:title&gt;
-                    &lt;jats:p&gt;A total of 158 (106 unilateral, 52 bilateral TORS) patients with HPV-associated tonsillar SCC were evaluated, including 18 women and 139 men with a mean (SD) age of 60 (10) years. There were clinically meaningful differences in oropharyngeal hemorrhage rates (7% vs 15%; percent difference, −7.8; 95% CI, −18.8% to 3.2%), 30-day ED visit/hospitalization rates (9% vs 21%; percent difference, −11.7%; 95% CI, −24.1 to 0.7), and median length of stay (2 vs 3 days) for unilateral and bilateral TORS, respectively. Swallowing outcomes, DFS, and OS were not significantly different between the 2 groups. A total of 3 patients (1.9%) had a second primary tumor in the contralateral tonsil, including 2 metachronous primary tumors in the unilateral group (1.8%) and 1 synchronous primary tumor incidentally removed at the time of surgery in the bilateral group (1.9%).&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250035-10&quot;&gt;
-                    &lt;jats:title&gt;Conclusions and Relevance&lt;/jats:title&gt;
-                    &lt;jats:p&gt;This cohort study found that omission of contralateral elective extracapsular tonsillectomy in HPV-positive SCC was safe and associated with a trend toward lower posttonsillectomy hemorrhage, postoperative ED visits for pain control, and hospital length of stay without compromising survival. Prophylactically resecting the contralateral tonsil may add patient harm without any clear benefits.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;</description>
+<author>Andrew M. Peterson; Spencer R. Bockover; Dorina Kallogjeri; Katherine Chang; Theresa Tharakan; R. Alex Harbison; Paul Zolkind; Jason T. Rich; Patrik Pipkorn; Randal C. Paniello; Sidharth V. Puram; Ryan S. Jackson</author>
+<description>Journal: JAMA Otolaryngology–Head &amp;amp; Neck Surgery | DOI: 10.1001/jamaoto.2025.1833</description>
+<content:encoded><![CDATA[
+<p><strong>Abstract</strong></p>
+<p>Importance The palatine tonsil is the most common subsite of human papillomavirus (HPV)–related oropharyngeal squamous cell carcinoma (SCC). There is debate on how to manage the contralateral clinically uninvolved tonsil in patients undergoing a primary surgical approach via transoral robotic surgery (TORS). Objective To assess postoperative complications, functional outcomes, contralateral tonsil second primary rates, and survival in patients undergoing unilateral vs bilateral TORS with pathology-guided adjuvant treatment. Design, Setting, and Participants A retrospective cohort study was carried out in a quaternary care academic medical center. All consecutive unilateral tonsillar patients with SCC undergoing TORS as primary treatment from June 2016 to July 2023 were included. Analysis was conducted between October 1, 2024, and January 1, 2025. Exposure Unilateral TORS (ipsilateral radical tonsillectomy) vs bilateral TORS (ipsilateral radical tonsillectomy and contralateral extracapsular tonsillectomy). Main Outcomes The primary outcome measure was rate of postoperative oropharyngeal hemorrhage. Secondary outcome measures included postoperative emergency department (ED) visit/hospitalization rate, time to nasogastric tube (NGT) removal, rate of discharge with an NGT tube, G-tube dependence rates, second primary rates in the contralateral tonsil, length of stay, and 2-year and 5-year disease-free survival (DFS) and overall survival (OS). Results A total of 158 (106 unilateral, 52 bilateral TORS) patients with HPV-associated tonsillar SCC were evaluated, including 18 women and 139 men with a mean (SD) age of 60 (10) years. There were clinically meaningful differences in oropharyngeal hemorrhage rates (7% vs 15%; percent difference, −7.8; 95% CI, −18.8% to 3.2%), 30-day ED visit/hospitalization rates (9% vs 21%; percent difference, −11.7%; 95% CI, −24.1 to 0.7), and median length of stay (2 vs 3 days) for unilateral and bilateral TORS, respectively. Swallowing outcomes, DFS, and OS were not significantly different between the 2 groups. A total of 3 patients (1.9%) had a second primary tumor in the contralateral tonsil, including 2 metachronous primary tumors in the unilateral group (1.8%) and 1 synchronous primary tumor incidentally removed at the time of surgery in the bilateral group (1.9%). Conclusions and Relevance This cohort study found that omission of contralateral elective extracapsular tonsillectomy in HPV-positive SCC was safe and associated with a trend toward lower posttonsillectomy hemorrhage, postoperative ED visits for pain control, and hospital length of stay without compromising survival. Prophylactically resecting the contralateral tonsil may add patient harm without any clear benefits.</p>
+]]></content:encoded>
 </item>
 <item>
 <title>Considerations and Cautions in Postoperative Circulating Tumor HPV DNA Kinetics</title>
 <link>https://doi.org/10.1001/jamaoto.2025.1612</link>
 <guid isPermaLink='true'>https://doi.org/10.1001/jamaoto.2025.1612</guid>
 <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
-<description>Journal: JAMA Otolaryngology–Head &amp;amp; Neck Surgery
-DOI: 10.1001/jamaoto.2025.1612
-Authors: Molly E. Heft Neal, Richard L. Bakst, Raymond L. Chai
-
-Abstract:
-Human papillomavirus (HPV)–associated oropharyngeal squamous cell carcinoma (OPSCC) is a rapidly evolving field in which HPV circulating tumor  DNA (ctDNA) has emerged as a promising biomarker for cancer response and minimal residual disease (MRD) detection. In a study published in JAMA Otolaryngology-Head &amp;amp; Neck Surgery, Yin et al investigate the kinetics of postoperative HPV ctDNA in a cohort of patients undergoing primary surgery for HPV-OPSCC. In this prospective study of 84 patients, 57 (82.6%) had detectable pretreatment samples. Of those, 35 patients had blood draws at both specified time points: postoperative day (POD) 1 to 2 and postoperative week (POW) 2. Similar to previous studies, these data support a correlation between preoperative HPV ctDNA levels and tumor stage, size of nodal disease, and presence of extranodal extension. The crux of this recent work, however, focuses on the positive and negative predictive values in addition to specific timing considerations of postoperative circulating tumor DNA detectability. Of 35 patients with complete blood draws, 16 (45.7%) remained detectable at POD 1 to 2; however of these, only 3 continued to be detectable at POW 2. These data yield a negative predictive value of 95% (95% CI, 74%-100%) and a positive predictive value of 19% (95% CI, 4%-46%), highlighting the superior reliability of the 2-week time point for MRD assessment. The authors propose an algorithm whereby patients with detectable samples on POD 1 to 2 undergo repeat testing at POW 2 if being used to guide adjuvant decisions. This 2-step approach balances timely risk stratification with avoidance of overtreatment, recognizing that adjuvant therapy planning requires a lead time of up to 6 weeks for multidisciplinary coordination. Of note, use of MRD for adjuvant decisions is currently restricted to clinical trials as this is not yet standard of care.</description>
+<author>Molly E. Heft Neal; Richard L. Bakst; Raymond L. Chai</author>
+<description>Journal: JAMA Otolaryngology–Head &amp;amp; Neck Surgery | DOI: 10.1001/jamaoto.2025.1612</description>
+<content:encoded><![CDATA[
+<p><strong>Abstract</strong></p>
+<p>Human papillomavirus (HPV)–associated oropharyngeal squamous cell carcinoma (OPSCC) is a rapidly evolving field in which HPV circulating tumor DNA (ctDNA) has emerged as a promising biomarker for cancer response and minimal residual disease (MRD) detection. In a study published in JAMA Otolaryngology-Head &amp; Neck Surgery, Yin et al investigate the kinetics of postoperative HPV ctDNA in a cohort of patients undergoing primary surgery for HPV-OPSCC. In this prospective study of 84 patients, 57 (82.6%) had detectable pretreatment samples. Of those, 35 patients had blood draws at both specified time points: postoperative day (POD) 1 to 2 and postoperative week (POW) 2. Similar to previous studies, these data support a correlation between preoperative HPV ctDNA levels and tumor stage, size of nodal disease, and presence of extranodal extension. The crux of this recent work, however, focuses on the positive and negative predictive values in addition to specific timing considerations of postoperative circulating tumor DNA detectability. Of 35 patients with complete blood draws, 16 (45.7%) remained detectable at POD 1 to 2; however of these, only 3 continued to be detectable at POW 2. These data yield a negative predictive value of 95% (95% CI, 74%-100%) and a positive predictive value of 19% (95% CI, 4%-46%), highlighting the superior reliability of the 2-week time point for MRD assessment. The authors propose an algorithm whereby patients with detectable samples on POD 1 to 2 undergo repeat testing at POW 2 if being used to guide adjuvant decisions. This 2-step approach balances timely risk stratification with avoidance of overtreatment, recognizing that adjuvant therapy planning requires a lead time of up to 6 weeks for multidisciplinary coordination. Of note, use of MRD for adjuvant decisions is currently restricted to clinical trials as this is not yet standard of care.</p>
+]]></content:encoded>
 </item>
 <item>
 <title>Postoperative ctHPVDNA Kinetics in Patients With HPV-Related Oropharyngeal Cancer</title>
 <link>https://doi.org/10.1001/jamaoto.2025.1606</link>
 <guid isPermaLink='true'>https://doi.org/10.1001/jamaoto.2025.1606</guid>
 <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
-<description>Journal: JAMA Otolaryngology–Head &amp;amp; Neck Surgery
-DOI: 10.1001/jamaoto.2025.1606
-Authors: Linda X. Yin, Cecelia M. Hidalgo, Aaron W. Bogan, Danielle E. Hunter, Kathleen R. Bartemes, Kendall K. Tasche, Eric J. Moore, Daniel L. Price, Daniel J. Ma, Michelle A. Neben-Wittich, Scott C. Lester, Katharine A. Price, Patrick W. McGarrah, Harry E. Fuentes Bayne, David M. Routman, Kathryn M. Van Abel
-
-Abstract:
-&lt;jats:sec id=&quot;ab-ooi250029-4&quot;&gt;
-                    &lt;jats:title&gt;Importance&lt;/jats:title&gt;
-                    &lt;jats:p&gt;Circulating tumor human papillomavirus DNA (ctHPVDNA) is an important biomarker for the presence of HPV-associated oropharyngeal squamous cell carcinoma (OPSCC), but little is known about early postoperative kinetics of ctHPVDNA clearance.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250029-5&quot;&gt;
-                    &lt;jats:title&gt;Objective&lt;/jats:title&gt;
-                    &lt;jats:p&gt;To investigate early postoperative kinetics of ctHPVDNA in patients with HPV-associated OPSCC.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250029-6&quot;&gt;
-                    &lt;jats:title&gt;Design, Setting, and Participants&lt;/jats:title&gt;
-                    &lt;jats:p&gt;This prospective cohort study was conducted at a single tertiary care center from January 4, 2020, to January 26, 2023. Patients with newly diagnosed HPV-associated OPSCC undergoing surgical management were enrolled. HPV status was defined as positive if findings of p16 immunohistochemistry and/or HPV DNA in situ hybridization and/or E6/E7 RNA in situ hybridization were positive. Exclusion criteria included history of prior head and neck cancer and metastatic disease at presentation. Data were analyzed from September 1, 2024, to April 25, 2025.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250029-7&quot;&gt;
-                    &lt;jats:title&gt;Exposures&lt;/jats:title&gt;
-                    &lt;jats:p&gt;Transoral robotic surgery with concurrent neck dissection.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250029-8&quot;&gt;
-                    &lt;jats:title&gt;Main Outcomes and Measures&lt;/jats:title&gt;
-                    &lt;jats:p&gt;Blood was drawn prior to surgery (pretreatment), 1 to 2 days after surgery (postoperative days 1 to 2), and approximately 2 weeks after surgery (postoperative week 2; range, 8 to 20 days). ctHPVDNA was quantified by a tumor tissue–modified viral (TTMV) HPV DNA test. Correlations were tested between the pretreatment and postoperative day 1 to 2 TTMV HPV DNA levels using Gaussian regression. Concordance between detectability at postoperative day 1 to 2 and postoperative week 2 was explored using negative predictive value and positive predictive value.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250029-9&quot;&gt;
-                    &lt;jats:title&gt;Results&lt;/jats:title&gt;
-                    &lt;jats:p&gt;
-                      Of 57 included patients with detectable pretreatment TTMV HPV DNA, 51 (89%) were male, and the median (IQR) age was 59 (54-66) years. A total of 35 patients (61%) had blood draws at all 3 time points; 16 (28%) had detectable TTMV HPV DNA on postoperative day 1 to 2. Pretreatment and postoperative day 1 to 2 TTMV HPV DNA levels had a medium positive linear correlation (
-                      &lt;jats:italic&gt;r&lt;/jats:italic&gt;
-                       = 0.31; 95% CI, 0.04-0.54). Undetectable TTMV HPV DNA on postoperative day 1 to 2 blood draw had a negative predictive value of 0.95 (95% CI, 0.74-1.00) for an undetectable level on postoperative week 2 blood draw, but a detectable level on postoperative day 1 to 2 blood draw only had a positive predictive value of 0.19 (95% CI, 0.04-0.46). Of the 16 patients with detectable TTMV HPV DNA pretreatment and at postoperative day 1 to 2, only 3 (19%) continued to have detectable TTMV HPV DNA at postoperative week 2. One patient had undetectable levels at postoperative day 1 to 2 and detectable levels at postoperative week 2.
-                    &lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250029-10&quot;&gt;
-                    &lt;jats:title&gt;Conclusions and Relevance&lt;/jats:title&gt;
-                    &lt;jats:p&gt;In this study, ctHPVDNA detectability early after surgery did not predict detectability at 2 weeks after surgery. ctHPVDNA clearance early after surgery could predict a negative test at 2 weeks. A negative blood draw finding on postoperative day 1 may be used to omit a postoperative blood draw at 2 weeks for minimal residual disease detection in future clinical trials.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;</description>
+<author>Linda X. Yin; Cecelia M. Hidalgo; Aaron W. Bogan; Danielle E. Hunter; Kathleen R. Bartemes; Kendall K. Tasche; Eric J. Moore; Daniel L. Price; Daniel J. Ma; Michelle A. Neben-Wittich; Scott C. Lester; Katharine A. Price; Patrick W. McGarrah; Harry E. Fuentes Bayne; David M. Routman; Kathryn M. Van Abel</author>
+<description>Journal: JAMA Otolaryngology–Head &amp;amp; Neck Surgery | DOI: 10.1001/jamaoto.2025.1606</description>
+<content:encoded><![CDATA[
+<p><strong>Abstract</strong></p>
+<p>Importance Circulating tumor human papillomavirus DNA (ctHPVDNA) is an important biomarker for the presence of HPV-associated oropharyngeal squamous cell carcinoma (OPSCC), but little is known about early postoperative kinetics of ctHPVDNA clearance. Objective To investigate early postoperative kinetics of ctHPVDNA in patients with HPV-associated OPSCC. Design, Setting, and Participants This prospective cohort study was conducted at a single tertiary care center from January 4, 2020, to January 26, 2023. Patients with newly diagnosed HPV-associated OPSCC undergoing surgical management were enrolled. HPV status was defined as positive if findings of p16 immunohistochemistry and/or HPV DNA in situ hybridization and/or E6/E7 RNA in situ hybridization were positive. Exclusion criteria included history of prior head and neck cancer and metastatic disease at presentation. Data were analyzed from September 1, 2024, to April 25, 2025. Exposures Transoral robotic surgery with concurrent neck dissection. Main Outcomes and Measures Blood was drawn prior to surgery (pretreatment), 1 to 2 days after surgery (postoperative days 1 to 2), and approximately 2 weeks after surgery (postoperative week 2; range, 8 to 20 days). ctHPVDNA was quantified by a tumor tissue–modified viral (TTMV) HPV DNA test. Correlations were tested between the pretreatment and postoperative day 1 to 2 TTMV HPV DNA levels using Gaussian regression. Concordance between detectability at postoperative day 1 to 2 and postoperative week 2 was explored using negative predictive value and positive predictive value. Results Of 57 included patients with detectable pretreatment TTMV HPV DNA, 51 (89%) were male, and the median (IQR) age was 59 (54-66) years. A total of 35 patients (61%) had blood draws at all 3 time points; 16 (28%) had detectable TTMV HPV DNA on postoperative day 1 to 2. Pretreatment and postoperative day 1 to 2 TTMV HPV DNA levels had a medium positive linear correlation ( r = 0.31; 95% CI, 0.04-0.54). Undetectable TTMV HPV DNA on postoperative day 1 to 2 blood draw had a negative predictive value of 0.95 (95% CI, 0.74-1.00) for an undetectable level on postoperative week 2 blood draw, but a detectable level on postoperative day 1 to 2 blood draw only had a positive predictive value of 0.19 (95% CI, 0.04-0.46). Of the 16 patients with detectable TTMV HPV DNA pretreatment and at postoperative day 1 to 2, only 3 (19%) continued to have detectable TTMV HPV DNA at postoperative week 2. One patient had undetectable levels at postoperative day 1 to 2 and detectable levels at postoperative week 2. Conclusions and Relevance In this study, ctHPVDNA detectability early after surgery did not predict detectability at 2 weeks after surgery. ctHPVDNA clearance early after surgery could predict a negative test at 2 weeks. A negative blood draw finding on postoperative day 1 may be used to omit a postoperative blood draw at 2 weeks for minimal residual disease detection in future clinical trials.</p>
+]]></content:encoded>
 </item>
 <item>
 <title>Efficacy of a Brief Cognitive Behavioral Treatment Across Body Image Distress Domains</title>
 <link>https://doi.org/10.1001/jamaoto.2025.0965</link>
 <guid isPermaLink='true'>https://doi.org/10.1001/jamaoto.2025.0965</guid>
 <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
-<description>Journal: JAMA Otolaryngology–Head &amp;amp; Neck Surgery
-DOI: 10.1001/jamaoto.2025.0965
-Authors: Haley Hullfish, Emily Kistner-Griffin, Stacey Maurer, Wendy Balliet, Jessica Vanderlan, Olga Slavin-Spenny, Lynne Padgett, Angie Rush, Brad Johnson, Taylor McLeod, Ella J. Starr, Kenneth J. Ruggiero, Katherine R. Sterba, Evan M. Graboyes
-
-Abstract:
-&lt;jats:p&gt;This secondary analysis of a randomized clinical trial evaluates whether a brief, tailored cognitive behavioral treatment program is effective across multiple domains of head and neck cancer–related body image distress.&lt;/jats:p&gt;</description>
+<author>Haley Hullfish; Emily Kistner-Griffin; Stacey Maurer; Wendy Balliet; Jessica Vanderlan; Olga Slavin-Spenny; Lynne Padgett; Angie Rush; Brad Johnson; Taylor McLeod; Ella J. Starr; Kenneth J. Ruggiero; Katherine R. Sterba; Evan M. Graboyes</author>
+<description>Journal: JAMA Otolaryngology–Head &amp;amp; Neck Surgery | DOI: 10.1001/jamaoto.2025.0965</description>
+<content:encoded><![CDATA[
+<p><strong>Abstract</strong></p>
+<p>This secondary analysis of a randomized clinical trial evaluates whether a brief, tailored cognitive behavioral treatment program is effective across multiple domains of head and neck cancer–related body image distress.</p>
+]]></content:encoded>
 </item>
 <item>
 <title>Pathologic Response and Survival After Neoadjuvant Immunotherapy for HNSCC</title>
 <link>https://doi.org/10.1001/jamaoto.2025.4573</link>
 <guid isPermaLink='true'>https://doi.org/10.1001/jamaoto.2025.4573</guid>
 <pubDate>Thu, 18 Dec 2025 00:00:00 GMT</pubDate>
-<description>Journal: JAMA Otolaryngology–Head &amp;amp; Neck Surgery
-DOI: 10.1001/jamaoto.2025.4573
-Authors: Eric V. Mastrolonardo, Emma De Ravin, Praneet C. Kaki, Leonard E. Estephan, Kathryn Nunes, Hannah Kenny, Kelly Bridgham, Jason Tasoulas, Scott H. Koeneman, Richard A. Goldman, Christopher Fundakowski, Arielle Thal, David M. Cognetti, Jennifer M. Johnson, Adam J. Luginbuhl, Joseph M. Curry
-
-Abstract:
-&lt;jats:sec id=&quot;ab-ooi250079-4&quot;&gt;
-                    &lt;jats:title&gt;Importance&lt;/jats:title&gt;
-                    &lt;jats:p&gt;Numerous phase 2 trials have evaluated the efficacy of neoadjuvant immune checkpoint inhibition (ICI) for mucosal head and neck squamous cell carcinoma (HNSCC), using some degree of pathologic treatment response as a primary or secondary end point. However, whether pathologic treatment response is a meaningful surrogate end point for survival has yet to be determined.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250079-5&quot;&gt;
-                    &lt;jats:title&gt;Objective&lt;/jats:title&gt;
-                    &lt;jats:p&gt;To systematically assess the association between pathologic treatment response and overall survival (OS) and disease-free survival (DFS) after neoadjuvant ICI.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250079-6&quot;&gt;
-                    &lt;jats:title&gt;Data Sources&lt;/jats:title&gt;
-                    &lt;jats:p&gt;A systematic search of the PubMed, OVID Medline, Embase, CINAHL, and Cochrane databases was performed from January 1, 2000, through May 31, 2025.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250079-7&quot;&gt;
-                    &lt;jats:title&gt;Study Selection&lt;/jats:title&gt;
-                    &lt;jats:p&gt;Peer-reviewed studies investigating neoadjuvant ICI for the treatment of mucosal HNSCC in patients 18 years and older were identified. Full-length English-language articles that presented pathologic treatment response and survival data (OS and/or DFS) and any association between the 2 were included.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250079-8&quot;&gt;
-                    &lt;jats:title&gt;Data Extraction and Synthesis&lt;/jats:title&gt;
-                    &lt;jats:p&gt;
-                      Three blinded reviewers independently extracted study characteristics, pathologic treatment response data, and survival data, including hazard ratios (HRs) and CIs when available, according to PRISMA guideline. Data were compiled for statistical analysis to calculate DFS, OS, and HRs using a random-effects model. The
-                      &lt;jats:italic toggle=&quot;yes&quot;&gt;I&lt;/jats:italic&gt;
-                      &lt;jats:sup&gt;2&lt;/jats:sup&gt;
-                      index was used to report data heterogeneity.
-                    &lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250079-9&quot;&gt;
-                    &lt;jats:title&gt;Main Outcomes and Measures&lt;/jats:title&gt;
-                    &lt;jats:p&gt;HRs for the association of pathologic treatment response with DFS and OS.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250079-10&quot;&gt;
-                    &lt;jats:title&gt;Results&lt;/jats:title&gt;
-                    &lt;jats:p&gt;
-                      Eleven trials involving 451 patients met inclusion criteria, with 368 patients included in this meta-analysis. Nine nonrandomized and 2 randomized studies were included, including 7 cohort studies, 2 randomized clinical trials, and 2 retrospective cohort studies, each with a different neoadjuvant ICI regimen. Pooled analysis demonstrated that overall (primary tumor plus lymph node) partial pathologic response (PPR; ≤50% residual viable tumor; HR, 0.53; 95% CI, 0.28-0.97;
-                      &lt;jats:italic toggle=&quot;yes&quot;&gt;I&lt;/jats:italic&gt;
-                      &lt;jats:sup&gt;2&lt;/jats:sup&gt;
-                       = 2.1%) and major pathologic response (MPR; ≤10% residual viable tumor; HR, 0.34; 95% CI, 0.12-0.93;
-                      &lt;jats:italic toggle=&quot;yes&quot;&gt;I&lt;/jats:italic&gt;
-                      &lt;jats:sup&gt;2&lt;/jats:sup&gt;
-                       = 0.0%) were both associated with improved DFS up to 2 years. PPR and MPR were not associated with improved OS. Nine of 11 studies were at low risk of bias.
-                    &lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250079-11&quot;&gt;
-                    &lt;jats:title&gt;Conclusions and Relevance&lt;/jats:title&gt;
-                    &lt;jats:p&gt;Study findings suggest that overall PPR and MPR are associated with improved DFS. These data provide additional support for the potential use of pathologic treatment response as a surrogate for DFS after neoadjuvant ICI in resectable mucosal HNSCC.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;</description>
+<author>Eric V. Mastrolonardo; Emma De Ravin; Praneet C. Kaki; Leonard E. Estephan; Kathryn Nunes; Hannah Kenny; Kelly Bridgham; Jason Tasoulas; Scott H. Koeneman; Richard A. Goldman; Christopher Fundakowski; Arielle Thal; David M. Cognetti; Jennifer M. Johnson; Adam J. Luginbuhl; Joseph M. Curry</author>
+<description>Journal: JAMA Otolaryngology–Head &amp;amp; Neck Surgery | DOI: 10.1001/jamaoto.2025.4573</description>
+<content:encoded><![CDATA[
+<p><strong>Abstract</strong></p>
+<p>Importance Numerous phase 2 trials have evaluated the efficacy of neoadjuvant immune checkpoint inhibition (ICI) for mucosal head and neck squamous cell carcinoma (HNSCC), using some degree of pathologic treatment response as a primary or secondary end point. However, whether pathologic treatment response is a meaningful surrogate end point for survival has yet to be determined. Objective To systematically assess the association between pathologic treatment response and overall survival (OS) and disease-free survival (DFS) after neoadjuvant ICI. Data Sources A systematic search of the PubMed, OVID Medline, Embase, CINAHL, and Cochrane databases was performed from January 1, 2000, through May 31, 2025. Study Selection Peer-reviewed studies investigating neoadjuvant ICI for the treatment of mucosal HNSCC in patients 18 years and older were identified. Full-length English-language articles that presented pathologic treatment response and survival data (OS and/or DFS) and any association between the 2 were included. Data Extraction and Synthesis Three blinded reviewers independently extracted study characteristics, pathologic treatment response data, and survival data, including hazard ratios (HRs) and CIs when available, according to PRISMA guideline. Data were compiled for statistical analysis to calculate DFS, OS, and HRs using a random-effects model. The I 2 index was used to report data heterogeneity. Main Outcomes and Measures HRs for the association of pathologic treatment response with DFS and OS. Results Eleven trials involving 451 patients met inclusion criteria, with 368 patients included in this meta-analysis. Nine nonrandomized and 2 randomized studies were included, including 7 cohort studies, 2 randomized clinical trials, and 2 retrospective cohort studies, each with a different neoadjuvant ICI regimen. Pooled analysis demonstrated that overall (primary tumor plus lymph node) partial pathologic response (PPR; ≤50% residual viable tumor; HR, 0.53; 95% CI, 0.28-0.97; I 2 = 2.1%) and major pathologic response (MPR; ≤10% residual viable tumor; HR, 0.34; 95% CI, 0.12-0.93; I 2 = 0.0%) were both associated with improved DFS up to 2 years. PPR and MPR were not associated with improved OS. Nine of 11 studies were at low risk of bias. Conclusions and Relevance Study findings suggest that overall PPR and MPR are associated with improved DFS. These data provide additional support for the potential use of pathologic treatment response as a surrogate for DFS after neoadjuvant ICI in resectable mucosal HNSCC.</p>
+]]></content:encoded>
 </item>
 <item>
 <title>Thyroid Lobectomy and Neck Dissection for N1b Papillary Thyroid Carcinoma</title>
 <link>https://doi.org/10.1001/jamaoto.2025.4653</link>
 <guid isPermaLink='true'>https://doi.org/10.1001/jamaoto.2025.4653</guid>
 <pubDate>Thu, 18 Dec 2025 00:00:00 GMT</pubDate>
-<description>Journal: JAMA Otolaryngology–Head &amp;amp; Neck Surgery
-DOI: 10.1001/jamaoto.2025.4653
-Authors: Daniel W. Scholfield, Lillian A. Boe, Alana Eagan, Helena Levyn, Fergal Kavanagh, R. Michael Tuttle, Ashok R. Shaha, Jennifer R. Cracchiolo, Jatin P. Shah, Richard J. Wong, Snehal G. Patel, Ian Ganly
-
-Abstract:
-&lt;jats:sec id=&quot;ab-ooi250081-4&quot;&gt;
-                    &lt;jats:title&gt;Importance&lt;/jats:title&gt;
-                    &lt;jats:p&gt;Patients with papillary thyroid carcinoma (PTC) with lateral neck metastases (N1b) are usually treated with total thyroidectomy (TT), neck dissection, and adjuvant radioactive iodine (RAI). This philosophy comes with higher risks of complications and sequela than thyroid lobectomy (TL) and neck dissection alone. There are no prior studies on patients from the Western hemisphere that compare survival and recurrence outcomes between these groups.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250081-5&quot;&gt;
-                    &lt;jats:title&gt;Objective&lt;/jats:title&gt;
-                    &lt;jats:p&gt;To compare recurrence and survival outcomes in propensity-matched TL vs TT + RAI patients who presented with ipsilateral N1b PTC at a tertiary cancer center in the US.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250081-6&quot;&gt;
-                    &lt;jats:title&gt;Design, Setting, and Participants&lt;/jats:title&gt;
-                    &lt;jats:p&gt;This cohort propensity-matched study was conducted at a single US tertiary cancer center included 37 TL patients and 37 of 561 TT + RAI patients (after excluding patients with M1 disease), with a median (IQR) follow-up of 113 (58-241) and 90 (48-185) months, respectively. Adult patients with PTC with lateral neck node metastases (N1b) were identified from a thyroid cancer database. The study included patients undergoing surgery at Memorial Sloan Kettering Cancer Center from 1986 to 2020, inclusive, and the study was conducted from 2024 to 2025.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250081-7&quot;&gt;
-                    &lt;jats:title&gt;Main Outcomes and Measures&lt;/jats:title&gt;
-                    &lt;jats:p&gt;Overall survival (OS), disease-specific survival (DSS), and recurrence-free survival (RFS).&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250081-8&quot;&gt;
-                    &lt;jats:title&gt;Results&lt;/jats:title&gt;
-                    &lt;jats:p&gt;Of 598 total individuals, the median (IQR) age was 41 (33-55) years, and 341 (57%) were female. The 5-year OS was 96.9% in the TL group and 96.8% in the TT + RAI group (hazard ratio [HR], 0.2; 95% CI, 0.03-1.58). The 5-year DSS was 96.7% in the TL group and 100% in the TT  +RAI group. The 5-year RFS was 89.8% in the TL group and 88.9% in the TT + RAI group (HR, 1.48; 95% CI, 0.39-5.58). The survival rates did not change between 5 and 10 years.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250081-9&quot;&gt;
-                    &lt;jats:title&gt;Conclusions and Relevance&lt;/jats:title&gt;
-                    &lt;jats:p&gt;This cohort study found that a select group of patients with N1b PTC treated with TL had no important difference in survival and recurrence outcomes compared with patients treated with TT + RAI. Therefore, TL is an effective and safe treatment option in carefully selected and appropriately counselled patients with N1b PTC with unilateral tumors and low-volume regional lymph node metastases without clinical extranodal extension.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;</description>
+<author>Daniel W. Scholfield; Lillian A. Boe; Alana Eagan; Helena Levyn; Fergal Kavanagh; R. Michael Tuttle; Ashok R. Shaha; Jennifer R. Cracchiolo; Jatin P. Shah; Richard J. Wong; Snehal G. Patel; Ian Ganly</author>
+<description>Journal: JAMA Otolaryngology–Head &amp;amp; Neck Surgery | DOI: 10.1001/jamaoto.2025.4653</description>
+<content:encoded><![CDATA[
+<p><strong>Abstract</strong></p>
+<p>Importance Patients with papillary thyroid carcinoma (PTC) with lateral neck metastases (N1b) are usually treated with total thyroidectomy (TT), neck dissection, and adjuvant radioactive iodine (RAI). This philosophy comes with higher risks of complications and sequela than thyroid lobectomy (TL) and neck dissection alone. There are no prior studies on patients from the Western hemisphere that compare survival and recurrence outcomes between these groups. Objective To compare recurrence and survival outcomes in propensity-matched TL vs TT + RAI patients who presented with ipsilateral N1b PTC at a tertiary cancer center in the US. Design, Setting, and Participants This cohort propensity-matched study was conducted at a single US tertiary cancer center included 37 TL patients and 37 of 561 TT + RAI patients (after excluding patients with M1 disease), with a median (IQR) follow-up of 113 (58-241) and 90 (48-185) months, respectively. Adult patients with PTC with lateral neck node metastases (N1b) were identified from a thyroid cancer database. The study included patients undergoing surgery at Memorial Sloan Kettering Cancer Center from 1986 to 2020, inclusive, and the study was conducted from 2024 to 2025. Main Outcomes and Measures Overall survival (OS), disease-specific survival (DSS), and recurrence-free survival (RFS). Results Of 598 total individuals, the median (IQR) age was 41 (33-55) years, and 341 (57%) were female. The 5-year OS was 96.9% in the TL group and 96.8% in the TT + RAI group (hazard ratio [HR], 0.2; 95% CI, 0.03-1.58). The 5-year DSS was 96.7% in the TL group and 100% in the TT +RAI group. The 5-year RFS was 89.8% in the TL group and 88.9% in the TT + RAI group (HR, 1.48; 95% CI, 0.39-5.58). The survival rates did not change between 5 and 10 years. Conclusions and Relevance This cohort study found that a select group of patients with N1b PTC treated with TL had no important difference in survival and recurrence outcomes compared with patients treated with TT + RAI. Therefore, TL is an effective and safe treatment option in carefully selected and appropriately counselled patients with N1b PTC with unilateral tumors and low-volume regional lymph node metastases without clinical extranodal extension.</p>
+]]></content:encoded>
 </item>
 <item>
 <title>Pembrolizumab in Head and Neck Cancer—Promise and Price</title>
 <link>https://doi.org/10.1001/jamaoto.2025.4624</link>
 <guid isPermaLink='true'>https://doi.org/10.1001/jamaoto.2025.4624</guid>
 <pubDate>Thu, 18 Dec 2025 00:00:00 GMT</pubDate>
-<description>Journal: JAMA Otolaryngology–Head &amp;amp; Neck Surgery
-DOI: 10.1001/jamaoto.2025.4624
-Authors: Lauren E. Miller, James W. Rocco, Vinay K. Rathi
-
-Abstract:
-&lt;jats:p&gt;This Viewpoint considers the financial impact of expanding the indication of pembrolizumab for treatment of resectable locally advanced head and neck squamous cell carcinoma expressing programmed cell death 1 ligand 1.&lt;/jats:p&gt;</description>
+<author>Lauren E. Miller; James W. Rocco; Vinay K. Rathi</author>
+<description>Journal: JAMA Otolaryngology–Head &amp;amp; Neck Surgery | DOI: 10.1001/jamaoto.2025.4624</description>
+<content:encoded><![CDATA[
+<p><strong>Abstract</strong></p>
+<p>This Viewpoint considers the financial impact of expanding the indication of pembrolizumab for treatment of resectable locally advanced head and neck squamous cell carcinoma expressing programmed cell death 1 ligand 1.</p>
+]]></content:encoded>
 </item>
 <item>
 <title>Factors Associated With Opioid Refills After Otolaryngology–Head and Neck Surgery</title>
 <link>https://doi.org/10.1001/jamaoto.2025.4576</link>
 <guid isPermaLink='true'>https://doi.org/10.1001/jamaoto.2025.4576</guid>
 <pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
-<description>Journal: JAMA Otolaryngology–Head &amp;amp; Neck Surgery
-DOI: 10.1001/jamaoto.2025.4576
-Authors: Lingyi Zhang, Tammy Ly, Kimberly Luu, Megan Durr, Steven Pletcher, Ilya Likhterov, Andrew Murr, Zhonghui Guan
-
-Abstract:
-&lt;jats:sec id=&quot;ab-ooi250080-4&quot;&gt;
-                    &lt;jats:title&gt;Importance&lt;/jats:title&gt;
-                    &lt;jats:p&gt;Persistent opioid use after otolaryngology–head and neck surgery (OHNS) is concerning. However, evidence-based guidelines for managing opioid refill prescriptions within 90 days after discharge, a critical period for the transition from acute to persistent opioid use, are lacking.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250080-5&quot;&gt;
-                    &lt;jats:title&gt;Objective&lt;/jats:title&gt;
-                    &lt;jats:p&gt;To identify perioperative risk factors associated with opioid refills at 1 to 30, 31 to 60, and 61 to 90 days after OHNS procedures.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250080-6&quot;&gt;
-                    &lt;jats:title&gt;Design, Setting, Participants&lt;/jats:title&gt;
-                    &lt;jats:p&gt;This cohort study used opioid prescription data from a large academic medical center. The study included adult patients, regardless of opioid-naive status, who underwent inpatient OHNS procedures and were discharged between January 2017 and December 2023.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250080-7&quot;&gt;
-                    &lt;jats:title&gt;Exposure&lt;/jats:title&gt;
-                    &lt;jats:p&gt;OHNS with a postoperative hospital stay of at least 1 day.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250080-8&quot;&gt;
-                    &lt;jats:title&gt;Main Outcomes and Measures&lt;/jats:title&gt;
-                    &lt;jats:p&gt;The primary outcomes were opioid refills at 1 to 30, 31 to 60, and 61 to 90 days after discharge.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250080-9&quot;&gt;
-                    &lt;jats:title&gt;Results&lt;/jats:title&gt;
-                    &lt;jats:p&gt;Among 4132 adult patients, the median (IQR) age was 62 (49-72) years, and 1870 (45.3%) were female. From 2017 to 2023, despite a substantial reduction in the total oral morphine equivalents (OME) of discharge opioid prescriptions after OHNS procedures, opioid refill rates remained unchanged. In multiple logistic regression analysis, underprescription (adjusted odds ratio [AOR], 1.60 [95% CI, 1.24-2.06]) and overprescription (AOR, 1.58 [95% CI, 1.29-1.95]) of discharge opioid daily doses (defined as ≥7.5 OME lower or higher than the patient’s inpatient opioid consumption during the last 24 hours before discharge), compared with a matched prescription, were associated with increased odds of refills within 30 days of discharge. Overprescription was also associated with increased odds of refills at 31 to 60 days (AOR, 1.34 [95% CI, 1.03-1.75]). Other factors associated with increased odds of refills at various time points included preoperative use of opioids, benzodiazepines, and cannabis; higher postsurgical pain levels; receiving a prior refill; and receiving an opioid prescription despite not using any inpatient opioids during the last 24 hours of hospitalization.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;
-                  &lt;jats:sec id=&quot;ab-ooi250080-10&quot;&gt;
-                    &lt;jats:title&gt;Conclusion and Relevance&lt;/jats:title&gt;
-                    &lt;jats:p&gt;This cohort study identified independent perioperative risk factors for opioid refills after inpatient OHNS procedures and proposes an evidence-based strategy to reduce refill risk.&lt;/jats:p&gt;
-                  &lt;/jats:sec&gt;</description>
+<author>Lingyi Zhang; Tammy Ly; Kimberly Luu; Megan Durr; Steven Pletcher; Ilya Likhterov; Andrew Murr; Zhonghui Guan</author>
+<description>Journal: JAMA Otolaryngology–Head &amp;amp; Neck Surgery | DOI: 10.1001/jamaoto.2025.4576</description>
+<content:encoded><![CDATA[
+<p><strong>Abstract</strong></p>
+<p>Importance Persistent opioid use after otolaryngology–head and neck surgery (OHNS) is concerning. However, evidence-based guidelines for managing opioid refill prescriptions within 90 days after discharge, a critical period for the transition from acute to persistent opioid use, are lacking. Objective To identify perioperative risk factors associated with opioid refills at 1 to 30, 31 to 60, and 61 to 90 days after OHNS procedures. Design, Setting, Participants This cohort study used opioid prescription data from a large academic medical center. The study included adult patients, regardless of opioid-naive status, who underwent inpatient OHNS procedures and were discharged between January 2017 and December 2023. Exposure OHNS with a postoperative hospital stay of at least 1 day. Main Outcomes and Measures The primary outcomes were opioid refills at 1 to 30, 31 to 60, and 61 to 90 days after discharge. Results Among 4132 adult patients, the median (IQR) age was 62 (49-72) years, and 1870 (45.3%) were female. From 2017 to 2023, despite a substantial reduction in the total oral morphine equivalents (OME) of discharge opioid prescriptions after OHNS procedures, opioid refill rates remained unchanged. In multiple logistic regression analysis, underprescription (adjusted odds ratio [AOR], 1.60 [95% CI, 1.24-2.06]) and overprescription (AOR, 1.58 [95% CI, 1.29-1.95]) of discharge opioid daily doses (defined as ≥7.5 OME lower or higher than the patient’s inpatient opioid consumption during the last 24 hours before discharge), compared with a matched prescription, were associated with increased odds of refills within 30 days of discharge. Overprescription was also associated with increased odds of refills at 31 to 60 days (AOR, 1.34 [95% CI, 1.03-1.75]). Other factors associated with increased odds of refills at various time points included preoperative use of opioids, benzodiazepines, and cannabis; higher postsurgical pain levels; receiving a prior refill; and receiving an opioid prescription despite not using any inpatient opioids during the last 24 hours of hospitalization. Conclusion and Relevance This cohort study identified independent perioperative risk factors for opioid refills after inpatient OHNS procedures and proposes an evidence-based strategy to reduce refill risk.</p>
+]]></content:encoded>
 </item>
 </channel>
 </rss>
