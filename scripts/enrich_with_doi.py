@@ -5,14 +5,21 @@ from datetime import datetime, timezone
 from email.utils import format_datetime
 
 import requests
+from openai import OpenAI
 
 INPUT_JSON = "data/relevant_items.json"
 OUTPUT_RSS = "docs/betterdoi.xml"
 
-CROSSREF_API = "https://api.crossref.org/works/"
+CROSSREF_API = "https://api.crossref.org/works"
 USER_AGENT = "sentinelnode/1.0 (mailto:colmmemedsurv@users.noreply.github.com)"
 RATE_LIMIT_SLEEP = 0.25
 
+MODEL = "gpt-4.1-mini"  # comparator only
+
+DOI_RE = re.compile(r"\b10\.\d{4,9}/[-._;()/:A-Z0-9]+\b", re.I)
+
+
+# ---------------- Utilities ----------------
 
 def xml_escape(s: str) -> str:
     return (
@@ -29,162 +36,247 @@ def strip_xml_tags(text: str) -> str:
         return ""
     text = re.sub(r"<[^>]+>", " ", text)
     text = re.sub(r"\b[jJ]ats:[A-Za-z0-9_-]+\b", " ", text)
-    text = re.sub(r"\s+", " ", text).strip()
-    return text
+    return re.sub(r"\s+", " ", text).strip()
 
 
-def lookup_doi(doi: str):
+def norm_title(s: str) -> str:
+    s = (s or "").lower()
+    s = re.sub(r"<[^>]+>", "", s)
+    s = s.replace("-", " ")
+    s = re.sub(r"[^\w\s]", "", s)
+    return re.sub(r"\s+", " ", s).strip()
+
+
+def extract_doi(s: str | None) -> str | None:
+    if not s:
+        return None
+    m = DOI_RE.search(str(s))
+    return m.group(0) if m else None
+
+
+# ---------------- Crossref ----------------
+
+def crossref_lookup_doi(doi: str) -> dict | None:
     try:
         r = requests.get(
-            CROSSREF_API + doi,
+            f"{CROSSREF_API}/{doi}",
             headers={"User-Agent": USER_AGENT},
             timeout=20,
         )
         if r.status_code != 200:
             return None
-        return r.json().get("message", {})
+        return r.json().get("message")
     except Exception:
         return None
 
 
-def best_pubdate(item: dict, crossref_message: dict | None):
-    if item.get("published"):
-        return str(item["published"]), None
+def crossref_search(title: str, rows=5) -> list[dict]:
+    try:
+        r = requests.get(
+            CROSSREF_API,
+            params={"query.title": title, "rows": rows},
+            headers={"User-Agent": USER_AGENT},
+            timeout=20,
+        )
+        if r.status_code != 200:
+            return []
+        return r.json().get("message", {}).get("items", [])
+    except Exception:
+        return []
 
-    if not crossref_message:
-        return None, None
 
-    def dt_from_parts(parts):
-        try:
-            y = int(parts[0][0])
-            m = int(parts[0][1]) if len(parts[0]) > 1 else 1
-            d = int(parts[0][2]) if len(parts[0]) > 2 else 1
-            dt = datetime(y, m, d, tzinfo=timezone.utc)
-            return format_datetime(dt), dt.isoformat()
-        except Exception:
-            return None, None
+# ---------------- OpenAI comparator ----------------
 
-    for key in ("published-online", "issued", "created"):
-        obj = crossref_message.get(key)
-        if obj and obj.get("date-parts"):
-            return dt_from_parts(obj["date-parts"])
+def openai_same_article(
+    client: OpenAI,
+    rss_title: str,
+    rss_authors: list[str],
+    cr_title: str,
+    cr_authors: list[str],
+) -> bool:
+    prompt = f"""
+You are deciding whether TWO citations refer to the SAME journal article.
 
-    return None, None
+Answer ONLY YES or NO.
 
+Citation A:
+Title: {rss_title}
+Authors: {", ".join(rss_authors)}
+
+Citation B:
+Title: {cr_title}
+Authors: {", ".join(cr_authors)}
+"""
+
+    resp = client.responses.create(
+        model=MODEL,
+        input=prompt,
+    )
+    out = (resp.output_text or "").strip().upper()
+    return out == "YES"
+
+
+# ---------------- Matching logic ----------------
+
+def author_overlap(a: list[str], b: list[str]) -> bool:
+    a_set = {x.lower() for x in a if x}
+    b_set = {x.lower() for x in b if x}
+    return bool(a_set & b_set)
+
+
+def recover_doi(item: dict, client: OpenAI) -> str | None:
+    rss_title = item.get("title") or ""
+    rss_authors = item.get("authors") or []
+
+    wanted = norm_title(rss_title)
+    candidates = crossref_search(rss_title)
+
+    for cand in candidates:
+        cr_title = (cand.get("title") or [""])[0]
+        if norm_title(cr_title) == wanted:
+            return cand.get("DOI")
+
+    for cand in candidates:
+        cr_title = (cand.get("title") or [""])[0]
+        if wanted in norm_title(cr_title) or norm_title(cr_title) in wanted:
+            if author_overlap(
+                rss_authors,
+                [
+                    " ".join(filter(None, [a.get("given"), a.get("family")]))
+                    for a in cand.get("author", [])
+                ],
+            ):
+                return cand.get("DOI")
+
+    for cand in candidates:
+        cr_title = (cand.get("title") or [""])[0]
+        cr_authors = [
+            " ".join(filter(None, [a.get("given"), a.get("family")]))
+            for a in cand.get("author", [])
+        ]
+
+        if openai_same_article(
+            client,
+            rss_title,
+            rss_authors,
+            cr_title,
+            cr_authors,
+        ):
+            return cand.get("DOI")
+
+    return None
+
+
+# ---------------- RSS builder ----------------
 
 def build_rss(items: list[dict]) -> str:
     now = format_datetime(datetime.now(timezone.utc))
-
-    parts = []
-    parts.append('<?xml version="1.0" encoding="UTF-8"?>')
-    parts.append(
+    parts = [
+        '<?xml version="1.0" encoding="UTF-8"?>',
         '<rss version="2.0" '
         'xmlns:content="http://purl.org/rss/1.0/modules/content/" '
         'xmlns:dc="http://purl.org/dc/elements/1.1/" '
-        'xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">'
-    )
-    parts.append("<channel>")
-    parts.append("<title>Head &amp; Neck Cancer – DOI-Enriched Feed</title>")
-    parts.append("<link>https://colmmemedsurv.github.io/sentinelnode/</link>")
-    parts.append("<description>Curated head &amp; neck cancer literature with DOI-based enrichment.</description>")
-    parts.append(f"<lastBuildDate>{xml_escape(now)}</lastBuildDate>")
+        'xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">',
+        "<channel>",
+        "<title>Head &amp; Neck Cancer – DOI-Enriched Feed</title>",
+        "<link>https://colmmemedsurv.github.io/sentinelnode/</link>",
+        "<description>Curated head &amp; neck cancer literature with conservative DOI recovery.</description>",
+        f"<lastBuildDate>{xml_escape(now)}</lastBuildDate>",
+    ]
 
     for it in items:
-        title = it.get("title", "")
-        link = it.get("link", "")
-        journal = it.get("journal", "")
-        doi = it.get("doi_display", "DOI not found")
-        authors = it.get("authors", [])
-        abstract = it.get("abstract", "")
-        pub_rss = it.get("pubDate")
-        pub_iso = it.get("pubDateISO")
-
         parts.append("<item>")
-        parts.append(f"<title>{xml_escape(title)}</title>")
+        parts.append(f"<title>{xml_escape(it.get('title',''))}</title>")
 
-        if link:
-            parts.append(f"<link>{xml_escape(link)}</link>")
-            parts.append(f"<guid isPermaLink='true'>{xml_escape(link)}</guid>")
+        if it.get("link"):
+            parts.append(f"<link>{xml_escape(it['link'])}</link>")
+            parts.append(f"<guid isPermaLink='true'>{xml_escape(it['link'])}</guid>")
 
-        if pub_rss:
-            parts.append(f"<pubDate>{xml_escape(pub_rss)}</pubDate>")
-        if pub_iso:
-            parts.append(f"<dc:date>{xml_escape(pub_iso)}</dc:date>")
+        if it.get("pubDate"):
+            parts.append(f"<pubDate>{xml_escape(it['pubDate'])}</pubDate>")
 
-        if authors:
-            parts.append(f"<dc:creator>{xml_escape('; '.join(authors))}</dc:creator>")
+        if it.get("authors"):
+            parts.append(
+                f"<dc:creator>{xml_escape('; '.join(it['authors']))}</dc:creator>"
+            )
 
-        if journal:
-            parts.append(f"<prism:publicationName>{xml_escape(journal)}</prism:publicationName>")
+        if it.get("journal"):
+            parts.append(
+                f"<prism:publicationName>{xml_escape(it['journal'])}</prism:publicationName>"
+            )
 
-        if doi and doi != "DOI not found":
-            parts.append(f"<prism:doi>{xml_escape(doi)}</prism:doi>")
+        if it.get("doi_display") and it["doi_display"] != "DOI not found":
+            parts.append(f"<prism:doi>{xml_escape(it['doi_display'])}</prism:doi>")
 
-        desc = f"Journal: {journal} | DOI: {doi}"
-        parts.append(f"<description>{xml_escape(desc)}</description>")
+        parts.append(
+            f"<description>{xml_escape(f'Journal: {it.get('journal','')} | DOI: {it.get('doi_display','')}')}</description>"
+        )
 
-        # ---- Rendered content block (controls what you see in the reader) ----
-        if abstract:
+        if it.get("abstract"):
             parts.append("<content:encoded><![CDATA[")
-
-            if journal:
-                parts.append(f"<p><strong>Journal</strong>: {journal}</p>")
-
-            if authors:
-                parts.append(f"<p><strong>Authors</strong>: {'; '.join(authors)}</p>")
-
-            if doi and doi != "DOI not found":
-                doi_url = f"https://doi.org/{doi}"
+            parts.append(f"<p><strong>Journal</strong>: {it.get('journal','')}</p>")
+            if it.get("authors"):
                 parts.append(
-                    f"<p><strong>DOI</strong>: "
-                    f"<a href='{doi_url}'>{doi}</a></p>"
+                    f"<p><strong>Authors</strong>: {'; '.join(it['authors'])}</p>"
                 )
-
+            if it.get("doi_display") != "DOI not found":
+                parts.append(
+                    f"<p><strong>DOI</strong>: <a href='https://doi.org/{it['doi_display']}'>{it['doi_display']}</a></p>"
+                )
             parts.append("<hr/>")
             parts.append("<p><strong>Abstract</strong></p>")
-            parts.append(f"<p>{abstract}</p>")
+            parts.append(f"<p>{it['abstract']}</p>")
             parts.append("]]></content:encoded>")
 
         parts.append("</item>")
 
-    parts.append("</channel>")
-    parts.append("</rss>")
-
+    parts.append("</channel></rss>")
     return "\n".join(parts)
 
+
+# ---------------- Main ----------------
 
 def main():
     with open(INPUT_JSON, "r", encoding="utf-8") as f:
         items = json.load(f)
 
+    client = OpenAI()
     enriched = []
 
     for it in items:
         it = dict(it)
         doi = (it.get("doi") or "").strip()
+
+        if not doi and it.get("allow_doi_lookup"):
+            doi = recover_doi(it, client)
+            time.sleep(RATE_LIMIT_SLEEP)
+
         it["doi_display"] = doi if doi else "DOI not found"
 
-        cr = lookup_doi(doi) if doi else None
+        cr = crossref_lookup_doi(doi) if doi else None
         if cr:
             time.sleep(RATE_LIMIT_SLEEP)
 
-        pub_rss, pub_iso = best_pubdate(it, cr)
-        it["pubDate"] = pub_rss
-        it["pubDateISO"] = pub_iso
-
-        if cr:
-            if cr.get("container-title"):
+            if not it.get("journal") and cr.get("container-title"):
                 it["journal"] = cr["container-title"][0]
-            if cr.get("author"):
+
+            if not it.get("authors") and cr.get("author"):
                 it["authors"] = [
                     " ".join(filter(None, [a.get("given"), a.get("family")]))
                     for a in cr["author"]
-                    if a.get("family")
                 ]
-            if cr.get("abstract"):
+
+            if not it.get("abstract") and cr.get("abstract"):
                 it["abstract"] = strip_xml_tags(cr["abstract"])
-            if cr.get("URL"):
-                it["link"] = cr["URL"]
+
+            if not it.get("link"):
+                it["link"] = cr.get("URL") or f"https://doi.org/{doi}"
+
+            pub = cr.get("issued", {}).get("date-parts")
+            if pub:
+                y, m, d = pub[0] + [1, 1]
+                dt = datetime(y, m, d, tzinfo=timezone.utc)
+                it["pubDate"] = format_datetime(dt)
 
         if it.get("abstract"):
             it["abstract"] = strip_xml_tags(it["abstract"])
