@@ -165,7 +165,47 @@ def classify_item(client: OpenAI, title: str, abstract: str) -> str:
     if out not in {"YES", "NO", "UNCERTAIN"}:
         return "UNCERTAIN"
     return out
+# -----------------------------
+# Deduplication (no hallucination)
+# -----------------------------
 
+def deduplicate_items(items):
+    """
+    Deduplicate by priority:
+    1) DOI (if present)
+    2) Link URL
+    3) Normalized title
+    Keeps the first occurrence.
+    """
+    seen_doi = set()
+    seen_link = set()
+    seen_title = set()
+
+    unique = []
+
+    for it in items:
+        doi = (it.get("doi") or "").lower().strip()
+        link = (it.get("link") or "").lower().strip()
+        title = (it.get("title") or "").lower().strip()
+
+        if doi and doi in seen_doi:
+            continue
+        if link and link in seen_link:
+            continue
+        if title and title in seen_title:
+            continue
+
+        if doi:
+            seen_doi.add(doi)
+        if link:
+            seen_link.add(link)
+        if title:
+            seen_title.add(title)
+
+        unique.append(it)
+
+    return unique
+  
 # -----------------------------
 # RSS XML generator (simple RSS2)
 # -----------------------------
@@ -326,6 +366,7 @@ def main():
         json.dump(report, f, indent=2, ensure_ascii=False)
 
     # Write RSS + docs index
+    relevant = deduplicate_items(relevant)
     rss_xml = build_rss(relevant)
     with open(OUT_RSS, "w", encoding="utf-8") as f:
         f.write(rss_xml)
