@@ -47,7 +47,7 @@ def lookup_doi(doi: str):
         return None
 
 
-def best_pubdate(item: dict, crossref_message: dict | None) -> tuple[str | None, str | None]:
+def best_pubdate(item: dict, crossref_message: dict | None):
     if item.get("published"):
         return str(item["published"]), None
 
@@ -84,7 +84,6 @@ def build_rss(items: list[dict]) -> str:
         'xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">'
     )
     parts.append("<channel>")
-
     parts.append("<title>Head &amp; Neck Cancer – DOI-Enriched Feed</title>")
     parts.append("<link>https://colmmemedsurv.github.io/sentinelnode/</link>")
     parts.append("<description>Curated head &amp; neck cancer literature with DOI-based enrichment.</description>")
@@ -124,8 +123,24 @@ def build_rss(items: list[dict]) -> str:
         desc = f"Journal: {journal} | DOI: {doi}"
         parts.append(f"<description>{xml_escape(desc)}</description>")
 
+        # ---- Rendered content block (controls what you see in the reader) ----
         if abstract:
             parts.append("<content:encoded><![CDATA[")
+
+            if journal:
+                parts.append(f"<p><strong>Journal</strong>: {journal}</p>")
+
+            if authors:
+                parts.append(f"<p><strong>Authors</strong>: {'; '.join(authors)}</p>")
+
+            if doi and doi != "DOI not found":
+                doi_url = f"https://doi.org/{doi}"
+                parts.append(
+                    f"<p><strong>DOI</strong>: "
+                    f"<a href='{doi_url}'>{doi}</a></p>"
+                )
+
+            parts.append("<hr/>")
             parts.append("<p><strong>Abstract</strong></p>")
             parts.append(f"<p>{abstract}</p>")
             parts.append("]]></content:encoded>")
