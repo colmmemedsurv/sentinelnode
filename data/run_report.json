@@ -1,5 +1,5 @@
 {
-  "timestamp_utc": "2025-12-21T22:31:48.357085+00:00",
+  "timestamp_utc": "2025-12-21T23:01:27.555553+00:00",
   "feeds": [
     {
       "url": "https://onesearch-rss.nejm.org/api/specialty/rss?context=nejm&specialty=hematology-oncology",
@@ -59,7 +59,7 @@
       "url": "https://jamanetwork.com/rss/site_18/74.xml",
       "feed_title": "JAMA Otolaryngology–Head & Neck Surgery Current Issue",
       "items_in_feed": 18,
-      "relevant_yes": 18
+      "relevant_yes": 17
     },
     {
       "url": "https://jamanetwork.com/rss/site_18/onlineFirst_74.xml",
@@ -71,19 +71,19 @@
       "url": "https://rss.sciencedirect.com/publication/science/13688375",
       "feed_title": "ScienceDirect Publication: Oral Oncology",
       "items_in_feed": 23,
-      "relevant_yes": 23
+      "relevant_yes": 22
     },
     {
       "url": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
       "feed_title": "Wiley: Head & Neck: Table of Contents",
       "items_in_feed": 92,
-      "relevant_yes": 81
+      "relevant_yes": 78
     }
   ],
   "decisions_total": {
-    "YES": 131,
+    "YES": 126,
     "NO": 203,
-    "UNCERTAIN": 20
+    "UNCERTAIN": 25
   },
   "notes": [
     "No hallucination: metadata is copied only when present in the RSS feed.",
