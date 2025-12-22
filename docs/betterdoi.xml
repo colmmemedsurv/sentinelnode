@@ -3,8 +3,26 @@
 <channel>
 <title>Head &amp; Neck Cancer – DOI-Enriched Feed</title>
 <link>https://colmmemedsurv.github.io/sentinelnode/</link>
-<description>Curated head &amp; neck cancer literature with conservative DOI recovery.</description>
-<lastBuildDate>Mon, 22 Dec 2025 00:20:30 +0000</lastBuildDate>
+<description>Curated head &amp; neck cancer literature with DOI enrichment.</description>
+<lastBuildDate>Mon, 22 Dec 2025 00:54:41 +0000</lastBuildDate>
+<item>
+<title>Noninferiority of One HPV Vaccine Dose to Two Doses</title>
+<link>https://www.nejm.org/doi/full/10.1056/NEJMoa2506765?rss=searchAndBrowse</link>
+<guid isPermaLink='true'>https://www.nejm.org/doi/full/10.1056/NEJMoa2506765?rss=searchAndBrowse</guid>
+<pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+<dc:creator>Aimée R. Kreimer, Carolina Porras, Danping Liu, Allan Hildesheim, Loretto J. Carvajal, Rebeca Ocampo, Byron Romero, Mitchell H. Gail, Bernal Cortes, Monica S. Sierra, Karla Coronado, Joshua Sampson, Carolina Coto, Casey L. Dagnall, Daniela Mora, Troy J. Kemp, Michael Zuniga, Ligia A. Pinto, Gloriana Barrientos, John Schussler, Yenory Estrada, Cristian Montero, Carlos Avila, Dave Ruggieri, Jean T. Cyr, Stephen Chanock, Douglas R. Lowy, John T. Schiller, Rolando Herrero</dc:creator>
+<prism:publicationName>The New England Journal of Medicine: Search Results in Hematology/Oncology</prism:publicationName>
+<prism:doi>10.1056/NEJMoa2506765</prism:doi>
+<description>Journal: The New England Journal of Medicine: Search Results in Hematology/Oncology | DOI: 10.1056/NEJMoa2506765</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: The New England Journal of Medicine: Search Results in Hematology/Oncology</p>
+<p><strong>Authors</strong>: Aimée R. Kreimer, Carolina Porras, Danping Liu, Allan Hildesheim, Loretto J. Carvajal, Rebeca Ocampo, Byron Romero, Mitchell H. Gail, Bernal Cortes, Monica S. Sierra, Karla Coronado, Joshua Sampson, Carolina Coto, Casey L. Dagnall, Daniela Mora, Troy J. Kemp, Michael Zuniga, Ligia A. Pinto, Gloriana Barrientos, John Schussler, Yenory Estrada, Cristian Montero, Carlos Avila, Dave Ruggieri, Jean T. Cyr, Stephen Chanock, Douglas R. Lowy, John T. Schiller, Rolando Herrero</p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1056/NEJMoa2506765'>10.1056/NEJMoa2506765</a></p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>In this trial, one dose of an HPV vaccine was noninferior to two doses in preventing HPV type 16 or 18 infection.</p>
+]]></content:encoded>
+</item>
 <item>
 <title>[Correspondence] Misclassification of p16-positive, HPV-negative patients biases de-escalation trials</title>
 <link>https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(25)00616-3/fulltext?rss=yes</link>
@@ -46,13 +64,11 @@
 <link>https://www.sciencedirect.com/science/article/pii/S1368837525006542?dgcid=rss_sd_all</link>
 <guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006542?dgcid=rss_sd_all</guid>
 <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
-<dc:creator>Qin Liu; Jing-Ni Wei; Jia-Yu Zhou; Chuan-Run Zhang; Liang-Ru Ke; Nian Lu; Ying Deng; Yu-Wen Kuang; Yu-Chen Hua; Meng-Wen Wang; Jie Gong; Shu-Hui Dong; Longjunyu Wu; Xing Lv; Yan-Qun Xiang; Xiang Guo; Wei-Xiong Xia</dc:creator>
 <prism:publicationName>ScienceDirect Publication: Oral Oncology</prism:publicationName>
 <prism:doi>10.1016/j.oraloncology.2025.107825</prism:doi>
 <description>Journal: ScienceDirect Publication: Oral Oncology | DOI: 10.1016/j.oraloncology.2025.107825</description>
 <content:encoded><![CDATA[
 <p><strong>Journal</strong>: ScienceDirect Publication: Oral Oncology</p>
-<p><strong>Authors</strong>: Qin Liu; Jing-Ni Wei; Jia-Yu Zhou; Chuan-Run Zhang; Liang-Ru Ke; Nian Lu; Ying Deng; Yu-Wen Kuang; Yu-Chen Hua; Meng-Wen Wang; Jie Gong; Shu-Hui Dong; Longjunyu Wu; Xing Lv; Yan-Qun Xiang; Xiang Guo; Wei-Xiong Xia</p>
 <p><strong>DOI</strong>: <a href='https://doi.org/10.1016/j.oraloncology.2025.107825'>10.1016/j.oraloncology.2025.107825</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
@@ -64,13 +80,11 @@
 <link>https://www.sciencedirect.com/science/article/pii/S1368837525006529?dgcid=rss_sd_all</link>
 <guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006529?dgcid=rss_sd_all</guid>
 <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
-<dc:creator>Jessica Trac; Rashi Ramchandani; Pallavi Dutta; Leba Sarkis; Robert Calvisi; Noémie Villemure-Poliquin; Joel Davies; Eszter Somogyi-Ganss; Nick Blanas; Karl Cuddy; Danny Enepekides; Kevin Higgins; Justine Philteos; Antoine Eskander</dc:creator>
 <prism:publicationName>ScienceDirect Publication: Oral Oncology</prism:publicationName>
 <prism:doi>10.1016/j.oraloncology.2025.107823</prism:doi>
 <description>Journal: ScienceDirect Publication: Oral Oncology | DOI: 10.1016/j.oraloncology.2025.107823</description>
 <content:encoded><![CDATA[
 <p><strong>Journal</strong>: ScienceDirect Publication: Oral Oncology</p>
-<p><strong>Authors</strong>: Jessica Trac; Rashi Ramchandani; Pallavi Dutta; Leba Sarkis; Robert Calvisi; Noémie Villemure-Poliquin; Joel Davies; Eszter Somogyi-Ganss; Nick Blanas; Karl Cuddy; Danny Enepekides; Kevin Higgins; Justine Philteos; Antoine Eskander</p>
 <p><strong>DOI</strong>: <a href='https://doi.org/10.1016/j.oraloncology.2025.107823'>10.1016/j.oraloncology.2025.107823</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
@@ -82,13 +96,11 @@
 <link>https://www.sciencedirect.com/science/article/pii/S1368837525006487?dgcid=rss_sd_all</link>
 <guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006487?dgcid=rss_sd_all</guid>
 <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-<dc:creator>Velda Ling-Yu CHOW; Valerie Wai-Yee HO; Arthur Shing-Ho LO</dc:creator>
 <prism:publicationName>ScienceDirect Publication: Oral Oncology</prism:publicationName>
 <prism:doi>10.1016/j.oraloncology.2025.107819</prism:doi>
 <description>Journal: ScienceDirect Publication: Oral Oncology | DOI: 10.1016/j.oraloncology.2025.107819</description>
 <content:encoded><![CDATA[
 <p><strong>Journal</strong>: ScienceDirect Publication: Oral Oncology</p>
-<p><strong>Authors</strong>: Velda Ling-Yu CHOW; Valerie Wai-Yee HO; Arthur Shing-Ho LO</p>
 <p><strong>DOI</strong>: <a href='https://doi.org/10.1016/j.oraloncology.2025.107819'>10.1016/j.oraloncology.2025.107819</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
@@ -100,13 +112,11 @@
 <link>https://www.sciencedirect.com/science/article/pii/S1368837525005342?dgcid=rss_sd_all</link>
 <guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525005342?dgcid=rss_sd_all</guid>
 <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-<dc:creator>Cunxi Zou</dc:creator>
 <prism:publicationName>ScienceDirect Publication: Oral Oncology</prism:publicationName>
 <prism:doi>10.1016/j.oraloncology.2025.107705</prism:doi>
 <description>Journal: ScienceDirect Publication: Oral Oncology | DOI: 10.1016/j.oraloncology.2025.107705</description>
 <content:encoded><![CDATA[
 <p><strong>Journal</strong>: ScienceDirect Publication: Oral Oncology</p>
-<p><strong>Authors</strong>: Cunxi Zou</p>
 <p><strong>DOI</strong>: <a href='https://doi.org/10.1016/j.oraloncology.2025.107705'>10.1016/j.oraloncology.2025.107705</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
@@ -118,13 +128,11 @@
 <link>https://www.sciencedirect.com/science/article/pii/S1368837525006517?dgcid=rss_sd_all</link>
 <guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006517?dgcid=rss_sd_all</guid>
 <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-<dc:creator>Shanshan Yuan; Jingjing Gao</dc:creator>
 <prism:publicationName>ScienceDirect Publication: Oral Oncology</prism:publicationName>
 <prism:doi>10.1016/j.oraloncology.2025.107822</prism:doi>
 <description>Journal: ScienceDirect Publication: Oral Oncology | DOI: 10.1016/j.oraloncology.2025.107822</description>
 <content:encoded><![CDATA[
 <p><strong>Journal</strong>: ScienceDirect Publication: Oral Oncology</p>
-<p><strong>Authors</strong>: Shanshan Yuan; Jingjing Gao</p>
 <p><strong>DOI</strong>: <a href='https://doi.org/10.1016/j.oraloncology.2025.107822'>10.1016/j.oraloncology.2025.107822</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
@@ -136,13 +144,11 @@
 <link>https://www.sciencedirect.com/science/article/pii/S1368837525006414?dgcid=rss_sd_all</link>
 <guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006414?dgcid=rss_sd_all</guid>
 <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-<dc:creator>Jiaqian Wu; Jianning Zhang; Jiachuan Lin; Yan Huo</dc:creator>
 <prism:publicationName>ScienceDirect Publication: Oral Oncology</prism:publicationName>
 <prism:doi>10.1016/j.oraloncology.2025.107812</prism:doi>
 <description>Journal: ScienceDirect Publication: Oral Oncology | DOI: 10.1016/j.oraloncology.2025.107812</description>
 <content:encoded><![CDATA[
 <p><strong>Journal</strong>: ScienceDirect Publication: Oral Oncology</p>
-<p><strong>Authors</strong>: Jiaqian Wu; Jianning Zhang; Jiachuan Lin; Yan Huo</p>
 <p><strong>DOI</strong>: <a href='https://doi.org/10.1016/j.oraloncology.2025.107812'>10.1016/j.oraloncology.2025.107812</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
@@ -154,13 +160,11 @@
 <link>https://www.sciencedirect.com/science/article/pii/S136883752500627X?dgcid=rss_sd_all</link>
 <guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S136883752500627X?dgcid=rss_sd_all</guid>
 <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-<dc:creator>Yaling Tang; Heng Gan; Xin Gan</dc:creator>
 <prism:publicationName>ScienceDirect Publication: Oral Oncology</prism:publicationName>
 <prism:doi>10.1016/j.oraloncology.2025.107798</prism:doi>
 <description>Journal: ScienceDirect Publication: Oral Oncology | DOI: 10.1016/j.oraloncology.2025.107798</description>
 <content:encoded><![CDATA[
 <p><strong>Journal</strong>: ScienceDirect Publication: Oral Oncology</p>
-<p><strong>Authors</strong>: Yaling Tang; Heng Gan; Xin Gan</p>
 <p><strong>DOI</strong>: <a href='https://doi.org/10.1016/j.oraloncology.2025.107798'>10.1016/j.oraloncology.2025.107798</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
@@ -172,13 +176,11 @@
 <link>https://www.sciencedirect.com/science/article/pii/S1368837525006268?dgcid=rss_sd_all</link>
 <guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006268?dgcid=rss_sd_all</guid>
 <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-<dc:creator>Hitoshi Miyashita; Haruka Saito; Masashi Katoh; Fumiyoshi Fujishima; Nobuo Ohta</dc:creator>
 <prism:publicationName>ScienceDirect Publication: Oral Oncology</prism:publicationName>
 <prism:doi>10.1016/j.oraloncology.2025.107797</prism:doi>
 <description>Journal: ScienceDirect Publication: Oral Oncology | DOI: 10.1016/j.oraloncology.2025.107797</description>
 <content:encoded><![CDATA[
 <p><strong>Journal</strong>: ScienceDirect Publication: Oral Oncology</p>
-<p><strong>Authors</strong>: Hitoshi Miyashita; Haruka Saito; Masashi Katoh; Fumiyoshi Fujishima; Nobuo Ohta</p>
 <p><strong>DOI</strong>: <a href='https://doi.org/10.1016/j.oraloncology.2025.107797'>10.1016/j.oraloncology.2025.107797</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
@@ -190,13 +192,11 @@
 <link>https://www.sciencedirect.com/science/article/pii/S1368837525006530?dgcid=rss_sd_all</link>
 <guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006530?dgcid=rss_sd_all</guid>
 <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-<dc:creator>Yiheng Feng; Maged Ali Al-Aroomi; Jie Chen; Saiwen Song; Canhua Jiang; Jie Wang</dc:creator>
 <prism:publicationName>ScienceDirect Publication: Oral Oncology</prism:publicationName>
 <prism:doi>10.1016/j.oraloncology.2025.107824</prism:doi>
 <description>Journal: ScienceDirect Publication: Oral Oncology | DOI: 10.1016/j.oraloncology.2025.107824</description>
 <content:encoded><![CDATA[
 <p><strong>Journal</strong>: ScienceDirect Publication: Oral Oncology</p>
-<p><strong>Authors</strong>: Yiheng Feng; Maged Ali Al-Aroomi; Jie Chen; Saiwen Song; Canhua Jiang; Jie Wang</p>
 <p><strong>DOI</strong>: <a href='https://doi.org/10.1016/j.oraloncology.2025.107824'>10.1016/j.oraloncology.2025.107824</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
@@ -208,13 +208,11 @@
 <link>https://www.sciencedirect.com/science/article/pii/S1368837525006475?dgcid=rss_sd_all</link>
 <guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006475?dgcid=rss_sd_all</guid>
 <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-<dc:creator>A. Hafström; E. Hammerlid; M. Beran; M. Olin; A. Högmo; L. Farnebo</dc:creator>
 <prism:publicationName>ScienceDirect Publication: Oral Oncology</prism:publicationName>
 <prism:doi>10.1016/j.oraloncology.2025.107818</prism:doi>
 <description>Journal: ScienceDirect Publication: Oral Oncology | DOI: 10.1016/j.oraloncology.2025.107818</description>
 <content:encoded><![CDATA[
 <p><strong>Journal</strong>: ScienceDirect Publication: Oral Oncology</p>
-<p><strong>Authors</strong>: A. Hafström; E. Hammerlid; M. Beran; M. Olin; A. Högmo; L. Farnebo</p>
 <p><strong>DOI</strong>: <a href='https://doi.org/10.1016/j.oraloncology.2025.107818'>10.1016/j.oraloncology.2025.107818</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
@@ -226,13 +224,11 @@
 <link>https://www.sciencedirect.com/science/article/pii/S1368837525006463?dgcid=rss_sd_all</link>
 <guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006463?dgcid=rss_sd_all</guid>
 <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-<dc:creator>Daixing Hu; Zhuolin Dai; Yang Feng; Xinliang Su; Chun Huang</dc:creator>
 <prism:publicationName>ScienceDirect Publication: Oral Oncology</prism:publicationName>
 <prism:doi>10.1016/j.oraloncology.2025.107817</prism:doi>
 <description>Journal: ScienceDirect Publication: Oral Oncology | DOI: 10.1016/j.oraloncology.2025.107817</description>
 <content:encoded><![CDATA[
 <p><strong>Journal</strong>: ScienceDirect Publication: Oral Oncology</p>
-<p><strong>Authors</strong>: Daixing Hu; Zhuolin Dai; Yang Feng; Xinliang Su; Chun Huang</p>
 <p><strong>DOI</strong>: <a href='https://doi.org/10.1016/j.oraloncology.2025.107817'>10.1016/j.oraloncology.2025.107817</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
@@ -244,13 +240,11 @@
 <link>https://www.sciencedirect.com/science/article/pii/S1368837525006499?dgcid=rss_sd_all</link>
 <guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006499?dgcid=rss_sd_all</guid>
 <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-<dc:creator>Frederik Holdorf; Henning Schliephake; Kathi Goldstein; Lennart Johannes Gruber; Phillipp Brockmeyer; Martin Leu; Stefan Rieken; Boris Schminke</dc:creator>
 <prism:publicationName>ScienceDirect Publication: Oral Oncology</prism:publicationName>
 <prism:doi>10.1016/j.oraloncology.2025.107820</prism:doi>
 <description>Journal: ScienceDirect Publication: Oral Oncology | DOI: 10.1016/j.oraloncology.2025.107820</description>
 <content:encoded><![CDATA[
 <p><strong>Journal</strong>: ScienceDirect Publication: Oral Oncology</p>
-<p><strong>Authors</strong>: Frederik Holdorf; Henning Schliephake; Kathi Goldstein; Lennart Johannes Gruber; Phillipp Brockmeyer; Martin Leu; Stefan Rieken; Boris Schminke</p>
 <p><strong>DOI</strong>: <a href='https://doi.org/10.1016/j.oraloncology.2025.107820'>10.1016/j.oraloncology.2025.107820</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
@@ -262,13 +256,11 @@
 <link>https://www.sciencedirect.com/science/article/pii/S1368837525006438?dgcid=rss_sd_all</link>
 <guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006438?dgcid=rss_sd_all</guid>
 <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-<dc:creator>Han-Na Yoon; Jin-ha Kim; Doeon Gu; Jonghyun Lee; Soo Yoon Kim; Hye Jin Kim; Jaehyeon Jeong; Dongkwan Shin; Yuh-Seog Jung; Man Ki Chung; Sang-Jin Lee; Sung Yong Choi</dc:creator>
 <prism:publicationName>ScienceDirect Publication: Oral Oncology</prism:publicationName>
 <prism:doi>10.1016/j.oraloncology.2025.107814</prism:doi>
 <description>Journal: ScienceDirect Publication: Oral Oncology | DOI: 10.1016/j.oraloncology.2025.107814</description>
 <content:encoded><![CDATA[
 <p><strong>Journal</strong>: ScienceDirect Publication: Oral Oncology</p>
-<p><strong>Authors</strong>: Han-Na Yoon; Jin-ha Kim; Doeon Gu; Jonghyun Lee; Soo Yoon Kim; Hye Jin Kim; Jaehyeon Jeong; Dongkwan Shin; Yuh-Seog Jung; Man Ki Chung; Sang-Jin Lee; Sung Yong Choi</p>
 <p><strong>DOI</strong>: <a href='https://doi.org/10.1016/j.oraloncology.2025.107814'>10.1016/j.oraloncology.2025.107814</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
@@ -280,13 +272,11 @@
 <link>https://www.sciencedirect.com/science/article/pii/S136883752500644X?dgcid=rss_sd_all</link>
 <guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S136883752500644X?dgcid=rss_sd_all</guid>
 <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-<dc:creator>Mushfiq H. Shaikh; Walid Gazala; Cindy Zheng; Mahdi Farzad Naimi; Matthew Cecchini; Amir Karimi; Halema Khan; Krista Joris; Shengjie Ying; Harrison Pan; Mohd Wessam Al Jawhri; David A. Palma; Joe S. Mymryk; Peter YF. Zeng; John W. Barrett; Anthony C. Nichols</dc:creator>
 <prism:publicationName>ScienceDirect Publication: Oral Oncology</prism:publicationName>
 <prism:doi>10.1016/j.oraloncology.2025.107815</prism:doi>
 <description>Journal: ScienceDirect Publication: Oral Oncology | DOI: 10.1016/j.oraloncology.2025.107815</description>
 <content:encoded><![CDATA[
 <p><strong>Journal</strong>: ScienceDirect Publication: Oral Oncology</p>
-<p><strong>Authors</strong>: Mushfiq H. Shaikh; Walid Gazala; Cindy Zheng; Mahdi Farzad Naimi; Matthew Cecchini; Amir Karimi; Halema Khan; Krista Joris; Shengjie Ying; Harrison Pan; Mohd Wessam Al Jawhri; David A. Palma; Joe S. Mymryk; Peter YF. Zeng; John W. Barrett; Anthony C. Nichols</p>
 <p><strong>DOI</strong>: <a href='https://doi.org/10.1016/j.oraloncology.2025.107815'>10.1016/j.oraloncology.2025.107815</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
@@ -298,13 +288,11 @@
 <link>https://www.sciencedirect.com/science/article/pii/S1368837525006402?dgcid=rss_sd_all</link>
 <guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006402?dgcid=rss_sd_all</guid>
 <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-<dc:creator>Beniamino Vincenzoni Padovan; Marleen Beenker; Johannes A. Langendijk; Hans Paul van der Laan; Boukje A.C. van Dijk; Geertrudia H. de Bock; Boudewijn E.C. Plaat; Pauline de Graeff; Suzanne Festen; Gyorgy B. Halmos</dc:creator>
 <prism:publicationName>ScienceDirect Publication: Oral Oncology</prism:publicationName>
 <prism:doi>10.1016/j.oraloncology.2025.107811</prism:doi>
 <description>Journal: ScienceDirect Publication: Oral Oncology | DOI: 10.1016/j.oraloncology.2025.107811</description>
 <content:encoded><![CDATA[
 <p><strong>Journal</strong>: ScienceDirect Publication: Oral Oncology</p>
-<p><strong>Authors</strong>: Beniamino Vincenzoni Padovan; Marleen Beenker; Johannes A. Langendijk; Hans Paul van der Laan; Boukje A.C. van Dijk; Geertrudia H. de Bock; Boudewijn E.C. Plaat; Pauline de Graeff; Suzanne Festen; Gyorgy B. Halmos</p>
 <p><strong>DOI</strong>: <a href='https://doi.org/10.1016/j.oraloncology.2025.107811'>10.1016/j.oraloncology.2025.107811</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
@@ -316,13 +304,11 @@
 <link>https://www.sciencedirect.com/science/article/pii/S1368837525006384?dgcid=rss_sd_all</link>
 <guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006384?dgcid=rss_sd_all</guid>
 <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-<dc:creator>Wen-Jie Wu; Pu-Gen An; Zi-Qi Zhang; Li-Hang Shen; Jian-Yun Zhang; Yan Chen; Ming-Wei Huang; Shu-Ming Liu; Jie Yao; Jie Zhang</dc:creator>
 <prism:publicationName>ScienceDirect Publication: Oral Oncology</prism:publicationName>
 <prism:doi>10.1016/j.oraloncology.2025.107809</prism:doi>
 <description>Journal: ScienceDirect Publication: Oral Oncology | DOI: 10.1016/j.oraloncology.2025.107809</description>
 <content:encoded><![CDATA[
 <p><strong>Journal</strong>: ScienceDirect Publication: Oral Oncology</p>
-<p><strong>Authors</strong>: Wen-Jie Wu; Pu-Gen An; Zi-Qi Zhang; Li-Hang Shen; Jian-Yun Zhang; Yan Chen; Ming-Wei Huang; Shu-Ming Liu; Jie Yao; Jie Zhang</p>
 <p><strong>DOI</strong>: <a href='https://doi.org/10.1016/j.oraloncology.2025.107809'>10.1016/j.oraloncology.2025.107809</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
@@ -334,13 +320,11 @@
 <link>https://www.sciencedirect.com/science/article/pii/S1368837525006426?dgcid=rss_sd_all</link>
 <guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006426?dgcid=rss_sd_all</guid>
 <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-<dc:creator>Sholem Hack; Rebecca Attal; Karin Geva; Armin Farzad; Shibli Alsleibi; Naseem Saleh; Ben Gvili; David Yogev; David Shahal; Benyamin Meir Kaminer; Eric Remer</dc:creator>
 <prism:publicationName>ScienceDirect Publication: Oral Oncology</prism:publicationName>
 <prism:doi>10.1016/j.oraloncology.2025.107813</prism:doi>
 <description>Journal: ScienceDirect Publication: Oral Oncology | DOI: 10.1016/j.oraloncology.2025.107813</description>
 <content:encoded><![CDATA[
 <p><strong>Journal</strong>: ScienceDirect Publication: Oral Oncology</p>
-<p><strong>Authors</strong>: Sholem Hack; Rebecca Attal; Karin Geva; Armin Farzad; Shibli Alsleibi; Naseem Saleh; Ben Gvili; David Yogev; David Shahal; Benyamin Meir Kaminer; Eric Remer</p>
 <p><strong>DOI</strong>: <a href='https://doi.org/10.1016/j.oraloncology.2025.107813'>10.1016/j.oraloncology.2025.107813</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
@@ -352,13 +336,11 @@
 <link>https://www.sciencedirect.com/science/article/pii/S1368837525006190?dgcid=rss_sd_all</link>
 <guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006190?dgcid=rss_sd_all</guid>
 <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-<dc:creator>Sarah C. Nyirjesy; Yana Al-Inaya; Selena Zhang; Omar A. Karadaghy; Derrick T. Lin; Daniel G. Deschler; Allen L. Feng; Mark A. Varvares; Adam S. Fisch; Daniel L. Faden; Jeremy D. Richmon</dc:creator>
 <prism:publicationName>ScienceDirect Publication: Oral Oncology</prism:publicationName>
 <prism:doi>10.1016/j.oraloncology.2025.107790</prism:doi>
 <description>Journal: ScienceDirect Publication: Oral Oncology | DOI: 10.1016/j.oraloncology.2025.107790</description>
 <content:encoded><![CDATA[
 <p><strong>Journal</strong>: ScienceDirect Publication: Oral Oncology</p>
-<p><strong>Authors</strong>: Sarah C. Nyirjesy; Yana Al-Inaya; Selena Zhang; Omar A. Karadaghy; Derrick T. Lin; Daniel G. Deschler; Allen L. Feng; Mark A. Varvares; Adam S. Fisch; Daniel L. Faden; Jeremy D. Richmon</p>
 <p><strong>DOI</strong>: <a href='https://doi.org/10.1016/j.oraloncology.2025.107790'>10.1016/j.oraloncology.2025.107790</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
@@ -370,13 +352,11 @@
 <link>https://www.sciencedirect.com/science/article/pii/S1368837525006281?dgcid=rss_sd_all</link>
 <guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006281?dgcid=rss_sd_all</guid>
 <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-<dc:creator>Mei Zhao; Zhiyi Liu; Mutsuki Kawabe; Abdullah A Osman; Mitchell J. Frederick; Jeffrey N Myers</dc:creator>
 <prism:publicationName>ScienceDirect Publication: Oral Oncology</prism:publicationName>
 <prism:doi>10.1016/j.oraloncology.2025.107799</prism:doi>
 <description>Journal: ScienceDirect Publication: Oral Oncology | DOI: 10.1016/j.oraloncology.2025.107799</description>
 <content:encoded><![CDATA[
 <p><strong>Journal</strong>: ScienceDirect Publication: Oral Oncology</p>
-<p><strong>Authors</strong>: Mei Zhao; Zhiyi Liu; Mutsuki Kawabe; Abdullah A Osman; Mitchell J. Frederick; Jeffrey N Myers</p>
 <p><strong>DOI</strong>: <a href='https://doi.org/10.1016/j.oraloncology.2025.107799'>10.1016/j.oraloncology.2025.107799</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
@@ -388,13 +368,11 @@
 <link>https://www.sciencedirect.com/science/article/pii/S1368837525006189?dgcid=rss_sd_all</link>
 <guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006189?dgcid=rss_sd_all</guid>
 <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-<dc:creator>Ying Li; Qianzi Kou; Chongyang Zheng; Pengkhun Nov; Changqian Wang; Peizan Ni; Lilin Li; Yangfeng Zhang; Duanyu Wang; Arzoo Prasai; Wen Fu; Jiqiang Li; Kunpeng Du</dc:creator>
 <prism:publicationName>ScienceDirect Publication: Oral Oncology</prism:publicationName>
 <prism:doi>10.1016/j.oraloncology.2025.107789</prism:doi>
 <description>Journal: ScienceDirect Publication: Oral Oncology | DOI: 10.1016/j.oraloncology.2025.107789</description>
 <content:encoded><![CDATA[
 <p><strong>Journal</strong>: ScienceDirect Publication: Oral Oncology</p>
-<p><strong>Authors</strong>: Ying Li; Qianzi Kou; Chongyang Zheng; Pengkhun Nov; Changqian Wang; Peizan Ni; Lilin Li; Yangfeng Zhang; Duanyu Wang; Arzoo Prasai; Wen Fu; Jiqiang Li; Kunpeng Du</p>
 <p><strong>DOI</strong>: <a href='https://doi.org/10.1016/j.oraloncology.2025.107789'>10.1016/j.oraloncology.2025.107789</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
@@ -406,13 +384,11 @@
 <link>https://www.sciencedirect.com/science/article/pii/S1368837525006451?dgcid=rss_sd_all</link>
 <guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006451?dgcid=rss_sd_all</guid>
 <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-<dc:creator>Kripa Bajaj; Ramya Ramadoss; Sandhya Sundar; Suganya Panneer Selvam; Hema Shree K.</dc:creator>
 <prism:publicationName>ScienceDirect Publication: Oral Oncology</prism:publicationName>
 <prism:doi>10.1016/j.oraloncology.2025.107816</prism:doi>
 <description>Journal: ScienceDirect Publication: Oral Oncology | DOI: 10.1016/j.oraloncology.2025.107816</description>
 <content:encoded><![CDATA[
 <p><strong>Journal</strong>: ScienceDirect Publication: Oral Oncology</p>
-<p><strong>Authors</strong>: Kripa Bajaj; Ramya Ramadoss; Sandhya Sundar; Suganya Panneer Selvam; Hema Shree K.</p>
 <p><strong>DOI</strong>: <a href='https://doi.org/10.1016/j.oraloncology.2025.107816'>10.1016/j.oraloncology.2025.107816</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
@@ -424,13 +400,11 @@
 <link>https://www.sciencedirect.com/science/article/pii/S1368837525006396?dgcid=rss_sd_all</link>
 <guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006396?dgcid=rss_sd_all</guid>
 <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-<dc:creator>Kennedy Ayoo; Elliot Koo; Noémie Villemure-Poliquin; Rui Fu; Jonathan C Irish; Thomas Lindsay; Antoine Eskander</dc:creator>
 <prism:publicationName>ScienceDirect Publication: Oral Oncology</prism:publicationName>
 <prism:doi>10.1016/j.oraloncology.2025.107810</prism:doi>
 <description>Journal: ScienceDirect Publication: Oral Oncology | DOI: 10.1016/j.oraloncology.2025.107810</description>
 <content:encoded><![CDATA[
 <p><strong>Journal</strong>: ScienceDirect Publication: Oral Oncology</p>
-<p><strong>Authors</strong>: Kennedy Ayoo; Elliot Koo; Noémie Villemure-Poliquin; Rui Fu; Jonathan C Irish; Thomas Lindsay; Antoine Eskander</p>
 <p><strong>DOI</strong>: <a href='https://doi.org/10.1016/j.oraloncology.2025.107810'>10.1016/j.oraloncology.2025.107810</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
@@ -442,13 +416,11 @@
 <link>https://www.sciencedirect.com/science/article/pii/S1368837525006505?dgcid=rss_sd_all</link>
 <guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837525006505?dgcid=rss_sd_all</guid>
 <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-<dc:creator>Francesco Chiari; Andrea Luigi Camillo Carobbio; Marco Ferrari; Piero Nicolai; Claudio Donadio Caporale; Pierre Guarino</dc:creator>
 <prism:publicationName>ScienceDirect Publication: Oral Oncology</prism:publicationName>
 <prism:doi>10.1016/j.oraloncology.2025.107821</prism:doi>
 <description>Journal: ScienceDirect Publication: Oral Oncology | DOI: 10.1016/j.oraloncology.2025.107821</description>
 <content:encoded><![CDATA[
 <p><strong>Journal</strong>: ScienceDirect Publication: Oral Oncology</p>
-<p><strong>Authors</strong>: Francesco Chiari; Andrea Luigi Camillo Carobbio; Marco Ferrari; Piero Nicolai; Claudio Donadio Caporale; Pierre Guarino</p>
 <p><strong>DOI</strong>: <a href='https://doi.org/10.1016/j.oraloncology.2025.107821'>10.1016/j.oraloncology.2025.107821</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
