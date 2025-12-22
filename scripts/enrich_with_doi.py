@@ -1,21 +1,27 @@
 import json
 import time
 import re
+import os
 import requests
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from email.utils import format_datetime
 
+from openai import OpenAI
+
 INPUT_JSON = "data/relevant_items.json"
 OUTPUT_RSS = "docs/betterdoi.xml"
-PUBMED_DEBUG = "docs/pubmed_raw.txt"
+PUBMED_LOG = "data/pubmed_raw.txt"
 
-CROSSREF_API = "https://api.crossref.org/works/"
+CROSSREF_API = "https://api.crossref.org/works"
 PUBMED_ESEARCH = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
 PUBMED_EFETCH = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi"
 
 USER_AGENT = "sentinelnode/1.0 (mailto:colmmemedsurv@users.noreply.github.com)"
-RATE_LIMIT_SLEEP = 0.34
+RATE_LIMIT = 0.4
+MODEL = "gpt-4.1-mini"
+
+DOI_RE = re.compile(r"\b10\.\d{4,9}/[-._;()/:A-Z0-9]+\b", re.I)
 
 
 # ---------------- Utilities ----------------
@@ -30,104 +36,112 @@ def xml_escape(s: str) -> str:
     )
 
 
-def strip_xml_tags(text: str) -> str:
-    if not text:
-        return ""
-    return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", text)).strip()
+def norm_title(s: str) -> str:
+    s = (s or "").lower()
+    s = re.sub(r"<[^>]+>", "", s)
+    s = re.sub(r"[^\w\s]", "", s)
+    return re.sub(r"\s+", " ", s).strip()
 
 
 # ---------------- Crossref ----------------
 
-def crossref_lookup(doi: str) -> dict | None:
+def crossref_search(title: str, rows=5):
     try:
         r = requests.get(
-            CROSSREF_API + doi,
+            CROSSREF_API,
+            params={"query.title": title, "rows": rows},
             headers={"User-Agent": USER_AGENT},
             timeout=20,
         )
         if r.status_code != 200:
-            return None
-        return r.json().get("message")
+            return []
+        return r.json().get("message", {}).get("items", [])
     except Exception:
-        return None
+        return []
+
+
+# ---------------- OpenAI comparator ----------------
+
+def same_article(client, a_title, a_authors, b_title, b_authors):
+    prompt = f"""Do these refer to the SAME journal article?
+Answer YES or NO only.
+
+A:
+Title: {a_title}
+Authors: {", ".join(a_authors)}
+
+B:
+Title: {b_title}
+Authors: {", ".join(b_authors)}
+"""
+    r = client.responses.create(model=MODEL, input=prompt)
+    return (r.output_text or "").strip().upper() == "YES"
+
+
+def recover_doi(item, client):
+    title = item.get("title", "")
+    authors = item.get("authors", [])
+    wanted = norm_title(title)
+
+    for c in crossref_search(title):
+        ct = (c.get("title") or [""])[0]
+        if norm_title(ct) == wanted:
+            return c.get("DOI")
+
+    for c in crossref_search(title):
+        ct = (c.get("title") or [""])[0]
+        ca = [
+            " ".join(filter(None, [a.get("given"), a.get("family")]))
+            for a in c.get("author", [])
+        ]
+        if same_article(client, title, authors, ct, ca):
+            return c.get("DOI")
+
+    return None
 
 
 # ---------------- PubMed ----------------
 
-def pubmed_lookup_by_doi(doi: str, debug_log: list[str]) -> dict | None:
+def pubmed_fetch_abstract(doi: str):
     try:
-        # Step 1: DOI -> PMID
-        r = requests.get(
+        s = requests.get(
             PUBMED_ESEARCH,
-            params={
-                "db": "pubmed",
-                "term": doi,
-                "retmode": "json",
-            },
+            params={"db": "pubmed", "term": f"{doi}[DOI]", "retmode": "json"},
+            headers={"User-Agent": USER_AGENT},
             timeout=20,
         )
-        ids = r.json().get("esearchresult", {}).get("idlist", [])
-        if not ids:
-            debug_log.append(f"DOI {doi}: No PMID found\n")
+        time.sleep(RATE_LIMIT)
+        pmids = s.json()["esearchresult"]["idlist"]
+        if not pmids:
             return None
 
-        pmid = ids[0]
-
-        # Step 2: Fetch full record
-        r = requests.get(
+        f = requests.get(
             PUBMED_EFETCH,
-            params={
-                "db": "pubmed",
-                "id": pmid,
-                "retmode": "xml",
-            },
+            params={"db": "pubmed", "id": pmids[0], "retmode": "xml"},
+            headers={"User-Agent": USER_AGENT},
             timeout=20,
         )
 
-        debug_log.append(f"\n===== DOI {doi} =====\n{r.text}\n")
+        with open(PUBMED_LOG, "a", encoding="utf-8") as log:
+            log.write(f"\n===== DOI {doi} =====\n")
+            log.write(f.text)
 
-        root = ET.fromstring(r.text)
-        article = root.find(".//Article")
-        if article is None:
-            return None
+        root = ET.fromstring(f.text)
+        abs_el = root.find(".//AbstractText")
+        if abs_el is not None and abs_el.text:
+            return abs_el.text.strip()
 
-        # Abstract
-        abstract_parts = article.findall(".//AbstractText")
-        abstract = " ".join(
-            strip_xml_tags(ET.tostring(a, encoding="unicode"))
-            for a in abstract_parts
-        ).strip()
-
-        # Journal
-        journal = article.findtext(".//Journal/Title")
-
-        # Pub date (safe)
-        year = article.findtext(".//PubDate/Year")
-        month = article.findtext(".//PubDate/Month") or "1"
-        day = article.findtext(".//PubDate/Day") or "1"
-
-        try:
-            dt = datetime(int(year), int(month), int(day), tzinfo=timezone.utc)
-            pub_date = format_datetime(dt)
-        except Exception:
-            pub_date = None
-
-        return {
-            "abstract": abstract or "Abstract not available",
-            "journal": journal,
-            "pubDate": pub_date,
-        }
-
-    except Exception as e:
-        debug_log.append(f"DOI {doi}: ERROR {e}\n")
+    except Exception:
         return None
+
+    return None
 
 
 # ---------------- RSS ----------------
 
-def build_rss(items: list[dict]) -> str:
+def build_rss(items):
     now = format_datetime(datetime.now(timezone.utc))
-    parts = [
+    out = [
         '<?xml version="1.0" encoding="UTF-8"?>',
         '<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" '
         'xmlns:dc="http://purl.org/dc/elements/1.1/" '
@@ -140,42 +154,36 @@ def build_rss(items: list[dict]) -> str:
     ]
 
     for it in items:
-        parts.append("<item>")
-        parts.append(f"<title>{xml_escape(it.get('title',''))}</title>")
-
+        out.append("<item>")
+        out.append(f"<title>{xml_escape(it.get('title',''))}</title>")
         if it.get("link"):
-            parts.append(f"<link>{xml_escape(it['link'])}</link>")
-            parts.append(f"<guid isPermaLink='true'>{xml_escape(it['link'])}</guid>")
-
-        if it.get("pubDate"):
-            parts.append(f"<pubDate>{xml_escape(it['pubDate'])}</pubDate>")
+            out.append(f"<link>{xml_escape(it['link'])}</link>")
+            out.append(f"<guid isPermaLink='true'>{xml_escape(it['link'])}</guid>")
 
         if it.get("authors"):
-            parts.append(f"<dc:creator>{xml_escape('; '.join(it['authors']))}</dc:creator>")
-
+            out.append(f"<dc:creator>{xml_escape('; '.join(it['authors']))}</dc:creator>")
         if it.get("journal"):
-            parts.append(f"<prism:publicationName>{xml_escape(it['journal'])}</prism:publicationName>")
-
+            out.append(f"<prism:publicationName>{xml_escape(it['journal'])}</prism:publicationName>")
         if it.get("doi"):
-            parts.append(f"<prism:doi>{xml_escape(it['doi'])}</prism:doi>")
+            out.append(f"<prism:doi>{xml_escape(it['doi'])}</prism:doi>")
 
-        desc = "Journal: {} | DOI: {}".format(it.get("journal",""), it.get("doi",""))
-        parts.append(f"<description>{xml_escape(desc)}</description>")
+        desc = f"Journal: {it.get('journal','')} | DOI: {it.get('doi','')}"
+        out.append(f"<description>{xml_escape(desc)}</description>")
 
-        parts.append("<content:encoded><![CDATA[")
-        parts.append(f"<p><strong>Journal</strong>: {it.get('journal','')}</p>")
+        out.append("<content:encoded><![CDATA[")
+        out.append(f"<p><strong>Journal</strong>: {it.get('journal','')}</p>")
         if it.get("authors"):
-            parts.append(f"<p><strong>Authors</strong>: {'; '.join(it['authors'])}</p>")
+            out.append(f"<p><strong>Authors</strong>: {'; '.join(it['authors'])}</p>")
         if it.get("doi"):
-            parts.append(f"<p><strong>DOI</strong>: <a href='https://doi.org/{it['doi']}'>{it['doi']}</a></p>")
-        parts.append("<hr/>")
-        parts.append("<p><strong>Abstract</strong></p>")
-        parts.append(f"<p>{it.get('abstract','Abstract not available')}</p>")
-        parts.append("]]></content:encoded>")
-        parts.append("</item>")
+            out.append(f"<p><strong>DOI</strong>: <a href='https://doi.org/{it['doi']}'>{it['doi']}</a></p>")
+        out.append("<hr/>")
+        out.append("<p><strong>Abstract</strong></p>")
+        out.append(f"<p>{it.get('abstract','Abstract not available')}</p>")
+        out.append("]]></content:encoded>")
+        out.append("</item>")
 
-    parts.append("</channel></rss>")
-    return "\n".join(parts)
+    out.append("</channel></rss>")
+    return "\n".join(out)
 
 
 # ---------------- Main ----------------
@@ -184,44 +192,25 @@ def main():
     with open(INPUT_JSON, "r", encoding="utf-8") as f:
         items = json.load(f)
 
+    client = OpenAI()
     enriched = []
-    pubmed_debug = []
 
     for it in items:
         it = dict(it)
-        doi = (it.get("doi") or "").strip()
 
-        if doi:
-            # Crossref
-            cr = crossref_lookup(doi)
-            if cr:
-                if not it.get("journal") and cr.get("container-title"):
-                    it["journal"] = cr["container-title"][0]
-                if not it.get("authors") and cr.get("author"):
-                    it["authors"] = [
-                        " ".join(filter(None, [a.get("given"), a.get("family")]))
-                        for a in cr["author"]
-                    ]
+        if it.get("allow_doi_lookup"):
+            if not it.get("doi"):
+                it["doi"] = recover_doi(it, client)
+                time.sleep(RATE_LIMIT)
 
-            # PubMed
-            pm = pubmed_lookup_by_doi(doi, pubmed_debug)
-            if pm:
-                it.setdefault("abstract", pm.get("abstract"))
-                it.setdefault("journal", pm.get("journal"))
-                it.setdefault("pubDate", pm.get("pubDate"))
+            if it.get("doi"):
+                it["abstract"] = pubmed_fetch_abstract(it["doi"])
+                time.sleep(RATE_LIMIT)
 
-            time.sleep(RATE_LIMIT_SLEEP)
-
-        it["doi"] = doi
-        it.setdefault("abstract", "Abstract not available")
         enriched.append(it)
 
-    with open(PUBMED_DEBUG, "w", encoding="utf-8") as f:
-        f.write("\n".join(pubmed_debug))
-
-    rss = build_rss(enriched)
     with open(OUTPUT_RSS, "w", encoding="utf-8") as f:
-        f.write(rss)
+        f.write(build_rss(enriched))
 
 
 if __name__ == "__main__":
