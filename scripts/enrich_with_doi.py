@@ -1,6 +1,7 @@
 import json
 import time
 import re
+import os
 from datetime import datetime, timezone
 from email.utils import format_datetime
 
@@ -17,7 +18,6 @@ RATE_LIMIT_SLEEP = 0.25
 MODEL = "gpt-4.1-mini"  # comparator only
 
 DOI_RE = re.compile(r"\b10\.\d{4,9}/[-._;()/:A-Z0-9]+\b", re.I)
-
 
 # ---------------- Utilities ----------------
 
@@ -131,30 +131,30 @@ def recover_doi(item: dict, client: OpenAI) -> str | None:
     wanted = norm_title(rss_title)
     candidates = crossref_search(rss_title)
 
+    # 1) Exact normalized title match
     for cand in candidates:
         cr_title = (cand.get("title") or [""])[0]
         if norm_title(cr_title) == wanted:
             return cand.get("DOI")
 
+    # 2) Loose title + author overlap
     for cand in candidates:
         cr_title = (cand.get("title") or [""])[0]
         if wanted in norm_title(cr_title) or norm_title(cr_title) in wanted:
-            if author_overlap(
-                rss_authors,
-                [
-                    " ".join(filter(None, [a.get("given"), a.get("family")]))
-                    for a in cand.get("author", [])
-                ],
-            ):
+            cr_authors = [
+                " ".join(filter(None, [a.get("given"), a.get("family")]))
+                for a in cand.get("author", [])
+            ]
+            if author_overlap(rss_authors, cr_authors):
                 return cand.get("DOI")
 
+    # 3) OpenAI tie-breaker (YES / NO only)
     for cand in candidates:
         cr_title = (cand.get("title") or [""])[0]
         cr_authors = [
             " ".join(filter(None, [a.get("given"), a.get("family")]))
             for a in cand.get("author", [])
         ]
-
         if openai_same_article(
             client,
             rss_title,
@@ -220,7 +220,8 @@ def build_rss(items: list[dict]) -> str:
                 )
             if it.get("doi_display") != "DOI not found":
                 parts.append(
-                    f"<p><strong>DOI</strong>: <a href='https://doi.org/{it['doi_display']}'>{it['doi_display']}</a></p>"
+                    f"<p><strong>DOI</strong>: "
+                    f"<a href='https://doi.org/{it['doi_display']}'>{it['doi_display']}</a></p>"
                 )
             parts.append("<hr/>")
             parts.append("<p><strong>Abstract</strong></p>")
@@ -239,7 +240,7 @@ def main():
     with open(INPUT_JSON, "r", encoding="utf-8") as f:
         items = json.load(f)
 
-    client = OpenAI()
+    client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
     enriched = []
 
     for it in items:
@@ -273,7 +274,9 @@ def main():
 
             pub = cr.get("issued", {}).get("date-parts")
             if pub:
-                y, m, d = pub[0] + [1, 1]
+                y = pub[0][0]
+                m = pub[0][1] if len(pub[0]) > 1 else 1
+                d = pub[0][2] if len(pub[0]) > 2 else 1
                 dt = datetime(y, m, d, tzinfo=timezone.utc)
                 it["pubDate"] = format_datetime(dt)
 
