@@ -4,20 +4,18 @@ import re
 import os
 from datetime import datetime, timezone
 from email.utils import format_datetime
-import xml.etree.ElementTree as ET
-
 import requests
+import xml.etree.ElementTree as ET
 
 INPUT_JSON = "data/relevant_items.json"
 OUTPUT_RSS = "docs/betterdoi.xml"
-PUBMED_DEBUG = "docs/pubmed_raw_debug.txt"
+PUBMED_DEBUG = "data/pubmed_raw.txt"
 
-CROSSREF_API = "https://api.crossref.org/works/"
-PUBMED_SEARCH = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
-PUBMED_FETCH = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi"
+CROSSREF_API = "https://api.crossref.org/works"
+PUBMED_EFETCH = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi"
 
 USER_AGENT = "sentinelnode/1.0 (mailto:colmmemedsurv@users.noreply.github.com)"
-RATE_LIMIT_SLEEP = 0.34
+RATE_LIMIT_SLEEP = 0.4
 
 DOI_RE = re.compile(r"\b10\.\d{4,9}/[-._;()/:A-Z0-9]+\b", re.I)
 
@@ -35,7 +33,10 @@ def xml_escape(s: str) -> str:
 
 
 def strip_xml_tags(text: str) -> str:
-    return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", text or "")).strip()
+    if not text:
+        return ""
+    text = re.sub(r"<[^>]+>", " ", text)
+    return re.sub(r"\s+", " ", text).strip()
 
 
 def extract_doi(text: str | None) -> str | None:
@@ -45,71 +46,33 @@ def extract_doi(text: str | None) -> str | None:
     return m.group(0) if m else None
 
 
-# ---------------- Crossref ----------------
-
-def crossref_lookup(doi: str) -> dict | None:
-    try:
-        r = requests.get(
-            CROSSREF_API + doi,
-            headers={"User-Agent": USER_AGENT},
-            timeout=20,
-        )
-        if r.status_code != 200:
-            return None
-        return r.json().get("message")
-    except Exception:
-        return None
-
-
 # ---------------- PubMed ----------------
 
-def pubmed_fetch_by_doi(doi: str) -> dict | None:
-    """Return dict with abstract, authors, journal, pubdate"""
+def pubmed_lookup_by_doi(doi: str, debug_fp) -> dict | None:
     try:
-        search = requests.get(
-            PUBMED_SEARCH,
+        r = requests.get(
+            PUBMED_EFETCH,
             params={
                 "db": "pubmed",
-                "term": f"{doi}[DOI]",
-                "retmode": "json",
+                "retmode": "xml",
+                "id": doi,
             },
-            timeout=20,
+            headers={"User-Agent": USER_AGENT},
+            timeout=30,
         )
-        ids = search.json().get("esearchresult", {}).get("idlist", [])
-        if not ids:
+
+        debug_fp.write(f"\n===== DOI {doi} =====\n")
+        debug_fp.write(r.text + "\n")
+
+        if r.status_code != 200:
             return None
 
-        fetch = requests.get(
-            PUBMED_FETCH,
-            params={
-                "db": "pubmed",
-                "id": ids[0],
-                "retmode": "xml",
-            },
-            timeout=20,
-        )
-
-        raw_xml = fetch.text
-        with open(PUBMED_DEBUG, "a", encoding="utf-8") as dbg:
-            dbg.write(f"\n===== DOI {doi} =====\n")
-            dbg.write(raw_xml)
-
-        root = ET.fromstring(raw_xml)
-        article = root.find(".//Article")
+        root = ET.fromstring(r.text)
+        article = root.find(".//PubmedArticle")
         if article is None:
             return None
 
-        # ---- Abstract (FULL, multi-section) ----
-        abstract_parts = []
-        for node in article.findall(".//AbstractText"):
-            label = node.attrib.get("Label")
-            txt = strip_xml_tags("".join(node.itertext()))
-            if label:
-                abstract_parts.append(f"{label}: {txt}")
-            else:
-                abstract_parts.append(txt)
-
-        abstract = "\n\n".join(abstract_parts).strip()
+        data = {}
 
         # ---- Authors ----
         authors = []
@@ -117,26 +80,49 @@ def pubmed_fetch_by_doi(doi: str) -> dict | None:
             last = a.findtext("LastName")
             fore = a.findtext("ForeName")
             if last:
-                authors.append(" ".join(filter(None, [fore, last])))
+                authors.append(f"{fore} {last}".strip())
+        if authors:
+            data["authors"] = authors
 
         # ---- Journal ----
         journal = article.findtext(".//Journal/Title")
+        if journal:
+            data["journal"] = journal
 
-        return {
-            "abstract": abstract or None,
-            "authors": authors or None,
-            "journal": journal or None,
-        }
+        # ---- Abstract (FULL, concatenated) ----
+        abstract_parts = []
+        for ab in article.findall(".//AbstractText"):
+            label = ab.attrib.get("Label")
+            text = (ab.text or "").strip()
+            if not text:
+                continue
+            if label:
+                abstract_parts.append(f"{label.capitalize()}: {text}")
+            else:
+                abstract_parts.append(text)
 
-    except Exception:
+        if abstract_parts:
+            data["abstract"] = "\n\n".join(abstract_parts)
+
+        # ---- Pub date ----
+        year = article.findtext(".//PubDate/Year")
+        month = article.findtext(".//PubDate/Month") or "01"
+        day = article.findtext(".//PubDate/Day") or "01"
+        if year:
+            dt = datetime(int(year), 1, 1, tzinfo=timezone.utc)
+            data["pubDate"] = format_datetime(dt)
+
+        return data
+
+    except Exception as e:
+        debug_fp.write(f"ERROR: {e}\n")
         return None
 
 
-# ---------------- RSS Builder ----------------
+# ---------------- RSS ----------------
 
 def build_rss(items: list[dict]) -> str:
     now = format_datetime(datetime.now(timezone.utc))
-
     parts = [
         '<?xml version="1.0" encoding="UTF-8"?>',
         '<rss version="2.0" '
@@ -162,36 +148,35 @@ def build_rss(items: list[dict]) -> str:
             parts.append(f"<pubDate>{xml_escape(it['pubDate'])}</pubDate>")
 
         if it.get("authors"):
-            parts.append(f"<dc:creator>{xml_escape('; '.join(it['authors']))}</dc:creator>")
+            parts.append(
+                f"<dc:creator>{xml_escape(', '.join(it['authors']))}</dc:creator>"
+            )
 
         if it.get("journal"):
-            parts.append(f"<prism:publicationName>{xml_escape(it['journal'])}</prism:publicationName>")
+            parts.append(
+                f"<prism:publicationName>{xml_escape(it['journal'])}</prism:publicationName>"
+            )
 
         if it.get("doi"):
             parts.append(f"<prism:doi>{xml_escape(it['doi'])}</prism:doi>")
 
         parts.append(
-            f"<description>{xml_escape('Journal: ' + (it.get('journal') or '') + ' | DOI: ' + (it.get('doi') or ''))}</description>"
+            f"<description>{xml_escape(f'Journal: {it.get('journal','')} | DOI: {it.get('doi','')}')}</description>"
         )
 
         if it.get("abstract"):
             parts.append("<content:encoded><![CDATA[")
             parts.append(f"<p><strong>Journal</strong>: {it.get('journal','')}</p>")
-
             if it.get("authors"):
-                parts.append(f"<p><strong>Authors</strong>: {'; '.join(it['authors'])}</p>")
-
+                parts.append(f"<p><strong>Authors</strong>: {', '.join(it['authors'])}</p>")
             if it.get("doi"):
                 parts.append(
                     f"<p><strong>DOI</strong>: "
                     f"<a href='https://doi.org/{it['doi']}'>{it['doi']}</a></p>"
                 )
-
             parts.append("<hr/>")
             parts.append("<p><strong>Abstract</strong></p>")
-            for block in it["abstract"].split("\n\n"):
-                parts.append(f"<p>{block}</p>")
-
+            parts.append(f"<p>{it['abstract'].replace(chr(10), '<br/>')}</p>")
             parts.append("]]></content:encoded>")
 
         parts.append("</item>")
@@ -206,38 +191,33 @@ def main():
     with open(INPUT_JSON, "r", encoding="utf-8") as f:
         items = json.load(f)
 
-    open(PUBMED_DEBUG, "w").close()  # reset log
     enriched = []
 
-    for it in items:
-        it = dict(it)
-        doi = extract_doi(it.get("doi") or it.get("link") or "")
+    with open(PUBMED_DEBUG, "w", encoding="utf-8") as debug_fp:
+        for it in items:
+            it = dict(it)
 
-        if doi:
+            if not it.get("allow_doi_lookup"):
+                enriched.append(it)
+                continue
+
+            doi = extract_doi(it.get("doi") or "")
+            if not doi:
+                enriched.append(it)
+                continue
+
             it["doi"] = doi
-            cr = crossref_lookup(doi)
-            time.sleep(RATE_LIMIT_SLEEP)
 
-            if cr:
-                it.setdefault("journal", (cr.get("container-title") or [None])[0])
-                it.setdefault(
-                    "authors",
-                    [
-                        " ".join(filter(None, [a.get("given"), a.get("family")]))
-                        for a in cr.get("author", [])
-                    ] or None,
-                )
-                it.setdefault("link", cr.get("URL"))
-
-            pm = pubmed_fetch_by_doi(doi)
+            pm = pubmed_lookup_by_doi(doi, debug_fp)
             time.sleep(RATE_LIMIT_SLEEP)
 
             if pm:
-                it.setdefault("abstract", pm.get("abstract"))
-                it.setdefault("authors", pm.get("authors"))
                 it.setdefault("journal", pm.get("journal"))
+                it.setdefault("authors", pm.get("authors"))
+                it.setdefault("abstract", pm.get("abstract"))
+                it.setdefault("pubDate", pm.get("pubDate"))
 
-        enriched.append(it)
+            enriched.append(it)
 
     rss = build_rss(enriched)
     with open(OUTPUT_RSS, "w", encoding="utf-8") as f:
