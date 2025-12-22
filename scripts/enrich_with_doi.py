@@ -208,9 +208,8 @@ def build_rss(items: list[dict]) -> str:
         if it.get("doi_display") and it["doi_display"] != "DOI not found":
             parts.append(f"<prism:doi>{xml_escape(it['doi_display'])}</prism:doi>")
 
-        parts.append(
-            f"<description>{xml_escape(f'Journal: {it.get('journal','')} | DOI: {it.get('doi_display','')}')}</description>"
-        )
+        desc_text = f"Journal: {it.get('journal','')} | DOI: {it.get('doi_display','')}"
+        parts.append(f"<description>{xml_escape(desc_text)}</description>")
 
         if it.get("abstract"):
             parts.append("<content:encoded><![CDATA[")
