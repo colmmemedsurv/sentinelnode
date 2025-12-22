@@ -1,36 +1,6 @@
 [
   {
-    "id": "f4a77c9c-1464-4687-a478-49551a7694c8",
-    "source_feed": "https://onesearch-rss.nejm.org/api/specialty/rss?context=nejm&specialty=hematology-oncology",
-    "journal": "The New England Journal of Medicine: Search Results in Hematology/Oncology",
-    "title": "Noninferiority of One HPV Vaccine Dose to Two Doses",
-    "abstract": "In this trial, one dose of an HPV vaccine was noninferior to two doses in preventing HPV type 16 or 18 infection.",
-    "published": "2025-12-18",
-    "authors": [
-      "Aimée R. Kreimer, Carolina Porras, Danping Liu, Allan Hildesheim, Loretto J. Carvajal, Rebeca Ocampo, Byron Romero, Mitchell H. Gail, Bernal Cortes, Monica S. Sierra, Karla Coronado, Joshua Sampson, Carolina Coto, Casey L. Dagnall, Daniela Mora, Troy J. Kemp, Michael Zuniga, Ligia A. Pinto, Gloriana Barrientos, John Schussler, Yenory Estrada, Cristian Montero, Carlos Avila, Dave Ruggieri, Jean T. Cyr, Stephen Chanock, Douglas R. Lowy, John T. Schiller, Rolando Herrero"
-    ],
-    "doi": "10.1056/NEJMoa2506765",
-    "link": "https://www.nejm.org/doi/full/10.1056/NEJMoa2506765?rss=searchAndBrowse",
-    "allow_doi_lookup": false,
-    "raw_entry_keys": [
-      "author",
-      "author_detail",
-      "authors",
-      "guidislink",
-      "id",
-      "link",
-      "links",
-      "summary",
-      "summary_detail",
-      "title",
-      "title_detail",
-      "updated",
-      "updated_parsed"
-    ],
-    "relevance": "YES"
-  },
-  {
-    "id": "ad048ab5-5806-4179-a921-4766254ec40e",
+    "id": "0d9af0ab-a8b8-4038-82c5-db95f80df23c",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[Correspondence] Misclassification of p16-positive, HPV-negative patients biases de-escalation trials",
@@ -68,7 +38,7 @@
     "relevance": "YES"
   },
   {
-    "id": "f9f650ef-9e0e-4566-903b-81c00d504d25",
+    "id": "744c4da7-9346-4c4a-8d76-d115458f8094",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[Correspondence] Misclassification of p16-positive, HPV-negative patients biases de-escalation trials – Authors' reply",
@@ -106,7 +76,7 @@
     "relevance": "YES"
   },
   {
-    "id": "e699f84e-fb6b-47dd-bbd5-c9c6613e76d5",
+    "id": "39e7baa7-93ac-4fd0-952c-bd7f50b5193d",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Development of a simplified scoring system for MRI-detected retropharyngeal lymph node features to optimize AJCC 9th edition N classification in nasopharyngeal carcinoma",
@@ -129,7 +99,7 @@
     "relevance": "YES"
   },
   {
-    "id": "292a0c6a-c7e7-4c7a-9a11-4abb0ab6ddf1",
+    "id": "f5ff7ad7-13d2-4ae3-bf78-1978df681146",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Jaw-in-a-day (JIAD) for malignant indications: A systematic review",
@@ -152,7 +122,7 @@
     "relevance": "YES"
   },
   {
-    "id": "46d894dd-fe2f-491a-a4df-9bc62e01d022",
+    "id": "c77d4a72-7e31-4502-9941-32a5aa3437a4",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Trans-hairline robotic neck dissection and robotic microvascular free flap reconstruction in oral cavity cancer",
@@ -175,7 +145,7 @@
     "relevance": "YES"
   },
   {
-    "id": "5edc88d8-e4ac-4c69-82b2-23cded5fa6c4",
+    "id": "9e828856-5b73-441f-9bfe-632f93a62535",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Letter to the editor: Stroke risk after head and neck cancer diagnosis and treatment in a Real-World clinical cohort",
@@ -198,7 +168,7 @@
     "relevance": "YES"
   },
   {
-    "id": "dbd7af94-24cc-4761-ba08-a55420bb5374",
+    "id": "c3a04a5e-8a2a-4079-92e5-5764acb553b1",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Methodological considerations in profiling the immune microenvironment and HPV status of oral multiple primary cancers",
@@ -221,7 +191,7 @@
     "relevance": "YES"
   },
   {
-    "id": "3827a7a9-45f4-43f7-97e5-599394a38061",
+    "id": "777b1576-aa05-4df0-9bb5-3ea055c72b89",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Refining surveillance in surgically treated HPV(+)OPSCC: The path to Risk-Adapted strategies",
@@ -244,7 +214,7 @@
     "relevance": "YES"
   },
   {
-    "id": "f520d8d0-81d5-4528-9253-016106d30046",
+    "id": "5b035567-f38d-4992-8023-e5fc0633d981",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "The diagnostic trade-off in post-treatment surveillance for HPV-positive oropharyngeal carcinoma",
@@ -267,7 +237,7 @@
     "relevance": "YES"
   },
   {
-    "id": "efeb115e-f746-4d2a-85f2-f99b1c193a8a",
+    "id": "36a0aee5-d91c-4cb8-8f20-a2a7e1059f19",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Intrathyroid thymic carcinoma diagnosed following an odontogenic infection: Insights from a rare clinical presentation",
@@ -290,7 +260,7 @@
     "relevance": "YES"
   },
   {
-    "id": "8e225d7b-8120-47b4-912d-c06a09c58db4",
+    "id": "b7a725bb-0780-450f-9e3d-308b9dc200d9",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Influencing factors on occurrence and prognosis of oral squamous cell carcinoma after organ transplantation",
@@ -313,7 +283,7 @@
     "relevance": "YES"
   },
   {
-    "id": "7c200a3a-4575-4764-83e6-355919b43708",
+    "id": "65e853d0-7371-46e4-b989-ba78508720ad",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Treatment and outcome for 2,111 patients with vermilion lip squamous cell carcinoma: A nationwide, population-based study from the SweHNCR",
@@ -336,7 +306,7 @@
     "relevance": "YES"
   },
   {
-    "id": "6bc16c52-1369-4fac-9754-cdc9f14e04a4",
+    "id": "6bccc10b-b823-4476-aaad-fd08e3f58385",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Is 55 years an optimal age cutoff point for clinical staging in T1 papillary thyroid cancer?",
@@ -359,7 +329,7 @@
     "relevance": "YES"
   },
   {
-    "id": "07081458-3326-4b2b-9867-d8fad8bb0c29",
+    "id": "820bc778-99ec-4789-aa5d-128fb4b22fca",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "A pilot study of a digital workflow for navigated tumor bed marking to reduce clinical target volume during adjuvant radiotherapy for oral squamous cell carcinoma",
@@ -382,7 +352,7 @@
     "relevance": "YES"
   },
   {
-    "id": "a55c659f-5003-4826-a7d0-071372ebd6d1",
+    "id": "eeb2bfe5-cd99-4a1c-bd0f-2fb6fa78d587",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Patient-derived 3D organoid platform for functional assessment of GPC3-targeted CAR T cell cytotoxic activity in head and neck squamous cell carcinoma",
@@ -405,7 +375,7 @@
     "relevance": "YES"
   },
   {
-    "id": "056a67b1-bbd0-4793-8940-0084851b8231",
+    "id": "69bbae3e-22a7-4b0e-8e83-8820757d2ab2",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "<em>NOTCH1</em> loss promotes chemo and radio-resistance in head and neck cancer",
@@ -428,7 +398,7 @@
     "relevance": "YES"
   },
   {
-    "id": "14a0e8f4-6e23-4e49-bf4f-cf24dea87549",
+    "id": "4702fe54-f47d-4590-9083-e2bda327bbcf",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Integrated geriatric assessment and intervention in the head and neck oncology care pathway reduces adverse events and does not affect survival",
@@ -451,7 +421,7 @@
     "relevance": "YES"
   },
   {
-    "id": "5a285cf0-27c0-4bff-ac50-c378e4a3d197",
+    "id": "1e86e88b-eed7-4220-8a2d-94633b38ce89",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Neoadjuvant tislelizumab plus chemotherapy in locally advanced oral and oropharyngeal squamous cell carcinoma: A single-arm phase II clinical trial",
@@ -474,7 +444,7 @@
     "relevance": "YES"
   },
   {
-    "id": "87afa364-82ce-466a-a812-6499b1214dea",
+    "id": "58144a02-3dda-4841-b589-a660b8ba12bf",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Blinded comparative evaluation of GPT-generated, online search-derived, and guideline-based answers for HPV-associated oropharyngeal cancer",
@@ -497,7 +467,7 @@
     "relevance": "YES"
   },
   {
-    "id": "9e0f287e-fd0a-4db3-bb04-363bdc75d121",
+    "id": "312ff52e-c3c0-44b3-8af8-69d5db98fd16",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Incidence of HPV-independent second primary malignancies following treatment of HPV-associated malignancy",
@@ -520,7 +490,7 @@
     "relevance": "YES"
   },
   {
-    "id": "74af3255-95cc-4f17-b626-533a3a4fd4d6",
+    "id": "3d931c40-5d47-4e9c-88e3-132fe3257e37",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Establishment and characterization of a new immortalized human oral keratinocyte (HOK) cell line harboring various <em>TP53</em> mutations",
@@ -543,7 +513,7 @@
     "relevance": "YES"
   },
   {
-    "id": "1011e948-044f-49d9-85b8-c626a5665f42",
+    "id": "fbdf0a4b-7ab5-422e-905e-5a5bf883ae2f",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Hpv-driven rewiring of the tumor immune microenvironment through single-cell profiling informs prognosis and therapy in HNSCC",
@@ -566,7 +536,7 @@
     "relevance": "YES"
   },
   {
-    "id": "b583ea66-d253-4d6c-9b16-c462202948a7",
+    "id": "358d2bcc-ceec-45df-8d5f-05c7bbaa91c5",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Patterns of metastasis and nodal disease in tongue and buccal carcinomas: Case-based reflections in Delhi NCR Region",
@@ -589,7 +559,7 @@
     "relevance": "YES"
   },
   {
-    "id": "5a77948c-87e8-42a1-8451-876707968da3",
+    "id": "d8a6eede-b3ff-4830-bc6e-41166c8f204b",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Cerebrovascular events after head and neck radiation therapy: A systematic review and Meta-Analysis",
@@ -612,7 +582,7 @@
     "relevance": "YES"
   },
   {
-    "id": "2ba35cc0-7b6f-459d-8e1c-492db649a31a",
+    "id": "4dfd4e67-cf09-4b4d-8d21-a53b536d4d2f",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Survival rates and oncologic outcomes of adeno squamous carcinoma of oral cavity: A systematic review",
