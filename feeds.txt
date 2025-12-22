@@ -5,19 +5,27 @@ https://www.thelancet.com/rssfeed/lanonc_current.xml
 # Lancet Main
 http://www.thelancet.com/rssfeed/lancet_current.xml
 # Lancet EclinMed
-#http://www.thelancet.com/rssfeed/eclinm_current.xml
+http://www.thelancet.com/rssfeed/eclinm_current.xml
 # Lancet Healthy Longevity
-#http://www.thelancet.com/rssfeed/lanhl_current.xml
+http://www.thelancet.com/rssfeed/lanhl_current.xml
 # JAMA Main
-#https://jamanetwork.com/rss/site_3/67.xml
-#https://jamanetwork.com/rss/site_3/onlineFirst_67.xml
+https://jamanetwork.com/rss/site_3/67.xml
+https://jamanetwork.com/rss/site_3/onlineFirst_67.xml
 # JAMA Oncology
-#https://jamanetwork.com/rss/site_159/174.xml
-#https://jamanetwork.com/rss/site_159/onlineFirst_174.xml
+https://jamanetwork.com/rss/site_159/174.xml
+https://jamanetwork.com/rss/site_159/onlineFirst_174.xml
 # JAMA Otolaryngology
-#https://jamanetwork.com/rss/site_18/74.xml
-#https://jamanetwork.com/rss/site_18/onlineFirst_74.xml
+https://jamanetwork.com/rss/site_18/74.xml
+https://jamanetwork.com/rss/site_18/onlineFirst_74.xml
 # Oral Oncology
-[ALLOW_DOI_LOOKUP] https://rss.sciencedirect.com/publication/science/13688375
+https://rss.sciencedirect.com/publication/science/13688375
 # Head & Neck Journal
-#https://onlinelibrary.wiley.com/feed/10970347/most-recent
+https://onlinelibrary.wiley.com/feed/10970347/most-recent
+#JCO
+https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=jco
+https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=op
+https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=go
+https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=cci
+https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=po
+https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=oa
+https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=edbk
