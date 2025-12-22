@@ -1,6 +1,6 @@
 [
   {
-    "id": "d0f01165-e406-4143-92f2-f1e63a8129a3",
+    "id": "3f239a69-30b8-4234-8285-c48f52c2fe9b",
     "source_feed": "https://onesearch-rss.nejm.org/api/specialty/rss?context=nejm&specialty=hematology-oncology",
     "journal": "The New England Journal of Medicine: Search Results in Hematology/Oncology",
     "title": "ctDNA-Guided Adjuvant Atezolizumab in Muscle-Invasive Bladder Cancer",
@@ -29,7 +29,7 @@
     ]
   },
   {
-    "id": "e7cc00b5-f4ed-4f1d-9f8c-40983befa35c",
+    "id": "8a3ac181-48b9-4ae0-bdff-4d3296ae34b1",
     "source_feed": "https://onesearch-rss.nejm.org/api/specialty/rss?context=nejm&specialty=hematology-oncology",
     "journal": "The New England Journal of Medicine: Search Results in Hematology/Oncology",
     "title": "Noninferiority of One HPV Vaccine Dose to Two Doses",
@@ -58,7 +58,7 @@
     ]
   },
   {
-    "id": "a2ccafce-8c91-4c3d-bbf9-9731d0516f2e",
+    "id": "b6c65dea-ea99-48d8-82b0-135221c350bc",
     "source_feed": "https://onesearch-rss.nejm.org/api/specialty/rss?context=nejm&specialty=hematology-oncology",
     "journal": "The New England Journal of Medicine: Search Results in Hematology/Oncology",
     "title": "Evidence to Action — Single-Dose HPV Vaccination and Cervical HPV Infection",
@@ -87,7 +87,7 @@
     ]
   },
   {
-    "id": "1436c47a-16d9-4761-a540-02e273b2e199",
+    "id": "a768b654-a9b9-4fff-93c0-e6ba05072aad",
     "source_feed": "https://onesearch-rss.nejm.org/api/specialty/rss?context=nejm&specialty=hematology-oncology",
     "journal": "The New England Journal of Medicine: Search Results in Hematology/Oncology",
     "title": "Reducing Tobacco Use Worldwide: The Epidemic of Tobacco Harms among People with Mental Health Conditions",
@@ -116,7 +116,7 @@
     ]
   },
   {
-    "id": "90adc9a9-43c1-452f-affb-26cd5916ecb6",
+    "id": "e0162d71-ab3b-40eb-8101-254a43ab1511",
     "source_feed": "https://onesearch-rss.nejm.org/api/specialty/rss?context=nejm&specialty=hematology-oncology",
     "journal": "The New England Journal of Medicine: Search Results in Hematology/Oncology",
     "title": "Merkel-Cell Carcinoma",
@@ -145,7 +145,7 @@
     ]
   },
   {
-    "id": "acdbd3eb-6759-4d00-98e2-426eab08dddb",
+    "id": "c24732e6-d467-4324-82e0-09eea5c5d45d",
     "source_feed": "https://onesearch-rss.nejm.org/api/specialty/rss?context=nejm&specialty=hematology-oncology",
     "journal": "The New England Journal of Medicine: Search Results in Hematology/Oncology",
     "title": "ctDNA-Guided Therapy in Bladder Cancer — Ready?",
@@ -174,7 +174,7 @@
     ]
   },
   {
-    "id": "970512a0-b5ff-4d0b-8d4f-44a2b775f535",
+    "id": "87ceaad7-9020-4c6c-9240-772dac04eca6",
     "source_feed": "https://onesearch-rss.nejm.org/api/specialty/rss?context=nejm&specialty=hematology-oncology",
     "journal": "The New England Journal of Medicine: Search Results in Hematology/Oncology",
     "title": "Disitamab Vedotin plus Toripalimab in HER2-Expressing Advanced Urothelial Cancer",
@@ -203,7 +203,7 @@
     ]
   },
   {
-    "id": "af3e2483-f2d7-40f8-ba24-c559d75dc2e4",
+    "id": "facba37b-949c-46f1-b160-43fbb0fce7af",
     "source_feed": "https://onesearch-rss.nejm.org/api/specialty/rss?context=nejm&specialty=hematology-oncology",
     "journal": "The New England Journal of Medicine: Search Results in Hematology/Oncology",
     "title": "Understanding How Aspirin Prevents Metastasis",
@@ -232,7 +232,7 @@
     ]
   },
   {
-    "id": "c3ef2b55-400f-4cdf-aaf3-3713ae48295b",
+    "id": "a318dfef-7c5c-4e26-ad8e-6256a59c6efb",
     "source_feed": "https://onesearch-rss.nejm.org/api/specialty/rss?context=nejm&specialty=hematology-oncology",
     "journal": "The New England Journal of Medicine: Search Results in Hematology/Oncology",
     "title": "Disitamab Vedotin plus Toripalimab — New Players in Urothelial Carcinoma",
@@ -261,7 +261,7 @@
     ]
   },
   {
-    "id": "62daf79f-d08c-4f76-b5c1-fd4d5c23a577",
+    "id": "96bd6d6f-3642-4a4c-b609-7ecdca5cf71e",
     "source_feed": "https://onesearch-rss.nejm.org/api/specialty/rss?context=nejm&specialty=hematology-oncology",
     "journal": "The New England Journal of Medicine: Search Results in Hematology/Oncology",
     "title": "Molecular Evidence of Multiorgan Damage in Patients with Immune-Related Adverse Events",
@@ -290,7 +290,7 @@
     ]
   },
   {
-    "id": "b55a8f39-e028-47c6-9068-64b5d869e9d2",
+    "id": "411395ca-873c-4a79-a659-13ca1f00064f",
     "source_feed": "https://onesearch-rss.nejm.org/api/specialty/rss?context=nejm&specialty=hematology-oncology",
     "journal": "The New England Journal of Medicine: Search Results in Hematology/Oncology",
     "title": "Trastuzumab Deruxtecan in Residual HER2-Positive Early Breast Cancer",
@@ -319,7 +319,7 @@
     ]
   },
   {
-    "id": "43142157-008f-4e70-a42a-08120a2286b8",
+    "id": "9168ea21-92e2-449c-a6c3-09b01eaab65b",
     "source_feed": "https://onesearch-rss.nejm.org/api/specialty/rss?context=nejm&specialty=hematology-oncology",
     "journal": "The New England Journal of Medicine: Search Results in Hematology/Oncology",
     "title": "Ianalumab plus Eltrombopag in Immune Thrombocytopenia",
@@ -348,7 +348,7 @@
     ]
   },
   {
-    "id": "3062b526-02d6-4e44-86f8-4e0385718964",
+    "id": "337af080-eb33-4975-9d2f-324c53dfd31e",
     "source_feed": "https://onesearch-rss.nejm.org/api/specialty/rss?context=nejm&specialty=hematology-oncology",
     "journal": "The New England Journal of Medicine: Search Results in Hematology/Oncology",
     "title": "Teclistamab plus Daratumumab in Relapsed or Refractory Multiple Myeloma",
@@ -377,7 +377,7 @@
     ]
   },
   {
-    "id": "40cc3299-47dc-4a22-95e2-29715f607be3",
+    "id": "628062d8-1b9e-4d77-bd6f-6c16816d9203",
     "source_feed": "https://onesearch-rss.nejm.org/api/specialty/rss?context=nejm&specialty=hematology-oncology",
     "journal": "The New England Journal of Medicine: Search Results in Hematology/Oncology",
     "title": "Universal Base-Edited CAR7 T Cells for T-Cell Acute Lymphoblastic Leukemia",
@@ -406,7 +406,7 @@
     ]
   },
   {
-    "id": "42042fb7-0f98-4948-b5d1-7b24d7fd3048",
+    "id": "213e0dba-d539-4d7d-9043-f84203dc4dfb",
     "source_feed": "https://onesearch-rss.nejm.org/api/specialty/rss?context=nejm&specialty=hematology-oncology",
     "journal": "The New England Journal of Medicine: Search Results in Hematology/Oncology",
     "title": "Final Analysis of a Study of Etranacogene Dezaparvovec for Hemophilia B",
@@ -435,7 +435,7 @@
     ]
   },
   {
-    "id": "7e15a01b-438c-47ac-9d54-32d31948818b",
+    "id": "0e3181d2-482a-4726-a702-85763fe9a558",
     "source_feed": "https://onesearch-rss.nejm.org/api/specialty/rss?context=nejm&specialty=hematology-oncology",
     "journal": "The New England Journal of Medicine: Search Results in Hematology/Oncology",
     "title": "Dual Targeting of Extramedullary Myeloma with Talquetamab and Teclistamab",
@@ -464,7 +464,7 @@
     ]
   },
   {
-    "id": "42605e99-dd1a-470a-9e4a-d07454a5af39",
+    "id": "2752c042-0d6e-4882-b21a-10f4f8c4a8a8",
     "source_feed": "https://onesearch-rss.nejm.org/api/specialty/rss?context=nejm&specialty=hematology-oncology",
     "journal": "The New England Journal of Medicine: Search Results in Hematology/Oncology",
     "title": "Brief Report: Prime Editing for p47phox-Deficient Chronic Granulomatous Disease",
@@ -493,7 +493,7 @@
     ]
   },
   {
-    "id": "28db0731-c4d3-42e7-b066-cee56d247642",
+    "id": "8bee7d26-d87d-4908-97b8-a97e309a82f9",
     "source_feed": "https://onesearch-rss.nejm.org/api/specialty/rss?context=nejm&specialty=hematology-oncology",
     "journal": "The New England Journal of Medicine: Search Results in Hematology/Oncology",
     "title": "Fixed-Duration versus Continuous Treatment for Chronic Lymphocytic Leukemia",
@@ -522,7 +522,7 @@
     ]
   },
   {
-    "id": "f0f7cc79-0a1a-4390-82ff-4e463f38ffa6",
+    "id": "c108c1f1-c38c-4152-bfc5-e3ae06b2d211",
     "source_feed": "https://onesearch-rss.nejm.org/api/specialty/rss?context=nejm&specialty=hematology-oncology",
     "journal": "The New England Journal of Medicine: Search Results in Hematology/Oncology",
     "title": "Engasertib versus Placebo for Bleeding in Hereditary Hemorrhagic Telangiectasia",
@@ -551,7 +551,7 @@
     ]
   },
   {
-    "id": "9db6e763-3a13-4465-a95b-05aadd9d2f2a",
+    "id": "2154d55b-2386-4d84-81cd-ac1d01164c82",
     "source_feed": "https://onesearch-rss.nejm.org/api/specialty/rss?context=nejm&specialty=hematology-oncology",
     "journal": "The New England Journal of Medicine: Search Results in Hematology/Oncology",
     "title": "Case 34-2025: A 57-Year-Old Woman with Visual Disturbances and Right-Arm Shaking",
@@ -580,7 +580,7 @@
     ]
   },
   {
-    "id": "580761d9-f9c1-4daa-b9bd-e6f37f00a23a",
+    "id": "46a85d8d-9da3-4379-a779-5feca8187144",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[Editorial] Making prostate cancer screening fit for purpose",
@@ -617,7 +617,7 @@
     ]
   },
   {
-    "id": "949f8c50-0f21-4fda-84d9-267bb3ee3b9e",
+    "id": "4287768b-1999-4817-9caa-457a272d47be",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[Comment] Defining eligibility for lung cancer screening based on individual risk",
@@ -655,7 +655,7 @@
     ]
   },
   {
-    "id": "d1e287cf-3846-4799-bd83-25f18a0c5472",
+    "id": "2f7a040c-e043-4103-9a89-6a8cb38d1748",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[Comment] Pirfenidone: a new option for radiation-induced lung injury?",
@@ -693,7 +693,7 @@
     ]
   },
   {
-    "id": "79228d19-2215-479d-a58d-f3136cbc90c9",
+    "id": "33c1485e-7c26-42b8-81f2-7e0aa4884009",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[Comment] Adjuvant capecitabine in early-stage triple-negative breast cancer? Yes, but for whom?",
@@ -731,7 +731,7 @@
     ]
   },
   {
-    "id": "340add53-5881-44e3-9664-2bb42b3eb519",
+    "id": "1e2f712c-64b2-4bab-8393-bf354d26a0aa",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[Comment] Of surrogate endpoints, shortcuts, and safety",
@@ -769,7 +769,7 @@
     ]
   },
   {
-    "id": "de866558-9e2f-4013-a941-864f1a3dd8fe",
+    "id": "f362d3d5-d12a-4f48-a73c-161848440d46",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[Comment] Evolution in rectal cancer management",
@@ -807,7 +807,7 @@
     ]
   },
   {
-    "id": "cf5b3073-6655-4fac-8bfc-44cfc60778ac",
+    "id": "89730966-125b-461d-8f34-21a03562b79e",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[Comment] Increased extent of neurosurgical resection in IDH-mutated glioma: issues for translation to standard practice",
@@ -845,7 +845,7 @@
     ]
   },
   {
-    "id": "51641c9e-8388-497f-bb30-db5afcaad949",
+    "id": "8341fc0a-8be4-46d0-8e4f-8305ab52bc0c",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[Comment] Focused ultrasound treatments could increase survival in individuals with glioma",
@@ -883,7 +883,7 @@
     ]
   },
   {
-    "id": "2361c42b-0c08-4b95-bd8b-0d43f02eaf39",
+    "id": "702d7c99-a1bc-485c-8fe4-2c2c5413a9ad",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[Comment] Targeting IDH mutation: another milestone, but not the finish line",
@@ -921,7 +921,7 @@
     ]
   },
   {
-    "id": "4e4384fe-3965-4b47-89cf-492f70251611",
+    "id": "cff774c4-3635-4562-820b-c41c77d65491",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[Comment] Re-establishing human-centred care",
@@ -959,7 +959,7 @@
     ]
   },
   {
-    "id": "78355762-d5c4-4401-89c9-26c395907076",
+    "id": "32aa1d48-d644-4080-9cae-e205bf9ac0ef",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[Comment] A deliverable national cancer control plan for the UK: lessons from abroad and the need for discipline at home",
@@ -997,7 +997,7 @@
     ]
   },
   {
-    "id": "471c97fa-7f29-48e2-96d7-c2c73444feb6",
+    "id": "ccfa7000-c476-49a2-a026-15250b578b47",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[Comment] The paradox of generics: broader access, less freedom",
@@ -1035,7 +1035,7 @@
     ]
   },
   {
-    "id": "620d4b24-d5b5-43e2-9f64-f664847203eb",
+    "id": "1005ecb4-a58a-4be5-9f96-cd28d13b4a05",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[Correspondence] SunRISe-4 perioperative safety and TURBT stratification",
@@ -1072,7 +1072,7 @@
     ]
   },
   {
-    "id": "5661ed90-24fe-4009-9b3f-d3786754afd1",
+    "id": "758c4996-f5cb-40f0-8409-0e44cff944ae",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[Correspondence] SunRISe-4 perioperative safety and TURBT stratification – Authors' reply",
@@ -1109,7 +1109,7 @@
     ]
   },
   {
-    "id": "aed4a2e0-1e88-418b-9b9b-281a7899893a",
+    "id": "a94febc7-987b-4291-8909-d429e50adcb2",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[Correspondence] SBRT in oligometastatic castration-resistant prostate cancer",
@@ -1146,7 +1146,7 @@
     ]
   },
   {
-    "id": "0ae97af9-0c8e-4a25-ad6f-7ceaad15ac70",
+    "id": "1cb273f2-ecc4-42e1-9c93-58911078c24f",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[Correspondence] Misclassification of p16-positive, HPV-negative patients biases de-escalation trials",
@@ -1183,7 +1183,7 @@
     ]
   },
   {
-    "id": "2dfdb632-9936-4011-ac0c-3cb07c858e81",
+    "id": "cf53e569-c73f-463e-87c9-411f527506c3",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[Correspondence] Misclassification of p16-positive, HPV-negative patients biases de-escalation trials – Authors' reply",
@@ -1220,7 +1220,7 @@
     ]
   },
   {
-    "id": "32c2ca58-633f-4866-a13d-a52cd778a4f8",
+    "id": "2a870c6c-8408-4dc5-b394-ba6c44820932",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[Corrections] Correction to Lancet Oncol 2024; 25: 1038–52",
@@ -1252,7 +1252,7 @@
     ]
   },
   {
-    "id": "5385ef12-37cb-46c3-83ea-15d77c8b50bf",
+    "id": "6bb1da74-3562-46cf-926d-0ac08b5293fb",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[Corrections] Correction to Lancet Oncol 2025; 26: 1443–53",
@@ -1284,7 +1284,7 @@
     ]
   },
   {
-    "id": "823a6ee1-832c-45f6-93fe-b8847a1b2ca2",
+    "id": "8bfca682-8d75-4844-9295-25323e745556",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[News] ESMO Congress 2025",
@@ -1322,7 +1322,7 @@
     ]
   },
   {
-    "id": "2cadd25b-18dd-4797-8cda-5d2f8fa9e1d9",
+    "id": "cbb0fcde-3908-4a02-8300-b821ed93ac74",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[News] Eastern Mediterranean Region backs Cairo Call on breast cancer",
@@ -1359,7 +1359,7 @@
     ]
   },
   {
-    "id": "11de1fb4-b8a4-44ea-b79b-beb009ad4896",
+    "id": "6f7d8b90-6fe9-4aeb-9b1b-af3984dfbd4b",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[News] New Zealand extends breast cancer screening to 70–74-year-olds",
@@ -1396,7 +1396,7 @@
     ]
   },
   {
-    "id": "09afc790-b1b1-479b-a1c2-5823e0fc5825",
+    "id": "c02181c7-60df-4485-a4ef-315e3a8bf783",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[News] Europe's Beating Cancer Plan delayed by “legislative inaction”",
@@ -1433,7 +1433,7 @@
     ]
   },
   {
-    "id": "dcce2857-64fc-4ca3-8a35-009774e40f56",
+    "id": "e44aed6d-ea7c-44cc-a2b8-93000a260592",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[News] More e-cigarette users than cigarette smokers for the first time in the UK",
@@ -1470,7 +1470,7 @@
     ]
   },
   {
-    "id": "85ae9fcf-99f5-4dd4-85b2-4ef6f7def077",
+    "id": "0c46e975-7e90-40fc-ba2f-1c2f8b4f9485",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[News] Government shutdown and Medicare changes impact cancer care in the USA",
@@ -1507,7 +1507,7 @@
     ]
   },
   {
-    "id": "b54636a1-d29c-467c-acc9-055cadc0f8db",
+    "id": "8841b502-a407-4594-9621-39bd51553e23",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[Perspectives] Cancer and comedy: a review of three stand-up specials",
@@ -1544,7 +1544,7 @@
     ]
   },
   {
-    "id": "9c18065c-ed12-4145-904d-0206807492ab",
+    "id": "5c9b0293-874e-478d-8083-6ed7efed1023",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[Perspectives] Cancer revolution: science, innovation, and hope",
@@ -1581,7 +1581,7 @@
     ]
   },
   {
-    "id": "2182102c-495d-4825-9cc5-e85433ec60c3",
+    "id": "585a21b6-aa4d-4602-afe5-b47b14b5eef4",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[Perspectives] Humour in the face of hardship",
@@ -1618,7 +1618,7 @@
     ]
   },
   {
-    "id": "daccad7f-282a-4895-bc5b-fc336e9e01b4",
+    "id": "14bf7da4-d49b-41f0-aeb1-1a9c1f34e8b5",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[Perspectives] When healing means letting go",
@@ -1655,7 +1655,7 @@
     ]
   },
   {
-    "id": "e133d41a-e1b6-4e02-ac9c-921595cd07b5",
+    "id": "57d150b1-0854-4cf1-8ab7-163146e7c7ce",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[Articles] Effectiveness of NELSON versus PLCOm2012 lung cancer screening eligibility criteria in Germany (HANSE): a prospective cohort study",
@@ -1693,7 +1693,7 @@
     ]
   },
   {
-    "id": "b3d9304d-e562-4f0e-8152-80a574470232",
+    "id": "49fd78d4-f5e6-45ec-9e6e-24cc88f8b1b3",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[Articles] Pirfenidone for grade 2 and grade 3 radiation-induced lung injury: a multicentre, open-label, randomised, phase 2 trial",
@@ -1731,7 +1731,7 @@
     ]
   },
   {
-    "id": "1a02a8fb-122e-41fb-b80e-da1be49cb169",
+    "id": "bbc6c6c6-7b16-4eac-8fb0-e1e76069c80c",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[Articles] Fuzuloparib with or without apatinib in patients with HER2-negative metastatic breast cancer with germline BRCA1/2 mutations (FABULOUS): interim analysis of a multicentre, three-arm, open-label, randomised, phase 3 trial",
@@ -1769,7 +1769,7 @@
     ]
   },
   {
-    "id": "667afa23-bd4c-4907-82e6-7b215964cbde",
+    "id": "9c7c1cec-c45e-4200-9317-b18a3a8788bb",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[Articles] Metronomic capecitabine as extended adjuvant chemotherapy for early triple-negative breast cancer (SYSUCC-001): updated 10-year outcomes and post-hoc exploratory biomarker analysis from a randomised, phase 3 trial",
@@ -1807,7 +1807,7 @@
     ]
   },
   {
-    "id": "30f49a6b-8e51-4cb1-953f-44596851592f",
+    "id": "d0b0a8d1-9727-49ae-a591-dd2498e9f6fd",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[Articles] Distant disease-free survival as a surrogate endpoint for overall survival in randomised trials of neoadjuvant therapy for early breast cancer: a pooled analysis of GBG and AGO-B Study Group trials",
@@ -1845,7 +1845,7 @@
     ]
   },
   {
-    "id": "da3501a6-024f-4f56-bf54-8ebe1df45043",
+    "id": "1bc754b9-744a-473c-b51a-fd2b7ea6c05d",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[Articles] Camrelizumab plus rivoceranib versus sorafenib as first-line therapy for unresectable hepatocellular carcinoma (CARES-310): final analysis of a randomised, open-label, international, phase 3 study",
@@ -1883,7 +1883,7 @@
     ]
   },
   {
-    "id": "8da04348-4cb4-4a62-8859-0224f76f90c7",
+    "id": "f1b39adb-53a3-4301-bc5e-3a5acd03b4bd",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[Articles] Total neoadjuvant therapy followed by non-operative management or surgery in stage II–III rectal cancer (NO-CUT): a multicentre, single-arm, phase 2 trial",
@@ -1921,7 +1921,7 @@
     ]
   },
   {
-    "id": "79e8ff07-d131-4377-86cf-57f150851c27",
+    "id": "0f8f5675-c602-43f0-b3ac-2657c1082207",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[Articles] Ezabenlimab and induction chemotherapy followed by adaptive chemoradiotherapy in patients with stage 3 squamous cell anal carcinoma (INTERACT-ION): an open-label, single-arm, phase 2 trial",
@@ -1959,7 +1959,7 @@
     ]
   },
   {
-    "id": "f146eca3-5a73-4717-b83a-9bb44b2af5cf",
+    "id": "778be3f4-3fa0-4a5d-aea9-f6783f62267d",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[Articles] A prognostic classification system for extent of resection in IDH-mutant grade 2 glioma: an international, multicentre, retrospective cohort study with external validation by the RANO resect group",
@@ -1997,7 +1997,7 @@
     ]
   },
   {
-    "id": "49c4d8ee-c2f1-4777-9fe7-7514d7bacb94",
+    "id": "54666d09-fe5e-4ea5-bcce-1c3f0a167d7c",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[Articles] Microbubble-enhanced transcranial focused ultrasound with temozolomide for patients with high-grade glioma (BT008NA): a multicentre, open-label, phase 1/2 trial",
@@ -2035,7 +2035,7 @@
     ]
   },
   {
-    "id": "0bc4529c-f0de-48c0-8cf6-32660a6ab3fb",
+    "id": "a8ba8633-0e8f-49a7-ba02-c9a330f43130",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[Articles] Vorasidenib in IDH1-mutant or IDH2-mutant low-grade glioma (INDIGO): secondary and exploratory endpoints from a randomised, double-blind, placebo-controlled, phase 3 trial",
@@ -2073,7 +2073,7 @@
     ]
   },
   {
-    "id": "d6847e6f-3fa0-4320-b318-111a6b545f32",
+    "id": "63ec5f5e-dd74-43bc-852a-caa602a1ed1d",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[Articles] Pembrolizumab plus lenvatinib as second-line treatment in patients with pleural mesothelioma (PEMMELA): cohort 2 of a single-arm, phase 2 study",
@@ -2111,7 +2111,7 @@
     ]
   },
   {
-    "id": "20ed8e02-a10f-48e6-8dc1-0e2f8fc86f8a",
+    "id": "3cede7e7-1c5f-474c-aabd-59d7cfad012f",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[The Lancet Oncology Commission] The human crisis in cancer: a Lancet Oncology Commission",
@@ -2149,7 +2149,7 @@
     ]
   },
   {
-    "id": "3622f28d-7911-44ad-ad0c-ee0903c716c1",
+    "id": "f02fda93-b7a0-46fc-a7b3-9ecf8c2479d6",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[Review] Neurocognitive outcomes in patients with brain metastases: a systematic review",
@@ -2187,7 +2187,7 @@
     ]
   },
   {
-    "id": "95424ac4-b027-45d6-8a63-726aebec076b",
+    "id": "2b632cde-b649-47d8-b770-c7a9b80d1e2d",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[Policy Review] SISAQOL-IMI consensus-based guidelines to design, analyse, interpret, and present patient-reported outcomes in cancer clinical trials",
@@ -2225,7 +2225,7 @@
     ]
   },
   {
-    "id": "ba9b63e8-c624-4a9b-9085-c1b7a1f4b111",
+    "id": "f1896eae-4ea0-4e0a-80af-2842742fb88e",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[Policy Review] The Lucerne Toolbox 3: digital health and artificial intelligence to optimise the patient journey in early breast cancer—a multidisciplinary consensus",
@@ -2263,7 +2263,7 @@
     ]
   },
   {
-    "id": "f888cd44-43c2-4a3d-bdbf-97a40b2b3621",
+    "id": "7cddf703-d083-4973-b1bb-961f24923d7c",
     "source_feed": "http://www.thelancet.com/rssfeed/lancet_current.xml",
     "journal": "The Lancet",
     "title": "[Editorial] 2025: an annus horribilis for health in the USA",
@@ -2300,7 +2300,7 @@
     ]
   },
   {
-    "id": "321a7f60-141b-4037-a58b-5231166b2069",
+    "id": "ce6c58ef-a5a5-4ba2-816e-b6505b191d79",
     "source_feed": "http://www.thelancet.com/rssfeed/lancet_current.xml",
     "journal": "The Lancet",
     "title": "[Comment] Oral small-molecule GLP-1 receptor agonist for type 2 diabetes and obesity",
@@ -2338,7 +2338,7 @@
     ]
   },
   {
-    "id": "615a4f5d-1f8a-4a3d-b221-58bb547c5a0a",
+    "id": "3419c39e-0c11-445e-96c0-4cea4f899cfb",
     "source_feed": "http://www.thelancet.com/rssfeed/lancet_current.xml",
     "journal": "The Lancet",
     "title": "[Comment] Neoadjuvant quadruplet chemotherapy PAXG for pancreatic cancer",
@@ -2376,7 +2376,7 @@
     ]
   },
   {
-    "id": "fbf2840a-169d-485c-8726-8d0e299d6a50",
+    "id": "c72e1fb0-fad3-450a-914a-5b5084f83201",
     "source_feed": "http://www.thelancet.com/rssfeed/lancet_current.xml",
     "journal": "The Lancet",
     "title": "[Comment] Methoxyflurane: a promising non-intravenous, non-opioid analgesic",
@@ -2414,7 +2414,7 @@
     ]
   },
   {
-    "id": "d09d23a9-5fd1-4488-a38b-88e5dcc7fdab",
+    "id": "66d20fc8-1561-43a6-a0eb-6acf220b684f",
     "source_feed": "http://www.thelancet.com/rssfeed/lancet_current.xml",
     "journal": "The Lancet",
     "title": "[Comment] Exploring CAR NK-cell therapy for refractory lupus",
@@ -2452,7 +2452,7 @@
     ]
   },
   {
-    "id": "edee3aff-5b0a-4b8f-b242-1cb446a6d811",
+    "id": "6a438615-43e2-42f1-96da-0e5b8eaee319",
     "source_feed": "http://www.thelancet.com/rssfeed/lancet_current.xml",
     "journal": "The Lancet",
     "title": "[Comment] US CDC: a public health agency in critical condition",
@@ -2490,7 +2490,7 @@
     ]
   },
   {
-    "id": "4da40023-759a-4d85-bb34-92e414a4efa6",
+    "id": "572776d7-851d-4e8b-97c8-7e4fe983251b",
     "source_feed": "http://www.thelancet.com/rssfeed/lancet_current.xml",
     "journal": "The Lancet",
     "title": "[Comment] The 2025 Wakley Prize: finding a home in medicine",
@@ -2527,7 +2527,7 @@
     ]
   },
   {
-    "id": "8cc61cd2-4cc3-465c-902c-e23256e16f01",
+    "id": "65548f5e-72c1-4f28-a74d-4d208acac158",
     "source_feed": "http://www.thelancet.com/rssfeed/lancet_current.xml",
     "journal": "The Lancet",
     "title": "[Comment] Offline: Watching the watchers (part 3)",
@@ -2564,7 +2564,7 @@
     ]
   },
   {
-    "id": "f9cf450c-2780-4499-ba44-39aae54356d5",
+    "id": "ad8dec5f-fcac-4d24-9f5d-a213349a751a",
     "source_feed": "http://www.thelancet.com/rssfeed/lancet_current.xml",
     "journal": "The Lancet",
     "title": "[World Report] Grants under threat at the US National Institutes of Health",
@@ -2602,7 +2602,7 @@
     ]
   },
   {
-    "id": "56b37d3d-0870-401b-8e5d-912e94fd54fa",
+    "id": "4b81a918-9ae0-4d49-8183-aa3694abb1dc",
     "source_feed": "http://www.thelancet.com/rssfeed/lancet_current.xml",
     "journal": "The Lancet",
     "title": "[World Report] UN Environmental Assembly passes AMR resolution",
@@ -2639,7 +2639,7 @@
     ]
   },
   {
-    "id": "5ebc0c42-1322-463a-8884-fc3546da1ce1",
+    "id": "7916dcc1-dc3e-4a45-bc02-4b21e5cbfac0",
     "source_feed": "http://www.thelancet.com/rssfeed/lancet_current.xml",
     "journal": "The Lancet",
     "title": "[World Report] Southeast Asia reels after tropical storms",
@@ -2676,7 +2676,7 @@
     ]
   },
   {
-    "id": "1534f351-7806-4047-89fb-b28f0132645d",
+    "id": "c822a859-21de-466d-9309-970bc969ae7c",
     "source_feed": "http://www.thelancet.com/rssfeed/lancet_current.xml",
     "journal": "The Lancet",
     "title": "[Perspectives] Highlights 2025: illuminating health stories",
@@ -2714,7 +2714,7 @@
     ]
   },
   {
-    "id": "70454eff-f95f-4ff9-bda6-9db91e1fb1f3",
+    "id": "1a00c11f-6c9e-4ebf-950c-6b7c2846fdc5",
     "source_feed": "http://www.thelancet.com/rssfeed/lancet_current.xml",
     "journal": "The Lancet",
     "title": "[Correspondence] Darfur's humanitarian emergency: a call for immediate action",
@@ -2751,7 +2751,7 @@
     ]
   },
   {
-    "id": "9f44452e-2e6d-4158-a24a-cca65187335f",
+    "id": "f4e33c3d-23c0-4d20-aed2-46617b32d164",
     "source_feed": "http://www.thelancet.com/rssfeed/lancet_current.xml",
     "journal": "The Lancet",
     "title": "[Correspondence] Gender-based violence and displacement in Darfur's war",
@@ -2789,7 +2789,7 @@
     ]
   },
   {
-    "id": "b26d73d2-014b-4634-a1e0-f89c7c2b9b6c",
+    "id": "29ce2b7d-1f4a-448b-a243-25dd5ea83ac5",
     "source_feed": "http://www.thelancet.com/rssfeed/lancet_current.xml",
     "journal": "The Lancet",
     "title": "[Correspondence] Russia's health workers complicit in abducting Ukraine's children",
@@ -2826,7 +2826,7 @@
     ]
   },
   {
-    "id": "b279a937-8de0-45d2-bbc8-c89903901e9a",
+    "id": "3da4e463-08be-44b2-906f-1e02bad6b60b",
     "source_feed": "http://www.thelancet.com/rssfeed/lancet_current.xml",
     "journal": "The Lancet",
     "title": "[Correspondence] Cerebral palsy: an update on its early detection",
@@ -2864,7 +2864,7 @@
     ]
   },
   {
-    "id": "8e231286-1398-4058-98ec-d9f2e5aa6332",
+    "id": "37188c54-996c-45fd-ab45-0571b572be67",
     "source_feed": "http://www.thelancet.com/rssfeed/lancet_current.xml",
     "journal": "The Lancet",
     "title": "[Correspondence] Cerebral palsy: an update on its early detection – Authors' reply",
@@ -2902,7 +2902,7 @@
     ]
   },
   {
-    "id": "f12919f0-6a77-464e-9be6-2191c72553c1",
+    "id": "4774ea86-68bc-4ad7-b508-d9e050e28990",
     "source_feed": "http://www.thelancet.com/rssfeed/lancet_current.xml",
     "journal": "The Lancet",
     "title": "[Correspondence] The need for metabolic health stratification in global obesity forecasts",
@@ -2939,7 +2939,7 @@
     ]
   },
   {
-    "id": "99a0a837-ad45-44d2-8afe-386fbc55cfdd",
+    "id": "4eb25c8f-da61-4853-81ef-2995f7947e05",
     "source_feed": "http://www.thelancet.com/rssfeed/lancet_current.xml",
     "journal": "The Lancet",
     "title": "[Correspondence] The need for metabolic health stratification in global obesity forecasts – Authors' reply",
@@ -2977,7 +2977,7 @@
     ]
   },
   {
-    "id": "56252c00-2e30-467e-a7b0-dd8d4d26c478",
+    "id": "d234b73c-8f76-4707-8b8d-d76d31c2e519",
     "source_feed": "http://www.thelancet.com/rssfeed/lancet_current.xml",
     "journal": "The Lancet",
     "title": "[Correspondence] The diabetic foot after SWHSI-2: healing is not one size fits all",
@@ -3015,7 +3015,7 @@
     ]
   },
   {
-    "id": "7d4b6d95-330a-4888-a955-d2033fdf59a7",
+    "id": "a21745a2-390c-4228-84e5-2760bace8e9a",
     "source_feed": "http://www.thelancet.com/rssfeed/lancet_current.xml",
     "journal": "The Lancet",
     "title": "[Correspondence] The diabetic foot after SWHSI-2: healing is not one size fits all – Authors' reply",
@@ -3053,7 +3053,7 @@
     ]
   },
   {
-    "id": "b746cc63-049d-4169-80cf-d0cb0f3faf28",
+    "id": "e0ae5b4d-7f38-477e-bb64-44226ac7b62f",
     "source_feed": "http://www.thelancet.com/rssfeed/lancet_current.xml",
     "journal": "The Lancet",
     "title": "[Department of Error] Department of Error",
@@ -3085,7 +3085,7 @@
     ]
   },
   {
-    "id": "67b59c9f-7985-4d0d-b6a7-29aa57b71818",
+    "id": "40a4f187-858e-4864-b62d-792041be86cd",
     "source_feed": "http://www.thelancet.com/rssfeed/lancet_current.xml",
     "journal": "The Lancet",
     "title": "[Articles] Orforglipron, an oral small-molecule GLP-1 receptor agonist, for the treatment of obesity in people with type 2 diabetes (ATTAIN-2): a phase 3, double-blind, randomised, multicentre, placebo-controlled trial",
@@ -3123,7 +3123,7 @@
     ]
   },
   {
-    "id": "44caeb2f-b857-41d6-baa7-e5f5fc865f8e",
+    "id": "c57d4ebc-0f7f-41ff-b396-32f9a4793f23",
     "source_feed": "http://www.thelancet.com/rssfeed/lancet_current.xml",
     "journal": "The Lancet",
     "title": "[Articles] Preoperative mFOLFIRINOX versus PAXG for stage I–III resectable and borderline resectable pancreatic ductal adenocarcinoma (PACT-21 CASSANDRA): results of the first randomisation analysis of a randomised, open-label, 2 × 2 factorial phase 3 trial",
@@ -3161,7 +3161,7 @@
     ]
   },
   {
-    "id": "216c9faa-c57c-43c3-be65-d18d73d282ac",
+    "id": "4e841d06-addd-4d74-96dd-9d0f1db7a62d",
     "source_feed": "http://www.thelancet.com/rssfeed/lancet_current.xml",
     "journal": "The Lancet",
     "title": "[Articles] Comparison of inhalational methoxyflurane, intranasal fentanyl, and intravenous morphine for treatment of prehospital acute pain in Norway (PreMeFen): a randomised, non-inferiority, three-arm, phase 3 trial",
@@ -3199,7 +3199,7 @@
     ]
   },
   {
-    "id": "d68d6dd5-b022-4b25-9693-6591732f4a53",
+    "id": "1e9a8080-fc87-4867-8aee-db8dec4b6ad9",
     "source_feed": "http://www.thelancet.com/rssfeed/lancet_current.xml",
     "journal": "The Lancet",
     "title": "[Articles] Efficacy and safety of allogeneic CD19 CAR NK-cell therapy in systemic lupus erythematosus: a case series in China",
@@ -3237,7 +3237,7 @@
     ]
   },
   {
-    "id": "6651362f-415e-42f4-9756-b28310305ab1",
+    "id": "d30ab8c7-005e-4cea-b968-0eef8c8db0e5",
     "source_feed": "http://www.thelancet.com/rssfeed/lancet_current.xml",
     "journal": "The Lancet",
     "title": "[Hypothesis] Amylin and the renin-angiotensin system: risk or opportunity in amylin-based therapy?",
@@ -3275,7 +3275,7 @@
     ]
   },
   {
-    "id": "83ef4bd6-e2ce-4c6e-bd82-8e569d234297",
+    "id": "c0f0adb2-c93d-4191-8836-3ebaa79ea9db",
     "source_feed": "http://www.thelancet.com/rssfeed/lancet_current.xml",
     "journal": "The Lancet",
     "title": "[Lecture] Lessons from Africa: health diplomacy in HIV prevention",
@@ -3313,7 +3313,7 @@
     ]
   },
   {
-    "id": "9267e12b-98a6-483d-b428-d8f96adc46c3",
+    "id": "1727c1ee-214b-495f-8b9d-6965be46c4e2",
     "source_feed": "http://www.thelancet.com/rssfeed/lancet_current.xml",
     "journal": "The Lancet",
     "title": "[Wakley Prize essay] Home",
@@ -3351,7 +3351,7 @@
     ]
   },
   {
-    "id": "04f5066a-7ed8-4472-8b18-e1218179e3f3",
+    "id": "104d4c32-fcfc-4411-8a12-b1fb9ce11edf",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Development of a simplified scoring system for MRI-detected retropharyngeal lymph node features to optimize AJCC 9th edition N classification in nasopharyngeal carcinoma",
@@ -3373,7 +3373,7 @@
     ]
   },
   {
-    "id": "89c9e7d3-2d20-4ca2-8e78-bb772b332d1a",
+    "id": "68f07bec-a6d4-4e22-946a-b735aad6b3b9",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Jaw-in-a-day (JIAD) for malignant indications: A systematic review",
@@ -3395,7 +3395,7 @@
     ]
   },
   {
-    "id": "587d7d07-2459-4b30-a06b-8ec1fcb5f14a",
+    "id": "aae191f4-4b9d-4d82-82ed-dee5ea1f158a",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Trans-hairline robotic neck dissection and robotic microvascular free flap reconstruction in oral cavity cancer",
@@ -3417,7 +3417,7 @@
     ]
   },
   {
-    "id": "f07a269a-2c83-4d4e-9877-ec703bb24ba3",
+    "id": "0cae2e5a-6687-4845-a489-73afdadb0e17",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Letter to the editor: Stroke risk after head and neck cancer diagnosis and treatment in a Real-World clinical cohort",
@@ -3439,7 +3439,7 @@
     ]
   },
   {
-    "id": "c4da53b6-39ef-4580-b2f4-c7ce3ac2b889",
+    "id": "fe668c67-8705-4861-86ad-b140c7ff5aba",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Methodological considerations in profiling the immune microenvironment and HPV status of oral multiple primary cancers",
@@ -3461,7 +3461,7 @@
     ]
   },
   {
-    "id": "b65e10de-c2db-4870-884c-d7c3dee71159",
+    "id": "15802627-b459-448b-a23c-11f0568d0f58",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Refining surveillance in surgically treated HPV(+)OPSCC: The path to Risk-Adapted strategies",
@@ -3483,7 +3483,7 @@
     ]
   },
   {
-    "id": "1482fbce-ec9d-47dc-9ad5-c120bda7d034",
+    "id": "c7e3fd81-d272-4022-b93c-c95670275f57",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "The diagnostic trade-off in post-treatment surveillance for HPV-positive oropharyngeal carcinoma",
@@ -3505,7 +3505,7 @@
     ]
   },
   {
-    "id": "ee2b1bde-aec8-4ef8-a1e7-0864735c269e",
+    "id": "43b84c18-acd0-4d05-ad93-341b9a4cd67f",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Intrathyroid thymic carcinoma diagnosed following an odontogenic infection: Insights from a rare clinical presentation",
@@ -3527,7 +3527,7 @@
     ]
   },
   {
-    "id": "261fcd02-9b34-4eab-aa08-ab51434e7aef",
+    "id": "bb4d8657-86aa-45ab-baa1-72a6e4b3f0be",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Influencing factors on occurrence and prognosis of oral squamous cell carcinoma after organ transplantation",
@@ -3549,7 +3549,7 @@
     ]
   },
   {
-    "id": "322e678a-ccde-46f5-897f-71ec4686c223",
+    "id": "db887980-d825-411b-addd-ebb1fa2ea53c",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Treatment and outcome for 2,111 patients with vermilion lip squamous cell carcinoma: A nationwide, population-based study from the SweHNCR",
@@ -3571,7 +3571,7 @@
     ]
   },
   {
-    "id": "9f377779-53e0-4cee-a102-b1c022551879",
+    "id": "11780ddf-5b7d-484a-abcc-fd1e7c525dcb",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Is 55 years an optimal age cutoff point for clinical staging in T1 papillary thyroid cancer?",
@@ -3593,7 +3593,7 @@
     ]
   },
   {
-    "id": "f67492ee-75a1-49c2-b2fb-b5d3f7984c34",
+    "id": "26332bc8-8610-433f-af76-c0d6bde60d7a",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "A pilot study of a digital workflow for navigated tumor bed marking to reduce clinical target volume during adjuvant radiotherapy for oral squamous cell carcinoma",
@@ -3615,7 +3615,7 @@
     ]
   },
   {
-    "id": "45645d0e-0415-4f92-bc2e-417f7400e85d",
+    "id": "4ebf643a-bac8-4bd5-9e57-e18ef2f1bcce",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Patient-derived 3D organoid platform for functional assessment of GPC3-targeted CAR T cell cytotoxic activity in head and neck squamous cell carcinoma",
@@ -3637,7 +3637,7 @@
     ]
   },
   {
-    "id": "4e2a6cb4-c550-4f86-849f-f36423ff6608",
+    "id": "6ac57738-41f8-4798-b585-63207663ba68",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "<em>NOTCH1</em> loss promotes chemo and radio-resistance in head and neck cancer",
@@ -3659,7 +3659,7 @@
     ]
   },
   {
-    "id": "c01dc617-6886-4356-bc6d-62b5c336a1fa",
+    "id": "8dd7ac84-d4f7-4fb3-a8f2-6f5d89fcb9bb",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Integrated geriatric assessment and intervention in the head and neck oncology care pathway reduces adverse events and does not affect survival",
@@ -3681,7 +3681,7 @@
     ]
   },
   {
-    "id": "a3a96937-c57b-4fb0-826e-084494792ed5",
+    "id": "bcb4c565-37ac-4247-b61a-ce89cc19a757",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Neoadjuvant tislelizumab plus chemotherapy in locally advanced oral and oropharyngeal squamous cell carcinoma: A single-arm phase II clinical trial",
@@ -3703,7 +3703,7 @@
     ]
   },
   {
-    "id": "531f57a5-c768-405f-b7a3-ee961064e35f",
+    "id": "dadae214-10b8-44ad-a046-50565ef01821",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Blinded comparative evaluation of GPT-generated, online search-derived, and guideline-based answers for HPV-associated oropharyngeal cancer",
@@ -3725,7 +3725,7 @@
     ]
   },
   {
-    "id": "19061a8f-ea08-4852-a10c-5fd62b935902",
+    "id": "72bea877-44a2-4115-a00d-6b4bc35b1219",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Incidence of HPV-independent second primary malignancies following treatment of HPV-associated malignancy",
@@ -3747,7 +3747,7 @@
     ]
   },
   {
-    "id": "f825bd8e-4928-43db-902c-28bfe7011558",
+    "id": "f392a395-9203-459b-bf42-e0bff1afe8c2",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Establishment and characterization of a new immortalized human oral keratinocyte (HOK) cell line harboring various <em>TP53</em> mutations",
@@ -3769,7 +3769,7 @@
     ]
   },
   {
-    "id": "24ebdf3f-6d96-40cd-be3d-2ee81ab548d9",
+    "id": "b996843b-6357-4299-9d1d-a0cf49af2cd4",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Hpv-driven rewiring of the tumor immune microenvironment through single-cell profiling informs prognosis and therapy in HNSCC",
@@ -3791,7 +3791,7 @@
     ]
   },
   {
-    "id": "8a1c34f3-5ed9-4826-a5e5-b01a70849eaf",
+    "id": "d8b38201-af99-4027-8be3-fc264020e72b",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Patterns of metastasis and nodal disease in tongue and buccal carcinomas: Case-based reflections in Delhi NCR Region",
@@ -3813,7 +3813,7 @@
     ]
   },
   {
-    "id": "de7a665b-a2b8-4029-b9b9-eaab0ba1bb4e",
+    "id": "d2ab3d99-472c-43da-ac99-a0ed970b573d",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Cerebrovascular events after head and neck radiation therapy: A systematic review and Meta-Analysis",
@@ -3835,7 +3835,7 @@
     ]
   },
   {
-    "id": "db0c2e2b-24a4-444a-a46c-eb62073532e7",
+    "id": "c2079a10-a01f-49be-8e52-74af721b0c38",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Survival rates and oncologic outcomes of adeno squamous carcinoma of oral cavity: A systematic review",
