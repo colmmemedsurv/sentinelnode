@@ -4,7 +4,7 @@
 <title>Head &amp; Neck Cancer – DOI-Enriched Feed</title>
 <link>https://colmmemedsurv.github.io/sentinelnode/</link>
 <description>Curated head &amp; neck cancer literature with Crossref and PubMed enrichment.</description>
-<lastBuildDate>Mon, 22 Dec 2025 21:07:31 +0000</lastBuildDate>
+<lastBuildDate>Tue, 23 Dec 2025 07:30:20 +0000</lastBuildDate>
 <item>
 <title>Noninferiority of One HPV Vaccine Dose to Two Doses</title>
 <link>https://www.nejm.org/doi/full/10.1056/NEJMoa2506765?rss=searchAndBrowse</link>
@@ -23,37 +23,101 @@
 ]]></content:encoded>
 </item>
 <item>
-<title>[Correspondence] Misclassification of p16-positive, HPV-negative patients biases de-escalation trials</title>
-<link>https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(25)00616-3/fulltext?rss=yes</link>
-<guid isPermaLink='true'>https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(25)00616-3/fulltext?rss=yes</guid>
-<dc:creator>Jessica T Lovett, Michael T Wotman, Marshall Posner</dc:creator>
+<title>[Comment] De-escalation of adjuvant radiotherapy in HPV-associated oropharyngeal cancer</title>
+<link>https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(25)00726-0/fulltext?rss=yes</link>
+<guid isPermaLink='true'>https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(25)00726-0/fulltext?rss=yes</guid>
+<dc:creator>Imran Petkar</dc:creator>
 <prism:publicationName>The Lancet Oncology</prism:publicationName>
-<prism:doi>10.1016/S1470-2045(25)00616-3</prism:doi>
-<description>Journal: The Lancet Oncology | DOI: 10.1016/S1470-2045(25)00616-3</description>
+<prism:doi>10.1016/S1470-2045(25)00726-0</prism:doi>
+<description>Journal: The Lancet Oncology | DOI: 10.1016/S1470-2045(25)00726-0</description>
 <content:encoded><![CDATA[
 <p><strong>Journal</strong>: The Lancet Oncology</p>
-<p><strong>Authors</strong>: Jessica T Lovett, Michael T Wotman, Marshall Posner</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1016/S1470-2045(25)00616-3'>10.1016/S1470-2045(25)00616-3</a></p>
+<p><strong>Authors</strong>: Imran Petkar</p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1016/S1470-2045(25)00726-0'>10.1016/S1470-2045(25)00726-0</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
-<p>We read with interest the Article by Daniel Ma and colleagues in The Lancet Oncology.1 Ma and colleagues should be congratulated on completing a randomised trial of de-escalated radiotherapy in patients with p16-positive oropharyngeal squamous cell carcinoma. The authors report progression-free survival, local regional control, freedom from distant metastases, and overall survival as secondary endpoints. The de-escalation protocol resulted in a reduction in progression-free survival, local regional control, and systemic control in patients who received de-escalated treatment with extracapsular extension compared with patients who received standard of care.</p>
+<p>HPV-associated oropharyngeal carcinoma has a distinct biology and responds favourably to primary radiation (and surgery)-based treatments. The long-term survival benefit is, however, offset by chronic detrimental impact on health-related quality of life for cancer survivors due to treatment-related toxic effects such as dysphagia and xerostomia. Consequently, many toxicity-mitigating de-escalation methods are being explored for HPV-associated oropharyngeal carcinoma.1 Minimally invasive primary transoral surgery followed by de-intensification of post-operative (chemo) radiation depending on pathological risk assessment is one such investigational approach.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title>[Correspondence] Misclassification of p16-positive, HPV-negative patients biases de-escalation trials – Authors&apos; reply</title>
-<link>https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(25)00655-2/fulltext?rss=yes</link>
-<guid isPermaLink='true'>https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(25)00655-2/fulltext?rss=yes</guid>
-<dc:creator>David M Routman, James S Lewis, Daniel J Ma</dc:creator>
+<title>[Comment] Retraction and republication—De-escalation of adjuvant radiotherapy in HPV-associated oropharyngeal cancer</title>
+<link>https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(25)00725-9/fulltext?rss=yes</link>
+<guid isPermaLink='true'>https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(25)00725-9/fulltext?rss=yes</guid>
+<dc:creator>The Lancet Oncology Editors</dc:creator>
 <prism:publicationName>The Lancet Oncology</prism:publicationName>
-<prism:doi>10.1016/S1470-2045(25)00655-2</prism:doi>
-<description>Journal: The Lancet Oncology | DOI: 10.1016/S1470-2045(25)00655-2</description>
+<prism:doi>10.1016/S1470-2045(25)00725-9</prism:doi>
+<description>Journal: The Lancet Oncology | DOI: 10.1016/S1470-2045(25)00725-9</description>
 <content:encoded><![CDATA[
 <p><strong>Journal</strong>: The Lancet Oncology</p>
-<p><strong>Authors</strong>: David M Routman, James S Lewis, Daniel J Ma</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1016/S1470-2045(25)00655-2'>10.1016/S1470-2045(25)00655-2</a></p>
+<p><strong>Authors</strong>: The Lancet Oncology Editors</p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1016/S1470-2045(25)00725-9'>10.1016/S1470-2045(25)00725-9</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
-<p>We appreciate the important points raised by Jessica T Lovett and colleagues regarding p16 immunohistochemistry as a surrogate for HPV status in oropharyngeal squamous cell carcinoma in de-escalation studies such as MC1675.1 As they noted, the prognostic implications of p16 and HPV discordance have been previously analysed, such as in a multinational study by Mehanna and colleagues.2 Patients who were p16-positive and HPV-negative had an increased rate of cancer recurrence (hazard ratio 1·92, 95% CI 1·42–2·60).</p>
+<p>In September, 2025, The Lancet Oncology published results of the phase 3 MC1675 study on de-escalated adjuvant radiotherapy versus standard adjuvant treatment for human papillomavirus-associated oropharyngeal squamous cell carcinoma.1 After publication, the corresponding author alerted us to numerical errors present in table 1 caused by a mistranscription of the number of patients in each category of nodal staging by AJCC 7th edition staging and AJCC 8th edition staging. These errors did not affect other data, findings, or interpretation in the paper and we have thus corrected the online version as of Dec 22, 2025.</p>
+]]></content:encoded>
+</item>
+<item>
+<title>[Correspondence] Tumour genetics and thyroid cancer staging</title>
+<link>https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(25)00618-7/fulltext?rss=yes</link>
+<guid isPermaLink='true'>https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(25)00618-7/fulltext?rss=yes</guid>
+<dc:creator>Mingzhao Xing</dc:creator>
+<prism:publicationName>The Lancet Oncology</prism:publicationName>
+<prism:doi>10.1016/S1470-2045(25)00618-7</prism:doi>
+<description>Journal: The Lancet Oncology | DOI: 10.1016/S1470-2045(25)00618-7</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: The Lancet Oncology</p>
+<p><strong>Authors</strong>: Mingzhao Xing</p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1016/S1470-2045(25)00618-7'>10.1016/S1470-2045(25)00618-7</a></p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>We read with interest the Comment by Susan C Pitt and Megan Haymart1 on our Article on genetic modification of the American Joint Committee on Cancer (AJCC) staging system in papillary thyroid cancer2 and hold the following conservative opinions.</p>
+]]></content:encoded>
+</item>
+<item>
+<title>[Corrections] Correction to Lancet Oncol 2025; 26: 1227–39</title>
+<link>https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(25)00563-7/fulltext?rss=yes</link>
+<guid isPermaLink='true'>https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(25)00563-7/fulltext?rss=yes</guid>
+<prism:publicationName>The Lancet Oncology</prism:publicationName>
+<prism:doi>10.1016/S1470-2045(25)00563-7</prism:doi>
+<description>Journal: The Lancet Oncology | DOI: 10.1016/S1470-2045(25)00563-7</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: The Lancet Oncology</p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1016/S1470-2045(25)00563-7'>10.1016/S1470-2045(25)00563-7</a></p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>Ma D, Price K, Moore E, et al. De-escalated adjuvant radiotherapy versus standard adjuvant treatment for human papillomavirus-associated oropharyngeal squamous cell carcinoma (MC1675): a phase 3, open-label, randomised controlled trial. Lancet Oncol 2025; 26: 1227–39—In table 1 of this Article, the number of participants in each AJCC 8th edition N stage and AJCC 7th edition N stage at baseline have been corrected. This correction has been made as of Dec 22, 2025.</p>
+]]></content:encoded>
+</item>
+<item>
+<title>[Corrections] Correction to Lancet Oncol 2025; 26: e477–87</title>
+<link>https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(25)00715-6/fulltext?rss=yes</link>
+<guid isPermaLink='true'>https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(25)00715-6/fulltext?rss=yes</guid>
+<prism:publicationName>The Lancet Oncology</prism:publicationName>
+<prism:doi>10.1016/S1470-2045(25)00715-6</prism:doi>
+<description>Journal: The Lancet Oncology | DOI: 10.1016/S1470-2045(25)00715-6</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: The Lancet Oncology</p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1016/S1470-2045(25)00715-6'>10.1016/S1470-2045(25)00715-6</a></p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>Tang L-L, Huang C-L, Lin S-J, et al. Primary target volume delineation for radiotherapy in nasopharyngeal carcinoma: CSTRO, CACA, CSCO, HNCIG, ESTRO, and ASTRO guidelines and contouring atlas. Lancet Oncol 2025; 26: e477–87—In this Policy Review, the first sentence of Recommendation 3.3 should have read, “Posteriorly delineate the anterior third of the clivus (the cortex) if uninvolved (usually for T1 and T2 disease) and include the whole clivus (inferior, posterior column, up to the posterior clinoid process) for any clival involvement (usually for T3 and T4 disease).” This correction has been made to the online version as of Dec 22, 2025.</p>
+]]></content:encoded>
+</item>
+<item>
+<title>[Policy Review] International consensus recommendations and alignment of terminology for the histopathological diagnosis of extranodal extension in head and neck squamous cell carcinoma: an HN-CLEAR initiative</title>
+<link>https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(25)00535-2/fulltext?rss=yes</link>
+<guid isPermaLink='true'>https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(25)00535-2/fulltext?rss=yes</guid>
+<dc:creator>Ruta Gupta, Timothy Fielder, Munita Bal, Simion I Chiosea, Jane E Dahlstrom, Aanchal Kakkar, Katalin Kiss, Jan Laco, Neha Mittal, Sunil Pasricha, Spinder Samra, Nina Zidar, Martin Bullock, Rebecca Chernock, William Faquin, Mary S Richardson, D Neil Hayes, Shao Hui Huang, Jean Yang, Ziyad Alsugair, Nazim Benzerdjeb, Shaun Chou, Caroline Cooper, Katarina Dimnik, Rimlee Dutta, Ricardo Santiago Gomez, Juan C Hernandez-Prera, Meenakshi Kamboj, Tina Klitmøller Agander, Ankur Kumar, Jenny T H Lee, Diana M Bell, Toshitaka Nagao, Masato Nakaguro, Timothy Onyuma, Ji Hyun Park, Jin Woo Park, Asawari Patil, Miroslav Podhola, Swapnil Rane, Sean A Rasmussen, Tomáš Rozkoš, Prarthna Shah, Divakar Sharma, Stefi Stefi, Antje Stubsgaard, Ana Cristina Tetzner, Bruce M Wenig, William H Westra, Laura Wise, Sun Och Yoon, HN-CLEAR steering committee and clinical advisory group</dc:creator>
+<prism:publicationName>The Lancet Oncology</prism:publicationName>
+<prism:doi>10.1016/S1470-2045(25)00535-2</prism:doi>
+<description>Journal: The Lancet Oncology | DOI: 10.1016/S1470-2045(25)00535-2</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: The Lancet Oncology</p>
+<p><strong>Authors</strong>: Ruta Gupta, Timothy Fielder, Munita Bal, Simion I Chiosea, Jane E Dahlstrom, Aanchal Kakkar, Katalin Kiss, Jan Laco, Neha Mittal, Sunil Pasricha, Spinder Samra, Nina Zidar, Martin Bullock, Rebecca Chernock, William Faquin, Mary S Richardson, D Neil Hayes, Shao Hui Huang, Jean Yang, Ziyad Alsugair, Nazim Benzerdjeb, Shaun Chou, Caroline Cooper, Katarina Dimnik, Rimlee Dutta, Ricardo Santiago Gomez, Juan C Hernandez-Prera, Meenakshi Kamboj, Tina Klitmøller Agander, Ankur Kumar, Jenny T H Lee, Diana M Bell, Toshitaka Nagao, Masato Nakaguro, Timothy Onyuma, Ji Hyun Park, Jin Woo Park, Asawari Patil, Miroslav Podhola, Swapnil Rane, Sean A Rasmussen, Tomáš Rozkoš, Prarthna Shah, Divakar Sharma, Stefi Stefi, Antje Stubsgaard, Ana Cristina Tetzner, Bruce M Wenig, William H Westra, Laura Wise, Sun Och Yoon, HN-CLEAR steering committee and clinical advisory group</p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1016/S1470-2045(25)00535-2'>10.1016/S1470-2045(25)00535-2</a></p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>Histopathologically detected extranodal extension leads to upstaging and treatment escalation in head and neck squamous cell carcinoma. There is considerable variation in the prevalence of histopathologically detected extranodal extension in comparable studies. The Head and Neck Cancer International Group, which includes 23 organisations managing patients with head and neck cancer, identified several challenges in evaluating histopathologically detected extranodal extension. Thus, the Head and Neck Consensus Language for Ease and Reproducibility (HN-CLEAR) and its global stakeholders prioritised developing diagnostic criteria and uniform terminology for histopathologically detected extranodal extension.</p>
 ]]></content:encoded>
 </item>
 <item>
@@ -399,6 +463,21 @@
 <hr/>
 <p><strong>Abstract</strong></p>
 <p>This Viewpoint considers the financial impact of expanding the indication of pembrolizumab for treatment of resectable locally advanced head and neck squamous cell carcinoma expressing programmed cell death 1 ligand 1.</p>
+]]></content:encoded>
+</item>
+<item>
+<title>Hoarseness With Supraglottic Ulcer in an Immunocompetent Adult</title>
+<link>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2842393</link>
+<guid isPermaLink='true'>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2842393</guid>
+<prism:publicationName>JAMA Otolaryngology–Head &amp; Neck Surgery Online First</prism:publicationName>
+<prism:doi>10.1001/jamaoto.2025.4544</prism:doi>
+<description>Journal: JAMA Otolaryngology–Head &amp; Neck Surgery Online First | DOI: 10.1001/jamaoto.2025.4544</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: JAMA Otolaryngology–Head & Neck Surgery Online First</p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1001/jamaoto.2025.4544'>10.1001/jamaoto.2025.4544</a></p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>A 61-year-old man presented to the otolaryngology clinic with a 2-month history of progressive hoarseness, dysphagia, odynophagia, and persistent globus sensation. What is your diagnosis?</p>
 ]]></content:encoded>
 </item>
 <item>
@@ -2052,6 +2131,33 @@ Mehmet Uludag</p>
 ]]></content:encoded>
 </item>
 <item>
+<title>Medial Sural Artery Perforator Flap Radiographic Vascular Characteristics</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70125?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70125?af=R</guid>
+<dc:creator>Michael A. Cirelli Jr, 
+Justin M. Hintze, 
+Taylor B. Cave, 
+Daniah ALNafisee, 
+Tanya J. Rath, 
+Brent A. Chang</dc:creator>
+<prism:publicationName>Wiley: Head &amp; Neck: Table of Contents</prism:publicationName>
+<prism:doi>10.1002/hed.70125</prism:doi>
+<description>Journal: Wiley: Head &amp; Neck: Table of Contents | DOI: 10.1002/hed.70125</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: Wiley: Head & Neck: Table of Contents</p>
+<p><strong>Authors</strong>: Michael A. Cirelli Jr, 
+Justin M. Hintze, 
+Taylor B. Cave, 
+Daniah ALNafisee, 
+Tanya J. Rath, 
+Brent A. Chang</p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1002/hed.70125'>10.1002/hed.70125</a></p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>Head &amp;Neck, EarlyView.</p>
+]]></content:encoded>
+</item>
+<item>
 <title>Chloride Intracellular Channel 2 Can Function as a Malignant Factor in Head and Neck Squamous Cell Carcinoma</title>
 <link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70133?af=R</link>
 <guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70133?af=R</guid>
@@ -2303,41 +2409,6 @@ Jason K. Molitoris,
 Matthew J. Ferris, 
 Kyle M. Hatten</p>
 <p><strong>DOI</strong>: <a href='https://doi.org/10.1002/hed.70122'>10.1002/hed.70122</a></p>
-<hr/>
-<p><strong>Abstract</strong></p>
-<p>Head &amp;Neck, EarlyView.</p>
-]]></content:encoded>
-</item>
-<item>
-<title>Anatomical Predictors of Aerodigestive Symptoms in Substernal Goiters</title>
-<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70123?af=R</link>
-<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70123?af=R</guid>
-<dc:creator>Jamie Masliah, 
-Sushanth Neerumalla, 
-Abdel Metwally, 
-Avidor Kazen, 
-Sumeet G. Dua, 
-Vanessa Stubbs, 
-Mihir Bhayani, 
-Kerstin Stenson, 
-Sean Wrenn, 
-Samer Al‐Khudari</dc:creator>
-<prism:publicationName>Wiley: Head &amp; Neck: Table of Contents</prism:publicationName>
-<prism:doi>10.1002/hed.70123</prism:doi>
-<description>Journal: Wiley: Head &amp; Neck: Table of Contents | DOI: 10.1002/hed.70123</description>
-<content:encoded><![CDATA[
-<p><strong>Journal</strong>: Wiley: Head & Neck: Table of Contents</p>
-<p><strong>Authors</strong>: Jamie Masliah, 
-Sushanth Neerumalla, 
-Abdel Metwally, 
-Avidor Kazen, 
-Sumeet G. Dua, 
-Vanessa Stubbs, 
-Mihir Bhayani, 
-Kerstin Stenson, 
-Sean Wrenn, 
-Samer Al‐Khudari</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1002/hed.70123'>10.1002/hed.70123</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
 <p>Head &amp;Neck, EarlyView.</p>
@@ -2929,6 +3000,37 @@ Achille Tarsitano</p>
 ]]></content:encoded>
 </item>
 <item>
+<title>Regional Osteocutaneous Submental Island Flap for Premaxillary Reconstruction: A Clinical Experience</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70099?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70099?af=R</guid>
+<dc:creator>Ebrahim Karimi, 
+Pooria Mousavi, 
+Ali Yousefzadeh, 
+Niloufar Saeedi, 
+Farbood Farahbakhsh, 
+Mahdieh Mohebbi, 
+Kayvan Aghazadeh, 
+Farrokh Heidari</dc:creator>
+<prism:publicationName>Wiley: Head &amp; Neck: Table of Contents</prism:publicationName>
+<prism:doi>10.1002/hed.70099</prism:doi>
+<description>Journal: Wiley: Head &amp; Neck: Table of Contents | DOI: 10.1002/hed.70099</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: Wiley: Head & Neck: Table of Contents</p>
+<p><strong>Authors</strong>: Ebrahim Karimi, 
+Pooria Mousavi, 
+Ali Yousefzadeh, 
+Niloufar Saeedi, 
+Farbood Farahbakhsh, 
+Mahdieh Mohebbi, 
+Kayvan Aghazadeh, 
+Farrokh Heidari</p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1002/hed.70099'>10.1002/hed.70099</a></p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>Head &amp;Neck, EarlyView.</p>
+]]></content:encoded>
+</item>
+<item>
 <title>Microvascular Free Tissue Transfer for Reconstruction of Anterior Skull Base Defects</title>
 <link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70091?af=R</link>
 <guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70091?af=R</guid>
@@ -2956,6 +3058,47 @@ Shaan M. Raza,
 Matthew M. Hanasono, 
 Shirley Y. Su</p>
 <p><strong>DOI</strong>: <a href='https://doi.org/10.1002/hed.70091'>10.1002/hed.70091</a></p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>Head &amp;Neck, EarlyView.</p>
+]]></content:encoded>
+</item>
+<item>
+<title>Genomic and Immune Correlates of EZH2 Expression and Activity in Olfactory Neuroblastoma</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70076?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70076?af=R</guid>
+<dc:creator>Elisabetta Xue, 
+Tolulope Adeyelu, 
+Harris Krause, 
+Andrew Elliott, 
+Ranee Mehra, 
+Heloisa Soares, 
+Emil Lou, 
+Ari Vanderwalde, 
+David Spetzler, 
+Dara Bracken‐Clarke, 
+Nyall R. London Jr., 
+James L. Gulley, 
+Charalampos S. Floudas</dc:creator>
+<prism:publicationName>Wiley: Head &amp; Neck: Table of Contents</prism:publicationName>
+<prism:doi>10.1002/hed.70076</prism:doi>
+<description>Journal: Wiley: Head &amp; Neck: Table of Contents | DOI: 10.1002/hed.70076</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: Wiley: Head & Neck: Table of Contents</p>
+<p><strong>Authors</strong>: Elisabetta Xue, 
+Tolulope Adeyelu, 
+Harris Krause, 
+Andrew Elliott, 
+Ranee Mehra, 
+Heloisa Soares, 
+Emil Lou, 
+Ari Vanderwalde, 
+David Spetzler, 
+Dara Bracken‐Clarke, 
+Nyall R. London Jr., 
+James L. Gulley, 
+Charalampos S. Floudas</p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1002/hed.70076'>10.1002/hed.70076</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
 <p>Head &amp;Neck, EarlyView.</p>
@@ -3560,17 +3703,34 @@ Manthan Merja</p>
 ]]></content:encoded>
 </item>
 <item>
-<title>Beyond Infusion: Real-World Insights Into Infusion-Related Reactions in Monoclonal Antibody Therapy</title>
-<link>https://ascopubs.org/doi/abs/10.1200/OP-25-00275?af=R</link>
-<guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/OP-25-00275?af=R</guid>
-<dc:creator>Elise J. Smolders; Elianne C.S. de Boer; Helle-Brit Fiebrich-Westra; Remco van der Galiën; Peter M.J. Plomp; Jan Willem B. de Groot; Jan Gerard Maring</dc:creator>
+<title>Quality of Informed Consent via Telemedicine Compared With In-Person for Clinical Cancer Research</title>
+<link>https://ascopubs.org/doi/abs/10.1200/OP-24-01041?af=R</link>
+<guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/OP-24-01041?af=R</guid>
+<dc:creator>Michal Sternschuss; Michael Lattanzi; Emily Vertosick; Mia Austria; Sené Martin; Ashley Regazzi; Michael T. Buckely; Joseph Lengfellner; Gregory J. Riely; David B. Solit; Jonathan E. Rosenberg; Gopa Iyer; Peter D. Stetson; Michael J. Morris; Andrew J. Vickers; Samuel A. Funt</dc:creator>
 <prism:publicationName>WoltersKluwer: JCO Oncology Practice: Table of Contents</prism:publicationName>
-<prism:doi>10.1200/OP-25-00275</prism:doi>
-<description>Journal: WoltersKluwer: JCO Oncology Practice: Table of Contents | DOI: 10.1200/OP-25-00275</description>
+<prism:doi>10.1200/OP-24-01041</prism:doi>
+<description>Journal: WoltersKluwer: JCO Oncology Practice: Table of Contents | DOI: 10.1200/OP-24-01041</description>
 <content:encoded><![CDATA[
 <p><strong>Journal</strong>: WoltersKluwer: JCO Oncology Practice: Table of Contents</p>
-<p><strong>Authors</strong>: Elise J. Smolders; Elianne C.S. de Boer; Helle-Brit Fiebrich-Westra; Remco van der Galiën; Peter M.J. Plomp; Jan Willem B. de Groot; Jan Gerard Maring</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1200/OP-25-00275'>10.1200/OP-25-00275</a></p>
+<p><strong>Authors</strong>: Michal Sternschuss; Michael Lattanzi; Emily Vertosick; Mia Austria; Sené Martin; Ashley Regazzi; Michael T. Buckely; Joseph Lengfellner; Gregory J. Riely; David B. Solit; Jonathan E. Rosenberg; Gopa Iyer; Peter D. Stetson; Michael J. Morris; Andrew J. Vickers; Samuel A. Funt</p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1200/OP-24-01041'>10.1200/OP-24-01041</a></p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>JCO Oncology Practice, Ahead of Print. <br /></p>
+]]></content:encoded>
+</item>
+<item>
+<title>Impact of Drug Shortages on Cancer Care Delivery Within the National Cancer Institute Community Oncology Research Program</title>
+<link>https://ascopubs.org/doi/abs/10.1200/OP-25-00057?af=R</link>
+<guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/OP-25-00057?af=R</guid>
+<dc:creator>Lauren V. Ghazal; Supriya Mohile; Kah Poh Loh; Karen Mustian; Grace Sventek; Umang Gada; Chin-Shang Li; Eva Culakova; Melyssa Foust; Judith O. Hopkins; Heather Kehn; Charles Kamen; Erin R. Fox; Elaine L. Hill</dc:creator>
+<prism:publicationName>WoltersKluwer: JCO Oncology Practice: Table of Contents</prism:publicationName>
+<prism:doi>10.1200/OP-25-00057</prism:doi>
+<description>Journal: WoltersKluwer: JCO Oncology Practice: Table of Contents | DOI: 10.1200/OP-25-00057</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: WoltersKluwer: JCO Oncology Practice: Table of Contents</p>
+<p><strong>Authors</strong>: Lauren V. Ghazal; Supriya Mohile; Kah Poh Loh; Karen Mustian; Grace Sventek; Umang Gada; Chin-Shang Li; Eva Culakova; Melyssa Foust; Judith O. Hopkins; Heather Kehn; Charles Kamen; Erin R. Fox; Elaine L. Hill</p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1200/OP-25-00057'>10.1200/OP-25-00057</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
 <p>JCO Oncology Practice, Ahead of Print. <br /></p>
@@ -3605,6 +3765,23 @@ Manthan Merja</p>
 <p><strong>Journal</strong>: WoltersKluwer: JCO Global Oncology: Table of Contents</p>
 <p><strong>Authors</strong>: Dang Van Nguyen; Manh Duy Pham; Thai Huu Hoang; Binh Thanh Nguyen</p>
 <p><strong>DOI</strong>: <a href='https://doi.org/10.1200/GO-24-00530'>10.1200/GO-24-00530</a></p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>JCO Global Oncology, Issue 11, December 2025. <br /></p>
+]]></content:encoded>
+</item>
+<item>
+<title>Overcoming Financial and Access Barriers in Global Cancer Care With Low-Dose Immunotherapy: A Systematic Review</title>
+<link>https://ascopubs.org/doi/abs/10.1200/GO-24-00409?af=R</link>
+<guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/GO-24-00409?af=R</guid>
+<dc:creator>Celine Hoyek; Binbin Zheng-Lin; Jennah J. Bauernfeind; Omar Hussain Al-Ahmad; Tanios Bekaii-Saab; Sakti Chakrabarti; Sawsan Rashdan; Mohamad B. Sonbol</dc:creator>
+<prism:publicationName>WoltersKluwer: JCO Global Oncology: Table of Contents</prism:publicationName>
+<prism:doi>10.1200/GO-24-00409</prism:doi>
+<description>Journal: WoltersKluwer: JCO Global Oncology: Table of Contents | DOI: 10.1200/GO-24-00409</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: WoltersKluwer: JCO Global Oncology: Table of Contents</p>
+<p><strong>Authors</strong>: Celine Hoyek; Binbin Zheng-Lin; Jennah J. Bauernfeind; Omar Hussain Al-Ahmad; Tanios Bekaii-Saab; Sakti Chakrabarti; Sawsan Rashdan; Mohamad B. Sonbol</p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1200/GO-24-00409'>10.1200/GO-24-00409</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
 <p>JCO Global Oncology, Issue 11, December 2025. <br /></p>
@@ -3713,17 +3890,17 @@ Manthan Merja</p>
 ]]></content:encoded>
 </item>
 <item>
-<title>Knowledge, Attitudes, and Health-Seeking Behavior for Cervical, Breast, and Oral Cancers Among Women in Jashore, Bangladesh: A Cross-Sectional Study</title>
-<link>https://ascopubs.org/doi/abs/10.1200/GO-25-00304?af=R</link>
-<guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/GO-25-00304?af=R</guid>
-<dc:creator>Md. Ragaul Azim; Evelyn Yi Ting Wong; Md. Mahfujur Rahman; Md. Sirajul Islam; Md. Habibullah Talukder; Brian Shao Tian Woon; Taufique Joarder; Ravindran Kanesvaran; Syed Abdul Hamid</dc:creator>
+<title>Radiotherapy Resources in Central Asia: An International Atomic Energy Agency Update</title>
+<link>https://ascopubs.org/doi/abs/10.1200/GO-25-00271?af=R</link>
+<guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/GO-25-00271?af=R</guid>
+<dc:creator>Sondos AlKhatib; Kamal Akbarov; Varsha Hande; Olivera Ciraj-Bjelac; May Abdel-Wahab</dc:creator>
 <prism:publicationName>WoltersKluwer: JCO Global Oncology: Table of Contents</prism:publicationName>
-<prism:doi>10.1200/GO-25-00304</prism:doi>
-<description>Journal: WoltersKluwer: JCO Global Oncology: Table of Contents | DOI: 10.1200/GO-25-00304</description>
+<prism:doi>10.1200/GO-25-00271</prism:doi>
+<description>Journal: WoltersKluwer: JCO Global Oncology: Table of Contents | DOI: 10.1200/GO-25-00271</description>
 <content:encoded><![CDATA[
 <p><strong>Journal</strong>: WoltersKluwer: JCO Global Oncology: Table of Contents</p>
-<p><strong>Authors</strong>: Md. Ragaul Azim; Evelyn Yi Ting Wong; Md. Mahfujur Rahman; Md. Sirajul Islam; Md. Habibullah Talukder; Brian Shao Tian Woon; Taufique Joarder; Ravindran Kanesvaran; Syed Abdul Hamid</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1200/GO-25-00304'>10.1200/GO-25-00304</a></p>
+<p><strong>Authors</strong>: Sondos AlKhatib; Kamal Akbarov; Varsha Hande; Olivera Ciraj-Bjelac; May Abdel-Wahab</p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1200/GO-25-00271'>10.1200/GO-25-00271</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
 <p>JCO Global Oncology, Issue 11, December 2025. <br /></p>
@@ -3741,23 +3918,6 @@ Manthan Merja</p>
 <p><strong>Journal</strong>: WoltersKluwer: JCO Global Oncology: Table of Contents</p>
 <p><strong>Authors</strong>: Nuttapong Ngamphaiboon; Arunee Dechaphunkul; Chanida Vinayanuwattikun; Pongwut Danchaivijitr; Thanaporn Thamrongjirapat; Anussara Prayongrat; Tanadech Dechaphunkul; Rungarun Jiratrachu; Poompis Pattaranutaporn; Chuleeporn Jiarpinitnun; Jiraporn Setakornnukul</p>
 <p><strong>DOI</strong>: <a href='https://doi.org/10.1200/GO-24-00285'>10.1200/GO-24-00285</a></p>
-<hr/>
-<p><strong>Abstract</strong></p>
-<p>JCO Global Oncology, Issue 11, December 2025. <br /></p>
-]]></content:encoded>
-</item>
-<item>
-<title>Extension for Community Healthcare Outcomes-Palliative Care in Africa and Quality of Life, Symptoms, Patient Experience, and Caregiver Distress Among Patients With Cancer</title>
-<link>https://ascopubs.org/doi/abs/10.1200/GO.24.00236?af=R</link>
-<guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/GO.24.00236?af=R</guid>
-<dc:creator>Sriram Yennurajalingam; Olaitan Soyannwo; John Weru; Edwina Beryl VND Addo Opare-Lokko; Henriette Burger; Esther Nafulah; Oladayo Aikomo; Adeniyi Adenipekun; Irene Botchway; Mary Ocansey; Jayita Deodhar; Jianliang Dai; Clark R. Andersen; Joseph Anthony Arthur; Aline Rozman de Moraes; Penny A. Stanton; Eduardo Bruera; Suresh Reddy</dc:creator>
-<prism:publicationName>WoltersKluwer: JCO Global Oncology: Table of Contents</prism:publicationName>
-<prism:doi>10.1200/GO.24.00236</prism:doi>
-<description>Journal: WoltersKluwer: JCO Global Oncology: Table of Contents | DOI: 10.1200/GO.24.00236</description>
-<content:encoded><![CDATA[
-<p><strong>Journal</strong>: WoltersKluwer: JCO Global Oncology: Table of Contents</p>
-<p><strong>Authors</strong>: Sriram Yennurajalingam; Olaitan Soyannwo; John Weru; Edwina Beryl VND Addo Opare-Lokko; Henriette Burger; Esther Nafulah; Oladayo Aikomo; Adeniyi Adenipekun; Irene Botchway; Mary Ocansey; Jayita Deodhar; Jianliang Dai; Clark R. Andersen; Joseph Anthony Arthur; Aline Rozman de Moraes; Penny A. Stanton; Eduardo Bruera; Suresh Reddy</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1200/GO.24.00236'>10.1200/GO.24.00236</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
 <p>JCO Global Oncology, Issue 11, December 2025. <br /></p>
@@ -3832,23 +3992,6 @@ Manthan Merja</p>
 ]]></content:encoded>
 </item>
 <item>
-<title>Review of All Solid Tumor Drug Approvals From 2019 to 2024 by US Food and Drug Administration, European Medicines Agency, and Brazilian Health Regulatory Agency</title>
-<link>https://ascopubs.org/doi/abs/10.1200/GO-25-00326?af=R</link>
-<guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/GO-25-00326?af=R</guid>
-<dc:creator>Rafael Balsini Barreto; Mário Henrique Furlanetto Miranda; Camila Marchi Blatt; Bárbara Andressa Uliana; Denize Bodnar</dc:creator>
-<prism:publicationName>WoltersKluwer: JCO Global Oncology: Table of Contents</prism:publicationName>
-<prism:doi>10.1200/GO-25-00326</prism:doi>
-<description>Journal: WoltersKluwer: JCO Global Oncology: Table of Contents | DOI: 10.1200/GO-25-00326</description>
-<content:encoded><![CDATA[
-<p><strong>Journal</strong>: WoltersKluwer: JCO Global Oncology: Table of Contents</p>
-<p><strong>Authors</strong>: Rafael Balsini Barreto; Mário Henrique Furlanetto Miranda; Camila Marchi Blatt; Bárbara Andressa Uliana; Denize Bodnar</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1200/GO-25-00326'>10.1200/GO-25-00326</a></p>
-<hr/>
-<p><strong>Abstract</strong></p>
-<p>JCO Global Oncology, Issue 11, December 2025. <br /></p>
-]]></content:encoded>
-</item>
-<item>
 <title>Triple Oral Metronomic Chemotherapy Versus Chemotherapy of Physician Discretion After Failure of Platinum-Based Therapy in Advanced Head and Neck Cancer: A Phase III Randomized Study (METRO-CHASE Study)</title>
 <link>https://ascopubs.org/doi/abs/10.1200/GO-25-00032?af=R</link>
 <guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/GO-25-00032?af=R</guid>
@@ -3877,57 +4020,6 @@ Manthan Merja</p>
 <p><strong>Journal</strong>: WoltersKluwer: JCO Global Oncology: Table of Contents</p>
 <p><strong>Authors</strong>: Min Zhang; Min Zhao; Yang Li; Meimei Cui; Jiayi Chen; Jingjing Jia; Wenjie Yan; Limei Luo</p>
 <p><strong>DOI</strong>: <a href='https://doi.org/10.1200/GO-25-00185'>10.1200/GO-25-00185</a></p>
-<hr/>
-<p><strong>Abstract</strong></p>
-<p>JCO Global Oncology, Issue 11, December 2025. <br /></p>
-]]></content:encoded>
-</item>
-<item>
-<title>Somatic Landscape of Oncogenic Variants Across the Main Cancer Subtypes in Latin America: A Narrative Review</title>
-<link>https://ascopubs.org/doi/abs/10.1200/GO-24-00389?af=R</link>
-<guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/GO-24-00389?af=R</guid>
-<dc:creator>Talia Wegman-Ostrosky; Lucia Taja-Chayeb; Zyanya Lucia Zatarain-Barrón; Catalina Trejo-Becerril; Daniela Shveid Gerson; Isabel Espino-Gutiérrez; Andrea Gutiérrez-Lara; Andrés Yesid Bonilla Salcedo; Mistral Castellanos Mares; José Elias García-Ortiz; Carla Daniela Robles-Espinoza; Alejandro Ruíz-Patiño</dc:creator>
-<prism:publicationName>WoltersKluwer: JCO Global Oncology: Table of Contents</prism:publicationName>
-<prism:doi>10.1200/GO-24-00389</prism:doi>
-<description>Journal: WoltersKluwer: JCO Global Oncology: Table of Contents | DOI: 10.1200/GO-24-00389</description>
-<content:encoded><![CDATA[
-<p><strong>Journal</strong>: WoltersKluwer: JCO Global Oncology: Table of Contents</p>
-<p><strong>Authors</strong>: Talia Wegman-Ostrosky; Lucia Taja-Chayeb; Zyanya Lucia Zatarain-Barrón; Catalina Trejo-Becerril; Daniela Shveid Gerson; Isabel Espino-Gutiérrez; Andrea Gutiérrez-Lara; Andrés Yesid Bonilla Salcedo; Mistral Castellanos Mares; José Elias García-Ortiz; Carla Daniela Robles-Espinoza; Alejandro Ruíz-Patiño</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1200/GO-24-00389'>10.1200/GO-24-00389</a></p>
-<hr/>
-<p><strong>Abstract</strong></p>
-<p>JCO Global Oncology, Issue 11, December 2025. <br /></p>
-]]></content:encoded>
-</item>
-<item>
-<title>Emerging Trends in Point-of-Care Technology Development for Oncology in Low- and Middle-Income Countries</title>
-<link>https://ascopubs.org/doi/abs/10.1200/GO-25-00142?af=R</link>
-<guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/GO-25-00142?af=R</guid>
-<dc:creator>Wenting Gao; Jason C. Manning; Kirtana Devaraj; Rebecca R. Richards-Kortum; Sally M. McFall; Robert L. Murphy; Aggrey Semeere; David Erickson</dc:creator>
-<prism:publicationName>WoltersKluwer: JCO Global Oncology: Table of Contents</prism:publicationName>
-<prism:doi>10.1200/GO-25-00142</prism:doi>
-<description>Journal: WoltersKluwer: JCO Global Oncology: Table of Contents | DOI: 10.1200/GO-25-00142</description>
-<content:encoded><![CDATA[
-<p><strong>Journal</strong>: WoltersKluwer: JCO Global Oncology: Table of Contents</p>
-<p><strong>Authors</strong>: Wenting Gao; Jason C. Manning; Kirtana Devaraj; Rebecca R. Richards-Kortum; Sally M. McFall; Robert L. Murphy; Aggrey Semeere; David Erickson</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1200/GO-25-00142'>10.1200/GO-25-00142</a></p>
-<hr/>
-<p><strong>Abstract</strong></p>
-<p>JCO Global Oncology, Issue 11, December 2025. <br /></p>
-]]></content:encoded>
-</item>
-<item>
-<title>National Public Health Policy Blueprint to Expand Equitable Radiation Therapy Access in India: A Scalable Model</title>
-<link>https://ascopubs.org/doi/abs/10.1200/GO-25-00419?af=R</link>
-<guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/GO-25-00419?af=R</guid>
-<dc:creator>Srinivas Chilukuri; Pramod Tike; Manish Siddha; Nikhil Ghadyalpatil; Pankaj Kumar Panda; Bhushan Nemade</dc:creator>
-<prism:publicationName>WoltersKluwer: JCO Global Oncology: Table of Contents</prism:publicationName>
-<prism:doi>10.1200/GO-25-00419</prism:doi>
-<description>Journal: WoltersKluwer: JCO Global Oncology: Table of Contents | DOI: 10.1200/GO-25-00419</description>
-<content:encoded><![CDATA[
-<p><strong>Journal</strong>: WoltersKluwer: JCO Global Oncology: Table of Contents</p>
-<p><strong>Authors</strong>: Srinivas Chilukuri; Pramod Tike; Manish Siddha; Nikhil Ghadyalpatil; Pankaj Kumar Panda; Bhushan Nemade</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1200/GO-25-00419'>10.1200/GO-25-00419</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
 <p>JCO Global Oncology, Issue 11, December 2025. <br /></p>
@@ -4036,17 +4128,34 @@ Manthan Merja</p>
 ]]></content:encoded>
 </item>
 <item>
-<title>Leveraging Centralized Health System Data Management and Large Language Model–Based Data Preprocessing to Identify Predictors for Radiation Therapy Interruption</title>
-<link>https://ascopubs.org/doi/abs/10.1200/CCI-25-00218?af=R</link>
-<guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/CCI-25-00218?af=R</guid>
-<dc:creator>Fekede Asefa Kumsa; Christopher L. Brett; Soheil Hashtarkhani; Rezaur Rashid; Lokesh Chinthala; Janet A. Zink; Robert L. Davis; Arash Shaban-Nejad; David L. Schwartz</dc:creator>
+<title>Using a Longformer Large Language Model for Segmenting Unstructured Cancer Pathology Reports</title>
+<link>https://ascopubs.org/doi/abs/10.1200/CCI-24-00143?af=R</link>
+<guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/CCI-24-00143?af=R</guid>
+<dc:creator>Damien Fung; Gregory Arbour; Krisha Malik; Kaitlin Muzio; Raymond Ng</dc:creator>
 <prism:publicationName>WoltersKluwer: JCO Clinical Cancer Informatics: Table of Contents</prism:publicationName>
-<prism:doi>10.1200/CCI-25-00218</prism:doi>
-<description>Journal: WoltersKluwer: JCO Clinical Cancer Informatics: Table of Contents | DOI: 10.1200/CCI-25-00218</description>
+<prism:doi>10.1200/CCI-24-00143</prism:doi>
+<description>Journal: WoltersKluwer: JCO Clinical Cancer Informatics: Table of Contents | DOI: 10.1200/CCI-24-00143</description>
 <content:encoded><![CDATA[
 <p><strong>Journal</strong>: WoltersKluwer: JCO Clinical Cancer Informatics: Table of Contents</p>
-<p><strong>Authors</strong>: Fekede Asefa Kumsa; Christopher L. Brett; Soheil Hashtarkhani; Rezaur Rashid; Lokesh Chinthala; Janet A. Zink; Robert L. Davis; Arash Shaban-Nejad; David L. Schwartz</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1200/CCI-25-00218'>10.1200/CCI-25-00218</a></p>
+<p><strong>Authors</strong>: Damien Fung; Gregory Arbour; Krisha Malik; Kaitlin Muzio; Raymond Ng</p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1200/CCI-24-00143'>10.1200/CCI-24-00143</a></p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>JCO Clinical Cancer Informatics, Issue 9, December 2025. <br /></p>
+]]></content:encoded>
+</item>
+<item>
+<title>Development of Machine Learning Systems to Predict Cancer-Related Symptoms With Validation Across a Health Care System</title>
+<link>https://ascopubs.org/doi/abs/10.1200/CCI-25-00073?af=R</link>
+<guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/CCI-25-00073?af=R</guid>
+<dc:creator>Baijiang Yuan; Muammar Kabir; Jiang Chen He; Yuchen Li; Benjamin Grant; Sharon Narine; Mattea Welch; Sho Podolsky; Ning Liu; Rami Ajaj; Luna Jia Zhan; Aly Fawzy; Janine Xu; Yuhua Zhang; Vivien Yu; Wei Xu; Rahul G. Krishnan; Steven Gallinger; Kelvin K.W. Chan; Monika K. Krzyzanowska; Tran Truong; Geoffrey Liu; Robert C. Grant</dc:creator>
+<prism:publicationName>WoltersKluwer: JCO Clinical Cancer Informatics: Table of Contents</prism:publicationName>
+<prism:doi>10.1200/CCI-25-00073</prism:doi>
+<description>Journal: WoltersKluwer: JCO Clinical Cancer Informatics: Table of Contents | DOI: 10.1200/CCI-25-00073</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: WoltersKluwer: JCO Clinical Cancer Informatics: Table of Contents</p>
+<p><strong>Authors</strong>: Baijiang Yuan; Muammar Kabir; Jiang Chen He; Yuchen Li; Benjamin Grant; Sharon Narine; Mattea Welch; Sho Podolsky; Ning Liu; Rami Ajaj; Luna Jia Zhan; Aly Fawzy; Janine Xu; Yuhua Zhang; Vivien Yu; Wei Xu; Rahul G. Krishnan; Steven Gallinger; Kelvin K.W. Chan; Monika K. Krzyzanowska; Tran Truong; Geoffrey Liu; Robert C. Grant</p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1200/CCI-25-00073'>10.1200/CCI-25-00073</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
 <p>JCO Clinical Cancer Informatics, Issue 9, December 2025. <br /></p>
@@ -4070,23 +4179,6 @@ Manthan Merja</p>
 ]]></content:encoded>
 </item>
 <item>
-<title>Tumor Site–Specific Radiation-Induced Lymphocyte Depletion Models After Fractionated Radiotherapy: Considerations of Model Structure From an Aggregate Data Meta-Analysis</title>
-<link>https://ascopubs.org/doi/abs/10.1200/CCI-25-00144?af=R</link>
-<guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/CCI-25-00144?af=R</guid>
-<dc:creator>Thao-Nguyen Pham; Julie Coupey; Samuel Valable; Juliette Thariat</dc:creator>
-<prism:publicationName>WoltersKluwer: JCO Clinical Cancer Informatics: Table of Contents</prism:publicationName>
-<prism:doi>10.1200/CCI-25-00144</prism:doi>
-<description>Journal: WoltersKluwer: JCO Clinical Cancer Informatics: Table of Contents | DOI: 10.1200/CCI-25-00144</description>
-<content:encoded><![CDATA[
-<p><strong>Journal</strong>: WoltersKluwer: JCO Clinical Cancer Informatics: Table of Contents</p>
-<p><strong>Authors</strong>: Thao-Nguyen Pham; Julie Coupey; Samuel Valable; Juliette Thariat</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1200/CCI-25-00144'>10.1200/CCI-25-00144</a></p>
-<hr/>
-<p><strong>Abstract</strong></p>
-<p>JCO Clinical Cancer Informatics, Issue 9, December 2025. <br /></p>
-]]></content:encoded>
-</item>
-<item>
 <title>RadOncRAG: A Novel Retrieval-Augmented Generation Framework Improves Large Language Model Benchmark Performance in Radiation Oncology</title>
 <link>https://ascopubs.org/doi/abs/10.1200/CCI-25-00220?af=R</link>
 <guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/CCI-25-00220?af=R</guid>
@@ -4104,6 +4196,23 @@ Manthan Merja</p>
 ]]></content:encoded>
 </item>
 <item>
+<title>Large Language Models for Translational Cancer Informatics</title>
+<link>https://ascopubs.org/doi/abs/10.1200/CCI-25-00108?af=R</link>
+<guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/CCI-25-00108?af=R</guid>
+<dc:creator>Yining Pan; Yanfei Wang; Guangyu Wang; Jing Su; Umit Topaloglu; Qianqian Song</dc:creator>
+<prism:publicationName>WoltersKluwer: JCO Clinical Cancer Informatics: Table of Contents</prism:publicationName>
+<prism:doi>10.1200/CCI-25-00108</prism:doi>
+<description>Journal: WoltersKluwer: JCO Clinical Cancer Informatics: Table of Contents | DOI: 10.1200/CCI-25-00108</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: WoltersKluwer: JCO Clinical Cancer Informatics: Table of Contents</p>
+<p><strong>Authors</strong>: Yining Pan; Yanfei Wang; Guangyu Wang; Jing Su; Umit Topaloglu; Qianqian Song</p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1200/CCI-25-00108'>10.1200/CCI-25-00108</a></p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>JCO Clinical Cancer Informatics, Issue 9, December 2025. <br /></p>
+]]></content:encoded>
+</item>
+<item>
 <title>Large Language Models in Population Oncology: A Contemporary Review on the Use of Large Language Models to Support Data Collection, Aggregation, and Analysis in Cancer Care and Research</title>
 <link>https://ascopubs.org/doi/abs/10.1200/CCI-25-00112?af=R</link>
 <guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/CCI-25-00112?af=R</guid>
@@ -4115,6 +4224,23 @@ Manthan Merja</p>
 <p><strong>Journal</strong>: WoltersKluwer: JCO Clinical Cancer Informatics: Table of Contents</p>
 <p><strong>Authors</strong>: Ryzen Benson; Clodagh Kenny; Amir Ashraf Ganjouei; Michelle Zhao; Rami Darawsheh; Alexander Qian; Julian C. Hong</p>
 <p><strong>DOI</strong>: <a href='https://doi.org/10.1200/CCI-25-00112'>10.1200/CCI-25-00112</a></p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>JCO Clinical Cancer Informatics, Issue 9, December 2025. <br /></p>
+]]></content:encoded>
+</item>
+<item>
+<title>Computational Modeling for Circulating Cell-Free DNA in Clinical Oncology</title>
+<link>https://ascopubs.org/doi/abs/10.1200/CCI-24-00224?af=R</link>
+<guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/CCI-24-00224?af=R</guid>
+<dc:creator>Linh Nguyen Phuong; Sébastien Salas; Sébastien Benzekry</dc:creator>
+<prism:publicationName>WoltersKluwer: JCO Clinical Cancer Informatics: Table of Contents</prism:publicationName>
+<prism:doi>10.1200/CCI-24-00224</prism:doi>
+<description>Journal: WoltersKluwer: JCO Clinical Cancer Informatics: Table of Contents | DOI: 10.1200/CCI-24-00224</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: WoltersKluwer: JCO Clinical Cancer Informatics: Table of Contents</p>
+<p><strong>Authors</strong>: Linh Nguyen Phuong; Sébastien Salas; Sébastien Benzekry</p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1200/CCI-24-00224'>10.1200/CCI-24-00224</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
 <p>JCO Clinical Cancer Informatics, Issue 9, December 2025. <br /></p>
@@ -4206,6 +4332,23 @@ Manthan Merja</p>
 ]]></content:encoded>
 </item>
 <item>
+<title>Routine Clinical Liquid Biopsy Testing for Solid Tumors Delivers the Promise of Minimally Invasive Detection of Genomic Variants With a Faster Turnaround Time</title>
+<link>https://ascopubs.org/doi/abs/10.1200/PO.24.00299?af=R</link>
+<guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/PO.24.00299?af=R</guid>
+<dc:creator>Peng Wang; Richard Kenneth Yang; Fatima Zahra Jelloul; Rajyalakshmi Luthra; Mark J. Routbort; Hui Chen; Sanam Loghavi; Chi Young Ok; Rashmi Kanagal-Shamanna; Sinchita Roy-Chowdhuri; L. Jeffrey Medeiros; Keyur P. Patel</dc:creator>
+<prism:publicationName>WoltersKluwer: JCO Precision Oncology: Table of Contents</prism:publicationName>
+<prism:doi>10.1200/PO.24.00299</prism:doi>
+<description>Journal: WoltersKluwer: JCO Precision Oncology: Table of Contents | DOI: 10.1200/PO.24.00299</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: WoltersKluwer: JCO Precision Oncology: Table of Contents</p>
+<p><strong>Authors</strong>: Peng Wang; Richard Kenneth Yang; Fatima Zahra Jelloul; Rajyalakshmi Luthra; Mark J. Routbort; Hui Chen; Sanam Loghavi; Chi Young Ok; Rashmi Kanagal-Shamanna; Sinchita Roy-Chowdhuri; L. Jeffrey Medeiros; Keyur P. Patel</p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1200/PO.24.00299'>10.1200/PO.24.00299</a></p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>JCO Precision Oncology, Issue 9, October 2025. <br /></p>
+]]></content:encoded>
+</item>
+<item>
 <title>Palbociclib, a Selective CDK4/6 Inhibitor, Administered Before and After Chemoradiotherapy for Human Papillomavirus–Negative, Locally Advanced Head and Neck Squamous Cell Carcinoma: A Single-Arm, Phase II Trial</title>
 <link>https://ascopubs.org/doi/abs/10.1200/PO-25-00069?af=R</link>
 <guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/PO-25-00069?af=R</guid>
@@ -4240,17 +4383,34 @@ Manthan Merja</p>
 ]]></content:encoded>
 </item>
 <item>
-<title>Risks and Implications of Multiple Actionable Pathogenic Germline Variants Discovered by Panel-Based Cancer Predisposition Testing</title>
-<link>https://ascopubs.org/doi/abs/10.1200/PO-24-00951?af=R</link>
-<guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/PO-24-00951?af=R</guid>
-<dc:creator>Catherine Neumann; Demitrios Dedousis; Michael J. Hall</dc:creator>
+<title>Comprehensive Screening for Early Cancer Detection in Individuals With Genetic Predisposition</title>
+<link>https://ascopubs.org/doi/abs/10.1200/PO-25-00333?af=R</link>
+<guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/PO-25-00333?af=R</guid>
+<dc:creator>Natalia A. Bodunova; Airat I. Bilyalov; Anastasiia M. Danishevich; Gurami E. Kvetenadze; Artem K. Andronov; Andrey V. Starshinin; Maria M. Litvinova; Ludmila G. Zhukova; Igor E. Khatkov</dc:creator>
 <prism:publicationName>WoltersKluwer: JCO Precision Oncology: Table of Contents</prism:publicationName>
-<prism:doi>10.1200/PO-24-00951</prism:doi>
-<description>Journal: WoltersKluwer: JCO Precision Oncology: Table of Contents | DOI: 10.1200/PO-24-00951</description>
+<prism:doi>10.1200/PO-25-00333</prism:doi>
+<description>Journal: WoltersKluwer: JCO Precision Oncology: Table of Contents | DOI: 10.1200/PO-25-00333</description>
 <content:encoded><![CDATA[
 <p><strong>Journal</strong>: WoltersKluwer: JCO Precision Oncology: Table of Contents</p>
-<p><strong>Authors</strong>: Catherine Neumann; Demitrios Dedousis; Michael J. Hall</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1200/PO-24-00951'>10.1200/PO-24-00951</a></p>
+<p><strong>Authors</strong>: Natalia A. Bodunova; Airat I. Bilyalov; Anastasiia M. Danishevich; Gurami E. Kvetenadze; Artem K. Andronov; Andrey V. Starshinin; Maria M. Litvinova; Ludmila G. Zhukova; Igor E. Khatkov</p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1200/PO-25-00333'>10.1200/PO-25-00333</a></p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>JCO Precision Oncology, Issue 9, October 2025. <br /></p>
+]]></content:encoded>
+</item>
+<item>
+<title>Presenting Features and Causes of Diagnostic Delays: A Report From the NUT Carcinoma Registry</title>
+<link>https://ascopubs.org/doi/abs/10.1200/PO-25-00526?af=R</link>
+<guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/PO-25-00526?af=R</guid>
+<dc:creator>Sara A. Walton; Justin J. Kim; Francesco Paoloni; Jean W. Liew; Danielle Haradon; Jessica Haradon; Kathryn W. Miller; Paul K. Paik; Jamie E. Chaft; Mark G. Kris; Robert Hsu; Sarina A. Piha-Paul; Julia K. Rotow; Pasi A. Jänne; David A. Barbie; Lynette M. Sholl; Steven G. DuBois; Glenn J. Hanna; Geoffrey I. Shapiro; Christopher A. French; Jia Luo</dc:creator>
+<prism:publicationName>WoltersKluwer: JCO Precision Oncology: Table of Contents</prism:publicationName>
+<prism:doi>10.1200/PO-25-00526</prism:doi>
+<description>Journal: WoltersKluwer: JCO Precision Oncology: Table of Contents | DOI: 10.1200/PO-25-00526</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: WoltersKluwer: JCO Precision Oncology: Table of Contents</p>
+<p><strong>Authors</strong>: Sara A. Walton; Justin J. Kim; Francesco Paoloni; Jean W. Liew; Danielle Haradon; Jessica Haradon; Kathryn W. Miller; Paul K. Paik; Jamie E. Chaft; Mark G. Kris; Robert Hsu; Sarina A. Piha-Paul; Julia K. Rotow; Pasi A. Jänne; David A. Barbie; Lynette M. Sholl; Steven G. DuBois; Glenn J. Hanna; Geoffrey I. Shapiro; Christopher A. French; Jia Luo</p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1200/PO-25-00526'>10.1200/PO-25-00526</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
 <p>JCO Precision Oncology, Issue 9, October 2025. <br /></p>
@@ -4438,23 +4598,6 @@ Manthan Merja</p>
 <p><strong>Journal</strong>: WoltersKluwer: American Society of Clinical Oncology Educational Book: Table of Contents</p>
 <p><strong>Authors</strong>: Matthias Weiss; Susan Sabo-Wagner; Julia Frydman; C.S. Pramesh</p>
 <p><strong>DOI</strong>: <a href='https://doi.org/10.1200/EDBK-25-472842'>10.1200/EDBK-25-472842</a></p>
-<hr/>
-<p><strong>Abstract</strong></p>
-<p>American Society of Clinical Oncology Educational Book, Volume 45, Issue 3, June 2025. <br /></p>
-]]></content:encoded>
-</item>
-<item>
-<title>Emerging Strategies for Drug-Based Cancer Risk Reduction</title>
-<link>https://ascopubs.org/doi/abs/10.1200/EDBK-25-473708?af=R</link>
-<guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/EDBK-25-473708?af=R</guid>
-<dc:creator>Maria Daca-Álvarez; Angelo Brunori; Alessio Carbone; Chantelle Carbonell; Catherine M. Tangen; Joseph M. Unger; M. Scott Lucia; Martino Oliva; Andrea De Censi; Darren R. Brenner; Ian M. Thompson; Francesc Balaguer</dc:creator>
-<prism:publicationName>WoltersKluwer: American Society of Clinical Oncology Educational Book: Table of Contents</prism:publicationName>
-<prism:doi>10.1200/EDBK-25-473708</prism:doi>
-<description>Journal: WoltersKluwer: American Society of Clinical Oncology Educational Book: Table of Contents | DOI: 10.1200/EDBK-25-473708</description>
-<content:encoded><![CDATA[
-<p><strong>Journal</strong>: WoltersKluwer: American Society of Clinical Oncology Educational Book: Table of Contents</p>
-<p><strong>Authors</strong>: Maria Daca-Álvarez; Angelo Brunori; Alessio Carbone; Chantelle Carbonell; Catherine M. Tangen; Joseph M. Unger; M. Scott Lucia; Martino Oliva; Andrea De Censi; Darren R. Brenner; Ian M. Thompson; Francesc Balaguer</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1200/EDBK-25-473708'>10.1200/EDBK-25-473708</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
 <p>American Society of Clinical Oncology Educational Book, Volume 45, Issue 3, June 2025. <br /></p>
