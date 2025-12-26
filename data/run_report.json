@@ -1,11 +1,11 @@
 {
-  "timestamp_utc": "2025-12-25T07:23:37.713118+00:00",
+  "timestamp_utc": "2025-12-26T07:23:26.766666+00:00",
   "feeds": [
     {
       "url": "https://onesearch-rss.nejm.org/api/specialty/rss?context=nejm&specialty=hematology-oncology",
       "feed_title": "The New England Journal of Medicine: Search Results in Hematology/Oncology",
       "items_in_feed": 20,
-      "relevant_yes": 1
+      "relevant_yes": 0
     },
     {
       "url": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
@@ -77,7 +77,7 @@
       "url": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
       "feed_title": "Wiley: Head & Neck: Table of Contents",
       "items_in_feed": 92,
-      "relevant_yes": 81
+      "relevant_yes": 80
     },
     {
       "url": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=jco",
@@ -95,19 +95,19 @@
       "url": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=go",
       "feed_title": "WoltersKluwer: JCO Global Oncology: Table of Contents",
       "items_in_feed": 274,
-      "relevant_yes": 23
+      "relevant_yes": 28
     },
     {
       "url": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=cci",
       "feed_title": "WoltersKluwer: JCO Clinical Cancer Informatics: Table of Contents",
       "items_in_feed": 179,
-      "relevant_yes": 7
+      "relevant_yes": 11
     },
     {
       "url": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=po",
       "feed_title": "WoltersKluwer: JCO Precision Oncology: Table of Contents",
       "items_in_feed": 313,
-      "relevant_yes": 11
+      "relevant_yes": 12
     },
     {
       "url": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=oa",
@@ -119,12 +119,12 @@
       "url": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=edbk",
       "feed_title": "WoltersKluwer: American Society of Clinical Oncology Educational Book: Table of Contents",
       "items_in_feed": 80,
-      "relevant_yes": 4
+      "relevant_yes": 3
     }
   ],
   "decisions_total": {
-    "YES": 197,
+    "YES": 204,
     "NO": 1317,
-    "UNCERTAIN": 82
+    "UNCERTAIN": 75
   }
 }
