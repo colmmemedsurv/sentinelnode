@@ -1,17 +1,17 @@
 {
-  "timestamp_utc": "2025-12-29T07:27:00.740884+00:00",
+  "timestamp_utc": "2025-12-30T07:25:28.988329+00:00",
   "feeds": [
     {
       "url": "https://onesearch-rss.nejm.org/api/specialty/rss?context=nejm&specialty=hematology-oncology",
       "feed_title": "The New England Journal of Medicine: Search Results in Hematology/Oncology",
       "items_in_feed": 20,
-      "relevant_yes": 1
+      "relevant_yes": 0
     },
     {
       "url": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
       "feed_title": "The Lancet Oncology",
       "items_in_feed": 40,
-      "relevant_yes": 7
+      "relevant_yes": 6
     },
     {
       "url": "http://www.thelancet.com/rssfeed/lancet_current.xml",
@@ -28,7 +28,7 @@
     {
       "url": "http://www.thelancet.com/rssfeed/lanhl_current.xml",
       "feed_title": "The Lancet Healthy Longevity",
-      "items_in_feed": 10,
+      "items_in_feed": 11,
       "relevant_yes": 0
     },
     {
@@ -40,7 +40,7 @@
     {
       "url": "https://jamanetwork.com/rss/site_3/onlineFirst_67.xml",
       "feed_title": "JAMA Online First",
-      "items_in_feed": 21,
+      "items_in_feed": 22,
       "relevant_yes": 0
     },
     {
@@ -89,7 +89,7 @@
       "url": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=op",
       "feed_title": "WoltersKluwer: JCO Oncology Practice: Table of Contents",
       "items_in_feed": 239,
-      "relevant_yes": 10
+      "relevant_yes": 8
     },
     {
       "url": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=go",
@@ -101,30 +101,30 @@
       "url": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=cci",
       "feed_title": "WoltersKluwer: JCO Clinical Cancer Informatics: Table of Contents",
       "items_in_feed": 179,
-      "relevant_yes": 11
+      "relevant_yes": 8
     },
     {
       "url": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=po",
       "feed_title": "WoltersKluwer: JCO Precision Oncology: Table of Contents",
       "items_in_feed": 313,
-      "relevant_yes": 10
+      "relevant_yes": 14
     },
     {
       "url": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=oa",
       "feed_title": "WoltersKluwer: JCO Oncology Advances: Table of Contents",
       "items_in_feed": 89,
-      "relevant_yes": 6
+      "relevant_yes": 4
     },
     {
       "url": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=edbk",
       "feed_title": "WoltersKluwer: American Society of Clinical Oncology Educational Book: Table of Contents",
       "items_in_feed": 80,
-      "relevant_yes": 5
+      "relevant_yes": 3
     }
   ],
   "decisions_total": {
-    "YES": 211,
-    "NO": 1319,
-    "UNCERTAIN": 75
+    "YES": 204,
+    "NO": 1318,
+    "UNCERTAIN": 85
   }
 }
