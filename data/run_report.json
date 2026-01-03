@@ -1,11 +1,11 @@
 {
-  "timestamp_utc": "2026-01-02T07:26:24.343600+00:00",
+  "timestamp_utc": "2026-01-03T07:22:46.717070+00:00",
   "feeds": [
     {
       "url": "https://onesearch-rss.nejm.org/api/specialty/rss?context=nejm&specialty=hematology-oncology",
       "feed_title": "The New England Journal of Medicine: Search Results in Hematology/Oncology",
       "items_in_feed": 20,
-      "relevant_yes": 1
+      "relevant_yes": 0
     },
     {
       "url": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
@@ -22,7 +22,7 @@
     {
       "url": "http://www.thelancet.com/rssfeed/eclinm_current.xml",
       "feed_title": "eClinicalMedicine",
-      "items_in_feed": 2,
+      "items_in_feed": 33,
       "relevant_yes": 0
     },
     {
@@ -40,8 +40,8 @@
     {
       "url": "https://jamanetwork.com/rss/site_3/onlineFirst_67.xml",
       "feed_title": "JAMA Online First",
-      "items_in_feed": 18,
-      "relevant_yes": 0
+      "items_in_feed": 17,
+      "relevant_yes": 1
     },
     {
       "url": "https://jamanetwork.com/rss/site_159/174.xml",
@@ -52,8 +52,8 @@
     {
       "url": "https://jamanetwork.com/rss/site_159/onlineFirst_174.xml",
       "feed_title": "JAMA Oncology Online First",
-      "items_in_feed": 14,
-      "relevant_yes": 0
+      "items_in_feed": 13,
+      "relevant_yes": 2
     },
     {
       "url": "https://jamanetwork.com/rss/site_18/74.xml",
@@ -64,20 +64,20 @@
     {
       "url": "https://jamanetwork.com/rss/site_18/onlineFirst_74.xml",
       "feed_title": "JAMA Otolaryngology–Head & Neck Surgery Online First",
-      "items_in_feed": 7,
+      "items_in_feed": 8,
       "relevant_yes": 4
     },
     {
       "url": "https://rss.sciencedirect.com/publication/science/13688375",
       "feed_title": "ScienceDirect Publication: Oral Oncology",
-      "items_in_feed": 33,
-      "relevant_yes": 32
+      "items_in_feed": 34,
+      "relevant_yes": 33
     },
     {
       "url": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
       "feed_title": "Wiley: Head & Neck: Table of Contents",
       "items_in_feed": 92,
-      "relevant_yes": 78
+      "relevant_yes": 79
     },
     {
       "url": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=jco",
@@ -89,7 +89,7 @@
       "url": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=op",
       "feed_title": "WoltersKluwer: JCO Oncology Practice: Table of Contents",
       "items_in_feed": 239,
-      "relevant_yes": 10
+      "relevant_yes": 9
     },
     {
       "url": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=go",
@@ -101,30 +101,30 @@
       "url": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=cci",
       "feed_title": "WoltersKluwer: JCO Clinical Cancer Informatics: Table of Contents",
       "items_in_feed": 179,
-      "relevant_yes": 7
+      "relevant_yes": 8
     },
     {
       "url": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=po",
       "feed_title": "WoltersKluwer: JCO Precision Oncology: Table of Contents",
       "items_in_feed": 313,
-      "relevant_yes": 12
+      "relevant_yes": 11
     },
     {
       "url": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=oa",
       "feed_title": "WoltersKluwer: JCO Oncology Advances: Table of Contents",
       "items_in_feed": 89,
-      "relevant_yes": 4
+      "relevant_yes": 5
     },
     {
       "url": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=edbk",
       "feed_title": "WoltersKluwer: American Society of Clinical Oncology Educational Book: Table of Contents",
       "items_in_feed": 80,
-      "relevant_yes": 6
+      "relevant_yes": 5
     }
   ],
   "decisions_total": {
-    "YES": 205,
-    "NO": 1325,
-    "UNCERTAIN": 77
+    "YES": 208,
+    "NO": 1346,
+    "UNCERTAIN": 84
   }
 }
