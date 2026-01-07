@@ -1,5 +1,5 @@
 {
-  "timestamp_utc": "2026-01-06T07:25:51.538341+00:00",
+  "timestamp_utc": "2026-01-07T07:24:36.898177+00:00",
   "feeds": [
     {
       "url": "https://onesearch-rss.nejm.org/api/specialty/rss?context=nejm&specialty=hematology-oncology",
@@ -34,7 +34,7 @@
     {
       "url": "https://jamanetwork.com/rss/site_3/67.xml",
       "feed_title": "JAMA Current Issue",
-      "items_in_feed": 38,
+      "items_in_feed": 42,
       "relevant_yes": 1
     },
     {
@@ -77,31 +77,31 @@
       "url": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
       "feed_title": "Wiley: Head & Neck: Table of Contents",
       "items_in_feed": 92,
-      "relevant_yes": 82
+      "relevant_yes": 81
     },
     {
       "url": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=jco",
       "feed_title": "WoltersKluwer: Journal of Clinical Oncology: Table of Contents",
-      "items_in_feed": 72,
+      "items_in_feed": 74,
       "relevant_yes": 1
     },
     {
       "url": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=op",
       "feed_title": "WoltersKluwer: JCO Oncology Practice: Table of Contents",
       "items_in_feed": 239,
-      "relevant_yes": 7
+      "relevant_yes": 9
     },
     {
       "url": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=go",
       "feed_title": "WoltersKluwer: JCO Global Oncology: Table of Contents",
       "items_in_feed": 274,
-      "relevant_yes": 23
+      "relevant_yes": 26
     },
     {
       "url": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=cci",
       "feed_title": "WoltersKluwer: JCO Clinical Cancer Informatics: Table of Contents",
       "items_in_feed": 179,
-      "relevant_yes": 8
+      "relevant_yes": 10
     },
     {
       "url": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=po",
@@ -113,18 +113,18 @@
       "url": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=oa",
       "feed_title": "WoltersKluwer: JCO Oncology Advances: Table of Contents",
       "items_in_feed": 89,
-      "relevant_yes": 8
+      "relevant_yes": 4
     },
     {
       "url": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=edbk",
       "feed_title": "WoltersKluwer: American Society of Clinical Oncology Educational Book: Table of Contents",
       "items_in_feed": 80,
-      "relevant_yes": 5
+      "relevant_yes": 6
     }
   ],
   "decisions_total": {
-    "YES": 211,
-    "NO": 1344,
-    "UNCERTAIN": 83
+    "YES": 214,
+    "NO": 1352,
+    "UNCERTAIN": 78
   }
 }
