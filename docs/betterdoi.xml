@@ -4,24 +4,7 @@
 <title>Head &amp; Neck Cancer – DOI-Enriched Feed</title>
 <link>https://colmmemedsurv.github.io/sentinelnode/</link>
 <description>Curated head &amp; neck cancer literature with Crossref and PubMed enrichment.</description>
-<lastBuildDate>Thu, 08 Jan 2026 07:17:32 +0000</lastBuildDate>
-<item>
-<title>Noninferiority of One HPV Vaccine Dose to Two Doses</title>
-<link>https://www.nejm.org/doi/full/10.1056/NEJMoa2506765?rss=searchAndBrowse</link>
-<guid isPermaLink='true'>https://www.nejm.org/doi/full/10.1056/NEJMoa2506765?rss=searchAndBrowse</guid>
-<dc:creator>Aimée R. Kreimer, Carolina Porras, Danping Liu, Allan Hildesheim, Loretto J. Carvajal, Rebeca Ocampo, Byron Romero, Mitchell H. Gail, Bernal Cortes, Monica S. Sierra, Karla Coronado, Joshua Sampson, Carolina Coto, Casey L. Dagnall, Daniela Mora, Troy J. Kemp, Michael Zuniga, Ligia A. Pinto, Gloriana Barrientos, John Schussler, Yenory Estrada, Cristian Montero, Carlos Avila, Dave Ruggieri, Jean T. Cyr, Stephen Chanock, Douglas R. Lowy, John T. Schiller, Rolando Herrero</dc:creator>
-<prism:publicationName>The New England Journal of Medicine: Search Results in Hematology/Oncology</prism:publicationName>
-<prism:doi>10.1056/NEJMoa2506765</prism:doi>
-<description>Journal: The New England Journal of Medicine: Search Results in Hematology/Oncology | DOI: 10.1056/NEJMoa2506765</description>
-<content:encoded><![CDATA[
-<p><strong>Journal</strong>: The New England Journal of Medicine: Search Results in Hematology/Oncology</p>
-<p><strong>Authors</strong>: Aimée R. Kreimer, Carolina Porras, Danping Liu, Allan Hildesheim, Loretto J. Carvajal, Rebeca Ocampo, Byron Romero, Mitchell H. Gail, Bernal Cortes, Monica S. Sierra, Karla Coronado, Joshua Sampson, Carolina Coto, Casey L. Dagnall, Daniela Mora, Troy J. Kemp, Michael Zuniga, Ligia A. Pinto, Gloriana Barrientos, John Schussler, Yenory Estrada, Cristian Montero, Carlos Avila, Dave Ruggieri, Jean T. Cyr, Stephen Chanock, Douglas R. Lowy, John T. Schiller, Rolando Herrero</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1056/NEJMoa2506765'>10.1056/NEJMoa2506765</a></p>
-<hr/>
-<p><strong>Abstract</strong></p>
-<p>In this trial, one dose of an HPV vaccine was noninferior to two doses in preventing HPV type 16 or 18 infection.</p>
-]]></content:encoded>
-</item>
+<lastBuildDate>Fri, 09 Jan 2026 07:17:17 +0000</lastBuildDate>
 <item>
 <title>[Comment] De-escalation of adjuvant radiotherapy in HPV-associated oropharyngeal cancer</title>
 <link>https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(25)00726-0/fulltext?rss=yes</link>
@@ -138,18 +121,37 @@
 ]]></content:encoded>
 </item>
 <item>
-<title>Alcohol and Cancer</title>
-<link>https://jamanetwork.com/journals/jama/fullarticle/2842191</link>
-<guid isPermaLink='true'>https://jamanetwork.com/journals/jama/fullarticle/2842191</guid>
-<prism:publicationName>JAMA Current Issue</prism:publicationName>
-<prism:doi>10.1001/jama.2025.19210</prism:doi>
-<description>Journal: JAMA Current Issue | DOI: 10.1001/jama.2025.19210</description>
+<title>[Comment] Is proton therapy a new standard of care for oropharyngeal cancer?</title>
+<link>https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)02639-X/fulltext?rss=yes</link>
+<guid isPermaLink='true'>https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)02639-X/fulltext?rss=yes</guid>
+<dc:creator>Kenneth Jensen, Cai Grau</dc:creator>
+<prism:publicationName>The Lancet</prism:publicationName>
+<prism:doi>10.1016/S0140-6736(25)02639-X</prism:doi>
+<description>Journal: The Lancet | DOI: 10.1016/S0140-6736(25)02639-X</description>
 <content:encoded><![CDATA[
-<p><strong>Journal</strong>: JAMA Current Issue</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1001/jama.2025.19210'>10.1001/jama.2025.19210</a></p>
+<p><strong>Journal</strong>: The Lancet</p>
+<p><strong>Authors</strong>: Kenneth Jensen, Cai Grau</p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1016/S0140-6736(25)02639-X'>10.1016/S0140-6736(25)02639-X</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
-<p>To the Editor Dr Morford and colleagues published an astute JAMA Insights summarizing the evidence supporting the 2025 US Surgeon General’s Advisory on alcohol and cancer risk and posing important clinical recommendations. We commend the authors for compiling these data and advocating that clinicians implement alcohol use screening. We seek to bolster their clinical recommendations.</p>
+<p>The study by Steven J Frank and colleagues1 in The Lancet is the first randomised, phase 3 trial comparing intensity-modulated proton therapy (IMPT) with intensity-modulated radiotherapy (IMRT) in patients with oropharyngeal cancer. Support for the role of proton radiotherapy for head and neck cancer has previously come from dosimetric studies,2 as well as retrospective and case–control clinical reports.3–5 A study with early experience from the MD Anderson Cancer Center compared 50 patients treated with IMPT with 100 patients treated with IMRT, finding a significant reduction in acute gastrostomy tube use and severe weight loss with IMPT, but no difference in tumour control.</p>
+]]></content:encoded>
+</item>
+<item>
+<title>[Articles] Proton versus photon radiotherapy for patients with oropharyngeal cancer in the USA: a multicentre, randomised, open-label, non-inferiority phase 3 trial</title>
+<link>https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01962-2/fulltext?rss=yes</link>
+<guid isPermaLink='true'>https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01962-2/fulltext?rss=yes</guid>
+<dc:creator>Steven J Frank, Paul M Busse, J Jack Lee, David I Rosenthal, Mike Hernandez, David M Swanson, Adam S Garden, G Brandon Gunn, Samir H Patel, James W Snider, Daniel J Ma, Jason K Molitoris, Nancy Y Lee, Upendra Parvathaneni, Mark W McDonald, Noah S Kalman, Alexander Lin, Nasiruddin Mohammed, Christina Henson, Christian Hyde, Gopal K Bajaj, Sanford R Katz, Roi Dagan, William H Morrison, Jay P Reddy, C David Fuller, Shalin J Shah, Jack Phan, Gregory M Chronowski, Lauren Mayo, Erich M Sturgis, Renata Ferrarotto, Xiaorong R Zhu, Xiaodong Zhang, Li Wang, Katherine A Hutcheson, Adel K El-Naggar, Amy C Moreno, Anna Lee, Michael T Spiotto, Neil D Gross, Stephen Y Lai, Jay J Liao, Jonathan Paly, Zhongxing Liao, Robert L Foote, The University of Texas MD Anderson Cancer Center Clinical Trial Consortium</dc:creator>
+<prism:publicationName>The Lancet</prism:publicationName>
+<prism:doi>10.1016/S0140-6736(25)01962-2</prism:doi>
+<description>Journal: The Lancet | DOI: 10.1016/S0140-6736(25)01962-2</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: The Lancet</p>
+<p><strong>Authors</strong>: Steven J Frank, Paul M Busse, J Jack Lee, David I Rosenthal, Mike Hernandez, David M Swanson, Adam S Garden, G Brandon Gunn, Samir H Patel, James W Snider, Daniel J Ma, Jason K Molitoris, Nancy Y Lee, Upendra Parvathaneni, Mark W McDonald, Noah S Kalman, Alexander Lin, Nasiruddin Mohammed, Christina Henson, Christian Hyde, Gopal K Bajaj, Sanford R Katz, Roi Dagan, William H Morrison, Jay P Reddy, C David Fuller, Shalin J Shah, Jack Phan, Gregory M Chronowski, Lauren Mayo, Erich M Sturgis, Renata Ferrarotto, Xiaorong R Zhu, Xiaodong Zhang, Li Wang, Katherine A Hutcheson, Adel K El-Naggar, Amy C Moreno, Anna Lee, Michael T Spiotto, Neil D Gross, Stephen Y Lai, Jay J Liao, Jonathan Paly, Zhongxing Liao, Robert L Foote, The University of Texas MD Anderson Cancer Center Clinical Trial Consortium</p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1016/S0140-6736(25)01962-2'>10.1016/S0140-6736(25)01962-2</a></p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>IMPT showed non-inferiority to IMRT for progression-free survival, improvement in overall survival, similar disease control, and reduced high-grade toxicity relative to IMRT. Treatment-related and post-progression deaths occurred more frequently with IMRT. IMPT is a new standard-of-care treatment option for patients with oropharyngeal cancer.</p>
 ]]></content:encoded>
 </item>
 <item>
@@ -165,21 +167,6 @@
 <hr/>
 <p><strong>Abstract</strong></p>
 <p>To the Editor We read with interest the results of the phase 3 randomized clinical trial by Guo et al that investigated the important question if induction chemotherapy (IC) was superior to adjuvant chemotherapy (AC) when added to a backbone of concurrent chemoradiotherapy (CCRT) in patients with N2-3 nasopharyngeal carcinoma (NPC). For IC, the investigators used the triplet combination of paclitaxel-cisplatin-fluorouracil (TPF), whereas doublet cisplatin-fluorouracil (PF) was used for AC. The trial was powered to detect a 12% difference in progression-free survival (PFS) in favor of IC, and enrolled 324 patients, with 162 patients in each group. However, this was a negative trial with comparable 3-year PFS between IC plus CCRT and CCRT plus AC, contrasting the results of the NPC-0501 trial by the Hong Kong NPC study group, which showed an improvement for PFS in favor of IC, albeit subtle differences exist between both trials. Intriguingly, in the present study, IC was associated with poorer local control compared with AC.</p>
-]]></content:encoded>
-</item>
-<item>
-<title>A Woman With Hypermetabolic Lesions in a Leopardlike Pattern</title>
-<link>https://jamanetwork.com/journals/jamaoncology/fullarticle/2843209</link>
-<guid isPermaLink='true'>https://jamanetwork.com/journals/jamaoncology/fullarticle/2843209</guid>
-<prism:publicationName>JAMA Oncology Online First</prism:publicationName>
-<prism:doi>10.1001/jamaoncol.2025.5766</prism:doi>
-<description>Journal: JAMA Oncology Online First | DOI: 10.1001/jamaoncol.2025.5766</description>
-<content:encoded><![CDATA[
-<p><strong>Journal</strong>: JAMA Oncology Online First</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1001/jamaoncol.2025.5766'>10.1001/jamaoncol.2025.5766</a></p>
-<hr/>
-<p><strong>Abstract</strong></p>
-<p>A 52-year-old woman had presented with persistent inflammatory edema of the lower limb and a history of squamous cell carcinoma. What is your diagnosis?</p>
 ]]></content:encoded>
 </item>
 <item>
@@ -199,272 +186,242 @@
 </item>
 <item>
 <title>JAMA Otolaryngology–Head &amp;amp; Neck Surgery</title>
-<link>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2842420</link>
-<guid isPermaLink='true'>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2842420</guid>
+<link>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2843570</link>
+<guid isPermaLink='true'>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2843570</guid>
 <prism:publicationName>JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue</prism:publicationName>
-<prism:doi>10.1001/jamaoto.2024.3469</prism:doi>
-<description>Journal: JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue | DOI: 10.1001/jamaoto.2024.3469</description>
+<prism:doi>10.1001/jamaoto.2025.3256</prism:doi>
+<description>Journal: JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue | DOI: 10.1001/jamaoto.2025.3256</description>
 <content:encoded><![CDATA[
 <p><strong>Journal</strong>: JAMA Otolaryngology–Head & Neck Surgery Current Issue</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1001/jamaoto.2024.3469'>10.1001/jamaoto.2024.3469</a></p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1001/jamaoto.2025.3256'>10.1001/jamaoto.2025.3256</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
 <p>Mission Statement: To advance the patient-centered, evidence-based practice of otolaryngology–head and neck surgery by publishing scientifically rigorous and innovative research, reviews, and commentary. Our journal serves as a vital resource for clinicians, researchers, educators, and trainees by providing high-quality, peer-reviewed content focused on improving the understanding and treatment of ear, nose, and throat conditions. We are dedicated to fostering dialogue and action on critical issues in otolaryngology, including the education and training of health care professionals, quality improvement, and the ethics and economics of equitable health care delivery.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title>Mind, Machine, and Medicine</title>
-<link>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2840474</link>
-<guid isPermaLink='true'>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2840474</guid>
+<title>A 13-Year-Old Male With Parotid Region Mass</title>
+<link>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2841511</link>
+<guid isPermaLink='true'>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2841511</guid>
 <prism:publicationName>JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue</prism:publicationName>
-<prism:doi>10.1001/jamaoto.2025.4108</prism:doi>
-<description>Journal: JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue | DOI: 10.1001/jamaoto.2025.4108</description>
+<prism:doi>10.1001/jamaoto.2025.3895</prism:doi>
+<description>Journal: JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue | DOI: 10.1001/jamaoto.2025.3895</description>
 <content:encoded><![CDATA[
 <p><strong>Journal</strong>: JAMA Otolaryngology–Head & Neck Surgery Current Issue</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1001/jamaoto.2025.4108'>10.1001/jamaoto.2025.4108</a></p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1001/jamaoto.2025.3895'>10.1001/jamaoto.2025.3895</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
-<p>This Viewpoint summarizes the presidential address of the president of the American Head and Neck Society.</p>
+<p>A 13-year-old male presented with a 7-month history of a painless, progressively enlarging mass in the right parotid region. What is your diagnosis?</p>
 ]]></content:encoded>
 </item>
 <item>
-<title>Multiomic Selection of Cancer-Testis Antigens as Precision Immuno-oncologic Targets in Head and Neck Cancer</title>
-<link>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2840416</link>
-<guid isPermaLink='true'>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2840416</guid>
+<title>Errors in Specificity/Sensitivity Labels in Text, Table 2, and Figure 2</title>
+<link>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2841510</link>
+<guid isPermaLink='true'>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2841510</guid>
 <prism:publicationName>JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue</prism:publicationName>
-<prism:doi>10.1001/jamaoto.2025.3563</prism:doi>
-<description>Journal: JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue | DOI: 10.1001/jamaoto.2025.3563</description>
+<prism:doi>10.1001/jamaoto.2025.4384</prism:doi>
+<description>Journal: JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue | DOI: 10.1001/jamaoto.2025.4384</description>
 <content:encoded><![CDATA[
 <p><strong>Journal</strong>: JAMA Otolaryngology–Head & Neck Surgery Current Issue</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1001/jamaoto.2025.3563'>10.1001/jamaoto.2025.3563</a></p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1001/jamaoto.2025.4384'>10.1001/jamaoto.2025.4384</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
-<p>This cross-sectional study evaluates specific cancer-testis antigens as potential precision immuno-oncologic targets in both previously untreated (de novo) and recurrent head and neck squamous cell carcinoma tumors.</p>
+<p>The Original Investigation titled “Updated Thresholds of Basal Calcitonin Level and Extent of Lymph Node Metastasis in Initially Treated Medullary Thyroid Cancer,” published online on June 26, 2025, and in the August 2025 issue, was corrected to fix errors in the specificity/sensitivity labels in Table 2, Figure 2, and related text. In some places, the words “specificity” and “sensitivity” had been inadvertently switched. This article was corrected online.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title>Are We Training Too Many Head and Neck Fellows?</title>
-<link>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2840414</link>
-<guid isPermaLink='true'>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2840414</guid>
+<title>Updated Calcitonin Thresholds More Accurately Predict Lymph Node Metastasis?</title>
+<link>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2841505</link>
+<guid isPermaLink='true'>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2841505</guid>
 <prism:publicationName>JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue</prism:publicationName>
-<prism:doi>10.1001/jamaoto.2025.3471</prism:doi>
-<description>Journal: JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue | DOI: 10.1001/jamaoto.2025.3471</description>
+<prism:doi>10.1001/jamaoto.2025.4013</prism:doi>
+<description>Journal: JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue | DOI: 10.1001/jamaoto.2025.4013</description>
 <content:encoded><![CDATA[
 <p><strong>Journal</strong>: JAMA Otolaryngology–Head & Neck Surgery Current Issue</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1001/jamaoto.2025.3471'>10.1001/jamaoto.2025.3471</a></p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1001/jamaoto.2025.4013'>10.1001/jamaoto.2025.4013</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
-<p>This Viewpoint discusses the purpose of head and neck fellowship and what the correct number of practicing head and neck surgeons is.</p>
+<p>To the Editor I read with great interest the recent study by Du et al, “Updated Thresholds of Basal Calcitonin Level and Extent of Lymph Node Metastasis in Initially Treated Medullary Thyroid Cancer,” and the accompanying Invited Commentary. However, the results reported in Table 2 appear internally inconsistent, possibly due to transposing of the sensitivity and specificity columns for American Thyroid Association (ATA) serum calcitonin thresholds of 20, 50, and 500 pg/mL (to convert to picomoles per liter, multiply by 0.292); however, for 200 pg/mL, they seem correct. The ATA thresholds were originally chosen to minimize the false negative rate. In this context, the reported very low sensitivity for the 50 pg/mL cutoff—implying a very high false negative rate—is implausible, as is the correspondingly very high specificity; the same applies for the cutoff values of 50 and 500 pg/mL.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title>Reimbursement for Thyroid Surgery and Potential Solutions</title>
-<link>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2840186</link>
-<guid isPermaLink='true'>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2840186</guid>
+<title>Updated Calcitonin Thresholds More Accurately Predict Lymph Node Metastasis?—Reply</title>
+<link>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2841504</link>
+<guid isPermaLink='true'>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2841504</guid>
 <prism:publicationName>JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue</prism:publicationName>
-<prism:doi>10.1001/jamaoto.2025.3696</prism:doi>
-<description>Journal: JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue | DOI: 10.1001/jamaoto.2025.3696</description>
+<prism:doi>10.1001/jamaoto.2025.4010</prism:doi>
+<description>Journal: JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue | DOI: 10.1001/jamaoto.2025.4010</description>
 <content:encoded><![CDATA[
 <p><strong>Journal</strong>: JAMA Otolaryngology–Head & Neck Surgery Current Issue</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1001/jamaoto.2025.3696'>10.1001/jamaoto.2025.3696</a></p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1001/jamaoto.2025.4010'>10.1001/jamaoto.2025.4010</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
-<p>This economic evaluation characterizes trends in Medicare reimbursement for thyroid surgery and provides evidence for future discussions on payment reforms.</p>
+<p>In Reply We thank Colli for his thoughtful comments on our study. We would like to provide a detailed clarification to address what we believe a misunderstanding regarding our updated thresholds. First, we fully agree that the ATA thresholds seek to minimize missed LNMs by adopting very low preoperative calcitonin cutoffs. However, this inevitably leads to an extremely high rate of overtreatment, resulting in unnecessary complications and surgical morbidity. For example, under the current cutoffs, patients newly diagnosed with medullary thyroid cancer and with preoperative calcitonin greater than 20 pg/mL would be considered for lateral neck dissection. In our data, patients with calcitonin levels of 20 to 50 pg/mL had 5-year structural recurrence-free survival rates of 92.1% and 100% in the training and validation cohorts, respectively, with no recurrences observed in the validation cohort, comparable to 92.7% and 93.0% in the 241.9 to 693.9 pg/mL group. Thus, prophylactic neck dissection in patients with calcitonin levels of 20 to 50 pg/mL would likely lead to substantial overtreatment.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title>Contralateral Tonsil in p16-Positive Tonsil Squamous Cell Carcinoma</title>
-<link>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2840185</link>
-<guid isPermaLink='true'>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2840185</guid>
+<title>Error in the Strengths and Limitations Section</title>
+<link>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2841294</link>
+<guid isPermaLink='true'>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2841294</guid>
 <prism:publicationName>JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue</prism:publicationName>
-<prism:doi>10.1001/jamaoto.2025.2410</prism:doi>
-<description>Journal: JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue | DOI: 10.1001/jamaoto.2025.2410</description>
+<prism:doi>10.1001/jamaoto.2025.4240</prism:doi>
+<description>Journal: JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue | DOI: 10.1001/jamaoto.2025.4240</description>
 <content:encoded><![CDATA[
 <p><strong>Journal</strong>: JAMA Otolaryngology–Head & Neck Surgery Current Issue</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1001/jamaoto.2025.2410'>10.1001/jamaoto.2025.2410</a></p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1001/jamaoto.2025.4240'>10.1001/jamaoto.2025.4240</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
-<p>This Viewpoint examines current surgical guidelines and emerging evidence regarding the optimal treatment of patients with p16-positive oropharyngeal squamous cell carcinoma.</p>
+<p>In the Original Investigation titled “Surgeon-Performed Transoral Ultrasonography for Detection and Staging of Oropharyngeal Cancers,” published online on July 17, 2025, and in the September 2025 issue, there was an error in the Strengths and Limitations section regarding magnetic resonance imaging (MRI) results. Where it previously read “…MRI results were available to ensure unbiased ultrasonography result interpretation,” it now correctly reads that these MRI results were unavailable. This article was corrected online.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title>Improving Palliative Care for Patients With Head and Neck Cancer</title>
-<link>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2838819</link>
-<guid isPermaLink='true'>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2838819</guid>
+<title>Oral Steroids for Postthyroidectomy Unilateral Vocal Fold Paralysis</title>
+<link>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2841292</link>
+<guid isPermaLink='true'>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2841292</guid>
 <prism:publicationName>JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue</prism:publicationName>
-<prism:doi>10.1001/jamaoto.2025.2688</prism:doi>
-<description>Journal: JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue | DOI: 10.1001/jamaoto.2025.2688</description>
+<prism:doi>10.1001/jamaoto.2025.3874</prism:doi>
+<description>Journal: JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue | DOI: 10.1001/jamaoto.2025.3874</description>
 <content:encoded><![CDATA[
 <p><strong>Journal</strong>: JAMA Otolaryngology–Head & Neck Surgery Current Issue</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1001/jamaoto.2025.2688'>10.1001/jamaoto.2025.2688</a></p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1001/jamaoto.2025.3874'>10.1001/jamaoto.2025.3874</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
-<p>In this issue of JAMA Otolaryngology–Head and Neck Surgery, Fu et al used data from the Ontario Cancer Registry to evaluate palliative care (PC) use in 11 135 patients with head and neck cancer (HNC) during their last year of life. They found that PC was utilized in 90% of patients and was associated with increased monthly costs at the end of life, a greater number of emergency department visits and hospital admissions, and a lower likelihood of dying at home compared to non-PC recipients. The majority of PC was received in the inpatient setting and was initiated in the last 6 months of life. Gastrostomy and/or tracheostomy tube placement occurred in 11% of patients in the last year of life and was associated with increased costs that were partially mitigated by early (&gt;6 months before death) PC involvement. The authors conclude that early PC involvement may attenuate the costs associated with tracheostomy and gastrostomy tube use in the last year of life but that it does not reduce the use of aggressive hospital-based care or facilitate home deaths. These findings highlight the high symptom burden associated with HNC end-of-life care and demonstrate gaps in the current delivery of PC to this population.</p>
+<p>To the Editor We read the randomized clinical trial by Carvajal-Alegria et al with great interest. The authors are to be commended for conducting a rigorous placebo-controlled trial on the use of oral corticosteroids for unilateral vocal fold paralysis (UVFP) following thyroid surgery. While their findings suggest no benefit on vocal fold remobilization, we believe this conclusion warrants discussion regarding 4 critical aspects: the therapeutic window, injury-specific mechanisms, patient-centered end points, and the potential of multimodal therapy.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title>Palliative Care With Tube Use and End-of-Life Quality and Costs in Head and Neck Cancer</title>
-<link>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2838814</link>
-<guid isPermaLink='true'>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2838814</guid>
+<title>Oral Steroids for Postthyroidectomy Unilateral Vocal Fold Paralysis</title>
+<link>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2841291</link>
+<guid isPermaLink='true'>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2841291</guid>
 <prism:publicationName>JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue</prism:publicationName>
-<prism:doi>10.1001/jamaoto.2025.2687</prism:doi>
-<description>Journal: JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue | DOI: 10.1001/jamaoto.2025.2687</description>
+<prism:doi>10.1001/jamaoto.2025.3880</prism:doi>
+<description>Journal: JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue | DOI: 10.1001/jamaoto.2025.3880</description>
 <content:encoded><![CDATA[
 <p><strong>Journal</strong>: JAMA Otolaryngology–Head & Neck Surgery Current Issue</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1001/jamaoto.2025.2687'>10.1001/jamaoto.2025.2687</a></p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1001/jamaoto.2025.3880'>10.1001/jamaoto.2025.3880</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
-<p>This cohort study assesses the association of palliative care and tracheostomy or gastrostomy tubes with end-of-life costs among patients with head and neck cancer during the last year of life.</p>
+<p>To the Editor Unilateral postoperative vocal cord paralysis is a rare (3.5%) complication that is typically temporary. It is frequently caused by neurapraxia of the recurrent laryngeal nerve as a result of manipulation, traction, or inflammation during surgery. Glucocorticoids have demonstrated clinically significant improvement in cases of neurapraxia with facial paralysis.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title>Barriers and Timely Postoperative Radiation Therapy in Head and Neck Cancer</title>
-<link>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2838772</link>
-<guid isPermaLink='true'>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2838772</guid>
+<title>Caution Comparing Transoral Ultrasonography With Postbiopsy Magnetic Resonance Imaging—Reply</title>
+<link>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2841290</link>
+<guid isPermaLink='true'>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2841290</guid>
 <prism:publicationName>JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue</prism:publicationName>
-<prism:doi>10.1001/jamaoto.2025.2824</prism:doi>
-<description>Journal: JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue | DOI: 10.1001/jamaoto.2025.2824</description>
+<prism:doi>10.1001/jamaoto.2025.3785</prism:doi>
+<description>Journal: JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue | DOI: 10.1001/jamaoto.2025.3785</description>
 <content:encoded><![CDATA[
 <p><strong>Journal</strong>: JAMA Otolaryngology–Head & Neck Surgery Current Issue</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1001/jamaoto.2025.2824'>10.1001/jamaoto.2025.2824</a></p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1001/jamaoto.2025.3785'>10.1001/jamaoto.2025.3785</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
-<p>This cohort study investigates potential barriers to timely postoperative radiation therapy, defined as initiating radiation care within 6 weeks of surgery.</p>
+<p>In Reply We appreciate Guenette’s interest in our recent article on the use of surgeon-performed transoral ultrasonography for the diagnostic workup of oropharyngeal cancers. We apologize that there has been an error in the text (for which a correction note has been published), which may have given the impression that magnetic resonance imaging (MRI) results were known when transoral ultrasonography was performed. To clarify, the transoral ultrasonography was performed as an extension of the clinical examination during the patient’s first visit to the outpatient cancer clinic. MRI was performed afterwards; therefore, the transoral ultrasonography was blinded to the MRI and biopsy results. Our exclusion criteria also stated that any participants with available cross-sectional imaging at their first visit were not included.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title>Preexisting Psychiatric Risk Factors and Any and Long-Term Opioid Use in Head and Neck Cancer</title>
-<link>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2838194</link>
-<guid isPermaLink='true'>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2838194</guid>
+<title>Oral Steroids for Postthyroidectomy Unilateral Vocal Fold Paralysis—Reply</title>
+<link>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2841289</link>
+<guid isPermaLink='true'>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2841289</guid>
 <prism:publicationName>JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue</prism:publicationName>
-<prism:doi>10.1001/jamaoto.2025.2649</prism:doi>
-<description>Journal: JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue | DOI: 10.1001/jamaoto.2025.2649</description>
+<prism:doi>10.1001/jamaoto.2025.3877</prism:doi>
+<description>Journal: JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue | DOI: 10.1001/jamaoto.2025.3877</description>
 <content:encoded><![CDATA[
 <p><strong>Journal</strong>: JAMA Otolaryngology–Head & Neck Surgery Current Issue</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1001/jamaoto.2025.2649'>10.1001/jamaoto.2025.2649</a></p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1001/jamaoto.2025.3877'>10.1001/jamaoto.2025.3877</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
-<p>This cohort study evaluates whether preexisting psychiatric risk factors are associated with any opioid prescriptions and long-term opioid therapy in patients with head and neck cancer.</p>
+<p>In Reply We thank Rodríguez Cano and Sanabria as well as Huang et al for their insightful comments on our randomized clinical trial that assessed oral corticosteroids in unilateral vocal fold paralysis after thyroid or parathyroid surgery. Their observations allow us to expand on several methodological and clinical aspects of this pilot study.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title>Unilateral vs Bilateral Transoral Surgery for Tonsil SCCa</title>
-<link>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2837623</link>
-<guid isPermaLink='true'>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2837623</guid>
+<title>Outcome Prediction in Older Adults With Head and Neck Cancer Undergoing Chemoradiation</title>
+<link>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2841288</link>
+<guid isPermaLink='true'>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2841288</guid>
 <prism:publicationName>JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue</prism:publicationName>
-<prism:doi>10.1001/jamaoto.2025.2235</prism:doi>
-<description>Journal: JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue | DOI: 10.1001/jamaoto.2025.2235</description>
+<prism:doi>10.1001/jamaoto.2025.3840</prism:doi>
+<description>Journal: JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue | DOI: 10.1001/jamaoto.2025.3840</description>
 <content:encoded><![CDATA[
 <p><strong>Journal</strong>: JAMA Otolaryngology–Head & Neck Surgery Current Issue</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1001/jamaoto.2025.2235'>10.1001/jamaoto.2025.2235</a></p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1001/jamaoto.2025.3840'>10.1001/jamaoto.2025.3840</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
-<p>This systematic review and meta-analysis assesses the second primary tumor rates, oncologic survival, functional outcomes, and complications between bilateral and unilateral transoral surgery for tonsillar squamous cell carcinoma (SCCa).</p>
+<p>This cohort study develops and externally validates artificial neural networks for overall survival and progression-free survival in older adults with head and neck squamous cell carcinoma undergoing definitive chemoradiation.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title>Emerging Role of Pathologic Response in Head and Neck Squamous Cell Carcinoma Immunotherapy</title>
-<link>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2837004</link>
-<guid isPermaLink='true'>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2837004</guid>
+<title>Gingival Swelling and Frequent Epistaxis in an Older Woman</title>
+<link>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2840478</link>
+<guid isPermaLink='true'>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2840478</guid>
 <prism:publicationName>JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue</prism:publicationName>
-<prism:doi>10.1001/jamaoto.2025.2111</prism:doi>
-<description>Journal: JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue | DOI: 10.1001/jamaoto.2025.2111</description>
+<prism:doi>10.1001/jamaoto.2025.3587</prism:doi>
+<description>Journal: JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue | DOI: 10.1001/jamaoto.2025.3587</description>
 <content:encoded><![CDATA[
 <p><strong>Journal</strong>: JAMA Otolaryngology–Head & Neck Surgery Current Issue</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1001/jamaoto.2025.2111'>10.1001/jamaoto.2025.2111</a></p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1001/jamaoto.2025.3587'>10.1001/jamaoto.2025.3587</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
-<p>Immune checkpoint inhibitors (ICIs) have transformed the treatment of recurrent and metastatic head and neck squamous cell carcinoma (HNSCC), but combination studies in the definitive disease setting with concurrent chemoradiation have been disappointing. New results from the KEYNOTE-689 phase 3 trial suggest the addition of neoadjuvant followed by adjuvant pembrolizumab in the perioperative setting may represent a new standard of care for resectable locally advanced HNSCC. Pembrolizumab improved event-free survival (EFS) by a median of 21.4 months compared to standard therapy. This trial also established safety in the surgical setting; similar proportions of patients in both the treatment and control arms successfully completed surgery. These findings may transform the treatment landscape of resectable locally advanced HNSCC, where current 3-year progression-free survival remains between 49% and 64%. While the contribution of components, neoadjuvant and/or adjuvant, in KEYNOTE-689 remains undefined, identifying which patients are most likely to benefit from ICI therapy in the definitive setting is an important goal.</p>
+<p>A 69-year-old woman was referred due to widespread gingival swelling, which had been worsening over the preceding 3 months and was unresponsive to antibiotic treatment. Gingival biopsy showed areas of chronic inflammation, microabscess foci, and pseudoepitheliomatous hyperplasia of the covering epithelium. What is your diagnosis?</p>
 ]]></content:encoded>
 </item>
 <item>
-<title>Pathologic Treatment Effect and Survival in HPV-Negative HNSCC Following Neoadjuvant Nivolumab</title>
-<link>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2837002</link>
-<guid isPermaLink='true'>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2837002</guid>
+<title>Protecting the Contralateral Palatine Tonsil</title>
+<link>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2840477</link>
+<guid isPermaLink='true'>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2840477</guid>
 <prism:publicationName>JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue</prism:publicationName>
-<prism:doi>10.1001/jamaoto.2025.1707</prism:doi>
-<description>Journal: JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue | DOI: 10.1001/jamaoto.2025.1707</description>
+<prism:doi>10.1001/jamaoto.2025.3318</prism:doi>
+<description>Journal: JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue | DOI: 10.1001/jamaoto.2025.3318</description>
 <content:encoded><![CDATA[
 <p><strong>Journal</strong>: JAMA Otolaryngology–Head & Neck Surgery Current Issue</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1001/jamaoto.2025.1707'>10.1001/jamaoto.2025.1707</a></p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1001/jamaoto.2025.3318'>10.1001/jamaoto.2025.3318</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
-<p>This cohort study sets out to establish a clinically significant pathologic treatment effect threshold to define pathologic responders and assess related survival outcomes in patients with head and neck squamous cell carcinoma (HNSCC) undergoing neoadjuvant treatment with immune checkpoint inhibitors.</p>
+<p>To the Editor We applaud Peterson et al for revisiting the question of whether to routinely remove the nondiseased tonsil during transoral robotic surgery (TORS) for human papillomavirus (HPV)–associated palatine tonsil squamous cell carcinoma (SCC). Their well-executed retrospective analysis demonstrates clinically meaningful increases in hemorrhage, 30-day emergency department visits/hospitalizations, and hospital stays after bilateral compared with unilateral palatine tonsillectomy, with similar rates of second primary diagnoses and equivalent survival outcomes. Although previous literature has endorsed routine removal of the contralateral palatine tonsil as standard of care to prevent the emergence of second primary tumors, valid counterpoints to this argument should be considered.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title>Patients With Head and Neck Cancer and High Health Care Costs</title>
-<link>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2836569</link>
-<guid isPermaLink='true'>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2836569</guid>
+<title>A Rare Presentation of a Sinonasal Tumor</title>
+<link>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2840476</link>
+<guid isPermaLink='true'>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2840476</guid>
 <prism:publicationName>JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue</prism:publicationName>
-<prism:doi>10.1001/jamaoto.2025.1976</prism:doi>
-<description>Journal: JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue | DOI: 10.1001/jamaoto.2025.1976</description>
+<prism:doi>10.1001/jamaoto.2025.3715</prism:doi>
+<description>Journal: JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue | DOI: 10.1001/jamaoto.2025.3715</description>
 <content:encoded><![CDATA[
 <p><strong>Journal</strong>: JAMA Otolaryngology–Head & Neck Surgery Current Issue</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1001/jamaoto.2025.1976'>10.1001/jamaoto.2025.1976</a></p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1001/jamaoto.2025.3715'>10.1001/jamaoto.2025.3715</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
-<p>This population-based, retrospective cohort study characterizes patients with head and neck cancer whose care was associated with the highest health care costs during their first year after diagnosis compared with patients with low or medium care costs.</p>
+<p>This case report describes a 36-year-old patient with severe hyponatremia.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title>Unilateral vs Bilateral Transoral Robotic Surgery for HPV-Positive Tonsillar Squamous Cell Carcinoma</title>
-<link>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2836483</link>
-<guid isPermaLink='true'>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2836483</guid>
+<title>Oral Nicotine Pouches—Concerns for Otolaryngologists</title>
+<link>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2840413</link>
+<guid isPermaLink='true'>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2840413</guid>
 <prism:publicationName>JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue</prism:publicationName>
-<prism:doi>10.1001/jamaoto.2025.1833</prism:doi>
-<description>Journal: JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue | DOI: 10.1001/jamaoto.2025.1833</description>
+<prism:doi>10.1001/jamaoto.2025.3566</prism:doi>
+<description>Journal: JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue | DOI: 10.1001/jamaoto.2025.3566</description>
 <content:encoded><![CDATA[
 <p><strong>Journal</strong>: JAMA Otolaryngology–Head & Neck Surgery Current Issue</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1001/jamaoto.2025.1833'>10.1001/jamaoto.2025.1833</a></p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1001/jamaoto.2025.3566'>10.1001/jamaoto.2025.3566</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
-<p>This cohort study assesses postoperative complications, functional outcomes, contralateral tonsil second primary rates, and survival between unilateral and bilateral transoral robotic surgery for tonsillar human papillomavirus (HPV)–related oropharyngeal squamous cell carcinoma.</p>
+<p>This Viewpoint discusses characteristics of oral nicotine pouches to highlight their potential to present concerns for otolaryngologists.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title>Considerations and Cautions in Postoperative Circulating Tumor HPV DNA Kinetics</title>
-<link>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2834216</link>
-<guid isPermaLink='true'>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2834216</guid>
+<title>AI Model for Imaging-Based Extranodal Extension Detection in Human HPV-Positive Oropharyngeal Cancer</title>
+<link>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2839507</link>
+<guid isPermaLink='true'>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2839507</guid>
 <prism:publicationName>JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue</prism:publicationName>
-<prism:doi>10.1001/jamaoto.2025.1612</prism:doi>
-<description>Journal: JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue | DOI: 10.1001/jamaoto.2025.1612</description>
+<prism:doi>10.1001/jamaoto.2025.3225</prism:doi>
+<description>Journal: JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue | DOI: 10.1001/jamaoto.2025.3225</description>
 <content:encoded><![CDATA[
 <p><strong>Journal</strong>: JAMA Otolaryngology–Head & Neck Surgery Current Issue</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1001/jamaoto.2025.1612'>10.1001/jamaoto.2025.1612</a></p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1001/jamaoto.2025.3225'>10.1001/jamaoto.2025.3225</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
-<p>Human papillomavirus (HPV)–associated oropharyngeal squamous cell carcinoma (OPSCC) is a rapidly evolving field in which HPV circulating tumor  DNA (ctDNA) has emerged as a promising biomarker for cancer response and minimal residual disease (MRD) detection. In a study published in JAMA Otolaryngology-Head &amp; Neck Surgery, Yin et al investigate the kinetics of postoperative HPV ctDNA in a cohort of patients undergoing primary surgery for HPV-OPSCC. In this prospective study of 84 patients, 57 (82.6%) had detectable pretreatment samples. Of those, 35 patients had blood draws at both specified time points: postoperative day (POD) 1 to 2 and postoperative week (POW) 2. Similar to previous studies, these data support a correlation between preoperative HPV ctDNA levels and tumor stage, size of nodal disease, and presence of extranodal extension. The crux of this recent work, however, focuses on the positive and negative predictive values in addition to specific timing considerations of postoperative circulating tumor DNA detectability. Of 35 patients with complete blood draws, 16 (45.7%) remained detectable at POD 1 to 2; however of these, only 3 continued to be detectable at POW 2. These data yield a negative predictive value of 95% (95% CI, 74%-100%) and a positive predictive value of 19% (95% CI, 4%-46%), highlighting the superior reliability of the 2-week time point for MRD assessment. The authors propose an algorithm whereby patients with detectable samples on POD 1 to 2 undergo repeat testing at POW 2 if being used to guide adjuvant decisions. This 2-step approach balances timely risk stratification with avoidance of overtreatment, recognizing that adjuvant therapy planning requires a lead time of up to 6 weeks for multidisciplinary coordination. Of note, use of MRD for adjuvant decisions is currently restricted to clinical trials as this is not yet standard of care.</p>
-]]></content:encoded>
-</item>
-<item>
-<title>Postoperative ctHPVDNA Kinetics in Patients With HPV-Related Oropharyngeal Cancer</title>
-<link>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2834215</link>
-<guid isPermaLink='true'>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2834215</guid>
-<prism:publicationName>JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue</prism:publicationName>
-<prism:doi>10.1001/jamaoto.2025.1606</prism:doi>
-<description>Journal: JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue | DOI: 10.1001/jamaoto.2025.1606</description>
-<content:encoded><![CDATA[
-<p><strong>Journal</strong>: JAMA Otolaryngology–Head & Neck Surgery Current Issue</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1001/jamaoto.2025.1606'>10.1001/jamaoto.2025.1606</a></p>
-<hr/>
-<p><strong>Abstract</strong></p>
-<p>This cohort study investigates the early postoperative kinetics of circulating tumor human papillomavirus DNA (ctHPVDNA) in patients with HPV-associated oropharyngeal squamous cell carcinoma.</p>
-]]></content:encoded>
-</item>
-<item>
-<title>Efficacy of a Brief Cognitive Behavioral Treatment Across Body Image Distress Domains</title>
-<link>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2833816</link>
-<guid isPermaLink='true'>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2833816</guid>
-<prism:publicationName>JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue</prism:publicationName>
-<prism:doi>10.1001/jamaoto.2025.0965</prism:doi>
-<description>Journal: JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue | DOI: 10.1001/jamaoto.2025.0965</description>
-<content:encoded><![CDATA[
-<p><strong>Journal</strong>: JAMA Otolaryngology–Head & Neck Surgery Current Issue</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1001/jamaoto.2025.0965'>10.1001/jamaoto.2025.0965</a></p>
-<hr/>
-<p><strong>Abstract</strong></p>
-<p>This secondary analysis of a randomized clinical trial evaluates whether a brief, tailored cognitive behavioral treatment program is effective across multiple domains of head and neck cancer–related body image distress.</p>
+<p>This cohort study develops an artificial intelligence–driven pipeline for classification of lymph node segmentation and imaging-based extranodal extension using pretreatment computed tomography for prognoses in human papilloma virus–positive oropharyngeal cancer.</p>
 ]]></content:encoded>
 </item>
 <item>
@@ -513,21 +470,6 @@
 ]]></content:encoded>
 </item>
 <item>
-<title>Patient-Reported Outcomes Across Treatment Strategies in Papillary Thyroid Microcarcinoma</title>
-<link>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2842670</link>
-<guid isPermaLink='true'>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2842670</guid>
-<prism:publicationName>JAMA Otolaryngology–Head &amp; Neck Surgery Online First</prism:publicationName>
-<prism:doi>10.1001/jamaoto.2025.4670</prism:doi>
-<description>Journal: JAMA Otolaryngology–Head &amp; Neck Surgery Online First | DOI: 10.1001/jamaoto.2025.4670</description>
-<content:encoded><![CDATA[
-<p><strong>Journal</strong>: JAMA Otolaryngology–Head & Neck Surgery Online First</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1001/jamaoto.2025.4670'>10.1001/jamaoto.2025.4670</a></p>
-<hr/>
-<p><strong>Abstract</strong></p>
-<p>This systematic review and meta-analysis explores active surveillance vs surgery or thermal ablation on patient-reported health-related quality of life outcomes in studies in patients with papillary thyroid microcarcinoma.</p>
-]]></content:encoded>
-</item>
-<item>
 <title>Harnessing &lt;em&gt;TP53&lt;/em&gt; mutational status to enhance prognostic precision and therapeutic effectiveness in head and neck squamous cell carcinoma</title>
 <link>https://www.sciencedirect.com/science/article/pii/S136883752500675X?dgcid=rss_sd_all</link>
 <guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S136883752500675X?dgcid=rss_sd_all</guid>
@@ -538,6 +480,19 @@
 <hr/>
 <p><strong>Abstract</strong></p>
 <p><p>Publication date: February 2026</p><p><b>Source:</b> Oral Oncology, Volume 173</p><p>Author(s): Angeliki Margoni, Kostas A. Papavassiliou, Athanasios G. Papavassiliou</p></p>
+]]></content:encoded>
+</item>
+<item>
+<title>Real-world effectiveness and healthcare utilization of nivolumab for advanced head and neck cancer: A real-world population-based descriptive study</title>
+<link>https://www.sciencedirect.com/science/article/pii/S1368837526000047?dgcid=rss_sd_all</link>
+<guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837526000047?dgcid=rss_sd_all</guid>
+<prism:publicationName>ScienceDirect Publication: Oral Oncology</prism:publicationName>
+<description>Journal: ScienceDirect Publication: Oral Oncology | DOI: </description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: ScienceDirect Publication: Oral Oncology</p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p><p>Publication date: February 2026</p><p><b>Source:</b> Oral Oncology, Volume 173</p><p>Author(s): Wei Fang Dai, Lena Nguyen, Ning Liu, Kelvin KW Chan</p></p>
 ]]></content:encoded>
 </item>
 <item>
@@ -980,6 +935,41 @@
 <hr/>
 <p><strong>Abstract</strong></p>
 <p><p>Publication date: January 2026</p><p><b>Source:</b> Oral Oncology, Volume 172</p><p>Author(s): Francesco Chiari, Andrea Luigi Camillo Carobbio, Marco Ferrari, Piero Nicolai, Claudio Donadio Caporale, Pierre Guarino</p></p>
+]]></content:encoded>
+</item>
+<item>
+<title>Intraoperative Molecular Imaging Can Detect Large Nerve Perineural Invasion: A Case Report</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70160?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70160?af=R</guid>
+<dc:creator>Carleigh R. Burns, 
+Aviva S. Mattingly, 
+Kim Ely, 
+Andreja Radevic, 
+Nicole Meeks, 
+Sydea Maria Ahmad Zaidi, 
+Brandee Brown, 
+Georgii Vasiukov, 
+Michael Topf, 
+Eben Rosenthal</dc:creator>
+<prism:publicationName>Wiley: Head &amp; Neck: Table of Contents</prism:publicationName>
+<prism:doi>10.1002/hed.70160</prism:doi>
+<description>Journal: Wiley: Head &amp; Neck: Table of Contents | DOI: 10.1002/hed.70160</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: Wiley: Head & Neck: Table of Contents</p>
+<p><strong>Authors</strong>: Carleigh R. Burns, 
+Aviva S. Mattingly, 
+Kim Ely, 
+Andreja Radevic, 
+Nicole Meeks, 
+Sydea Maria Ahmad Zaidi, 
+Brandee Brown, 
+Georgii Vasiukov, 
+Michael Topf, 
+Eben Rosenthal</p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1002/hed.70160'>10.1002/hed.70160</a></p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>Head &amp;Neck, EarlyView.</p>
 ]]></content:encoded>
 </item>
 <item>
@@ -2777,33 +2767,6 @@ Mehmet Uludag</p>
 ]]></content:encoded>
 </item>
 <item>
-<title>Medial Sural Artery Perforator Flap Radiographic Vascular Characteristics</title>
-<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70125?af=R</link>
-<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70125?af=R</guid>
-<dc:creator>Michael A. Cirelli Jr, 
-Justin M. Hintze, 
-Taylor B. Cave, 
-Daniah ALNafisee, 
-Tanya J. Rath, 
-Brent A. Chang</dc:creator>
-<prism:publicationName>Wiley: Head &amp; Neck: Table of Contents</prism:publicationName>
-<prism:doi>10.1002/hed.70125</prism:doi>
-<description>Journal: Wiley: Head &amp; Neck: Table of Contents | DOI: 10.1002/hed.70125</description>
-<content:encoded><![CDATA[
-<p><strong>Journal</strong>: Wiley: Head & Neck: Table of Contents</p>
-<p><strong>Authors</strong>: Michael A. Cirelli Jr, 
-Justin M. Hintze, 
-Taylor B. Cave, 
-Daniah ALNafisee, 
-Tanya J. Rath, 
-Brent A. Chang</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1002/hed.70125'>10.1002/hed.70125</a></p>
-<hr/>
-<p><strong>Abstract</strong></p>
-<p>Head &amp;Neck, EarlyView.</p>
-]]></content:encoded>
-</item>
-<item>
 <title>Chloride Intracellular Channel 2 Can Function as a Malignant Factor in Head and Neck Squamous Cell Carcinoma</title>
 <link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70133?af=R</link>
 <guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70133?af=R</guid>
@@ -3683,47 +3646,6 @@ Shirley Y. Su</p>
 ]]></content:encoded>
 </item>
 <item>
-<title>Genomic and Immune Correlates of EZH2 Expression and Activity in Olfactory Neuroblastoma</title>
-<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70076?af=R</link>
-<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70076?af=R</guid>
-<dc:creator>Elisabetta Xue, 
-Tolulope Adeyelu, 
-Harris Krause, 
-Andrew Elliott, 
-Ranee Mehra, 
-Heloisa Soares, 
-Emil Lou, 
-Ari Vanderwalde, 
-David Spetzler, 
-Dara Bracken‐Clarke, 
-Nyall R. London Jr., 
-James L. Gulley, 
-Charalampos S. Floudas</dc:creator>
-<prism:publicationName>Wiley: Head &amp; Neck: Table of Contents</prism:publicationName>
-<prism:doi>10.1002/hed.70076</prism:doi>
-<description>Journal: Wiley: Head &amp; Neck: Table of Contents | DOI: 10.1002/hed.70076</description>
-<content:encoded><![CDATA[
-<p><strong>Journal</strong>: Wiley: Head & Neck: Table of Contents</p>
-<p><strong>Authors</strong>: Elisabetta Xue, 
-Tolulope Adeyelu, 
-Harris Krause, 
-Andrew Elliott, 
-Ranee Mehra, 
-Heloisa Soares, 
-Emil Lou, 
-Ari Vanderwalde, 
-David Spetzler, 
-Dara Bracken‐Clarke, 
-Nyall R. London Jr., 
-James L. Gulley, 
-Charalampos S. Floudas</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1002/hed.70076'>10.1002/hed.70076</a></p>
-<hr/>
-<p><strong>Abstract</strong></p>
-<p>Head &amp;Neck, EarlyView.</p>
-]]></content:encoded>
-</item>
-<item>
 <title>Automated Lymph Node and Extranodal Extension Assessment Improves Risk Stratification in Oropharyngeal Carcinoma</title>
 <link>https://ascopubs.org/doi/abs/10.1200/JCO-24-02679?af=R</link>
 <guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/JCO-24-02679?af=R</guid>
@@ -3826,23 +3748,6 @@ Charalampos S. Floudas</p>
 ]]></content:encoded>
 </item>
 <item>
-<title>Pricing Trends and Overlapping Indications of Checkpoint Inhibitors for Cancer Treatment</title>
-<link>https://ascopubs.org/doi/abs/10.1200/OP-25-00099?af=R</link>
-<guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/OP-25-00099?af=R</guid>
-<dc:creator>Jeddeo M. Paul; Aaron P. Mitchell; Aaron S. Kesselheim; Benjamin N. Rome</dc:creator>
-<prism:publicationName>WoltersKluwer: JCO Oncology Practice: Table of Contents</prism:publicationName>
-<prism:doi>10.1200/OP-25-00099</prism:doi>
-<description>Journal: WoltersKluwer: JCO Oncology Practice: Table of Contents | DOI: 10.1200/OP-25-00099</description>
-<content:encoded><![CDATA[
-<p><strong>Journal</strong>: WoltersKluwer: JCO Oncology Practice: Table of Contents</p>
-<p><strong>Authors</strong>: Jeddeo M. Paul; Aaron P. Mitchell; Aaron S. Kesselheim; Benjamin N. Rome</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1200/OP-25-00099'>10.1200/OP-25-00099</a></p>
-<hr/>
-<p><strong>Abstract</strong></p>
-<p>JCO Oncology Practice, Ahead of Print. <br /></p>
-]]></content:encoded>
-</item>
-<item>
 <title>Evolving Use of Circulating Tumor DNA for HPV+ Oropharyngeal Carcinoma: Consensus Recommendations From the California Head and Neck Consortium</title>
 <link>https://ascopubs.org/doi/abs/10.1200/OP-25-00450?af=R</link>
 <guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/OP-25-00450?af=R</guid>
@@ -3877,6 +3782,40 @@ Charalampos S. Floudas</p>
 ]]></content:encoded>
 </item>
 <item>
+<title>Time to Treatment Initiation for the 30 Most Prevalent Cancer Types: Trends and Predictors of Change</title>
+<link>https://ascopubs.org/doi/abs/10.1200/OP.23.00614?af=R</link>
+<guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/OP.23.00614?af=R</guid>
+<dc:creator>Gianna J. Dafflisio; Ming Wang; Xi Wang; Daniel E. Spratt; Raed Zuhour; Alok A. Khorana; Karl Y. Bilimoria; Nicholas G. Zaorsky</dc:creator>
+<prism:publicationName>WoltersKluwer: JCO Oncology Practice: Table of Contents</prism:publicationName>
+<prism:doi>10.1200/OP.23.00614</prism:doi>
+<description>Journal: WoltersKluwer: JCO Oncology Practice: Table of Contents | DOI: 10.1200/OP.23.00614</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: WoltersKluwer: JCO Oncology Practice: Table of Contents</p>
+<p><strong>Authors</strong>: Gianna J. Dafflisio; Ming Wang; Xi Wang; Daniel E. Spratt; Raed Zuhour; Alok A. Khorana; Karl Y. Bilimoria; Nicholas G. Zaorsky</p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1200/OP.23.00614'>10.1200/OP.23.00614</a></p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>JCO Oncology Practice, Ahead of Print. <br /></p>
+]]></content:encoded>
+</item>
+<item>
+<title>Artificial Intelligence–Assisted Error Detection in Complex Clinical Documentation: Leveraging Large Language Models to Enhance Patient Safety in Oncology</title>
+<link>https://ascopubs.org/doi/abs/10.1200/CCI-25-00194?af=R</link>
+<guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/CCI-25-00194?af=R</guid>
+<dc:creator>Peter May; Sina Nokodian; Christoph Nuernbergk; Manuel Knauer; Maike Hefter; Aaron Becker von Rose; Florian Bassermann; Johannes Jung</dc:creator>
+<prism:publicationName>WoltersKluwer: JCO Clinical Cancer Informatics: Table of Contents</prism:publicationName>
+<prism:doi>10.1200/CCI-25-00194</prism:doi>
+<description>Journal: WoltersKluwer: JCO Clinical Cancer Informatics: Table of Contents | DOI: 10.1200/CCI-25-00194</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: WoltersKluwer: JCO Clinical Cancer Informatics: Table of Contents</p>
+<p><strong>Authors</strong>: Peter May; Sina Nokodian; Christoph Nuernbergk; Manuel Knauer; Maike Hefter; Aaron Becker von Rose; Florian Bassermann; Johannes Jung</p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1200/CCI-25-00194'>10.1200/CCI-25-00194</a></p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>JCO Clinical Cancer Informatics, Issue 10, January 2026. <br /></p>
+]]></content:encoded>
+</item>
+<item>
 <title>Tumor Board–Inspired Multiagent Artificial Intelligence System for Interpreting Oncology Guidelines</title>
 <link>https://ascopubs.org/doi/abs/10.1200/CCI-25-00286?af=R</link>
 <guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/CCI-25-00286?af=R</guid>
@@ -3891,6 +3830,40 @@ Charalampos S. Floudas</p>
 <hr/>
 <p><strong>Abstract</strong></p>
 <p>JCO Clinical Cancer Informatics, Issue 10, January 2026. <br /></p>
+]]></content:encoded>
+</item>
+<item>
+<title>Outcomes of Patients With Rare Cancers Treated With Combination Immune Checkpoint Inhibitors With and Without Previous Anti–PD-1/L1 Exposure: National Cancer Institute/SWOG S1609</title>
+<link>https://ascopubs.org/doi/abs/10.1200/OA-25-00110?af=R</link>
+<guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/OA-25-00110?af=R</guid>
+<dc:creator>Megan Othus; Sandip P. Patel; Young Kwan Chae; Eliana Dietrich; Manmeet S. Ahluwalia; Razelle Kurzrock</dc:creator>
+<prism:publicationName>WoltersKluwer: JCO Oncology Advances: Table of Contents</prism:publicationName>
+<prism:doi>10.1200/OA-25-00110</prism:doi>
+<description>Journal: WoltersKluwer: JCO Oncology Advances: Table of Contents | DOI: 10.1200/OA-25-00110</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: WoltersKluwer: JCO Oncology Advances: Table of Contents</p>
+<p><strong>Authors</strong>: Megan Othus; Sandip P. Patel; Young Kwan Chae; Eliana Dietrich; Manmeet S. Ahluwalia; Razelle Kurzrock</p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1200/OA-25-00110'>10.1200/OA-25-00110</a></p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>JCO Oncology Advances, Issue 2, December 2025. <br /></p>
+]]></content:encoded>
+</item>
+<item>
+<title>Real-World Utilization and Performance of Circulating Tumor DNA Monitoring to Predict Recurrence in Solid Tumors</title>
+<link>https://ascopubs.org/doi/abs/10.1200/OA-24-00084?af=R</link>
+<guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/OA-24-00084?af=R</guid>
+<dc:creator>Van-Anh Nguyen Hoang; Ngoc Nguyen; Duc Nhan Le; Van Son Nguyen; Huong Giang Nguyen Thi; Hong Thang Vu; Huu Hao Ho; Hong Minh Le; Tien Dung Nguyen; Huu Nhan Vo; Thu Suong Le Thi; Van Tuan Ha; Hoang Duong Nguyen; Minh Phuong Nguyen Thi; Kim Phuong Tran Thi; Tran Doanh Vi; Minh Tu Hoang; Hoang Giang Vu; Tu Nguyen; Van T. Phan; Nguyen Huu Tam Phuc; Duy Sinh Nguyen; Hoai-Nghia Nguyen; Lan N. Tu</dc:creator>
+<prism:publicationName>WoltersKluwer: JCO Oncology Advances: Table of Contents</prism:publicationName>
+<prism:doi>10.1200/OA-24-00084</prism:doi>
+<description>Journal: WoltersKluwer: JCO Oncology Advances: Table of Contents | DOI: 10.1200/OA-24-00084</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: WoltersKluwer: JCO Oncology Advances: Table of Contents</p>
+<p><strong>Authors</strong>: Van-Anh Nguyen Hoang; Ngoc Nguyen; Duc Nhan Le; Van Son Nguyen; Huong Giang Nguyen Thi; Hong Thang Vu; Huu Hao Ho; Hong Minh Le; Tien Dung Nguyen; Huu Nhan Vo; Thu Suong Le Thi; Van Tuan Ha; Hoang Duong Nguyen; Minh Phuong Nguyen Thi; Kim Phuong Tran Thi; Tran Doanh Vi; Minh Tu Hoang; Hoang Giang Vu; Tu Nguyen; Van T. Phan; Nguyen Huu Tam Phuc; Duy Sinh Nguyen; Hoai-Nghia Nguyen; Lan N. Tu</p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1200/OA-24-00084'>10.1200/OA-24-00084</a></p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>JCO Oncology Advances, Issue 2, December 2025. <br /></p>
 ]]></content:encoded>
 </item>
 <item>
