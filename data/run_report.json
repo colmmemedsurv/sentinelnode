@@ -1,11 +1,11 @@
 {
-  "timestamp_utc": "2026-01-11T07:12:02.788637+00:00",
+  "timestamp_utc": "2026-01-12T07:51:35.486290+00:00",
   "feeds": [
     {
       "url": "https://onesearch-rss.nejm.org/api/specialty/rss?context=nejm&specialty=hematology-oncology",
       "feed_title": "The New England Journal of Medicine: Search Results in Hematology/Oncology",
       "items_in_feed": 20,
-      "relevant_yes": 2
+      "relevant_yes": 1
     },
     {
       "url": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
@@ -89,7 +89,7 @@
       "url": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=op",
       "feed_title": "WoltersKluwer: JCO Oncology Practice: Table of Contents",
       "items_in_feed": 254,
-      "relevant_yes": 9
+      "relevant_yes": 7
     },
     {
       "url": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=go",
@@ -113,7 +113,7 @@
       "url": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=oa",
       "feed_title": "WoltersKluwer: JCO Oncology Advances: Table of Contents",
       "items_in_feed": 89,
-      "relevant_yes": 4
+      "relevant_yes": 5
     },
     {
       "url": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=edbk",
@@ -123,8 +123,8 @@
     }
   ],
   "decisions_total": {
-    "YES": 166,
-    "NO": 672,
-    "UNCERTAIN": 31
+    "YES": 164,
+    "NO": 676,
+    "UNCERTAIN": 29
   }
 }
