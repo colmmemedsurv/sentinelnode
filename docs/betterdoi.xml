@@ -4,7 +4,7 @@
 <title>Head &amp; Neck Cancer – DOI-Enriched Feed</title>
 <link>https://colmmemedsurv.github.io/sentinelnode/</link>
 <description>Curated head &amp; neck cancer literature with Crossref and PubMed enrichment.</description>
-<lastBuildDate>Mon, 12 Jan 2026 07:56:21 +0000</lastBuildDate>
+<lastBuildDate>Tue, 13 Jan 2026 07:18:00 +0000</lastBuildDate>
 <item>
 <title>Reducing Tobacco Use Worldwide: Smokeless Tobacco and Oral Cancer in Global Perspective</title>
 <link>https://www.nejm.org/doi/full/10.1056/NEJMp2500631?rss=searchAndBrowse</link>
@@ -262,6 +262,36 @@
 ]]></content:encoded>
 </item>
 <item>
+<title>Shifting the AI Questions in Otolaryngology</title>
+<link>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2841508</link>
+<guid isPermaLink='true'>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2841508</guid>
+<prism:publicationName>JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue</prism:publicationName>
+<prism:doi>10.1001/jamaoto.2025.3974</prism:doi>
+<description>Journal: JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue | DOI: 10.1001/jamaoto.2025.3974</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: JAMA Otolaryngology–Head & Neck Surgery Current Issue</p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1001/jamaoto.2025.3974'>10.1001/jamaoto.2025.3974</a></p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>Artificial intelligence (AI) has generated remarkable enthusiasm in medicine, and otolaryngology is no exception. Yet current literature remains limited in scope and quality, dominated by feasibility studies using single-institution, internally validated datasets. Without a shift in direction, early excitement may collapse into unmet expectations. In this issue of JAMA Otolaryngology−Head &amp; Neck Surgery, Novi et al highlight the innovation and promise of AI and deep learning (DL) in otolaryngology, a field rich in data, from endoscopy and microscopy to electrophysiology. They also underscore the growing chasm between proof-of-concept studies and applications meaningfully improving patient care. Bridging this gap requires moving beyond feasibility toward rigorous evaluation and clinically relevant implementation.</p>
+]]></content:encoded>
+</item>
+<item>
+<title>Balloon Sinus Dilation Use</title>
+<link>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2841506</link>
+<guid isPermaLink='true'>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2841506</guid>
+<prism:publicationName>JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue</prism:publicationName>
+<prism:doi>10.1001/jamaoto.2025.4024</prism:doi>
+<description>Journal: JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue | DOI: 10.1001/jamaoto.2025.4024</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: JAMA Otolaryngology–Head & Neck Surgery Current Issue</p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1001/jamaoto.2025.4024'>10.1001/jamaoto.2025.4024</a></p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>This cross-sectional study analyzes use of balloon sinuplasty after the 2018 publication of the American Academy of Otolaryngology–Head and Neck Surgery’s clinical consensus statement defining its appropriate indications and use.</p>
+]]></content:encoded>
+</item>
+<item>
 <title>Updated Calcitonin Thresholds More Accurately Predict Lymph Node Metastasis?</title>
 <link>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2841505</link>
 <guid isPermaLink='true'>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2841505</guid>
@@ -289,21 +319,6 @@
 <hr/>
 <p><strong>Abstract</strong></p>
 <p>In Reply We thank Colli for his thoughtful comments on our study. We would like to provide a detailed clarification to address what we believe a misunderstanding regarding our updated thresholds. First, we fully agree that the ATA thresholds seek to minimize missed LNMs by adopting very low preoperative calcitonin cutoffs. However, this inevitably leads to an extremely high rate of overtreatment, resulting in unnecessary complications and surgical morbidity. For example, under the current cutoffs, patients newly diagnosed with medullary thyroid cancer and with preoperative calcitonin greater than 20 pg/mL would be considered for lateral neck dissection. In our data, patients with calcitonin levels of 20 to 50 pg/mL had 5-year structural recurrence-free survival rates of 92.1% and 100% in the training and validation cohorts, respectively, with no recurrences observed in the validation cohort, comparable to 92.7% and 93.0% in the 241.9 to 693.9 pg/mL group. Thus, prophylactic neck dissection in patients with calcitonin levels of 20 to 50 pg/mL would likely lead to substantial overtreatment.</p>
-]]></content:encoded>
-</item>
-<item>
-<title>Deep Learning in Otolaryngology</title>
-<link>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2841500</link>
-<guid isPermaLink='true'>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2841500</guid>
-<prism:publicationName>JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue</prism:publicationName>
-<prism:doi>10.1001/jamaoto.2025.3911</prism:doi>
-<description>Journal: JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue | DOI: 10.1001/jamaoto.2025.3911</description>
-<content:encoded><![CDATA[
-<p><strong>Journal</strong>: JAMA Otolaryngology–Head & Neck Surgery Current Issue</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1001/jamaoto.2025.3911'>10.1001/jamaoto.2025.3911</a></p>
-<hr/>
-<p><strong>Abstract</strong></p>
-<p>This narrative review synthesizes recent deep-learning applications and proposes a framework for their integration into otolaryngology.</p>
 ]]></content:encoded>
 </item>
 <item>
@@ -397,6 +412,21 @@
 ]]></content:encoded>
 </item>
 <item>
+<title>Gingival Swelling and Frequent Epistaxis in an Older Woman</title>
+<link>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2840478</link>
+<guid isPermaLink='true'>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2840478</guid>
+<prism:publicationName>JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue</prism:publicationName>
+<prism:doi>10.1001/jamaoto.2025.3587</prism:doi>
+<description>Journal: JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue | DOI: 10.1001/jamaoto.2025.3587</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: JAMA Otolaryngology–Head & Neck Surgery Current Issue</p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1001/jamaoto.2025.3587'>10.1001/jamaoto.2025.3587</a></p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>A 69-year-old woman was referred due to widespread gingival swelling, which had been worsening over the preceding 3 months and was unresponsive to antibiotic treatment. Gingival biopsy showed areas of chronic inflammation, microabscess foci, and pseudoepitheliomatous hyperplasia of the covering epithelium. What is your diagnosis?</p>
+]]></content:encoded>
+</item>
+<item>
 <title>Protecting the Contralateral Palatine Tonsil</title>
 <link>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2840477</link>
 <guid isPermaLink='true'>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2840477</guid>
@@ -424,21 +454,6 @@
 <hr/>
 <p><strong>Abstract</strong></p>
 <p>This case report describes a 36-year-old patient with severe hyponatremia.</p>
-]]></content:encoded>
-</item>
-<item>
-<title>Patient With a Cough and Calcified Cervical Lymphadenopathy</title>
-<link>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2840417</link>
-<guid isPermaLink='true'>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2840417</guid>
-<prism:publicationName>JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue</prism:publicationName>
-<prism:doi>10.1001/jamaoto.2025.3545</prism:doi>
-<description>Journal: JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue | DOI: 10.1001/jamaoto.2025.3545</description>
-<content:encoded><![CDATA[
-<p><strong>Journal</strong>: JAMA Otolaryngology–Head & Neck Surgery Current Issue</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1001/jamaoto.2025.3545'>10.1001/jamaoto.2025.3545</a></p>
-<hr/>
-<p><strong>Abstract</strong></p>
-<p>A 66-year-old man presented with a persistent cough, multiple bilateral pulmonary nodules, intrathoracic lymphadenopathy, a partially calcified left supraclavicular lymph node, a left thyroid nodule, and left level IV neck lymph nodes with calcifications. What is your diagnosis?</p>
 ]]></content:encoded>
 </item>
 <item>
@@ -1749,29 +1764,6 @@ Francis P. Worden</p>
 <hr/>
 <p><strong>Abstract</strong></p>
 <p>Head &amp;Neck, EarlyView.</p>
-]]></content:encoded>
-</item>
-<item>
-<title>Traumatic Intrathyroidal Hematoma: Case Report and Review of Literature</title>
-<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.28248?af=R</link>
-<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.28248?af=R</guid>
-<dc:creator>Morgan Terry, 
-Ana Araujo, 
-Skylar Trott, 
-Mark K. Wax</dc:creator>
-<prism:publicationName>Wiley: Head &amp; Neck: Table of Contents</prism:publicationName>
-<prism:doi>10.1002/hed.28248</prism:doi>
-<description>Journal: Wiley: Head &amp; Neck: Table of Contents | DOI: 10.1002/hed.28248</description>
-<content:encoded><![CDATA[
-<p><strong>Journal</strong>: Wiley: Head & Neck: Table of Contents</p>
-<p><strong>Authors</strong>: Morgan Terry, 
-Ana Araujo, 
-Skylar Trott, 
-Mark K. Wax</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1002/hed.28248'>10.1002/hed.28248</a></p>
-<hr/>
-<p><strong>Abstract</strong></p>
-<p>Head &amp;Neck, Volume 48, Issue 1, Page E10-E13, January 2026.</p>
 ]]></content:encoded>
 </item>
 <item>
@@ -3172,6 +3164,41 @@ Kyle M. Hatten</p>
 ]]></content:encoded>
 </item>
 <item>
+<title>Anatomical Predictors of Aerodigestive Symptoms in Substernal Goiters</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70123?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70123?af=R</guid>
+<dc:creator>Jamie Masliah, 
+Sushanth Neerumalla, 
+Abdel Metwally, 
+Avidor Kazen, 
+Sumeet G. Dua, 
+Vanessa Stubbs, 
+Mihir Bhayani, 
+Kerstin Stenson, 
+Sean Wrenn, 
+Samer Al‐Khudari</dc:creator>
+<prism:publicationName>Wiley: Head &amp; Neck: Table of Contents</prism:publicationName>
+<prism:doi>10.1002/hed.70123</prism:doi>
+<description>Journal: Wiley: Head &amp; Neck: Table of Contents | DOI: 10.1002/hed.70123</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: Wiley: Head & Neck: Table of Contents</p>
+<p><strong>Authors</strong>: Jamie Masliah, 
+Sushanth Neerumalla, 
+Abdel Metwally, 
+Avidor Kazen, 
+Sumeet G. Dua, 
+Vanessa Stubbs, 
+Mihir Bhayani, 
+Kerstin Stenson, 
+Sean Wrenn, 
+Samer Al‐Khudari</p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1002/hed.70123'>10.1002/hed.70123</a></p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>Head &amp;Neck, EarlyView.</p>
+]]></content:encoded>
+</item>
+<item>
 <title>Obstructive Sleep Apnea in Head and Neck Cancer Patients After Primary Treatment: A Review Focused on Oropharyngeal Cancer</title>
 <link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70098?af=R</link>
 <guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70098?af=R</guid>
@@ -3717,23 +3744,6 @@ Xiaohong Chen</p>
 ]]></content:encoded>
 </item>
 <item>
-<title>Leveraging Electronic Health Record Tools and Social Work to Improve Advance Care Planning Documentation in Older Adults With Cancer</title>
-<link>https://ascopubs.org/doi/abs/10.1200/OP-25-00789?af=R</link>
-<guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/OP-25-00789?af=R</guid>
-<dc:creator>Lauren Reed-Guy; Julianne Ani; Keshav Raghavendran; Charlotte Zuber; Molly Collins; Meghan Kennedy; Noah Goldman; Carolyn Cahill; David Dougherty; Peter Gabriel; Aditi Singh; Leland Boisseau; Ramy Sedhom</dc:creator>
-<prism:publicationName>WoltersKluwer: JCO Oncology Practice: Table of Contents</prism:publicationName>
-<prism:doi>10.1200/OP-25-00789</prism:doi>
-<description>Journal: WoltersKluwer: JCO Oncology Practice: Table of Contents | DOI: 10.1200/OP-25-00789</description>
-<content:encoded><![CDATA[
-<p><strong>Journal</strong>: WoltersKluwer: JCO Oncology Practice: Table of Contents</p>
-<p><strong>Authors</strong>: Lauren Reed-Guy; Julianne Ani; Keshav Raghavendran; Charlotte Zuber; Molly Collins; Meghan Kennedy; Noah Goldman; Carolyn Cahill; David Dougherty; Peter Gabriel; Aditi Singh; Leland Boisseau; Ramy Sedhom</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1200/OP-25-00789'>10.1200/OP-25-00789</a></p>
-<hr/>
-<p><strong>Abstract</strong></p>
-<p>JCO Oncology Practice, Volume 21, Issue 12, Page 1800-1806, December 2025. <br /></p>
-]]></content:encoded>
-</item>
-<item>
 <title>Impact of an Electronic Patient-Reported Outcome–Informed Clinical Decision Support Tool on Clinical Discussions With Head and Neck Cancer Survivors: Findings From the HN-STAR Randomized Controlled Trial (WF-1805CD)</title>
 <link>https://ascopubs.org/doi/abs/10.1200/OP-25-00867?af=R</link>
 <guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/OP-25-00867?af=R</guid>
@@ -3819,6 +3829,23 @@ Xiaohong Chen</p>
 ]]></content:encoded>
 </item>
 <item>
+<title>Impact of Drug Shortages on Cancer Care Delivery Within the National Cancer Institute Community Oncology Research Program</title>
+<link>https://ascopubs.org/doi/abs/10.1200/OP-25-00057?af=R</link>
+<guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/OP-25-00057?af=R</guid>
+<dc:creator>Lauren V. Ghazal; Supriya Mohile; Kah Poh Loh; Karen Mustian; Grace Sventek; Umang Gada; Chin-Shang Li; Eva Culakova; Melyssa Foust; Judith O. Hopkins; Heather Kehn; Charles Kamen; Erin R. Fox; Elaine L. Hill</dc:creator>
+<prism:publicationName>WoltersKluwer: JCO Oncology Practice: Table of Contents</prism:publicationName>
+<prism:doi>10.1200/OP-25-00057</prism:doi>
+<description>Journal: WoltersKluwer: JCO Oncology Practice: Table of Contents | DOI: 10.1200/OP-25-00057</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: WoltersKluwer: JCO Oncology Practice: Table of Contents</p>
+<p><strong>Authors</strong>: Lauren V. Ghazal; Supriya Mohile; Kah Poh Loh; Karen Mustian; Grace Sventek; Umang Gada; Chin-Shang Li; Eva Culakova; Melyssa Foust; Judith O. Hopkins; Heather Kehn; Charles Kamen; Erin R. Fox; Elaine L. Hill</p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1200/OP-25-00057'>10.1200/OP-25-00057</a></p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>JCO Oncology Practice, Ahead of Print. <br /></p>
+]]></content:encoded>
+</item>
+<item>
 <title>Clinical Trial Patient Matching: A Real-Time, Common Data Model and Artificial Intelligence–Driven System for Semiautomated Patient Prescreening in Cancer Clinical Trials</title>
 <link>https://ascopubs.org/doi/abs/10.1200/CCI-25-00262?af=R</link>
 <guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/CCI-25-00262?af=R</guid>
@@ -3830,23 +3857,6 @@ Xiaohong Chen</p>
 <p><strong>Journal</strong>: WoltersKluwer: JCO Clinical Cancer Informatics: Table of Contents</p>
 <p><strong>Authors</strong>: Guannan Gong; Jessica Liu; Sameer Pandya; Cristian Taborda; Nathalie Wiesendanger; Nate Price; Will Byron; Andreas Coppi; Patrick Young; Christina Wiess; Haley Dunning; Courtney Barganier; Rachel Brodeur; Neal Fischbach; Patricia LoRusso; Lajos Pusztai; So Yeon Kim; Mariya Rozenblit; Michael Cecchini; Anne Mongiu; Lourdes Mendez; Edward Kaftan; Charles Torre; Harlan Krumholz; Ian Krop; Wade Schulz; Maryam Lustberg; Pamela L. Kunz</p>
 <p><strong>DOI</strong>: <a href='https://doi.org/10.1200/CCI-25-00262'>10.1200/CCI-25-00262</a></p>
-<hr/>
-<p><strong>Abstract</strong></p>
-<p>JCO Clinical Cancer Informatics, Issue 10, January 2026. <br /></p>
-]]></content:encoded>
-</item>
-<item>
-<title>Artificial Intelligence–Assisted Error Detection in Complex Clinical Documentation: Leveraging Large Language Models to Enhance Patient Safety in Oncology</title>
-<link>https://ascopubs.org/doi/abs/10.1200/CCI-25-00194?af=R</link>
-<guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/CCI-25-00194?af=R</guid>
-<dc:creator>Peter May; Sina Nokodian; Christoph Nuernbergk; Manuel Knauer; Maike Hefter; Aaron Becker von Rose; Florian Bassermann; Johannes Jung</dc:creator>
-<prism:publicationName>WoltersKluwer: JCO Clinical Cancer Informatics: Table of Contents</prism:publicationName>
-<prism:doi>10.1200/CCI-25-00194</prism:doi>
-<description>Journal: WoltersKluwer: JCO Clinical Cancer Informatics: Table of Contents | DOI: 10.1200/CCI-25-00194</description>
-<content:encoded><![CDATA[
-<p><strong>Journal</strong>: WoltersKluwer: JCO Clinical Cancer Informatics: Table of Contents</p>
-<p><strong>Authors</strong>: Peter May; Sina Nokodian; Christoph Nuernbergk; Manuel Knauer; Maike Hefter; Aaron Becker von Rose; Florian Bassermann; Johannes Jung</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1200/CCI-25-00194'>10.1200/CCI-25-00194</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
 <p>JCO Clinical Cancer Informatics, Issue 10, January 2026. <br /></p>
