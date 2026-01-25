@@ -1,6 +1,6 @@
 [
   {
-    "id": "7a49afe1-ec34-4e2f-85b5-f38f7d53aa30",
+    "id": "b4b50d12-d2b1-412c-8c50-a8f3304432ba",
     "source_feed": "https://onesearch-rss.nejm.org/api/specialty/rss?context=nejm&specialty=hematology-oncology",
     "journal": "The New England Journal of Medicine: Search Results in Hematology/Oncology",
     "title": "Reducing Tobacco Use Worldwide: Smokeless Tobacco and Oral Cancer in Global Perspective",
@@ -30,7 +30,7 @@
     "relevance": "YES"
   },
   {
-    "id": "652020af-729e-4089-83c3-725a376546e9",
+    "id": "b7186015-d9cb-4370-9106-6a6e4f338ba7",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[Comment] De-escalation of adjuvant radiotherapy in HPV-associated oropharyngeal cancer",
@@ -69,7 +69,7 @@
     "relevance": "YES"
   },
   {
-    "id": "3c042f44-0c68-4ae5-a07c-e3ad581eda3b",
+    "id": "0d027b9c-7047-4ea8-9beb-2d066ba79592",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[Comment] Retraction and republication—De-escalation of adjuvant radiotherapy in HPV-associated oropharyngeal cancer",
@@ -107,7 +107,7 @@
     "relevance": "YES"
   },
   {
-    "id": "267ca90a-e7b6-4e6f-9c9c-5d26c452efce",
+    "id": "7198c9d9-5b51-4840-88ec-998e53e3547c",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[Correspondence] Tumour genetics and thyroid cancer staging",
@@ -146,7 +146,7 @@
     "relevance": "YES"
   },
   {
-    "id": "d9a0050d-58ae-44e6-a621-812cd50c8b73",
+    "id": "3c01f8a7-2ceb-492d-8f42-5da600d4c924",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[Corrections] Correction to Lancet Oncol 2025; 26: 1227–39",
@@ -179,7 +179,7 @@
     "relevance": "YES"
   },
   {
-    "id": "c66df903-50a6-470a-a2b8-8c9c94c40c27",
+    "id": "83980794-71af-4fec-9767-37a24b700df8",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[Corrections] Correction to Lancet Oncol 2025; 26: e477–87",
@@ -212,7 +212,7 @@
     "relevance": "YES"
   },
   {
-    "id": "a8529ed4-9c1a-46ab-b430-a4a12226cdee",
+    "id": "2425010b-d000-4bc7-9f0a-a70fc89dd7a8",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[News] Gavi hits HPV vaccine milestone early but concerns surround future funding",
@@ -250,7 +250,7 @@
     "relevance": "YES"
   },
   {
-    "id": "0beda7ec-fe0a-4932-8770-f0a6f4ac72c7",
+    "id": "0ec05fe9-d368-4ebe-a464-1c895322d31d",
     "source_feed": "https://www.thelancet.com/rssfeed/lanonc_current.xml",
     "journal": "The Lancet Oncology",
     "title": "[Policy Review] International consensus recommendations and alignment of terminology for the histopathological diagnosis of extranodal extension in head and neck squamous cell carcinoma: an HN-CLEAR initiative",
@@ -289,7 +289,7 @@
     "relevance": "YES"
   },
   {
-    "id": "770a415d-b737-4ea2-ac78-b41961e27a1b",
+    "id": "b872ae17-7125-4e80-b772-096cd4e838cf",
     "source_feed": "http://www.thelancet.com/rssfeed/lancet_current.xml",
     "journal": "The Lancet",
     "title": "[Comment] Adjuvant nivolumab for resected high-risk head and neck cancer",
@@ -328,7 +328,7 @@
     "relevance": "YES"
   },
   {
-    "id": "a55476ad-ef31-4a35-a957-360642623b1c",
+    "id": "18e4ffce-2c27-49f6-bc6b-1b583be550ef",
     "source_feed": "http://www.thelancet.com/rssfeed/lancet_current.xml",
     "journal": "The Lancet",
     "title": "[Articles] Nivolumab added to cisplatin and radiotherapy versus cisplatin and radiotherapy alone after surgery for people with squamous cell carcinoma of the head and neck at a high risk of relapse (GORTEC 2018-01 NIVOPOST-OP): a randomised, open-label, phase 3 trial",
@@ -367,7 +367,7 @@
     "relevance": "YES"
   },
   {
-    "id": "3eed8cbf-f958-4994-afcf-d87d2dd7543c",
+    "id": "d55f96a6-6171-456b-9e24-3797d767b766",
     "source_feed": "https://jamanetwork.com/rss/site_3/67.xml",
     "journal": "JAMA Current Issue",
     "title": "Toripalimab-Based Therapy Without Concurrent Cisplatin for Nasopharyngeal Carcinoma",
@@ -397,7 +397,7 @@
     "relevance": "YES"
   },
   {
-    "id": "debfe600-2240-4268-8299-1ee21f1404d8",
+    "id": "53fe70ab-0cc2-4150-80a6-5d49409909ab",
     "source_feed": "https://jamanetwork.com/rss/site_3/67.xml",
     "journal": "JAMA Current Issue",
     "title": "Toripalimab-Based Therapy Without Concurrent Cisplatin for Nasopharyngeal Carcinoma",
@@ -427,7 +427,7 @@
     "relevance": "YES"
   },
   {
-    "id": "6925fd7a-4d0f-41af-b27a-166a43c5b43c",
+    "id": "f5f4f6c1-895d-45e0-a9b6-a165a4604d8c",
     "source_feed": "https://jamanetwork.com/rss/site_3/67.xml",
     "journal": "JAMA Current Issue",
     "title": "Toripalimab-Based Therapy Without Concurrent Cisplatin for Nasopharyngeal Carcinoma—Reply",
@@ -457,7 +457,7 @@
     "relevance": "YES"
   },
   {
-    "id": "4f6d22d6-9db0-4307-8894-04bac96bbf89",
+    "id": "c8011b0f-8661-4825-be8c-f0df883e6f0b",
     "source_feed": "https://jamanetwork.com/rss/site_18/74.xml",
     "journal": "JAMA Otolaryngology–Head & Neck Surgery Current Issue",
     "title": "JAMA Otolaryngology–Head &amp; Neck Surgery",
@@ -487,7 +487,7 @@
     "relevance": "YES"
   },
   {
-    "id": "0db98be3-76fd-4eb1-843a-55a0652af3e1",
+    "id": "68251e6a-394b-477e-8aff-3d1da86aad13",
     "source_feed": "https://jamanetwork.com/rss/site_18/74.xml",
     "journal": "JAMA Otolaryngology–Head & Neck Surgery Current Issue",
     "title": "A 13-Year-Old Male With Parotid Region Mass",
@@ -517,7 +517,7 @@
     "relevance": "YES"
   },
   {
-    "id": "0d843213-d508-4a5d-816c-83d61e202e57",
+    "id": "162092e2-2b2f-45ce-944c-c37c7c2405af",
     "source_feed": "https://jamanetwork.com/rss/site_18/74.xml",
     "journal": "JAMA Otolaryngology–Head & Neck Surgery Current Issue",
     "title": "Errors in Specificity/Sensitivity Labels in Text, Table 2, and Figure 2",
@@ -547,7 +547,7 @@
     "relevance": "YES"
   },
   {
-    "id": "b3c59e44-5cdd-45cc-b30e-2620adca9f6d",
+    "id": "8d9304a8-28bd-43b1-8559-a80ff26a4fe5",
     "source_feed": "https://jamanetwork.com/rss/site_18/74.xml",
     "journal": "JAMA Otolaryngology–Head & Neck Surgery Current Issue",
     "title": "Shifting the AI Questions in Otolaryngology",
@@ -577,7 +577,7 @@
     "relevance": "YES"
   },
   {
-    "id": "5c9c17fa-c8f0-4ff5-af39-f0fd349cd506",
+    "id": "5d159639-d257-469e-9435-d6f5b8352051",
     "source_feed": "https://jamanetwork.com/rss/site_18/74.xml",
     "journal": "JAMA Otolaryngology–Head & Neck Surgery Current Issue",
     "title": "Updated Calcitonin Thresholds More Accurately Predict Lymph Node Metastasis?",
@@ -607,7 +607,7 @@
     "relevance": "YES"
   },
   {
-    "id": "24436984-8587-4eb7-96a2-92fc4f21ff12",
+    "id": "a6b57a6e-ff7e-4b1b-982f-31f1793faab2",
     "source_feed": "https://jamanetwork.com/rss/site_18/74.xml",
     "journal": "JAMA Otolaryngology–Head & Neck Surgery Current Issue",
     "title": "Updated Calcitonin Thresholds More Accurately Predict Lymph Node Metastasis?—Reply",
@@ -637,7 +637,7 @@
     "relevance": "YES"
   },
   {
-    "id": "76ec2704-1a4b-476c-b332-96dd23ec2230",
+    "id": "3655e0b7-4031-41b9-9e17-162a95f8c5e0",
     "source_feed": "https://jamanetwork.com/rss/site_18/74.xml",
     "journal": "JAMA Otolaryngology–Head & Neck Surgery Current Issue",
     "title": "Error in the Strengths and Limitations Section",
@@ -667,7 +667,7 @@
     "relevance": "YES"
   },
   {
-    "id": "a1f5e827-9a5a-4d88-acab-ce6265e6a91c",
+    "id": "0e4021dc-0b13-4e15-ad2c-fc37bfbeb19c",
     "source_feed": "https://jamanetwork.com/rss/site_18/74.xml",
     "journal": "JAMA Otolaryngology–Head & Neck Surgery Current Issue",
     "title": "Oral Steroids for Postthyroidectomy Unilateral Vocal Fold Paralysis",
@@ -697,7 +697,7 @@
     "relevance": "YES"
   },
   {
-    "id": "2ffaf662-7fb9-48ed-b7de-01545e85e198",
+    "id": "b3b45c5e-3825-425a-bcee-c5509d89b8ec",
     "source_feed": "https://jamanetwork.com/rss/site_18/74.xml",
     "journal": "JAMA Otolaryngology–Head & Neck Surgery Current Issue",
     "title": "Oral Steroids for Postthyroidectomy Unilateral Vocal Fold Paralysis",
@@ -727,7 +727,7 @@
     "relevance": "YES"
   },
   {
-    "id": "950e25fa-47e6-486a-ac5b-e32c7e08f74b",
+    "id": "55ed6614-f999-41bd-af02-8a4cc2f6c0e7",
     "source_feed": "https://jamanetwork.com/rss/site_18/74.xml",
     "journal": "JAMA Otolaryngology–Head & Neck Surgery Current Issue",
     "title": "Caution Comparing Transoral Ultrasonography With Postbiopsy Magnetic Resonance Imaging—Reply",
@@ -757,7 +757,7 @@
     "relevance": "YES"
   },
   {
-    "id": "64732745-35ad-45d5-8461-0858f51d6a5f",
+    "id": "261fa1d3-12e0-4ec7-9a92-ba4292e0ede3",
     "source_feed": "https://jamanetwork.com/rss/site_18/74.xml",
     "journal": "JAMA Otolaryngology–Head & Neck Surgery Current Issue",
     "title": "Oral Steroids for Postthyroidectomy Unilateral Vocal Fold Paralysis—Reply",
@@ -787,7 +787,7 @@
     "relevance": "YES"
   },
   {
-    "id": "f14549cb-5852-419b-86a2-36caf9585d5f",
+    "id": "4e9b0c32-615d-4977-99d0-e825f808c561",
     "source_feed": "https://jamanetwork.com/rss/site_18/74.xml",
     "journal": "JAMA Otolaryngology–Head & Neck Surgery Current Issue",
     "title": "Outcome Prediction in Older Adults With Head and Neck Cancer Undergoing Chemoradiation",
@@ -817,7 +817,7 @@
     "relevance": "YES"
   },
   {
-    "id": "1d64e98f-4cae-4fba-979d-4e0e4312bfeb",
+    "id": "c9341e2f-3889-4941-a331-a4754d69e1ae",
     "source_feed": "https://jamanetwork.com/rss/site_18/74.xml",
     "journal": "JAMA Otolaryngology–Head & Neck Surgery Current Issue",
     "title": "Gingival Swelling and Frequent Epistaxis in an Older Woman",
@@ -847,7 +847,7 @@
     "relevance": "YES"
   },
   {
-    "id": "f6739407-c6b2-4a3c-95f5-8486d1fa2b76",
+    "id": "5d55be43-f64e-42c6-9b95-9074909df746",
     "source_feed": "https://jamanetwork.com/rss/site_18/74.xml",
     "journal": "JAMA Otolaryngology–Head & Neck Surgery Current Issue",
     "title": "Protecting the Contralateral Palatine Tonsil",
@@ -877,7 +877,7 @@
     "relevance": "YES"
   },
   {
-    "id": "f249a970-3488-4602-9780-e50775d8939d",
+    "id": "e452fc21-8f1c-45b4-897f-93b141acfc43",
     "source_feed": "https://jamanetwork.com/rss/site_18/74.xml",
     "journal": "JAMA Otolaryngology–Head & Neck Surgery Current Issue",
     "title": "A Rare Presentation of a Sinonasal Tumor",
@@ -907,7 +907,7 @@
     "relevance": "YES"
   },
   {
-    "id": "9fc22642-a90e-416a-b5a1-77028eab7716",
+    "id": "0e1a1166-e464-406c-99b8-1ae024ae912a",
     "source_feed": "https://jamanetwork.com/rss/site_18/74.xml",
     "journal": "JAMA Otolaryngology–Head & Neck Surgery Current Issue",
     "title": "Patient With a Cough and Calcified Cervical Lymphadenopathy",
@@ -937,7 +937,7 @@
     "relevance": "YES"
   },
   {
-    "id": "5b70875c-ecf6-46df-ad79-c9170842eb37",
+    "id": "9301fcae-f491-4557-b8c8-56a18b4d8ea5",
     "source_feed": "https://jamanetwork.com/rss/site_18/74.xml",
     "journal": "JAMA Otolaryngology–Head & Neck Surgery Current Issue",
     "title": "Oral Nicotine Pouches—Concerns for Otolaryngologists",
@@ -967,7 +967,7 @@
     "relevance": "YES"
   },
   {
-    "id": "81279d4d-ed2f-4172-acaf-f52f767ced25",
+    "id": "69ff1cfd-b7b3-4fab-8806-ded8a42d5393",
     "source_feed": "https://jamanetwork.com/rss/site_18/74.xml",
     "journal": "JAMA Otolaryngology–Head & Neck Surgery Current Issue",
     "title": "AI Model for Imaging-Based Extranodal Extension Detection in Human HPV-Positive Oropharyngeal Cancer",
@@ -997,7 +997,7 @@
     "relevance": "YES"
   },
   {
-    "id": "14939892-f99b-42eb-8b41-44e640169e3a",
+    "id": "368c247e-4458-438a-bd04-b535e6a3cebd",
     "source_feed": "https://jamanetwork.com/rss/site_18/onlineFirst_74.xml",
     "journal": "JAMA Otolaryngology–Head & Neck Surgery Online First",
     "title": "Prognostic Value of Tumor-Informed ctDNA in HPV-Independent Head and Neck Squamous Cell Carcinoma",
@@ -1023,7 +1023,7 @@
     "relevance": "YES"
   },
   {
-    "id": "719ef5e8-c728-4ffb-92f4-b938decad2fc",
+    "id": "8edebe82-bfa4-494a-ac94-2d49e88320b9",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Mandibular canal invasion as a T4a criterion: a step forward with important caveats",
@@ -1046,7 +1046,7 @@
     "relevance": "YES"
   },
   {
-    "id": "11bfb086-7517-4c66-a217-9930a337cd36",
+    "id": "dd4570ff-2877-4d51-8048-42e368edf8c4",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Carcinoma of the parotid Gland: A Population-Based study of incidence and treatment outcomes in 1018 patients",
@@ -1069,7 +1069,7 @@
     "relevance": "YES"
   },
   {
-    "id": "6a330621-8d31-4c07-ab44-2d5141978a5c",
+    "id": "374c146d-3f11-4004-b7d8-6601820044df",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Long-Term outcomes of induction chemotherapy–guided reduced-dose chemoradiotherapy in poor-risk HPV-Positive oropharyngeal Cancer: Results from the sequential quarterback trials",
@@ -1092,7 +1092,7 @@
     "relevance": "YES"
   },
   {
-    "id": "7898ff14-10a0-4c15-a81c-977588637130",
+    "id": "16327607-dbaf-4b4e-b923-7d355b6277d7",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Accuracy of frozen section for HPV-Associated squamous cell carcinoma of unknown primary",
@@ -1115,7 +1115,7 @@
     "relevance": "YES"
   },
   {
-    "id": "41d93e33-038a-46f4-a1dc-4ba7bb49b2f6",
+    "id": "e4cf3e0d-b381-43b8-84fc-e026fb2dc7c0",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Prognostic associations of systemic inflammation response index (SIRI) in patients with head and neck cancer: a systematic review and meta-analysis",
@@ -1138,7 +1138,7 @@
     "relevance": "YES"
   },
   {
-    "id": "06481495-c212-40f2-9e7f-26cf80c8cae5",
+    "id": "39f72753-62f5-4aa7-a4ef-645cafc8f821",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Cervical lymph node metastasis in oral squamous cell carcinoma: From metastatic patterns and risk factors to the development and validation of a predictive model",
@@ -1161,7 +1161,7 @@
     "relevance": "YES"
   },
   {
-    "id": "6298da44-e9dd-41f6-bef6-eae63fa47cf9",
+    "id": "fb07c43d-6cc8-4926-a1fa-23748d6ec94d",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Contemporary management of the clinically N0 neck in oral squamous cell carcinoma",
@@ -1184,7 +1184,7 @@
     "relevance": "YES"
   },
   {
-    "id": "cdee5dcd-b0b1-4d08-8039-e43f23b2cb05",
+    "id": "941ae6df-af48-4f93-a6e1-152280a49b41",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Advancing methodological rigor in exercise oncology trials for head and neck cancer",
@@ -1207,7 +1207,7 @@
     "relevance": "YES"
   },
   {
-    "id": "02098c1f-1781-46e7-9e71-d65d7159cee1",
+    "id": "3418042b-3ef4-43bf-bc45-d90251395ac0",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Methodological and clinical considerations for a novel nomogram predicting central lymph node metastasis in papillary thyroid microcarcinoma",
@@ -1230,7 +1230,7 @@
     "relevance": "YES"
   },
   {
-    "id": "d9f9324e-826b-475d-89d2-8ad231f707fc",
+    "id": "1613e894-187c-4ce3-bb28-658bc8d89e20",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "From risk factors to clinical Decisions: Methodological Considerations in Predicting occult metastasis in papillary thyroid carcinoma",
@@ -1253,7 +1253,7 @@
     "relevance": "YES"
   },
   {
-    "id": "b3b99bcc-1f18-4eba-b3b2-291e0f68b615",
+    "id": "a53af98d-ffcb-4e5a-8162-aa75bc0c2eae",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Perioperative immunotherapy for head and neck cancer: from early successes to clinical challenges in relapsed and/or metastatic disease",
@@ -1276,7 +1276,7 @@
     "relevance": "YES"
   },
   {
-    "id": "be8e9f2e-b8b3-4807-8b10-f08fd752de28",
+    "id": "63ca34f6-fb2d-4cd5-b114-0da406ab73fc",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Harnessing <em>TP53</em> mutational status to enhance prognostic precision and therapeutic effectiveness in head and neck squamous cell carcinoma",
@@ -1299,7 +1299,7 @@
     "relevance": "YES"
   },
   {
-    "id": "e19036f6-627b-49fe-9f41-c6901f01b1a4",
+    "id": "daba60e7-6578-4cfb-b9d5-ed89547c6cfc",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Incorporation of grade into stage in oral cavity squamous cell carcinoma: A novel staging schema",
@@ -1322,7 +1322,7 @@
     "relevance": "YES"
   },
   {
-    "id": "16ea4af2-58ee-4d7f-92d4-4ec5b5ae02ed",
+    "id": "b3e487e6-6995-4388-b0d8-0b6a3be366d3",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Prognostic significance of p16 and immune cell infiltration in recurrent/metastatic head and neck squamous cell carcinoma treated with PD-1 inhibition: a national DAHANCA cohort study",
@@ -1345,7 +1345,7 @@
     "relevance": "YES"
   },
   {
-    "id": "0557db9f-eb4c-499d-a2da-258916c6788f",
+    "id": "81ca6f67-6685-43d4-97c4-18c70b05479c",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Real-world effectiveness and healthcare utilization of nivolumab for advanced head and neck cancer: A real-world population-based descriptive study",
@@ -1368,7 +1368,7 @@
     "relevance": "YES"
   },
   {
-    "id": "d586d271-a168-431a-87a2-fb23a87ba3c5",
+    "id": "b8bc743e-2a3c-4f2d-bd7d-ec77712d0ab4",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Predicting occult lymph node metastasis in level II using preoperative factors",
@@ -1391,7 +1391,7 @@
     "relevance": "YES"
   },
   {
-    "id": "a94c15d1-21a4-4034-8f90-efe878e559ed",
+    "id": "2f13f05a-6f4f-440e-8d09-0a5b842c7e86",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Establishment of novel stable human sinonasal NUT carcinoma cell lines",
@@ -1414,7 +1414,7 @@
     "relevance": "YES"
   },
   {
-    "id": "242ab905-7051-4c68-a70d-631fe5400d1b",
+    "id": "1491b52f-fb83-4932-9475-999a71bc2c08",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Positron emission tomography-based intratumoral spatial diversity for prognosis in nasopharyngeal carcinoma",
@@ -1437,7 +1437,7 @@
     "relevance": "YES"
   },
   {
-    "id": "e2f23178-d7a4-4276-b7f8-f7c7eaa4ac8e",
+    "id": "eb6fa749-5cb5-44a5-ac9d-4d99629e8951",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Development and validation of a risk nomogram for predicting central lymph node metastasis in papillary thyroid microcarcinoma",
@@ -1460,7 +1460,7 @@
     "relevance": "YES"
   },
   {
-    "id": "fa68f058-c84f-4b55-a716-82e1721130f9",
+    "id": "859c83c3-58f0-418c-9f5a-6ef084b93065",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Exercise and quality of life in head and neck squamous cell carcinoma patients receiving neoadjuvant immuno-chemotherapy: A randomized, open-labeled phase II trial",
@@ -1483,7 +1483,7 @@
     "relevance": "YES"
   },
   {
-    "id": "994c1c4a-d2a2-4655-8d12-7c737a962334",
+    "id": "a37ad73a-b748-48e4-98ea-fa3a98d7fa85",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Head and neck cancer trends in Denmark: A nationwide, 40-Year data analysis",
@@ -1506,7 +1506,7 @@
     "relevance": "YES"
   },
   {
-    "id": "f638d9aa-81ed-488b-ae15-00417357251d",
+    "id": "eb7b6416-a3c3-44f2-9d7c-a2fb4ec1da2a",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Prevalence, risk Factors, and quality of life in patients with head and neck lymphedema following treatment for head and neck Cancer: The HeNLy-1 study",
@@ -1529,7 +1529,7 @@
     "relevance": "YES"
   },
   {
-    "id": "1c02da0d-e8fa-4ca0-94f5-0ddbc53a0c6d",
+    "id": "095c85b3-50be-43fb-8fcb-ee25ffb23eba",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Safety reporting in head and neck squamous cell carcinoma clinical Trials: A comparative analysis of ClinicalTrials.gov data and published research",
@@ -1552,7 +1552,7 @@
     "relevance": "YES"
   },
   {
-    "id": "c163039e-552d-4328-ba2f-f02d0699a1f7",
+    "id": "62fb9e11-749e-4192-9aa5-ff7e9c6a1fa7",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Head and neck squamous cell carcinoma following allogeneic bone marrow transplantation: Clinical features, genomic Alterations, and limited efficacy of palliative chemotherapy",
@@ -1575,7 +1575,7 @@
     "relevance": "YES"
   },
   {
-    "id": "9f59b113-1aea-44a3-897b-7324e6d66939",
+    "id": "ff267678-1b20-49a8-895e-c5d9fe3e5254",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Ensemble learning-based radiomics model for predicting radiation-induced temporal lobe injury in nasopharyngeal carcinoma",
@@ -1598,7 +1598,7 @@
     "relevance": "YES"
   },
   {
-    "id": "9513b260-10fc-425b-b0d9-d4c8fe299d2f",
+    "id": "8b8cf3a9-0c63-4737-9791-0b74c9c8903a",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "European surgical guidelines: transoral robotic surgery for head and neck cancers",
@@ -1621,7 +1621,7 @@
     "relevance": "YES"
   },
   {
-    "id": "69ad93e7-0725-4ff0-b484-4c4482dec336",
+    "id": "b0379c79-274f-46a0-aff1-3b96acb6dd40",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Development of a simplified scoring system for MRI-detected retropharyngeal lymph node features to optimize AJCC 9th edition N classification in nasopharyngeal carcinoma",
@@ -1644,7 +1644,7 @@
     "relevance": "YES"
   },
   {
-    "id": "a8e73bdb-f510-4527-b5b9-083b0c90486c",
+    "id": "3d55b84a-c322-4735-949f-91df4c16d476",
     "source_feed": "https://rss.sciencedirect.com/publication/science/13688375",
     "journal": "ScienceDirect Publication: Oral Oncology",
     "title": "Jaw-in-a-day (JIAD) for malignant indications: A systematic review",
@@ -1667,7 +1667,175 @@
     "relevance": "YES"
   },
   {
-    "id": "ec9b685c-4762-4eaf-a9c5-8980a5e8bb32",
+    "id": "d97bdb38-aacc-4c19-8c96-3e108bdce070",
+    "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
+    "journal": "Wiley: Head & Neck: Table of Contents",
+    "title": "Short‐Term Outcomes of Advanced Pneumatic Compression Device Versus Usual Care Therapy for Head and Neck Cancer‐Related Lymphedema: A Multi‐Site Randomized Clinical Trial",
+    "abstract": "Head &amp;Neck, EarlyView.",
+    "published": "Fri, 23 Jan 2026 03:35:58 -0800",
+    "authors": [
+      "Barbara A. Murphy, \nDerek K. Smith, \nCristina M. Kline‐Quiroz, \nKatrina M. Jensen, \nAmmar W. Sukari, \nMihir K. Bhayani, \nVikas Mehta, \nHarry Quon, \nJennifer L. Shah, \nChristopher D. Willey, \nNeal E. Dunlap, \nHoon K. Lee, \nJoseph M. Aulino, \nSheila H. Ridner"
+    ],
+    "doi": "10.1002/hed.70155",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/hed.70155?af=R",
+    "allow_doi_lookup": false,
+    "raw_entry_keys": [
+      "author",
+      "author_detail",
+      "authors",
+      "content",
+      "dc_identifier",
+      "guidislink",
+      "id",
+      "link",
+      "links",
+      "prism_coverdate",
+      "prism_coverdisplaydate",
+      "prism_doi",
+      "prism_publicationname",
+      "prism_section",
+      "prism_url",
+      "published",
+      "published_parsed",
+      "source",
+      "summary",
+      "summary_detail",
+      "tags",
+      "title",
+      "title_detail",
+      "updated",
+      "updated_parsed"
+    ],
+    "relevance": "YES"
+  },
+  {
+    "id": "124d936f-02c5-4db4-9b68-a1628d2c508c",
+    "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
+    "journal": "Wiley: Head & Neck: Table of Contents",
+    "title": "A Randomized Controlled Trial Comparing Cervical Range of Motion Between Video‐Guided Stretching Exercise and Standard Method in Post‐Operative Neck Dissection Patients",
+    "abstract": "Head &amp;Neck, EarlyView.",
+    "published": "Fri, 23 Jan 2026 03:30:38 -0800",
+    "authors": [
+      "Sataporn Ruangprasertkul, \nWatchareporn Teeramatwanich, \nPornthep Kasemsiri, \nTeeraporn Ratanaanekchai, \nJakkree Naruekon, \nPatpiya Sirasaporn, \nSupawan Laohasiriwong, \nPatravoot Vatanasapt"
+    ],
+    "doi": "10.1002/hed.70174",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/hed.70174?af=R",
+    "allow_doi_lookup": false,
+    "raw_entry_keys": [
+      "author",
+      "author_detail",
+      "authors",
+      "content",
+      "dc_identifier",
+      "guidislink",
+      "id",
+      "link",
+      "links",
+      "prism_coverdate",
+      "prism_coverdisplaydate",
+      "prism_doi",
+      "prism_publicationname",
+      "prism_section",
+      "prism_url",
+      "published",
+      "published_parsed",
+      "source",
+      "summary",
+      "summary_detail",
+      "tags",
+      "title",
+      "title_detail",
+      "updated",
+      "updated_parsed"
+    ],
+    "relevance": "YES"
+  },
+  {
+    "id": "569f70ce-ae96-4ac7-8b69-0ef43067cd5b",
+    "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
+    "journal": "Wiley: Head & Neck: Table of Contents",
+    "title": "Prognostic Role of Histopathological Features in Pediatric Papillary Thyroid Carcinoma: Systematic Review and Meta‐Analysis",
+    "abstract": "Head &amp;Neck, EarlyView.",
+    "published": "Fri, 23 Jan 2026 03:18:23 -0800",
+    "authors": [
+      "Luca Canali, \nGian Marco Pace, \nCamilla Zimello, \nLuca Cerri, \nAndrea Costantino, \nFrancesca Gaino, \nLuca Malvezzi, \nGiuseppe Spriano, \nAlberto Paderno, \nFabio Ferreli, \nGiovanni Cristalli, \nGiuseppe Mercante"
+    ],
+    "doi": "10.1002/hed.70180",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/hed.70180?af=R",
+    "allow_doi_lookup": false,
+    "raw_entry_keys": [
+      "author",
+      "author_detail",
+      "authors",
+      "content",
+      "dc_identifier",
+      "guidislink",
+      "id",
+      "link",
+      "links",
+      "prism_coverdate",
+      "prism_coverdisplaydate",
+      "prism_doi",
+      "prism_publicationname",
+      "prism_section",
+      "prism_url",
+      "published",
+      "published_parsed",
+      "source",
+      "summary",
+      "summary_detail",
+      "tags",
+      "title",
+      "title_detail",
+      "updated",
+      "updated_parsed"
+    ],
+    "relevance": "YES"
+  },
+  {
+    "id": "ccabb113-e74e-4ecb-95b5-8e78ec2ac873",
+    "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
+    "journal": "Wiley: Head & Neck: Table of Contents",
+    "title": "Long‐Term Outcomes of Radial Forearm Free Flap Reconstruction of the Trachea",
+    "abstract": "Head &amp;Neck, EarlyView.",
+    "published": "Wed, 21 Jan 2026 03:40:49 -0800",
+    "authors": [
+      "W. Jack Palmer, \nDylan Bertoni, \nKathleen M. Tibbetts, \nColin T. Huntley, \nHoward Krein, \nRyan Heffelfinger, \nJoseph R. Spiegel"
+    ],
+    "doi": "10.1002/hed.70176",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/hed.70176?af=R",
+    "allow_doi_lookup": false,
+    "raw_entry_keys": [
+      "author",
+      "author_detail",
+      "authors",
+      "content",
+      "dc_identifier",
+      "guidislink",
+      "id",
+      "link",
+      "links",
+      "prism_coverdate",
+      "prism_coverdisplaydate",
+      "prism_doi",
+      "prism_publicationname",
+      "prism_section",
+      "prism_url",
+      "published",
+      "published_parsed",
+      "source",
+      "summary",
+      "summary_detail",
+      "tags",
+      "title",
+      "title_detail",
+      "updated",
+      "updated_parsed"
+    ],
+    "relevance": "YES"
+  },
+  {
+    "id": "98784101-5cd4-4a9d-a6c4-7570bab221c7",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Off‐Label Use of a Tracheoesophageal Prosthesis for Occlusion of an Oronasal Fistula",
@@ -1709,7 +1877,7 @@
     "relevance": "YES"
   },
   {
-    "id": "9311ff92-965c-473b-8fb0-6abbc09b867f",
+    "id": "428bc7d8-2e53-4dea-8233-f8810ee793be",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Geographic and Institutional Patterns of Transoral Robotic Surgery in Head and Neck Cancer",
@@ -1751,7 +1919,7 @@
     "relevance": "YES"
   },
   {
-    "id": "2052c03f-fc05-42d1-85ee-0c51acad83db",
+    "id": "54025e62-2400-4762-a638-8ea674e09969",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Aggressive Inpatient Care at the End of Life for Patients With Head and Neck Cancer",
@@ -1793,7 +1961,7 @@
     "relevance": "YES"
   },
   {
-    "id": "62fb27cf-2f7a-45c1-90ce-c4611b15a75a",
+    "id": "3273bd3c-e9ae-4296-8d84-de1a09e5fe6c",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Obstructive Sleep Apnea Following Head and Neck Chemoradiation: A Scoping Review With Exploratory Meta‐Analysis",
@@ -1835,7 +2003,7 @@
     "relevance": "YES"
   },
   {
-    "id": "a5836b80-ac25-402e-9c7a-c3ed38f7c0d3",
+    "id": "9dbef0bd-7182-4ac3-ab1d-bcbf0a57f7f0",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Minimal Extrathyroidal Extension in Bilateral Papillary Thyroid Carcinoma Is Associated With Postoperative Structural Recurrence",
@@ -1877,7 +2045,7 @@
     "relevance": "YES"
   },
   {
-    "id": "88113c90-4153-49a7-a4b0-c07f92d8b272",
+    "id": "e60f8fc3-2dfa-46d4-ba6a-2389f991bdc5",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Transoral Styloidectomy Approach: A Systematic Review and Enhanced Endoscopic Approach",
@@ -1919,7 +2087,49 @@
     "relevance": "YES"
   },
   {
-    "id": "f556ddb5-d7e7-450d-bc2c-92cafe8d4ec6",
+    "id": "20ddeeaa-ac59-4b2c-9ad9-c4ba367648ae",
+    "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
+    "journal": "Wiley: Head & Neck: Table of Contents",
+    "title": "Impact of Early Trismus Intervention Following Facial Nerve Palsy Reconstruction",
+    "abstract": "Head &amp;Neck, EarlyView.",
+    "published": "Fri, 16 Jan 2026 02:59:06 -0800",
+    "authors": [
+      "Briony Adshead, \nEmma Charters, \nMegan Lai, \nJonathan Clark, \nMasako Dunn, \nKai Cheng, \nTsu‐Hui Low"
+    ],
+    "doi": "10.1002/hed.70169",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/hed.70169?af=R",
+    "allow_doi_lookup": false,
+    "raw_entry_keys": [
+      "author",
+      "author_detail",
+      "authors",
+      "content",
+      "dc_identifier",
+      "guidislink",
+      "id",
+      "link",
+      "links",
+      "prism_coverdate",
+      "prism_coverdisplaydate",
+      "prism_doi",
+      "prism_publicationname",
+      "prism_section",
+      "prism_url",
+      "published",
+      "published_parsed",
+      "source",
+      "summary",
+      "summary_detail",
+      "tags",
+      "title",
+      "title_detail",
+      "updated",
+      "updated_parsed"
+    ],
+    "relevance": "YES"
+  },
+  {
+    "id": "6fce420c-c61b-498e-8514-67d3e0bebbf7",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Self‐Reported Speech Outcomes in Oral Cavity Cancer",
@@ -1961,7 +2171,7 @@
     "relevance": "YES"
   },
   {
-    "id": "76c10d63-b7d9-4edc-aeb6-b2fb17a0b00b",
+    "id": "30c44ee4-cdc7-43f6-9f10-b1d2346cde42",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Exploratory Biomarker Analysis of Abemaciclib in Recurrent/Metastatic Head and Neck Squamous Cell Carcinoma With Dysregulated CDK4/6 Pathway",
@@ -2003,7 +2213,51 @@
     "relevance": "YES"
   },
   {
-    "id": "fc1d31ad-c923-4a32-ba02-56aa77f22c98",
+    "id": "bf08f009-0782-4845-a992-ddc3e80fc07d",
+    "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
+    "journal": "Wiley: Head & Neck: Table of Contents",
+    "title": "Partial Laryngectomy for Thyroid Cancer: A Single Institution Case Series With Operative Techniques",
+    "abstract": "Head &amp;Neck, Volume 48, Issue 2, Page E20-E24, February 2026.",
+    "published": "Tue, 13 Jan 2026 00:36:05 -0800",
+    "authors": [
+      "Ella E. Hawes, \nVictoria E. Banuchi, \nAnastasios Maniakas, \nJennifer R. Wang, \nPaul H. Graham, \nJulia D. Diersing, \nNaifa L. Busaidy, \nMaria E. Cabanillas, \nRamona Dadu, \nSarah Hamidi, \nPriyanka Iyer, \nSteven G. Waguespack, \nSalmaan Ahmed, \nSahar Alizada, \nAlexandra Belcastro, \nRanim Alsharif, \nMimi I. Hu, \nMark E. Zafereo"
+    ],
+    "doi": "10.1002/hed.28246",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/hed.28246?af=R",
+    "allow_doi_lookup": false,
+    "raw_entry_keys": [
+      "author",
+      "author_detail",
+      "authors",
+      "content",
+      "dc_identifier",
+      "guidislink",
+      "id",
+      "link",
+      "links",
+      "prism_coverdate",
+      "prism_coverdisplaydate",
+      "prism_doi",
+      "prism_number",
+      "prism_publicationname",
+      "prism_section",
+      "prism_url",
+      "prism_volume",
+      "published",
+      "published_parsed",
+      "source",
+      "summary",
+      "summary_detail",
+      "tags",
+      "title",
+      "title_detail",
+      "updated",
+      "updated_parsed"
+    ],
+    "relevance": "YES"
+  },
+  {
+    "id": "4ec51875-233b-491e-bc6c-a68ee8b3311d",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Using Flight Plan for Embolization Technique Based on Carotid Body Tumor Angiography to Improve Surgical Treatment of the Lesion: Report of Two Cases",
@@ -2047,7 +2301,7 @@
     "relevance": "YES"
   },
   {
-    "id": "3b636345-a99b-4002-a266-af0cc9d08968",
+    "id": "9cb4a6c1-8e0f-4bd9-a133-dd9129cbff86",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Tracheostomy in Flap‐Based Head and Neck Cancer Surgery: A Meta‐Analysis of Indications and Adverse Outcomes",
@@ -2091,7 +2345,7 @@
     "relevance": "YES"
   },
   {
-    "id": "2dc413dd-637d-4066-ad51-52607c21cd91",
+    "id": "109e3908-3a4c-4af5-9afb-d42f305aae4a",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Longitudinal Patterns of Radiation‐Associated Dysphagia in Patients With Head and Neck Cancer: A Systematic Review",
@@ -2135,7 +2389,7 @@
     "relevance": "YES"
   },
   {
-    "id": "f4472a71-5a4b-44bf-b612-fb902c65d82d",
+    "id": "33e72938-cf98-4d3f-be2c-5561c1168617",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Oral Carcinoma Cuniculatum: A Rare, Clinically Challenging Entity—A Case Report and Updated Systematic Review",
@@ -2179,7 +2433,7 @@
     "relevance": "YES"
   },
   {
-    "id": "0e25377f-7d1d-4ffa-bc61-79d72a964f1e",
+    "id": "1a0790b9-23ec-4a8d-97bb-771689e345bc",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Clinicopathological Relevance of Tumor Budding at the Invasive Tumor Front in Early‐Stage Oral Tongue Squamous Cell Carcinoma: Histological and Immunohistochemical Analysis",
@@ -2223,7 +2477,7 @@
     "relevance": "YES"
   },
   {
-    "id": "9b1b6b2b-e1a2-4e3a-9aff-e3b406569314",
+    "id": "707cf635-b305-4555-8e24-ee82d90af094",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Hypoglossal Neuropathy in the Pathogenesis of Fibrosis‐Related Late‐Radiation Associated Dysphagia: A Correlative Analysis Utilizing Electromyography to Explore the Frequency of Clinical and Subclinical Neuropathy in a Pilot Dysphagia Trial",
@@ -2267,7 +2521,7 @@
     "relevance": "YES"
   },
   {
-    "id": "620e715a-37fd-4c75-87e8-b04589bd1303",
+    "id": "0dfcf85b-bf78-4c93-a673-5d430a4cb96b",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Quantifying Bite Forces for Solid Foods: Implications for Patients Postmandibular Reconstruction",
@@ -2311,7 +2565,7 @@
     "relevance": "YES"
   },
   {
-    "id": "f7972783-5326-4c9a-9f9d-3af642049eb2",
+    "id": "74c7e528-f324-4991-aa90-c3c4bbb54554",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Neoadjuvant Chemotherapy Followed by Surgery—A Promising Strategy to Reduce Morbidity in Locally Advanced Tongue Cancer",
@@ -2355,7 +2609,7 @@
     "relevance": "YES"
   },
   {
-    "id": "6e92ae69-f78a-4a59-85e8-a5ce6131da84",
+    "id": "c742f9c5-83f3-4a6e-b8f5-76f31fd64713",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Multiparametric Ultrasound for Preoperative Assessment of Parotid Tumors: A Novel Diagnostic Pathway",
@@ -2399,7 +2653,7 @@
     "relevance": "YES"
   },
   {
-    "id": "0f417605-412e-4b57-8de6-b9da92e6935a",
+    "id": "e4e319fe-45b9-45ee-bbc1-e9b64be3dd69",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Comparing Functional Outcomes Following TORS With Free Flap Reconstruction Using a Radial Forearm vs. Anterolateral Thigh Flap",
@@ -2443,7 +2697,7 @@
     "relevance": "YES"
   },
   {
-    "id": "007f82a6-4198-42eb-a261-ea9aca8e0aad",
+    "id": "25c0c158-39b6-4ac1-8e43-e5e527ad5a4f",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Flap Complications Following Maxillectomy, Reconstructive Surgery, and Postoperative Proton Radiotherapy: A Cohort Study and Considerations for Risk Mitigation",
@@ -2487,7 +2741,7 @@
     "relevance": "YES"
   },
   {
-    "id": "406cad46-a666-4d3f-84e5-7e709a9c98b7",
+    "id": "939b40cf-07bf-43f3-b501-c9084304294f",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Transoral Robotic Surgery (TORS) Versus Open Surgery for Recurrent Oropharyngeal Squamous Cell Carcinoma: A Systematic Review and Meta‐Analysis",
@@ -2531,7 +2785,7 @@
     "relevance": "YES"
   },
   {
-    "id": "eaf10963-6fc4-4910-be90-e8d658d66e21",
+    "id": "220283c0-b002-4842-b59e-c6bb6d2a8bb7",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Prognosis After Discontinued Treatment due to Immune‐Related Adverse Events in Recurrent and Metastatic Head and Neck Squamous Cell Carcinoma",
@@ -2575,7 +2829,7 @@
     "relevance": "YES"
   },
   {
-    "id": "866b9d6b-097b-467d-8862-987766e0d29a",
+    "id": "e158192d-d914-4e2e-b5b9-5e34279ffcb6",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Clinical Outcomes of Radiologically Node‐Negative Oropharyngeal Squamous Cell Carcinoma: A Retrospective Analysis",
@@ -2619,7 +2873,7 @@
     "relevance": "YES"
   },
   {
-    "id": "3659ee60-3455-41a4-b512-beacf13a5416",
+    "id": "69e77155-0878-467f-80c4-821a8a7702ec",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Comparison of Outcomes Between Free Ileocolonic and Tube‐Shaped ALT Fasciocutaneous Flaps in Total Hypopharyngeal Defect Reconstruction",
@@ -2663,7 +2917,7 @@
     "relevance": "YES"
   },
   {
-    "id": "ae799f25-3d03-48eb-b302-054227b4e7a1",
+    "id": "e5a08dc3-0cc0-4d14-b705-e410b5ffc09d",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Long‐Term Quality of Life Outcomes After Head and Neck Cancer in New Zealand",
@@ -2707,7 +2961,7 @@
     "relevance": "YES"
   },
   {
-    "id": "982139e7-1035-4409-bfc5-32a0581f0a42",
+    "id": "ee20ce03-a172-4a92-b4fb-67c5debd85b3",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Novel Assessment of Advanced Practice Provider‐Led Head and Neck Cancer Survivorship Clinic: Quality‐of‐Care Metric Analysis and HOUSES Index Application",
@@ -2751,7 +3005,7 @@
     "relevance": "YES"
   },
   {
-    "id": "57d1bbd6-3580-4272-9c56-15aa1a679125",
+    "id": "de462ff5-895e-49f4-bb87-51ba3cb65db9",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "The Impact of Stratified Surgical Margins on Survival Outcomes in Oral Cavity Squamous Cell Carcinoma: A Multicenter Analysis",
@@ -2795,7 +3049,7 @@
     "relevance": "YES"
   },
   {
-    "id": "cc8473c8-966b-48fe-8cf1-fc49169e1361",
+    "id": "164f1c75-1951-4c2e-946b-c44fd60ec06d",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Neck Dissection Reduces Risk of Recurrence in Early‐Stage Oral Tongue Cancer",
@@ -2839,7 +3093,7 @@
     "relevance": "YES"
   },
   {
-    "id": "196886f3-cf69-488a-9c12-68d6b3192955",
+    "id": "1c033981-6b6a-4e71-95c1-0be2170c90df",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Examining CD103+ Tissue‐Resident Memory T Cells in Nasopharyngeal Carcinoma",
@@ -2883,7 +3137,7 @@
     "relevance": "YES"
   },
   {
-    "id": "ca17144b-e788-4fef-9ebb-bd2e4f1cf004",
+    "id": "b790b3ce-c623-43d9-99dd-382dfb1d91fb",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Three‐Dimensional Presentation of Tongue Squamous Cell Carcinoma Histopathology and Magnetic Resonance Imaging—A Novel Image Fusion Method",
@@ -2927,7 +3181,7 @@
     "relevance": "YES"
   },
   {
-    "id": "48242a25-1e07-474d-9be8-6d11eccdf99f",
+    "id": "b786d64d-820f-4e7d-bd06-20b2a759b526",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Predictive Nomogram for Risk Stratification After Transoral Surgery in HPV‐Related Oropharyngeal Cancer",
@@ -2971,7 +3225,7 @@
     "relevance": "YES"
   },
   {
-    "id": "66ecdbe5-086d-43e4-ba98-b15afc8cbcf4",
+    "id": "df67f21b-717e-4685-b97a-fa17e2f02188",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "The Performance of Automatic Speaking Valves and Fixation Devices Enabling Hands‐Free Speech Following Total Laryngectomy—A Systematic Review",
@@ -3015,7 +3269,7 @@
     "relevance": "YES"
   },
   {
-    "id": "6074f0e9-d1d5-46f9-b4aa-7d383ba4b85a",
+    "id": "c9b897e5-3119-49d9-9466-d16d3e1cdc61",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Diagnostic Accuracy of HPV Circulating Tumor DNA Following Non‐Diagnostic FNA of a Cystic Lateral Neck Mass",
@@ -3059,7 +3313,7 @@
     "relevance": "YES"
   },
   {
-    "id": "209b416f-9ba5-4b35-83b1-3b904b592623",
+    "id": "bb5b0f17-26a8-48fb-9707-47e1bcdb03d6",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Tumoral Skin Invasion Is an Independent Predictor of Rapid Recurrence in Head and Neck Cancer",
@@ -3103,7 +3357,7 @@
     "relevance": "YES"
   },
   {
-    "id": "abed5929-be29-4427-b543-baf05a37a793",
+    "id": "c275d9fa-1b35-4f75-ae8d-b2a78f1327a2",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "CRISPR Screens Identify PIK3C2A as a Novel Mediator of EGFR Inhibitor Resistance in Head and Neck Squamous Cell Carcinoma",
@@ -3147,7 +3401,7 @@
     "relevance": "YES"
   },
   {
-    "id": "220fde59-fa59-4ca6-b55d-99f8064c9192",
+    "id": "05113382-057e-466b-9790-a465433eb595",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Age‐Related Risk Stratification in HPV‐Positive Oropharyngeal Cancer: Implications for Treatment De‐Intensification",
@@ -3189,7 +3443,7 @@
     "relevance": "YES"
   },
   {
-    "id": "05443e46-e7b9-440b-9a97-18100f6f24d9",
+    "id": "7d6171cd-5d04-4516-9b54-56ad141a607d",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Perioperative Piperacillin/Tazobactam Reduces Early Onset SSI in Preirradiated Patients Undergoing Microvascular Head and Neck Reconstruction",
@@ -3231,7 +3485,7 @@
     "relevance": "YES"
   },
   {
-    "id": "c6a25997-3911-4161-b519-9ed2e9f7f50d",
+    "id": "01f047d9-ee7b-4518-83b3-ca313d19b578",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Molecular Characterization of Isolated Soft Tissue Deposits in Papillary Thyroid Carcinoma",
@@ -3273,7 +3527,7 @@
     "relevance": "YES"
   },
   {
-    "id": "e9bec288-1c94-472e-bbe4-9a49fb43ae8f",
+    "id": "a9660157-8e71-4020-b650-a3e0faf6fee1",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Improved Survival of HPV‐Related Sinonasal Squamous Cell Carcinoma With Chemoradiation Treatment",
@@ -3315,7 +3569,7 @@
     "relevance": "YES"
   },
   {
-    "id": "7069203a-6430-4470-943c-58d5f8c40e6a",
+    "id": "aba2f1e4-beee-424d-be71-b0ac455c080f",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Intraoperative Molecular Imaging Can Detect Large Nerve Perineural Invasion: A Case Report",
@@ -3357,7 +3611,7 @@
     "relevance": "YES"
   },
   {
-    "id": "2bf7b023-a353-48a8-8b3e-a9f21943128d",
+    "id": "883e910c-be6a-4e4e-89d1-abee0b9a1e89",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Interventional Radiotherapy (Brachytherapy) for the Treatment of the Primary Lesion in Squamous Cell Carcinomas of the Oral Vestibule",
@@ -3399,7 +3653,7 @@
     "relevance": "YES"
   },
   {
-    "id": "c81faf01-4e14-487b-b4a6-ae26e8a8f646",
+    "id": "f3f22f63-dafc-4d32-8f04-801efb4a6850",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "The Impact of p16 Status on Survival Within Non‐Oropharyngeal Head and Neck Squamous Cell Carcinoma",
@@ -3441,7 +3695,7 @@
     "relevance": "YES"
   },
   {
-    "id": "ab0fd9b1-96ac-4b0d-8527-72275337c04c",
+    "id": "4eb74f9b-78e2-46e3-ab80-8e26a3f322f6",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Head and Neck Cancer Patients' Health Literacy: A Systematic Review and Meta‐Analysis",
@@ -3483,7 +3737,7 @@
     "relevance": "YES"
   },
   {
-    "id": "773df2d2-d347-4b1a-8805-52efc6cc6c88",
+    "id": "735a655d-f1da-46de-9666-f7f9167d88d6",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "A Novel Connector for Intraoperative Nerve Monitoring Probes in Endoscopic Thyroidectomy: Comparative Efficacy and Preclinical Evaluation in a Porcine Model",
@@ -3525,7 +3779,7 @@
     "relevance": "YES"
   },
   {
-    "id": "6f1f6bc4-2e59-4f5a-b033-506003c3318b",
+    "id": "184db3f8-cf66-4821-8ce2-6bc7f976c405",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Postoperative Antithrombotic Strategies in Head and Neck Free Flap Reconstruction: A Systematic Review and Network Meta‐Analysis",
@@ -3567,7 +3821,7 @@
     "relevance": "YES"
   },
   {
-    "id": "77494aa3-8482-48a2-980f-0eb7d99660d1",
+    "id": "f9ccaca0-8841-489a-9194-b63fadf85c13",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "KUSCC‐192: A Novel Tonsillar Squamous Cell Carcinoma Cell Line With Mixed (Episomal and Integrated)‐Typed Human Papillomavirus From a Korean Patient With Tonsil Cancer",
@@ -3609,7 +3863,7 @@
     "relevance": "YES"
   },
   {
-    "id": "ba2aff59-eac1-45d0-863f-334483a47204",
+    "id": "f04c157f-41b4-4b6b-9766-35de81c62ff5",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Association Between Elective Nodal Irradiation and Oncologic Outcomes in Node‐Negative Olfactory Neuroblastoma and Sinonasal Squamous Cell Carcinoma: A Propensity‐Score Matched Analysis",
@@ -3651,7 +3905,7 @@
     "relevance": "YES"
   },
   {
-    "id": "1ba5e3b5-5470-436b-8c11-843fee09c981",
+    "id": "9b85b93d-3612-4c1f-8ade-c2f742b2c2e7",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Biopsy for Suspicious Oral Lesions: A Review From the American Head and Neck Society‐Cancer Prevention Service",
@@ -3693,7 +3947,7 @@
     "relevance": "YES"
   },
   {
-    "id": "85094f8f-3fc6-4be0-8def-d98d9a58bc3c",
+    "id": "ac2742dc-6076-4846-be81-28d1eb8b29aa",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Survival Impact of Immunotherapy in Advanced Head and Neck Squamous Cell Carcinoma: A National Cancer Database Analysis",
@@ -3735,7 +3989,7 @@
     "relevance": "YES"
   },
   {
-    "id": "b16e3007-0447-429f-a7d0-bc9557a04bba",
+    "id": "93d61418-a7f2-44e0-a465-75b876165a0b",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Targeted Radionuclide Therapy With 131I‐Labeled Anti‐PD‐L1 Antibody Suppresses Pharyngeal Squamous Cell Carcinoma in the Animal Model",
@@ -3777,7 +4031,7 @@
     "relevance": "YES"
   },
   {
-    "id": "008947d8-2401-404f-82ba-25bc1fcae093",
+    "id": "890af06c-d86d-43b2-988e-6f922b653909",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Efficacy of Multimodal Work‐Up of Head and Neck Squamous Cell Carcinoma Lymph Node Metastasis of Unknown Primary",
@@ -3819,7 +4073,7 @@
     "relevance": "YES"
   },
   {
-    "id": "2333397b-1b00-4d1c-b3d9-b69420530939",
+    "id": "cb044970-3e20-4007-b289-970d89ff8a83",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Selection of an Endoscopic Endonasal or Transoral Approach to the Infratemporal Fossa",
@@ -3861,7 +4115,7 @@
     "relevance": "YES"
   },
   {
-    "id": "b47609ff-062f-46b6-b00e-708b05f99464",
+    "id": "43f69d1f-99ac-4311-be79-e553ae46047d",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Challenges in the Management of Laryngeal Stenosis After Partial Laryngectomy for Laryngeal Squamous Cell Carcinoma",
@@ -3903,7 +4157,7 @@
     "relevance": "YES"
   },
   {
-    "id": "7abaa9dd-247e-45d6-ad60-7337ba30aab9",
+    "id": "17b88afc-0c4a-4bf1-ad3a-e421110ab5bd",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Evaluation of the Clinical Effects of Intraoperative Facial Nerve Repair and Reconstruction for Parotid Malignant Tumors",
@@ -3945,7 +4199,7 @@
     "relevance": "YES"
   },
   {
-    "id": "bbe9d28c-efb3-4ed5-9f06-73de26287fcf",
+    "id": "d4924937-3dd5-4024-9b9d-f838dd575b75",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Greater Attention to Gingival Cancer and Floor of Mouth Cancer: Based on a Retrospective Analysis of Oral Cancer Across Different Subsites",
@@ -3987,7 +4241,7 @@
     "relevance": "YES"
   },
   {
-    "id": "cc4f83ba-a7dc-41ce-a3f4-b5117381b84d",
+    "id": "2cc3b66b-5f2a-4641-99fe-dc74592ea8e9",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Feasibility and Adherence to Home‐Based Intensive Treatment Programs for Chronic Radiation‐Associated Dysphagia in Head and Neck Cancer Survivors—The HIT‐CRAD Trial",
@@ -4029,7 +4283,7 @@
     "relevance": "YES"
   },
   {
-    "id": "bd54ea4c-5a5d-4f83-95a4-feda94c44933",
+    "id": "2b900670-538c-4cd4-a00a-519c836a84a0",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Brain Metastases From Differentiated Thyroid Cancer in the Era of Targeted Therapies: A Multi‐Center Retrospective Cohort",
@@ -4071,7 +4325,7 @@
     "relevance": "YES"
   },
   {
-    "id": "f6a90b81-1f07-4d8e-86ef-2b2eba14c397",
+    "id": "1ab600b9-8b61-43e8-9e4e-b8ef7f6b9dac",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Differences in Survival Following Surgery Versus Chemoradiotherapy for Clinical Stage T4a Laryngeal Squamous Cell Carcinoma: A Propensity Score‐Matched Analysis",
@@ -4113,7 +4367,7 @@
     "relevance": "YES"
   },
   {
-    "id": "2b113ecb-034a-4d90-b452-1d638567d92a",
+    "id": "933f40be-250e-44d5-ae4f-aae2055e2a20",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Neutrophil to Lymphocyte and Lymphocyte to Monocyte Ratios Predict Improved Survival and Response to Induction Chemotherapy in Locally Advanced Squamous Cell Carcinoma of the Larynx",
@@ -4155,7 +4409,7 @@
     "relevance": "YES"
   },
   {
-    "id": "35d62d18-f216-4731-a6ef-f27f1a77cba4",
+    "id": "718a893a-ef4f-4e25-9ac5-539c5dc1db79",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "The Prognostic Value of Worst Pattern of Invasion‐5 on Low‐Risk and Early‐Stage Oral Tongue Cancer",
@@ -4197,7 +4451,7 @@
     "relevance": "YES"
   },
   {
-    "id": "6300165a-054c-457b-8d9b-b3d94dde058c",
+    "id": "7a11393c-9bbe-48ef-aa90-1657dfae54b9",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Nomogram for Predicting Osteoradionecrosis After Fibula Free Flap for Mandibular Reconstruction",
@@ -4239,7 +4493,7 @@
     "relevance": "YES"
   },
   {
-    "id": "aa969f53-1916-4f33-9c4e-502703520e8b",
+    "id": "5ca7c461-b4ca-427e-8f66-44126856eb92",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Rates of ICU Delirium After Microvascular Free Tissue Transfer Reconstruction of the Oral Cavity and Oropharynx",
@@ -4281,7 +4535,7 @@
     "relevance": "YES"
   },
   {
-    "id": "72b508dd-9c9c-4fd4-82ca-493bd4189dcd",
+    "id": "9234bb42-1410-4b82-800d-acaf3adafe05",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Application of Acellular Dermal Matrix With or Without Flap Repair in Postoperative Defect Repair of Hypopharyngeal Carcinoma",
@@ -4323,7 +4577,7 @@
     "relevance": "YES"
   },
   {
-    "id": "54e9fd41-ab07-40ba-b805-615f0a0555a9",
+    "id": "d8bedf1a-538c-4b78-8706-e992e5055fa3",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Intraoperatıve Nerve Monıtorıng Durıng Thyroıdectomy Can Reduce the Injury to the External Branch of the Superıor Laryngeal Nerve Durıng Superıor Thyroıd Pole Dıssectıon: A Prospective Randomized Study",
@@ -4365,49 +4619,7 @@
     "relevance": "YES"
   },
   {
-    "id": "20f1a850-9fb6-4184-995b-242235a85879",
-    "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
-    "journal": "Wiley: Head & Neck: Table of Contents",
-    "title": "Medial Sural Artery Perforator Flap Radiographic Vascular Characteristics",
-    "abstract": "Head &amp;Neck, EarlyView.",
-    "published": "Fri, 12 Dec 2025 17:04:42 -0800",
-    "authors": [
-      "Michael A. Cirelli Jr, \nJustin M. Hintze, \nTaylor B. Cave, \nDaniah ALNafisee, \nTanya J. Rath, \nBrent A. Chang"
-    ],
-    "doi": "10.1002/hed.70125",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/hed.70125?af=R",
-    "allow_doi_lookup": false,
-    "raw_entry_keys": [
-      "author",
-      "author_detail",
-      "authors",
-      "content",
-      "dc_identifier",
-      "guidislink",
-      "id",
-      "link",
-      "links",
-      "prism_coverdate",
-      "prism_coverdisplaydate",
-      "prism_doi",
-      "prism_publicationname",
-      "prism_section",
-      "prism_url",
-      "published",
-      "published_parsed",
-      "source",
-      "summary",
-      "summary_detail",
-      "tags",
-      "title",
-      "title_detail",
-      "updated",
-      "updated_parsed"
-    ],
-    "relevance": "YES"
-  },
-  {
-    "id": "06b1438d-000c-4a9b-a9c8-b154a793d53e",
+    "id": "c1c82837-9416-4a16-8c5d-f0d3e270b6fb",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Chloride Intracellular Channel 2 Can Function as a Malignant Factor in Head and Neck Squamous Cell Carcinoma",
@@ -4449,7 +4661,7 @@
     "relevance": "YES"
   },
   {
-    "id": "d767c929-9f0a-4d6d-ae59-822de7cffa88",
+    "id": "fdf9dff1-78dd-4306-b129-23f895fdf05b",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Risk of Occult Contralateral Neck Metastasis in Early‐Stage HPV‐Related Lateralized Cancer of the Base of the Tongue",
@@ -4491,7 +4703,7 @@
     "relevance": "YES"
   },
   {
-    "id": "8f6f5d37-3745-4868-ab66-7d62041eb217",
+    "id": "6032f5fa-019e-4802-8016-27a9ab4657df",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Malignant Craniofacial Perivascular Epithelioid Cell Tumor: A Review of Literature With a Rare Presentation",
@@ -4533,7 +4745,7 @@
     "relevance": "YES"
   },
   {
-    "id": "4671ec6a-ac0e-42f1-a397-712d5e068e16",
+    "id": "6de31876-9635-40aa-847c-d7bcb7966d4e",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Quantifying Neck Disability After Neck Dissection in HNSCC—A Prospective Study of Patient‐Reported and Objective Functional Outcomes",
@@ -4575,7 +4787,7 @@
     "relevance": "YES"
   },
   {
-    "id": "98a06711-783a-4716-989f-46fc031b48aa",
+    "id": "2b66d177-3e37-4fd5-b805-5fde21d2343f",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Appraisal of Radiologic Size Criteria for Malignant Lymph Nodes in Parotid Region in Nasopharyngeal Carcinoma: Implication for Parotid‐Sparing IMRT",
@@ -4617,7 +4829,7 @@
     "relevance": "YES"
   },
   {
-    "id": "95a09175-80df-41cc-aa30-53b12bfb4673",
+    "id": "cbf35626-e70b-4035-a860-f700f7d22cb7",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Minimizing Chemoradiation Using a Surgical Algorithm for HPV‐Associated Cancer of Unknown Primary",
@@ -4659,7 +4871,7 @@
     "relevance": "YES"
   },
   {
-    "id": "887ab3d5-57a7-4d36-a93b-453da6bbcc43",
+    "id": "d974e546-23cb-433d-a81f-c2853d472136",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Disparities in Proton Radiation Utilization for HPV‐Associated Oropharyngeal Cancer Following TORS",
@@ -4701,7 +4913,7 @@
     "relevance": "YES"
   },
   {
-    "id": "e93278f7-e943-4f9f-bbdb-90d2c7391061",
+    "id": "54545652-f86a-488f-b20f-26d4510ff94c",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Obstructive Sleep Apnea in Head and Neck Cancer Patients After Primary Treatment: A Review Focused on Oropharyngeal Cancer",
@@ -4743,7 +4955,7 @@
     "relevance": "YES"
   },
   {
-    "id": "5026ac52-8df1-488e-bb10-7384da46ed5b",
+    "id": "6a842573-da17-4858-a371-c371b6b59e92",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Hypofractionated Spot Scanning Proton Therapy for Head and Neck Mucosal Melanoma: A Retrospective Analysis With Quality‐of‐Life Outcome",
@@ -4785,7 +4997,7 @@
     "relevance": "YES"
   },
   {
-    "id": "0d89a1e6-f39d-4443-86c3-05a6190656b0",
+    "id": "973c2d55-2b15-4847-9353-5f3e7367f343",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Radiotherapy Outcomes and Prognostic Factors in Head and Neck NUT Carcinoma: A Single‐Center Cohort Analysis",
@@ -4827,7 +5039,7 @@
     "relevance": "YES"
   },
   {
-    "id": "800c8971-6f08-4755-b093-7c72ae72f9c0",
+    "id": "8844c7a5-9a86-4492-8727-3e33193b0453",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Modified Platysma Myocutaneous Flap Reconstruction for Advanced Laryngeal Carcinoma: A Multicenter Retrospective Cohort Study",
@@ -4869,7 +5081,7 @@
     "relevance": "YES"
   },
   {
-    "id": "322b02d5-6c2a-42cd-beb3-7a542d533446",
+    "id": "90ce4dcd-fe7b-4183-b6ee-41943a99d2f1",
     "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
     "journal": "Wiley: Head & Neck: Table of Contents",
     "title": "Postoperative Adjuvant Therapy in Resectable Advanced Oral Squamous Cell Carcinoma With Intermediate Risk Factors",
@@ -4911,133 +5123,7 @@
     "relevance": "YES"
   },
   {
-    "id": "9ebd96f8-12b2-48aa-b6dc-e19b75d9fa7e",
-    "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
-    "journal": "Wiley: Head & Neck: Table of Contents",
-    "title": "Myopericytoma of the Head and Neck: A Case Series and Literature Review",
-    "abstract": "Head &amp;Neck, EarlyView.",
-    "published": "Wed, 26 Nov 2025 01:49:45 -0800",
-    "authors": [
-      "Peter S. Giannaris, \nMatthew Mendelsohn, \nMostafa Kokabee, \nShengjie Cui, \nDominick Guerrero, \nMark Chaskes, \nJudd Fastenberg, \nCharles C. L. Tong"
-    ],
-    "doi": "10.1002/hed.70113",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/hed.70113?af=R",
-    "allow_doi_lookup": false,
-    "raw_entry_keys": [
-      "author",
-      "author_detail",
-      "authors",
-      "content",
-      "dc_identifier",
-      "guidislink",
-      "id",
-      "link",
-      "links",
-      "prism_coverdate",
-      "prism_coverdisplaydate",
-      "prism_doi",
-      "prism_publicationname",
-      "prism_section",
-      "prism_url",
-      "published",
-      "published_parsed",
-      "source",
-      "summary",
-      "summary_detail",
-      "tags",
-      "title",
-      "title_detail",
-      "updated",
-      "updated_parsed"
-    ],
-    "relevance": "YES"
-  },
-  {
-    "id": "5dc38892-078a-4962-abf6-c69433c6ad0e",
-    "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
-    "journal": "Wiley: Head & Neck: Table of Contents",
-    "title": "Potential Utility of Micronucleus and Binucleus Frequencies in Malignancy Prediction in Thyroid Nodules",
-    "abstract": "Head &amp;Neck, EarlyView.",
-    "published": "Wed, 26 Nov 2025 01:32:30 -0800",
-    "authors": [
-      "Hilmi Alper, \nMakbule Nihan Somuncu, \nRukiye Erdem Özçelik, \nFakih Cihat Eravcı, \nAyşe Gül Zamani, \nHamdi Arbağ"
-    ],
-    "doi": "10.1002/hed.70110",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/hed.70110?af=R",
-    "allow_doi_lookup": false,
-    "raw_entry_keys": [
-      "author",
-      "author_detail",
-      "authors",
-      "content",
-      "dc_identifier",
-      "guidislink",
-      "id",
-      "link",
-      "links",
-      "prism_coverdate",
-      "prism_coverdisplaydate",
-      "prism_doi",
-      "prism_publicationname",
-      "prism_section",
-      "prism_url",
-      "published",
-      "published_parsed",
-      "source",
-      "summary",
-      "summary_detail",
-      "tags",
-      "title",
-      "title_detail",
-      "updated",
-      "updated_parsed"
-    ],
-    "relevance": "YES"
-  },
-  {
-    "id": "fbfda6c1-551a-4f22-884c-65965507ed07",
-    "source_feed": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
-    "journal": "Wiley: Head & Neck: Table of Contents",
-    "title": "Neck Spasms After Lateral Neck Dissection: A Survey of Head and Neck Cancer Patients",
-    "abstract": "Head &amp;Neck, EarlyView.",
-    "published": "Tue, 25 Nov 2025 03:10:23 -0800",
-    "authors": [
-      "Kelly Bridgham, \nTeresa Duong, \nPraneet Kaki, \nTyler Allcroft, \nKalena Liu, \nEric Mastrolonardo, \nHannah Kenny, \nEmma De Ravin, \nArielle Thal, \nJoseph Curry"
-    ],
-    "doi": "10.1002/hed.70108",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/hed.70108?af=R",
-    "allow_doi_lookup": false,
-    "raw_entry_keys": [
-      "author",
-      "author_detail",
-      "authors",
-      "content",
-      "dc_identifier",
-      "guidislink",
-      "id",
-      "link",
-      "links",
-      "prism_coverdate",
-      "prism_coverdisplaydate",
-      "prism_doi",
-      "prism_publicationname",
-      "prism_section",
-      "prism_url",
-      "published",
-      "published_parsed",
-      "source",
-      "summary",
-      "summary_detail",
-      "tags",
-      "title",
-      "title_detail",
-      "updated",
-      "updated_parsed"
-    ],
-    "relevance": "YES"
-  },
-  {
-    "id": "9f810708-5fc8-47e3-9947-d00b1ad05054",
+    "id": "6b32bfce-c6ca-46dd-91d9-7f7f10c0768d",
     "source_feed": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=jco",
     "journal": "WoltersKluwer: Journal of Clinical Oncology: Table of Contents",
     "title": "Automated Lymph Node and Extranodal Extension Assessment Improves Risk Stratification in Oropharyngeal Carcinoma",
@@ -5097,7 +5183,7 @@
     "relevance": "YES"
   },
   {
-    "id": "6717940f-f29e-4514-97ac-5997d1ceb2a6",
+    "id": "9005ec4c-b65e-4fec-9160-2891d89e9c12",
     "source_feed": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=jco",
     "journal": "WoltersKluwer: Journal of Clinical Oncology: Table of Contents",
     "title": "Induction Nivolumab Before Chemoradiation in High-Risk Human Papillomavirus–Driven Oropharynx Cancers: IMMUNEBOOST-HPV, a Multicenter Randomized Phase II Trial",
@@ -5161,7 +5247,7 @@
     "relevance": "YES"
   },
   {
-    "id": "1985df0e-390b-48cf-bd13-76794f9a71cd",
+    "id": "21f28240-9d78-473c-93ca-8cadb2e8b8a5",
     "source_feed": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=op",
     "journal": "WoltersKluwer: JCO Oncology Practice: Table of Contents",
     "title": "Adequacy of Immune Checkpoint Inhibitor–Associated Thyroid Function Monitoring After Therapy",
@@ -5214,7 +5300,7 @@
     "relevance": "YES"
   },
   {
-    "id": "df2e1d07-071a-4eae-b693-99980a94a218",
+    "id": "af4e0437-3b27-4154-b8c4-ceba34c146f7",
     "source_feed": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=op",
     "journal": "WoltersKluwer: JCO Oncology Practice: Table of Contents",
     "title": "Evolving Use of Circulating Tumor DNA for HPV+ Oropharyngeal Carcinoma: Consensus Recommendations From the California Head and Neck Consortium",
@@ -5286,7 +5372,7 @@
     "relevance": "YES"
   },
   {
-    "id": "7556db50-2d66-4097-b65d-21eba07d83a1",
+    "id": "972a3e91-90c5-4ee6-b5e8-9356f826e03e",
     "source_feed": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=op",
     "journal": "WoltersKluwer: JCO Oncology Practice: Table of Contents",
     "title": "Increasing Access and Quality Care for Immune Checkpoint Inhibitor–Related Thyroid Dysfunction",
@@ -5337,62 +5423,7 @@
     "relevance": "YES"
   },
   {
-    "id": "8349d997-62aa-4d8c-8854-37841295b5bf",
-    "source_feed": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=op",
-    "journal": "WoltersKluwer: JCO Oncology Practice: Table of Contents",
-    "title": "Quality of Informed Consent via Telemedicine Compared With In-Person for Clinical Cancer Research",
-    "abstract": "JCO Oncology Practice, Ahead of Print. <br />",
-    "published": null,
-    "authors": [
-      "Michal Sternschuss",
-      "Michael Lattanzi",
-      "Emily Vertosick",
-      "Mia Austria",
-      "Sené Martin",
-      "Ashley Regazzi",
-      "Michael T. Buckely",
-      "Joseph Lengfellner",
-      "Gregory J. Riely",
-      "David B. Solit",
-      "Jonathan E. Rosenberg",
-      "Gopa Iyer",
-      "Peter D. Stetson",
-      "Michael J. Morris",
-      "Andrew J. Vickers",
-      "Samuel A. Funt"
-    ],
-    "doi": "10.1200/OP-24-01041",
-    "link": "https://ascopubs.org/doi/abs/10.1200/OP-24-01041?af=R",
-    "allow_doi_lookup": false,
-    "raw_entry_keys": [
-      "author",
-      "author_detail",
-      "authors",
-      "content",
-      "dc_identifier",
-      "dc_source",
-      "dc_type",
-      "id",
-      "link",
-      "links",
-      "prism_copyright",
-      "prism_doi",
-      "prism_publicationname",
-      "prism_url",
-      "rights",
-      "rights_detail",
-      "summary",
-      "summary_detail",
-      "tags",
-      "title",
-      "title_detail",
-      "updated",
-      "updated_parsed"
-    ],
-    "relevance": "YES"
-  },
-  {
-    "id": "aa684908-200c-4560-a108-6c8dd737cff9",
+    "id": "5098a879-b8c8-46fa-b9a2-90dac28cc4a7",
     "source_feed": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=op",
     "journal": "WoltersKluwer: JCO Oncology Practice: Table of Contents",
     "title": "Longitudinal Associations Between Financial Toxicity and Health-Related Quality of Life for Patients With Cancer",
@@ -5438,60 +5469,7 @@
     "relevance": "YES"
   },
   {
-    "id": "43a528dc-7d43-4cf4-82c0-fb074495bf0e",
-    "source_feed": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=op",
-    "journal": "WoltersKluwer: JCO Oncology Practice: Table of Contents",
-    "title": "Impact of Drug Shortages on Cancer Care Delivery Within the National Cancer Institute Community Oncology Research Program",
-    "abstract": "JCO Oncology Practice, Ahead of Print. <br />",
-    "published": null,
-    "authors": [
-      "Lauren V. Ghazal",
-      "Supriya Mohile",
-      "Kah Poh Loh",
-      "Karen Mustian",
-      "Grace Sventek",
-      "Umang Gada",
-      "Chin-Shang Li",
-      "Eva Culakova",
-      "Melyssa Foust",
-      "Judith O. Hopkins",
-      "Heather Kehn",
-      "Charles Kamen",
-      "Erin R. Fox",
-      "Elaine L. Hill"
-    ],
-    "doi": "10.1200/OP-25-00057",
-    "link": "https://ascopubs.org/doi/abs/10.1200/OP-25-00057?af=R",
-    "allow_doi_lookup": false,
-    "raw_entry_keys": [
-      "author",
-      "author_detail",
-      "authors",
-      "content",
-      "dc_identifier",
-      "dc_source",
-      "dc_type",
-      "id",
-      "link",
-      "links",
-      "prism_copyright",
-      "prism_doi",
-      "prism_publicationname",
-      "prism_url",
-      "rights",
-      "rights_detail",
-      "summary",
-      "summary_detail",
-      "tags",
-      "title",
-      "title_detail",
-      "updated",
-      "updated_parsed"
-    ],
-    "relevance": "YES"
-  },
-  {
-    "id": "d217bfea-284f-4719-a384-11b755e8d457",
+    "id": "5288ddb3-2c9e-476c-b7fe-f26bd704d1ed",
     "source_feed": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=go",
     "journal": "WoltersKluwer: JCO Global Oncology: Table of Contents",
     "title": "Estimation of New Cancers Attributable to Alcohol, Tobacco, and Human Papillomavirus Infection in Edo State, Nigeria",
@@ -5537,7 +5515,7 @@
     "relevance": "YES"
   },
   {
-    "id": "e83002ba-2265-421b-8cd1-a44c74c74a42",
+    "id": "58e29358-6fb1-482e-90db-88a7721adae2",
     "source_feed": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=cci",
     "journal": "WoltersKluwer: JCO Clinical Cancer Informatics: Table of Contents",
     "title": "Artificial Intelligence–Assisted Error Detection in Complex Clinical Documentation: Leveraging Large Language Models to Enhance Patient Safety in Oncology",
@@ -5555,6 +5533,118 @@
     ],
     "doi": "10.1200/CCI-25-00194",
     "link": "https://ascopubs.org/doi/abs/10.1200/CCI-25-00194?af=R",
+    "allow_doi_lookup": false,
+    "raw_entry_keys": [
+      "author",
+      "author_detail",
+      "authors",
+      "content",
+      "dc_identifier",
+      "dc_source",
+      "dc_type",
+      "id",
+      "link",
+      "links",
+      "prism_copyright",
+      "prism_coverdate",
+      "prism_coverdisplaydate",
+      "prism_doi",
+      "prism_number",
+      "prism_publicationname",
+      "prism_url",
+      "rights",
+      "rights_detail",
+      "summary",
+      "summary_detail",
+      "tags",
+      "title",
+      "title_detail",
+      "updated",
+      "updated_parsed"
+    ],
+    "relevance": "YES"
+  },
+  {
+    "id": "384978b8-e3e6-412b-b872-9bc0294abb5b",
+    "source_feed": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=po",
+    "journal": "WoltersKluwer: JCO Precision Oncology: Table of Contents",
+    "title": "Generic Protocols for Analytical Validation of Tumor-Informed Circulating Tumor DNA Assays for Molecular Residual Disease: The Blood Profiling Atlas in Cancer's Molecular Residual Disease Analytical Validation Working Group Consensus Recommendation",
+    "abstract": "JCO Precision Oncology, Issue 10, January 2026. <br />",
+    "published": null,
+    "authors": [
+      "Jonathan Baden",
+      "Cheng-Ho Jimmy Lin",
+      "Andrew T. Anfora",
+      "Jonathan Beer",
+      "Karl Bisselou",
+      "Jennifer Bungo",
+      "Adam S. Corner",
+      "Tyler Danek",
+      "Jennifer Dickey",
+      "James H. Godsey",
+      "Donald J. Johann",
+      "Gregory Jones",
+      "George Karlin-Neumann",
+      "Jessica L. Larson",
+      "Jerry S.H. Lee",
+      "Li Liu",
+      "Dorys  Lopez Ramos",
+      "David Merriam",
+      "Melanie Palomares",
+      "Carol E. Pena",
+      "Jessica Rathbun",
+      "Kate Rhodes",
+      "Jaime E. Connolly Rohrbach",
+      "Banu Saritas-Yildirim",
+      "Mark Sausen",
+      "Shile Zhang",
+      "Lauren C. Leiman"
+    ],
+    "doi": "10.1200/PO-25-00267",
+    "link": "https://ascopubs.org/doi/abs/10.1200/PO-25-00267?af=R",
+    "allow_doi_lookup": false,
+    "raw_entry_keys": [
+      "author",
+      "author_detail",
+      "authors",
+      "content",
+      "dc_identifier",
+      "dc_source",
+      "dc_type",
+      "id",
+      "link",
+      "links",
+      "prism_copyright",
+      "prism_coverdate",
+      "prism_coverdisplaydate",
+      "prism_doi",
+      "prism_number",
+      "prism_publicationname",
+      "prism_url",
+      "rights",
+      "rights_detail",
+      "summary",
+      "summary_detail",
+      "title",
+      "title_detail",
+      "updated",
+      "updated_parsed"
+    ],
+    "relevance": "YES"
+  },
+  {
+    "id": "9d80fbb6-9869-4ad9-8108-1bd6a7e6ecb9",
+    "source_feed": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=oa",
+    "journal": "WoltersKluwer: JCO Oncology Advances: Table of Contents",
+    "title": "Optimizing Equitable Inclusion of African American Patients in Oncology Clinical Trials",
+    "abstract": "JCO Oncology Advances, Issue 3, January 2026. <br />",
+    "published": null,
+    "authors": [
+      "Tamia S. Williams",
+      "Shearwood McClelland"
+    ],
+    "doi": "10.1200/OA-25-00146",
+    "link": "https://ascopubs.org/doi/abs/10.1200/OA-25-00146?af=R",
     "allow_doi_lookup": false,
     "raw_entry_keys": [
       "author",
