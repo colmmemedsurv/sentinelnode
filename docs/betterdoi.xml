@@ -4,7 +4,7 @@
 <title>Head &amp; Neck Cancer – DOI-Enriched Feed</title>
 <link>https://colmmemedsurv.github.io/sentinelnode/</link>
 <description>Curated head &amp; neck cancer literature with Crossref and PubMed enrichment.</description>
-<lastBuildDate>Sun, 25 Jan 2026 07:01:46 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Jan 2026 07:08:41 +0000</lastBuildDate>
 <item>
 <title>Reducing Tobacco Use Worldwide: Smokeless Tobacco and Oral Cancer in Global Perspective</title>
 <link>https://www.nejm.org/doi/full/10.1056/NEJMp2500631?rss=searchAndBrowse</link>
@@ -3271,33 +3271,6 @@ Karthik Rajasekaran</p>
 ]]></content:encoded>
 </item>
 <item>
-<title>Malignant Craniofacial Perivascular Epithelioid Cell Tumor: A Review of Literature With a Rare Presentation</title>
-<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70126?af=R</link>
-<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70126?af=R</guid>
-<dc:creator>Jai Paris, 
-Almater Abdullah I, 
-Terence Ang, 
-Sarah Shepard, 
-Dinesh Selva, 
-Alkis J. Psaltis</dc:creator>
-<prism:publicationName>Wiley: Head &amp; Neck: Table of Contents</prism:publicationName>
-<prism:doi>10.1002/hed.70126</prism:doi>
-<description>Journal: Wiley: Head &amp; Neck: Table of Contents | DOI: 10.1002/hed.70126</description>
-<content:encoded><![CDATA[
-<p><strong>Journal</strong>: Wiley: Head & Neck: Table of Contents</p>
-<p><strong>Authors</strong>: Jai Paris, 
-Almater Abdullah I, 
-Terence Ang, 
-Sarah Shepard, 
-Dinesh Selva, 
-Alkis J. Psaltis</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1002/hed.70126'>10.1002/hed.70126</a></p>
-<hr/>
-<p><strong>Abstract</strong></p>
-<p>Head &amp;Neck, EarlyView.</p>
-]]></content:encoded>
-</item>
-<item>
 <title>Quantifying Neck Disability After Neck Dissection in HNSCC—A Prospective Study of Patient‐Reported and Objective Functional Outcomes</title>
 <link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70130?af=R</link>
 <guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70130?af=R</guid>
@@ -3676,17 +3649,34 @@ Souichi Yanamoto</p>
 ]]></content:encoded>
 </item>
 <item>
-<title>Longitudinal Associations Between Financial Toxicity and Health-Related Quality of Life for Patients With Cancer</title>
-<link>https://ascopubs.org/doi/abs/10.1200/OP-24-00917?af=R</link>
-<guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/OP-24-00917?af=R</guid>
-<dc:creator>Austin Wesevich; Rahul Dadwani; Donald Hedeker; Daniel W. Golden; Rohan R. Katipally; Monica E. Peek; Vineet M. Arora</dc:creator>
+<title>Quality of Informed Consent via Telemedicine Compared With In-Person for Clinical Cancer Research</title>
+<link>https://ascopubs.org/doi/abs/10.1200/OP-24-01041?af=R</link>
+<guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/OP-24-01041?af=R</guid>
+<dc:creator>Michal Sternschuss; Michael Lattanzi; Emily Vertosick; Mia Austria; Sené Martin; Ashley Regazzi; Michael T. Buckely; Joseph Lengfellner; Gregory J. Riely; David B. Solit; Jonathan E. Rosenberg; Gopa Iyer; Peter D. Stetson; Michael J. Morris; Andrew J. Vickers; Samuel A. Funt</dc:creator>
 <prism:publicationName>WoltersKluwer: JCO Oncology Practice: Table of Contents</prism:publicationName>
-<prism:doi>10.1200/OP-24-00917</prism:doi>
-<description>Journal: WoltersKluwer: JCO Oncology Practice: Table of Contents | DOI: 10.1200/OP-24-00917</description>
+<prism:doi>10.1200/OP-24-01041</prism:doi>
+<description>Journal: WoltersKluwer: JCO Oncology Practice: Table of Contents | DOI: 10.1200/OP-24-01041</description>
 <content:encoded><![CDATA[
 <p><strong>Journal</strong>: WoltersKluwer: JCO Oncology Practice: Table of Contents</p>
-<p><strong>Authors</strong>: Austin Wesevich; Rahul Dadwani; Donald Hedeker; Daniel W. Golden; Rohan R. Katipally; Monica E. Peek; Vineet M. Arora</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1200/OP-24-00917'>10.1200/OP-24-00917</a></p>
+<p><strong>Authors</strong>: Michal Sternschuss; Michael Lattanzi; Emily Vertosick; Mia Austria; Sené Martin; Ashley Regazzi; Michael T. Buckely; Joseph Lengfellner; Gregory J. Riely; David B. Solit; Jonathan E. Rosenberg; Gopa Iyer; Peter D. Stetson; Michael J. Morris; Andrew J. Vickers; Samuel A. Funt</p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1200/OP-24-01041'>10.1200/OP-24-01041</a></p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>JCO Oncology Practice, Ahead of Print. <br /></p>
+]]></content:encoded>
+</item>
+<item>
+<title>Impact of Drug Shortages on Cancer Care Delivery Within the National Cancer Institute Community Oncology Research Program</title>
+<link>https://ascopubs.org/doi/abs/10.1200/OP-25-00057?af=R</link>
+<guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/OP-25-00057?af=R</guid>
+<dc:creator>Lauren V. Ghazal; Supriya Mohile; Kah Poh Loh; Karen Mustian; Grace Sventek; Umang Gada; Chin-Shang Li; Eva Culakova; Melyssa Foust; Judith O. Hopkins; Heather Kehn; Charles Kamen; Erin R. Fox; Elaine L. Hill</dc:creator>
+<prism:publicationName>WoltersKluwer: JCO Oncology Practice: Table of Contents</prism:publicationName>
+<prism:doi>10.1200/OP-25-00057</prism:doi>
+<description>Journal: WoltersKluwer: JCO Oncology Practice: Table of Contents | DOI: 10.1200/OP-25-00057</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: WoltersKluwer: JCO Oncology Practice: Table of Contents</p>
+<p><strong>Authors</strong>: Lauren V. Ghazal; Supriya Mohile; Kah Poh Loh; Karen Mustian; Grace Sventek; Umang Gada; Chin-Shang Li; Eva Culakova; Melyssa Foust; Judith O. Hopkins; Heather Kehn; Charles Kamen; Erin R. Fox; Elaine L. Hill</p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1200/OP-25-00057'>10.1200/OP-25-00057</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
 <p>JCO Oncology Practice, Ahead of Print. <br /></p>
@@ -3727,37 +3717,20 @@ Souichi Yanamoto</p>
 ]]></content:encoded>
 </item>
 <item>
-<title>Generic Protocols for Analytical Validation of Tumor-Informed Circulating Tumor DNA Assays for Molecular Residual Disease: The Blood Profiling Atlas in Cancer&apos;s Molecular Residual Disease Analytical Validation Working Group Consensus Recommendation</title>
-<link>https://ascopubs.org/doi/abs/10.1200/PO-25-00267?af=R</link>
-<guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/PO-25-00267?af=R</guid>
-<dc:creator>Jonathan Baden; Cheng-Ho Jimmy Lin; Andrew T. Anfora; Jonathan Beer; Karl Bisselou; Jennifer Bungo; Adam S. Corner; Tyler Danek; Jennifer Dickey; James H. Godsey; Donald J. Johann; Gregory Jones; George Karlin-Neumann; Jessica L. Larson; Jerry S.H. Lee; Li Liu; Dorys  Lopez Ramos; David Merriam; Melanie Palomares; Carol E. Pena; Jessica Rathbun; Kate Rhodes; Jaime E. Connolly Rohrbach; Banu Saritas-Yildirim; Mark Sausen; Shile Zhang; Lauren C. Leiman</dc:creator>
+<title>Assessing the Value of Sequential Next-Generation Sequencing and Multiple Molecular Tumor Board Reviews for Patients With Solid-Tumor Malignancies</title>
+<link>https://ascopubs.org/doi/abs/10.1200/PO-25-00272?af=R</link>
+<guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/PO-25-00272?af=R</guid>
+<dc:creator>Allison L. Swiecki-Sikora; Lydia Williams; Ning Li; Donglin Yan; Evan Bryson; Derek B. Allison; Rachel W. Miller; Charles S. Dietrich; Jill M. Kolesar</dc:creator>
 <prism:publicationName>WoltersKluwer: JCO Precision Oncology: Table of Contents</prism:publicationName>
-<prism:doi>10.1200/PO-25-00267</prism:doi>
-<description>Journal: WoltersKluwer: JCO Precision Oncology: Table of Contents | DOI: 10.1200/PO-25-00267</description>
+<prism:doi>10.1200/PO-25-00272</prism:doi>
+<description>Journal: WoltersKluwer: JCO Precision Oncology: Table of Contents | DOI: 10.1200/PO-25-00272</description>
 <content:encoded><![CDATA[
 <p><strong>Journal</strong>: WoltersKluwer: JCO Precision Oncology: Table of Contents</p>
-<p><strong>Authors</strong>: Jonathan Baden; Cheng-Ho Jimmy Lin; Andrew T. Anfora; Jonathan Beer; Karl Bisselou; Jennifer Bungo; Adam S. Corner; Tyler Danek; Jennifer Dickey; James H. Godsey; Donald J. Johann; Gregory Jones; George Karlin-Neumann; Jessica L. Larson; Jerry S.H. Lee; Li Liu; Dorys  Lopez Ramos; David Merriam; Melanie Palomares; Carol E. Pena; Jessica Rathbun; Kate Rhodes; Jaime E. Connolly Rohrbach; Banu Saritas-Yildirim; Mark Sausen; Shile Zhang; Lauren C. Leiman</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1200/PO-25-00267'>10.1200/PO-25-00267</a></p>
+<p><strong>Authors</strong>: Allison L. Swiecki-Sikora; Lydia Williams; Ning Li; Donglin Yan; Evan Bryson; Derek B. Allison; Rachel W. Miller; Charles S. Dietrich; Jill M. Kolesar</p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1200/PO-25-00272'>10.1200/PO-25-00272</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
 <p>JCO Precision Oncology, Issue 10, January 2026. <br /></p>
-]]></content:encoded>
-</item>
-<item>
-<title>Optimizing Equitable Inclusion of African American Patients in Oncology Clinical Trials</title>
-<link>https://ascopubs.org/doi/abs/10.1200/OA-25-00146?af=R</link>
-<guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/OA-25-00146?af=R</guid>
-<dc:creator>Tamia S. Williams; Shearwood McClelland</dc:creator>
-<prism:publicationName>WoltersKluwer: JCO Oncology Advances: Table of Contents</prism:publicationName>
-<prism:doi>10.1200/OA-25-00146</prism:doi>
-<description>Journal: WoltersKluwer: JCO Oncology Advances: Table of Contents | DOI: 10.1200/OA-25-00146</description>
-<content:encoded><![CDATA[
-<p><strong>Journal</strong>: WoltersKluwer: JCO Oncology Advances: Table of Contents</p>
-<p><strong>Authors</strong>: Tamia S. Williams; Shearwood McClelland</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1200/OA-25-00146'>10.1200/OA-25-00146</a></p>
-<hr/>
-<p><strong>Abstract</strong></p>
-<p>JCO Oncology Advances, Issue 3, January 2026. <br /></p>
 ]]></content:encoded>
 </item>
 </channel></rss>

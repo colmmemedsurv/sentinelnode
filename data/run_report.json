@@ -1,5 +1,5 @@
 {
-  "timestamp_utc": "2026-01-25T06:59:42.215119+00:00",
+  "timestamp_utc": "2026-01-26T07:06:15.058178+00:00",
   "feeds": [
     {
       "url": "https://onesearch-rss.nejm.org/api/specialty/rss?context=nejm&specialty=hematology-oncology",
@@ -77,7 +77,7 @@
       "url": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
       "feed_title": "Wiley: Head & Neck: Table of Contents",
       "items_in_feed": 91,
-      "relevant_yes": 81
+      "relevant_yes": 80
     },
     {
       "url": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=jco",
@@ -89,7 +89,7 @@
       "url": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=op",
       "feed_title": "WoltersKluwer: JCO Oncology Practice: Table of Contents",
       "items_in_feed": 248,
-      "relevant_yes": 4
+      "relevant_yes": 5
     },
     {
       "url": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=go",
@@ -113,7 +113,7 @@
       "url": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=oa",
       "feed_title": "WoltersKluwer: JCO Oncology Advances: Table of Contents",
       "items_in_feed": 9,
-      "relevant_yes": 1
+      "relevant_yes": 0
     },
     {
       "url": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=edbk",
@@ -123,8 +123,8 @@
     }
   ],
   "decisions_total": {
-    "YES": 151,
-    "NO": 617,
-    "UNCERTAIN": 19
+    "YES": 150,
+    "NO": 611,
+    "UNCERTAIN": 26
   }
 }
