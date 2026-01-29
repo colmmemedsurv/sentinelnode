@@ -1,5 +1,5 @@
 {
-  "timestamp_utc": "2026-01-28T07:05:50.865999+00:00",
+  "timestamp_utc": "2026-01-29T07:17:01.290241+00:00",
   "feeds": [
     {
       "url": "https://onesearch-rss.nejm.org/api/specialty/rss?context=nejm&specialty=hematology-oncology",
@@ -22,7 +22,7 @@
     {
       "url": "http://www.thelancet.com/rssfeed/eclinm_current.xml",
       "feed_title": "eClinicalMedicine",
-      "items_in_feed": 10,
+      "items_in_feed": 12,
       "relevant_yes": 0
     },
     {
@@ -40,7 +40,7 @@
     {
       "url": "https://jamanetwork.com/rss/site_3/onlineFirst_67.xml",
       "feed_title": "JAMA Online First",
-      "items_in_feed": 16,
+      "items_in_feed": 19,
       "relevant_yes": 0
     },
     {
@@ -59,7 +59,7 @@
       "url": "https://jamanetwork.com/rss/site_18/74.xml",
       "feed_title": "JAMA Otolaryngology–Head & Neck Surgery Current Issue",
       "items_in_feed": 37,
-      "relevant_yes": 18
+      "relevant_yes": 17
     },
     {
       "url": "https://jamanetwork.com/rss/site_18/onlineFirst_74.xml",
@@ -77,19 +77,19 @@
       "url": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
       "feed_title": "Wiley: Head & Neck: Table of Contents",
       "items_in_feed": 91,
-      "relevant_yes": 82
+      "relevant_yes": 81
     },
     {
       "url": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=jco",
       "feed_title": "WoltersKluwer: Journal of Clinical Oncology: Table of Contents",
-      "items_in_feed": 113,
-      "relevant_yes": 3
+      "items_in_feed": 116,
+      "relevant_yes": 2
     },
     {
       "url": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=op",
       "feed_title": "WoltersKluwer: JCO Oncology Practice: Table of Contents",
-      "items_in_feed": 249,
-      "relevant_yes": 4
+      "items_in_feed": 250,
+      "relevant_yes": 5
     },
     {
       "url": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=go",
@@ -123,8 +123,8 @@
     }
   ],
   "decisions_total": {
-    "YES": 152,
-    "NO": 621,
-    "UNCERTAIN": 22
+    "YES": 150,
+    "NO": 630,
+    "UNCERTAIN": 24
   }
 }
