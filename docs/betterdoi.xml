@@ -4,7 +4,7 @@
 <title>Head &amp; Neck Cancer – DOI-Enriched Feed</title>
 <link>https://colmmemedsurv.github.io/sentinelnode/</link>
 <description>Curated head &amp; neck cancer literature with Crossref and PubMed enrichment.</description>
-<lastBuildDate>Sun, 01 Feb 2026 07:19:33 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Feb 2026 07:32:43 +0000</lastBuildDate>
 <item>
 <title>Reducing Tobacco Use Worldwide: Smokeless Tobacco and Oral Cancer in Global Perspective</title>
 <link>https://www.nejm.org/doi/full/10.1056/NEJMp2500631?rss=searchAndBrowse</link>
@@ -138,21 +138,6 @@
 ]]></content:encoded>
 </item>
 <item>
-<title>Medicaid Cuts and the Future of Cancer Care</title>
-<link>https://jamanetwork.com/journals/jamaoncology/fullarticle/2841352</link>
-<guid isPermaLink='true'>https://jamanetwork.com/journals/jamaoncology/fullarticle/2841352</guid>
-<prism:publicationName>JAMA Oncology Current Issue</prism:publicationName>
-<prism:doi>10.1001/jamaoncol.2025.4730</prism:doi>
-<description>Journal: JAMA Oncology Current Issue | DOI: 10.1001/jamaoncol.2025.4730</description>
-<content:encoded><![CDATA[
-<p><strong>Journal</strong>: JAMA Oncology Current Issue</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1001/jamaoncol.2025.4730'>10.1001/jamaoncol.2025.4730</a></p>
-<hr/>
-<p><strong>Abstract</strong></p>
-<p>This Viewpoint discusses the potential repercussions of Medicaid cuts, including losses of progress in prevention, care delivery, and treatment of patients with cancer.</p>
-]]></content:encoded>
-</item>
-<item>
 <title>Five-Year Outcome of Camrelizumab Plus Chemotherapy in Recurrent or Metastatic Nasopharyngeal Carcinoma</title>
 <link>https://jamanetwork.com/journals/jamaoncology/fullarticle/2844192</link>
 <guid isPermaLink='true'>https://jamanetwork.com/journals/jamaoncology/fullarticle/2844192</guid>
@@ -228,21 +213,6 @@
 ]]></content:encoded>
 </item>
 <item>
-<title>Balloon Sinus Dilation Use</title>
-<link>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2841506</link>
-<guid isPermaLink='true'>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2841506</guid>
-<prism:publicationName>JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue</prism:publicationName>
-<prism:doi>10.1001/jamaoto.2025.4024</prism:doi>
-<description>Journal: JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue | DOI: 10.1001/jamaoto.2025.4024</description>
-<content:encoded><![CDATA[
-<p><strong>Journal</strong>: JAMA Otolaryngology–Head & Neck Surgery Current Issue</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1001/jamaoto.2025.4024'>10.1001/jamaoto.2025.4024</a></p>
-<hr/>
-<p><strong>Abstract</strong></p>
-<p>This cross-sectional study analyzes use of balloon sinuplasty after the 2018 publication of the American Academy of Otolaryngology–Head and Neck Surgery’s clinical consensus statement defining its appropriate indications and use.</p>
-]]></content:encoded>
-</item>
-<item>
 <title>Updated Calcitonin Thresholds More Accurately Predict Lymph Node Metastasis?</title>
 <link>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2841505</link>
 <guid isPermaLink='true'>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2841505</guid>
@@ -270,6 +240,21 @@
 <hr/>
 <p><strong>Abstract</strong></p>
 <p>In Reply We thank Colli for his thoughtful comments on our study. We would like to provide a detailed clarification to address what we believe a misunderstanding regarding our updated thresholds. First, we fully agree that the ATA thresholds seek to minimize missed LNMs by adopting very low preoperative calcitonin cutoffs. However, this inevitably leads to an extremely high rate of overtreatment, resulting in unnecessary complications and surgical morbidity. For example, under the current cutoffs, patients newly diagnosed with medullary thyroid cancer and with preoperative calcitonin greater than 20 pg/mL would be considered for lateral neck dissection. In our data, patients with calcitonin levels of 20 to 50 pg/mL had 5-year structural recurrence-free survival rates of 92.1% and 100% in the training and validation cohorts, respectively, with no recurrences observed in the validation cohort, comparable to 92.7% and 93.0% in the 241.9 to 693.9 pg/mL group. Thus, prophylactic neck dissection in patients with calcitonin levels of 20 to 50 pg/mL would likely lead to substantial overtreatment.</p>
+]]></content:encoded>
+</item>
+<item>
+<title>Deep Learning in Otolaryngology</title>
+<link>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2841500</link>
+<guid isPermaLink='true'>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2841500</guid>
+<prism:publicationName>JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue</prism:publicationName>
+<prism:doi>10.1001/jamaoto.2025.3911</prism:doi>
+<description>Journal: JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue | DOI: 10.1001/jamaoto.2025.3911</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: JAMA Otolaryngology–Head & Neck Surgery Current Issue</p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1001/jamaoto.2025.3911'>10.1001/jamaoto.2025.3911</a></p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>This narrative review synthesizes recent deep-learning applications and proposes a framework for their integration into otolaryngology.</p>
 ]]></content:encoded>
 </item>
 <item>
@@ -363,21 +348,6 @@
 ]]></content:encoded>
 </item>
 <item>
-<title>Gingival Swelling and Frequent Epistaxis in an Older Woman</title>
-<link>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2840478</link>
-<guid isPermaLink='true'>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2840478</guid>
-<prism:publicationName>JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue</prism:publicationName>
-<prism:doi>10.1001/jamaoto.2025.3587</prism:doi>
-<description>Journal: JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue | DOI: 10.1001/jamaoto.2025.3587</description>
-<content:encoded><![CDATA[
-<p><strong>Journal</strong>: JAMA Otolaryngology–Head & Neck Surgery Current Issue</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1001/jamaoto.2025.3587'>10.1001/jamaoto.2025.3587</a></p>
-<hr/>
-<p><strong>Abstract</strong></p>
-<p>A 69-year-old woman was referred due to widespread gingival swelling, which had been worsening over the preceding 3 months and was unresponsive to antibiotic treatment. Gingival biopsy showed areas of chronic inflammation, microabscess foci, and pseudoepitheliomatous hyperplasia of the covering epithelium. What is your diagnosis?</p>
-]]></content:encoded>
-</item>
-<item>
 <title>Protecting the Contralateral Palatine Tonsil</title>
 <link>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2840477</link>
 <guid isPermaLink='true'>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2840477</guid>
@@ -435,6 +405,21 @@
 <hr/>
 <p><strong>Abstract</strong></p>
 <p>This Viewpoint discusses characteristics of oral nicotine pouches to highlight their potential to present concerns for otolaryngologists.</p>
+]]></content:encoded>
+</item>
+<item>
+<title>Midline Tongue Defect in a Pediatric Patient</title>
+<link>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2840190</link>
+<guid isPermaLink='true'>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2840190</guid>
+<prism:publicationName>JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue</prism:publicationName>
+<prism:doi>10.1001/jamaoto.2025.3479</prism:doi>
+<description>Journal: JAMA Otolaryngology–Head &amp; Neck Surgery Current Issue | DOI: 10.1001/jamaoto.2025.3479</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: JAMA Otolaryngology–Head & Neck Surgery Current Issue</p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1001/jamaoto.2025.3479'>10.1001/jamaoto.2025.3479</a></p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>A male infant presented with an anterior midline tongue indentation. What is your diagnosis?</p>
 ]]></content:encoded>
 </item>
 <item>
@@ -513,6 +498,19 @@
 ]]></content:encoded>
 </item>
 <item>
+<title>A case of secondary ameloblastic carcinoma of the mandible and a comparative review of primary and secondary subtypes</title>
+<link>https://www.sciencedirect.com/science/article/pii/S1368837526000011?dgcid=rss_sd_all</link>
+<guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837526000011?dgcid=rss_sd_all</guid>
+<prism:publicationName>ScienceDirect Publication: Oral Oncology</prism:publicationName>
+<description>Journal: ScienceDirect Publication: Oral Oncology | DOI: </description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: ScienceDirect Publication: Oral Oncology</p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p><p>Publication date: March 2026</p><p><b>Source:</b> Oral Oncology, Volume 174</p><p>Author(s): Xin Wei, Jiayu Shen, Ce Shi, Shichen Zhang, Huanyan Dai, Zhiyan Wu, Xi Li, Zhimin Xu, Bing Han</p></p>
+]]></content:encoded>
+</item>
+<item>
 <title>Immunotherapy and betel nut-associated oral cavity carcinoma: challenges and opportunities</title>
 <link>https://www.sciencedirect.com/science/article/pii/S1368837526000266?dgcid=rss_sd_all</link>
 <guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837526000266?dgcid=rss_sd_all</guid>
@@ -562,6 +560,19 @@
 <hr/>
 <p><strong>Abstract</strong></p>
 <p><p>Publication date: March 2026</p><p><b>Source:</b> Oral Oncology, Volume 174</p><p>Author(s): Suhani Ghai</p></p>
+]]></content:encoded>
+</item>
+<item>
+<title>Long-term swallowing outcomes following transoral robotic surgery for oropharyngeal cancer – Five years and beyond</title>
+<link>https://www.sciencedirect.com/science/article/pii/S1368837526000291?dgcid=rss_sd_all</link>
+<guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837526000291?dgcid=rss_sd_all</guid>
+<prism:publicationName>ScienceDirect Publication: Oral Oncology</prism:publicationName>
+<description>Journal: ScienceDirect Publication: Oral Oncology | DOI: </description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: ScienceDirect Publication: Oral Oncology</p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p><p>Publication date: March 2026</p><p><b>Source:</b> Oral Oncology, Volume 174</p><p>Author(s): Bartosz P. Wojtera, Avinash Beharry, Victoria Salati, Karma Lambercy, Nina Wahler, Edouard Romano, Wojciech Golusinski, Christian Simon</p></p>
 ]]></content:encoded>
 </item>
 <item>
@@ -1653,6 +1664,57 @@ Hwan Jung Yun</p>
 ]]></content:encoded>
 </item>
 <item>
+<title>Partial Laryngectomy for Thyroid Cancer: A Single Institution Case Series With Operative Techniques</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.28246?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.28246?af=R</guid>
+<dc:creator>Ella E. Hawes, 
+Victoria E. Banuchi, 
+Anastasios Maniakas, 
+Jennifer R. Wang, 
+Paul H. Graham, 
+Julia D. Diersing, 
+Naifa L. Busaidy, 
+Maria E. Cabanillas, 
+Ramona Dadu, 
+Sarah Hamidi, 
+Priyanka Iyer, 
+Steven G. Waguespack, 
+Salmaan Ahmed, 
+Sahar Alizada, 
+Alexandra Belcastro, 
+Ranim Alsharif, 
+Mimi I. Hu, 
+Mark E. Zafereo</dc:creator>
+<prism:publicationName>Wiley: Head &amp; Neck: Table of Contents</prism:publicationName>
+<prism:doi>10.1002/hed.28246</prism:doi>
+<description>Journal: Wiley: Head &amp; Neck: Table of Contents | DOI: 10.1002/hed.28246</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: Wiley: Head & Neck: Table of Contents</p>
+<p><strong>Authors</strong>: Ella E. Hawes, 
+Victoria E. Banuchi, 
+Anastasios Maniakas, 
+Jennifer R. Wang, 
+Paul H. Graham, 
+Julia D. Diersing, 
+Naifa L. Busaidy, 
+Maria E. Cabanillas, 
+Ramona Dadu, 
+Sarah Hamidi, 
+Priyanka Iyer, 
+Steven G. Waguespack, 
+Salmaan Ahmed, 
+Sahar Alizada, 
+Alexandra Belcastro, 
+Ranim Alsharif, 
+Mimi I. Hu, 
+Mark E. Zafereo</p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1002/hed.28246'>10.1002/hed.28246</a></p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>Head &amp;Neck, Volume 48, Issue 2, Page E20-E24, February 2026.</p>
+]]></content:encoded>
+</item>
+<item>
 <title>Using Flight Plan for Embolization Technique Based on Carotid Body Tumor Angiography to Improve Surgical Treatment of the Lesion: Report of Two Cases</title>
 <link>https://onlinelibrary.wiley.com/doi/10.1002/hed.28254?af=R</link>
 <guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.28254?af=R</guid>
@@ -1818,41 +1880,6 @@ Katherine Hutcheson</p>
 <hr/>
 <p><strong>Abstract</strong></p>
 <p>Head &amp;Neck, Volume 48, Issue 2, Page 438-448, February 2026.</p>
-]]></content:encoded>
-</item>
-<item>
-<title>Quantifying Bite Forces for Solid Foods: Implications for Patients Postmandibular Reconstruction</title>
-<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70031?af=R</link>
-<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70031?af=R</guid>
-<dc:creator>Jacob J. Clark, 
-Emma K. Charters, 
-Kai Cheng, 
-Boyang Wan, 
-Masako Dunn, 
-Tim G. H. Manzie, 
-Dale G. Howes, 
-Elizabeth C. Ward, 
-Qing Li, 
-Jonathan R. Clark</dc:creator>
-<prism:publicationName>Wiley: Head &amp; Neck: Table of Contents</prism:publicationName>
-<prism:doi>10.1002/hed.70031</prism:doi>
-<description>Journal: Wiley: Head &amp; Neck: Table of Contents | DOI: 10.1002/hed.70031</description>
-<content:encoded><![CDATA[
-<p><strong>Journal</strong>: Wiley: Head & Neck: Table of Contents</p>
-<p><strong>Authors</strong>: Jacob J. Clark, 
-Emma K. Charters, 
-Kai Cheng, 
-Boyang Wan, 
-Masako Dunn, 
-Tim G. H. Manzie, 
-Dale G. Howes, 
-Elizabeth C. Ward, 
-Qing Li, 
-Jonathan R. Clark</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1002/hed.70031'>10.1002/hed.70031</a></p>
-<hr/>
-<p><strong>Abstract</strong></p>
-<p>Head &amp;Neck, Volume 48, Issue 2, Page 346-356, February 2026.</p>
 ]]></content:encoded>
 </item>
 <item>
@@ -3502,33 +3529,6 @@ Mehmet Uludag</p>
 ]]></content:encoded>
 </item>
 <item>
-<title>Medial Sural Artery Perforator Flap Radiographic Vascular Characteristics</title>
-<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70125?af=R</link>
-<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70125?af=R</guid>
-<dc:creator>Michael A. Cirelli Jr, 
-Justin M. Hintze, 
-Taylor B. Cave, 
-Daniah ALNafisee, 
-Tanya J. Rath, 
-Brent A. Chang</dc:creator>
-<prism:publicationName>Wiley: Head &amp; Neck: Table of Contents</prism:publicationName>
-<prism:doi>10.1002/hed.70125</prism:doi>
-<description>Journal: Wiley: Head &amp; Neck: Table of Contents | DOI: 10.1002/hed.70125</description>
-<content:encoded><![CDATA[
-<p><strong>Journal</strong>: Wiley: Head & Neck: Table of Contents</p>
-<p><strong>Authors</strong>: Michael A. Cirelli Jr, 
-Justin M. Hintze, 
-Taylor B. Cave, 
-Daniah ALNafisee, 
-Tanya J. Rath, 
-Brent A. Chang</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1002/hed.70125'>10.1002/hed.70125</a></p>
-<hr/>
-<p><strong>Abstract</strong></p>
-<p>Head &amp;Neck, EarlyView.</p>
-]]></content:encoded>
-</item>
-<item>
 <title>Chloride Intracellular Channel 2 Can Function as a Malignant Factor in Head and Neck Squamous Cell Carcinoma</title>
 <link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70133?af=R</link>
 <guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70133?af=R</guid>
@@ -3733,6 +3733,23 @@ Shaojun Lin</p>
 ]]></content:encoded>
 </item>
 <item>
+<title>Potential Impact of the Medicare Prescription Payment Plan for Medicare Part D Beneficiaries With a Cancer Diagnosis</title>
+<link>https://ascopubs.org/doi/abs/10.1200/JCO-25-01788?af=R</link>
+<guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/JCO-25-01788?af=R</guid>
+<dc:creator>Aryana Sepassi; Scott D. Ramsey; A. Mark Fendrick; Nico Gabriel; Jason A. Zell; Dana B. Mukamel; Sean D. Sullivan</dc:creator>
+<prism:publicationName>WoltersKluwer: Journal of Clinical Oncology: Table of Contents</prism:publicationName>
+<prism:doi>10.1200/JCO-25-01788</prism:doi>
+<description>Journal: WoltersKluwer: Journal of Clinical Oncology: Table of Contents | DOI: 10.1200/JCO-25-01788</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: WoltersKluwer: Journal of Clinical Oncology: Table of Contents</p>
+<p><strong>Authors</strong>: Aryana Sepassi; Scott D. Ramsey; A. Mark Fendrick; Nico Gabriel; Jason A. Zell; Dana B. Mukamel; Sean D. Sullivan</p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1200/JCO-25-01788'>10.1200/JCO-25-01788</a></p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>Journal of Clinical Oncology, Ahead of Print. <br /></p>
+]]></content:encoded>
+</item>
+<item>
 <title>Induction Nivolumab Before Chemoradiation in High-Risk Human Papillomavirus–Driven Oropharynx Cancers: IMMUNEBOOST-HPV, a Multicenter Randomized Phase II Trial</title>
 <link>https://ascopubs.org/doi/abs/10.1200/JCO-25-00835?af=R</link>
 <guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/JCO-25-00835?af=R</guid>
@@ -3747,23 +3764,6 @@ Shaojun Lin</p>
 <hr/>
 <p><strong>Abstract</strong></p>
 <p>Journal of Clinical Oncology, Ahead of Print. <br /></p>
-]]></content:encoded>
-</item>
-<item>
-<title>Reducing Medicare Part D Out-of-Pocket Costs for Specialty Oral Anticancer Drugs Under the Inflation Reduction Act: Highlighting the Benefits of Enrolling in the Medicare Prescription Payment Plan</title>
-<link>https://ascopubs.org/doi/abs/10.1200/OP-24-00937?af=R</link>
-<guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/OP-24-00937?af=R</guid>
-<dc:creator>Jalpa A. Doshi; Pengxiang Li; Shravan Asthana; John K. Lin</dc:creator>
-<prism:publicationName>WoltersKluwer: JCO Oncology Practice: Table of Contents</prism:publicationName>
-<prism:doi>10.1200/OP-24-00937</prism:doi>
-<description>Journal: WoltersKluwer: JCO Oncology Practice: Table of Contents | DOI: 10.1200/OP-24-00937</description>
-<content:encoded><![CDATA[
-<p><strong>Journal</strong>: WoltersKluwer: JCO Oncology Practice: Table of Contents</p>
-<p><strong>Authors</strong>: Jalpa A. Doshi; Pengxiang Li; Shravan Asthana; John K. Lin</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1200/OP-24-00937'>10.1200/OP-24-00937</a></p>
-<hr/>
-<p><strong>Abstract</strong></p>
-<p>JCO Oncology Practice, Ahead of Print. <br /></p>
 ]]></content:encoded>
 </item>
 <item>
@@ -3818,40 +3818,6 @@ Shaojun Lin</p>
 ]]></content:encoded>
 </item>
 <item>
-<title>Quality of Informed Consent via Telemedicine Compared With In-Person for Clinical Cancer Research</title>
-<link>https://ascopubs.org/doi/abs/10.1200/OP-24-01041?af=R</link>
-<guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/OP-24-01041?af=R</guid>
-<dc:creator>Michal Sternschuss; Michael Lattanzi; Emily Vertosick; Mia Austria; Sené Martin; Ashley Regazzi; Michael T. Buckely; Joseph Lengfellner; Gregory J. Riely; David B. Solit; Jonathan E. Rosenberg; Gopa Iyer; Peter D. Stetson; Michael J. Morris; Andrew J. Vickers; Samuel A. Funt</dc:creator>
-<prism:publicationName>WoltersKluwer: JCO Oncology Practice: Table of Contents</prism:publicationName>
-<prism:doi>10.1200/OP-24-01041</prism:doi>
-<description>Journal: WoltersKluwer: JCO Oncology Practice: Table of Contents | DOI: 10.1200/OP-24-01041</description>
-<content:encoded><![CDATA[
-<p><strong>Journal</strong>: WoltersKluwer: JCO Oncology Practice: Table of Contents</p>
-<p><strong>Authors</strong>: Michal Sternschuss; Michael Lattanzi; Emily Vertosick; Mia Austria; Sené Martin; Ashley Regazzi; Michael T. Buckely; Joseph Lengfellner; Gregory J. Riely; David B. Solit; Jonathan E. Rosenberg; Gopa Iyer; Peter D. Stetson; Michael J. Morris; Andrew J. Vickers; Samuel A. Funt</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1200/OP-24-01041'>10.1200/OP-24-01041</a></p>
-<hr/>
-<p><strong>Abstract</strong></p>
-<p>JCO Oncology Practice, Ahead of Print. <br /></p>
-]]></content:encoded>
-</item>
-<item>
-<title>Impact of Drug Shortages on Cancer Care Delivery Within the National Cancer Institute Community Oncology Research Program</title>
-<link>https://ascopubs.org/doi/abs/10.1200/OP-25-00057?af=R</link>
-<guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/OP-25-00057?af=R</guid>
-<dc:creator>Lauren V. Ghazal; Supriya Mohile; Kah Poh Loh; Karen Mustian; Grace Sventek; Umang Gada; Chin-Shang Li; Eva Culakova; Melyssa Foust; Judith O. Hopkins; Heather Kehn; Charles Kamen; Erin R. Fox; Elaine L. Hill</dc:creator>
-<prism:publicationName>WoltersKluwer: JCO Oncology Practice: Table of Contents</prism:publicationName>
-<prism:doi>10.1200/OP-25-00057</prism:doi>
-<description>Journal: WoltersKluwer: JCO Oncology Practice: Table of Contents | DOI: 10.1200/OP-25-00057</description>
-<content:encoded><![CDATA[
-<p><strong>Journal</strong>: WoltersKluwer: JCO Oncology Practice: Table of Contents</p>
-<p><strong>Authors</strong>: Lauren V. Ghazal; Supriya Mohile; Kah Poh Loh; Karen Mustian; Grace Sventek; Umang Gada; Chin-Shang Li; Eva Culakova; Melyssa Foust; Judith O. Hopkins; Heather Kehn; Charles Kamen; Erin R. Fox; Elaine L. Hill</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1200/OP-25-00057'>10.1200/OP-25-00057</a></p>
-<hr/>
-<p><strong>Abstract</strong></p>
-<p>JCO Oncology Practice, Ahead of Print. <br /></p>
-]]></content:encoded>
-</item>
-<item>
 <title>Who Benefits and When? Applying Circulating Tumor Human Papillomavirus DNA for Human Papillomavirus–Associated Oropharyngeal Carcinoma</title>
 <link>https://ascopubs.org/doi/abs/10.1200/OP-25-01201?af=R</link>
 <guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/OP-25-01201?af=R</guid>
@@ -3900,6 +3866,40 @@ Shaojun Lin</p>
 <hr/>
 <p><strong>Abstract</strong></p>
 <p>JCO Clinical Cancer Informatics, Issue 10, February 2026. <br /></p>
+]]></content:encoded>
+</item>
+<item>
+<title>ClinBioNGS: A Clinical Bioinformatics Pipeline for Integrated Analysis of Somatic Next-Generation Sequencing Cancer Panels</title>
+<link>https://ascopubs.org/doi/abs/10.1200/CCI-25-00221?af=R</link>
+<guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/CCI-25-00221?af=R</guid>
+<dc:creator>Raúl Marín; Ania Alay; Maria Ajenjo-Bauza; Sara Hijazo-Pechero; Carla Montironi; Eva Hernández-Illán; Pedro Jares; Daniel Azuara; Mar Varela; August Vidal; Joan Anton Puig-Butillé; Conxi Lázaro; Víctor Moreno; David Cordero; Ernest Nadal; Xavier Solé</dc:creator>
+<prism:publicationName>WoltersKluwer: JCO Clinical Cancer Informatics: Table of Contents</prism:publicationName>
+<prism:doi>10.1200/CCI-25-00221</prism:doi>
+<description>Journal: WoltersKluwer: JCO Clinical Cancer Informatics: Table of Contents | DOI: 10.1200/CCI-25-00221</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: WoltersKluwer: JCO Clinical Cancer Informatics: Table of Contents</p>
+<p><strong>Authors</strong>: Raúl Marín; Ania Alay; Maria Ajenjo-Bauza; Sara Hijazo-Pechero; Carla Montironi; Eva Hernández-Illán; Pedro Jares; Daniel Azuara; Mar Varela; August Vidal; Joan Anton Puig-Butillé; Conxi Lázaro; Víctor Moreno; David Cordero; Ernest Nadal; Xavier Solé</p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1200/CCI-25-00221'>10.1200/CCI-25-00221</a></p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>JCO Clinical Cancer Informatics, Issue 10, February 2026. <br /></p>
+]]></content:encoded>
+</item>
+<item>
+<title>Generic Protocols for Analytical Validation of Tumor-Informed Circulating Tumor DNA Assays for Molecular Residual Disease: The Blood Profiling Atlas in Cancer&apos;s Molecular Residual Disease Analytical Validation Working Group Consensus Recommendation</title>
+<link>https://ascopubs.org/doi/abs/10.1200/PO-25-00267?af=R</link>
+<guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/PO-25-00267?af=R</guid>
+<dc:creator>Jonathan Baden; Cheng-Ho Jimmy Lin; Andrew T. Anfora; Jonathan Beer; Karl Bisselou; Jennifer Bungo; Adam S. Corner; Tyler Danek; Jennifer Dickey; James H. Godsey; Donald J. Johann; Gregory Jones; George Karlin-Neumann; Jessica L. Larson; Jerry S.H. Lee; Li Liu; Dorys  Lopez Ramos; David Merriam; Melanie Palomares; Carol E. Pena; Jessica Rathbun; Kate Rhodes; Jaime E. Connolly Rohrbach; Banu Saritas-Yildirim; Mark Sausen; Shile Zhang; Lauren C. Leiman</dc:creator>
+<prism:publicationName>WoltersKluwer: JCO Precision Oncology: Table of Contents</prism:publicationName>
+<prism:doi>10.1200/PO-25-00267</prism:doi>
+<description>Journal: WoltersKluwer: JCO Precision Oncology: Table of Contents | DOI: 10.1200/PO-25-00267</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: WoltersKluwer: JCO Precision Oncology: Table of Contents</p>
+<p><strong>Authors</strong>: Jonathan Baden; Cheng-Ho Jimmy Lin; Andrew T. Anfora; Jonathan Beer; Karl Bisselou; Jennifer Bungo; Adam S. Corner; Tyler Danek; Jennifer Dickey; James H. Godsey; Donald J. Johann; Gregory Jones; George Karlin-Neumann; Jessica L. Larson; Jerry S.H. Lee; Li Liu; Dorys  Lopez Ramos; David Merriam; Melanie Palomares; Carol E. Pena; Jessica Rathbun; Kate Rhodes; Jaime E. Connolly Rohrbach; Banu Saritas-Yildirim; Mark Sausen; Shile Zhang; Lauren C. Leiman</p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1200/PO-25-00267'>10.1200/PO-25-00267</a></p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>JCO Precision Oncology, Issue 10, January 2026. <br /></p>
 ]]></content:encoded>
 </item>
 </channel></rss>
