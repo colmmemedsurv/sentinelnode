@@ -1,5 +1,5 @@
 {
-  "timestamp_utc": "2026-02-08T07:18:11.619840+00:00",
+  "timestamp_utc": "2026-02-09T07:32:08.346321+00:00",
   "feeds": [
     {
       "url": "https://onesearch-rss.nejm.org/api/specialty/rss?context=nejm&specialty=hematology-oncology",
@@ -65,25 +65,25 @@
       "url": "https://jamanetwork.com/rss/site_18/onlineFirst_74.xml",
       "feed_title": "JAMA Otolaryngology–Head & Neck Surgery Online First",
       "items_in_feed": 10,
-      "relevant_yes": 5
+      "relevant_yes": 4
     },
     {
       "url": "https://rss.sciencedirect.com/publication/science/13688375",
       "feed_title": "ScienceDirect Publication: Oral Oncology",
-      "items_in_feed": 43,
-      "relevant_yes": 41
+      "items_in_feed": 46,
+      "relevant_yes": 45
     },
     {
       "url": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
       "feed_title": "Wiley: Head & Neck: Table of Contents",
       "items_in_feed": 91,
-      "relevant_yes": 81
+      "relevant_yes": 84
     },
     {
       "url": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=jco",
       "feed_title": "WoltersKluwer: Journal of Clinical Oncology: Table of Contents",
       "items_in_feed": 106,
-      "relevant_yes": 3
+      "relevant_yes": 5
     },
     {
       "url": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=op",
@@ -94,14 +94,14 @@
     {
       "url": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=go",
       "feed_title": "WoltersKluwer: JCO Global Oncology: Table of Contents",
-      "items_in_feed": 26,
-      "relevant_yes": 2
+      "items_in_feed": 23,
+      "relevant_yes": 0
     },
     {
       "url": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=cci",
       "feed_title": "WoltersKluwer: JCO Clinical Cancer Informatics: Table of Contents",
-      "items_in_feed": 18,
-      "relevant_yes": 1
+      "items_in_feed": 16,
+      "relevant_yes": 0
     },
     {
       "url": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=po",
@@ -123,8 +123,8 @@
     }
   ],
   "decisions_total": {
-    "YES": 162,
-    "NO": 662,
-    "UNCERTAIN": 23
+    "YES": 167,
+    "NO": 658,
+    "UNCERTAIN": 20
   }
 }
