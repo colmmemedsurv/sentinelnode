@@ -4,7 +4,7 @@
 <title>Head &amp; Neck Cancer – DOI-Enriched Feed</title>
 <link>https://colmmemedsurv.github.io/sentinelnode/</link>
 <description>Curated head &amp; neck cancer literature with Crossref and PubMed enrichment.</description>
-<lastBuildDate>Sun, 15 Feb 2026 07:20:23 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Feb 2026 07:33:16 +0000</lastBuildDate>
 <item>
 <title>[Comment] Time to act: a global call for oral cancer prevention and early detection</title>
 <link>https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(25)00708-9/fulltext?rss=yes</link>
@@ -325,6 +325,21 @@
 ]]></content:encoded>
 </item>
 <item>
+<title>Large Language Models and Otolaryngology</title>
+<link>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2844560</link>
+<guid isPermaLink='true'>https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2844560</guid>
+<prism:publicationName>JAMA Otolaryngology–Head &amp; Neck Surgery Online First</prism:publicationName>
+<prism:doi>10.1001/jamaoto.2025.5335</prism:doi>
+<description>Journal: JAMA Otolaryngology–Head &amp; Neck Surgery Online First | DOI: 10.1001/jamaoto.2025.5335</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: JAMA Otolaryngology–Head & Neck Surgery Online First</p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1001/jamaoto.2025.5335'>10.1001/jamaoto.2025.5335</a></p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>This Narrative Review examines the evolving landscape of the application of large language models, highlighting innovations from other medical specialties, to provide otolaryngologists with the knowledge and direction needed to advance the field.</p>
+]]></content:encoded>
+</item>
+<item>
 <title>Correction to “My letter: Do we recognize oral oncology with accuracy? AI-driven models serve in the diagnosis of oral squamous cell carcinoma”</title>
 <link>https://www.sciencedirect.com/science/article/pii/S1368837526000424?dgcid=rss_sd_all</link>
 <guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837526000424?dgcid=rss_sd_all</guid>
@@ -426,6 +441,19 @@
 <hr/>
 <p><strong>Abstract</strong></p>
 <p><p>Publication date: March 2026</p><p><b>Source:</b> Oral Oncology, Volume 174</p><p>Author(s): Carlos M. Ardila, Anny Marcela Vivares-Builes, Eliana Pineda-Vélez</p></p>
+]]></content:encoded>
+</item>
+<item>
+<title>A case of secondary ameloblastic carcinoma of the mandible and a comparative review of primary and secondary subtypes</title>
+<link>https://www.sciencedirect.com/science/article/pii/S1368837526000011?dgcid=rss_sd_all</link>
+<guid isPermaLink='true'>https://www.sciencedirect.com/science/article/pii/S1368837526000011?dgcid=rss_sd_all</guid>
+<prism:publicationName>ScienceDirect Publication: Oral Oncology</prism:publicationName>
+<description>Journal: ScienceDirect Publication: Oral Oncology | DOI: </description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: ScienceDirect Publication: Oral Oncology</p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p><p>Publication date: March 2026</p><p><b>Source:</b> Oral Oncology, Volume 174</p><p>Author(s): Xin Wei, Jiayu Shen, Ce Shi, Shichen Zhang, Huanyan Dai, Zhiyan Wu, Xi Li, Zhimin Xu, Bing Han</p></p>
 ]]></content:encoded>
 </item>
 <item>
@@ -1193,6 +1221,35 @@ Luca Gazzini</p>
 ]]></content:encoded>
 </item>
 <item>
+<title>Neoadjuvant Immunotherapy for Periauricular Cutaneous Squamous Cell Carcinoma</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70080?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70080?af=R</guid>
+<dc:creator>David Z. Allen, 
+Neil Gross, 
+Marc‐Elie Nader, 
+Renata Ferrarotto, 
+Moran Amit, 
+Priyadharsini Nagarajan, 
+Paul Gidley</dc:creator>
+<prism:publicationName>Wiley: Head &amp; Neck: Table of Contents</prism:publicationName>
+<prism:doi>10.1002/hed.70080</prism:doi>
+<description>Journal: Wiley: Head &amp; Neck: Table of Contents | DOI: 10.1002/hed.70080</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: Wiley: Head & Neck: Table of Contents</p>
+<p><strong>Authors</strong>: David Z. Allen, 
+Neil Gross, 
+Marc‐Elie Nader, 
+Renata Ferrarotto, 
+Moran Amit, 
+Priyadharsini Nagarajan, 
+Paul Gidley</p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1002/hed.70080'>10.1002/hed.70080</a></p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>Head &amp;Neck, Volume 48, Issue 3, Page 837-842, March 2026.</p>
+]]></content:encoded>
+</item>
+<item>
 <title>Improvement in Thyroid‐Specific Quality of Life After Radio Frequency Ablation of Symptomatic Benign Solitary Thyroid Nodules: A Prospective Cohort Study</title>
 <link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70086?af=R</link>
 <guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70086?af=R</guid>
@@ -1256,37 +1313,6 @@ Joshua E. Lubek</p>
 <hr/>
 <p><strong>Abstract</strong></p>
 <p>Head &amp;Neck, Volume 48, Issue 3, Page 843-855, March 2026.</p>
-]]></content:encoded>
-</item>
-<item>
-<title>Patient‐Specific Cranio‐Facial Porous Titanium Implants: A Multicentric Cohort Study</title>
-<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70068?af=R</link>
-<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70068?af=R</guid>
-<dc:creator>Thomas Schouman, 
-Herve Benateau, 
-Nicolas Le Clerc, 
-Marouane Talbi, 
-Vincent Roualdes, 
-Pierre Vives, 
-Jai P. Rao, 
-Jean‐Philippe Foy</dc:creator>
-<prism:publicationName>Wiley: Head &amp; Neck: Table of Contents</prism:publicationName>
-<prism:doi>10.1002/hed.70068</prism:doi>
-<description>Journal: Wiley: Head &amp; Neck: Table of Contents | DOI: 10.1002/hed.70068</description>
-<content:encoded><![CDATA[
-<p><strong>Journal</strong>: Wiley: Head & Neck: Table of Contents</p>
-<p><strong>Authors</strong>: Thomas Schouman, 
-Herve Benateau, 
-Nicolas Le Clerc, 
-Marouane Talbi, 
-Vincent Roualdes, 
-Pierre Vives, 
-Jai P. Rao, 
-Jean‐Philippe Foy</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1002/hed.70068'>10.1002/hed.70068</a></p>
-<hr/>
-<p><strong>Abstract</strong></p>
-<p>Head &amp;Neck, Volume 48, Issue 3, Page 747-757, March 2026.</p>
 ]]></content:encoded>
 </item>
 <item>
@@ -2720,6 +2746,33 @@ Ruoyu Wang</p>
 ]]></content:encoded>
 </item>
 <item>
+<title>Exceedingly Hyper‐Secreting Parathyroid Adenoma: A Literature Review and Case Series</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70162?af=R</link>
+<guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70162?af=R</guid>
+<dc:creator>Delaney E. S. Clark, 
+Arati Bendapudi, 
+Connor B. Haines, 
+Nicholas Rossi, 
+Hasanain Hasan, 
+Orly Coblens</dc:creator>
+<prism:publicationName>Wiley: Head &amp; Neck: Table of Contents</prism:publicationName>
+<prism:doi>10.1002/hed.70162</prism:doi>
+<description>Journal: Wiley: Head &amp; Neck: Table of Contents | DOI: 10.1002/hed.70162</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: Wiley: Head & Neck: Table of Contents</p>
+<p><strong>Authors</strong>: Delaney E. S. Clark, 
+Arati Bendapudi, 
+Connor B. Haines, 
+Nicholas Rossi, 
+Hasanain Hasan, 
+Orly Coblens</p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1002/hed.70162'>10.1002/hed.70162</a></p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>Head &amp;Neck, EarlyView.</p>
+]]></content:encoded>
+</item>
+<item>
 <title>Perioperative Piperacillin/Tazobactam Reduces Early Onset SSI in Preirradiated Patients Undergoing Microvascular Head and Neck Reconstruction</title>
 <link>https://onlinelibrary.wiley.com/doi/10.1002/hed.70151?af=R</link>
 <guid isPermaLink='true'>https://onlinelibrary.wiley.com/doi/10.1002/hed.70151?af=R</guid>
@@ -3466,6 +3519,40 @@ Francis P. Worden</p>
 ]]></content:encoded>
 </item>
 <item>
+<title>Target Trial Emulation for Regulatory and Clinical Decision Making in Cancer</title>
+<link>https://ascopubs.org/doi/abs/10.1200/JCO-25-01906?af=R</link>
+<guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/JCO-25-01906?af=R</guid>
+<dc:creator>Barbra A. Dickerman; Xabier García-Albéniz; Miguel A. Hernán</dc:creator>
+<prism:publicationName>WoltersKluwer: Journal of Clinical Oncology: Table of Contents</prism:publicationName>
+<prism:doi>10.1200/JCO-25-01906</prism:doi>
+<description>Journal: WoltersKluwer: Journal of Clinical Oncology: Table of Contents | DOI: 10.1200/JCO-25-01906</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: WoltersKluwer: Journal of Clinical Oncology: Table of Contents</p>
+<p><strong>Authors</strong>: Barbra A. Dickerman; Xabier García-Albéniz; Miguel A. Hernán</p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1200/JCO-25-01906'>10.1200/JCO-25-01906</a></p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>Journal of Clinical Oncology, Ahead of Print. <br /></p>
+]]></content:encoded>
+</item>
+<item>
+<title>When the System Is the Treatment: Rethinking Nonpharmacologic Breakthroughs in Oncology</title>
+<link>https://ascopubs.org/doi/abs/10.1200/JCO-25-02664?af=R</link>
+<guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/JCO-25-02664?af=R</guid>
+<dc:creator>Ramy Sedhom; Efrat Dotan; Christopher Booth</dc:creator>
+<prism:publicationName>WoltersKluwer: Journal of Clinical Oncology: Table of Contents</prism:publicationName>
+<prism:doi>10.1200/JCO-25-02664</prism:doi>
+<description>Journal: WoltersKluwer: Journal of Clinical Oncology: Table of Contents | DOI: 10.1200/JCO-25-02664</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: WoltersKluwer: Journal of Clinical Oncology: Table of Contents</p>
+<p><strong>Authors</strong>: Ramy Sedhom; Efrat Dotan; Christopher Booth</p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1200/JCO-25-02664'>10.1200/JCO-25-02664</a></p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>Journal of Clinical Oncology, Ahead of Print. <br /></p>
+]]></content:encoded>
+</item>
+<item>
 <title>Adequacy of Immune Checkpoint Inhibitor–Associated Thyroid Function Monitoring After Therapy</title>
 <link>https://ascopubs.org/doi/abs/10.1200/OP-25-00027?af=R</link>
 <guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/OP-25-00027?af=R</guid>
@@ -3483,17 +3570,34 @@ Francis P. Worden</p>
 ]]></content:encoded>
 </item>
 <item>
-<title>Reducing Medicare Part D Out-of-Pocket Costs for Specialty Oral Anticancer Drugs Under the Inflation Reduction Act: Highlighting the Benefits of Enrolling in the Medicare Prescription Payment Plan</title>
-<link>https://ascopubs.org/doi/abs/10.1200/OP-24-00937?af=R</link>
-<guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/OP-24-00937?af=R</guid>
-<dc:creator>Jalpa A. Doshi; Pengxiang Li; Shravan Asthana; John K. Lin</dc:creator>
+<title>Daily Patient-Reported Symptoms as Predictors of Unplanned Health Care Encounters During Chemotherapy: Longitudinal Observational Study</title>
+<link>https://ascopubs.org/doi/abs/10.1200/OP-25-00177?af=R</link>
+<guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/OP-25-00177?af=R</guid>
+<dc:creator>Elizabeth Kairis; Jennifer Fedor; Christianna Bartel; Krina C. Durica; Heidi S. Donovan; Roby Thomas; Carissa A. Low</dc:creator>
 <prism:publicationName>WoltersKluwer: JCO Oncology Practice: Table of Contents</prism:publicationName>
-<prism:doi>10.1200/OP-24-00937</prism:doi>
-<description>Journal: WoltersKluwer: JCO Oncology Practice: Table of Contents | DOI: 10.1200/OP-24-00937</description>
+<prism:doi>10.1200/OP-25-00177</prism:doi>
+<description>Journal: WoltersKluwer: JCO Oncology Practice: Table of Contents | DOI: 10.1200/OP-25-00177</description>
 <content:encoded><![CDATA[
 <p><strong>Journal</strong>: WoltersKluwer: JCO Oncology Practice: Table of Contents</p>
-<p><strong>Authors</strong>: Jalpa A. Doshi; Pengxiang Li; Shravan Asthana; John K. Lin</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1200/OP-24-00937'>10.1200/OP-24-00937</a></p>
+<p><strong>Authors</strong>: Elizabeth Kairis; Jennifer Fedor; Christianna Bartel; Krina C. Durica; Heidi S. Donovan; Roby Thomas; Carissa A. Low</p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1200/OP-25-00177'>10.1200/OP-25-00177</a></p>
+<hr/>
+<p><strong>Abstract</strong></p>
+<p>JCO Oncology Practice, Ahead of Print. <br /></p>
+]]></content:encoded>
+</item>
+<item>
+<title>Changes in Cost of Guideline-Concordant Cancer Treatment: Observations and Implications</title>
+<link>https://ascopubs.org/doi/abs/10.1200/OP-24-00995?af=R</link>
+<guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/OP-24-00995?af=R</guid>
+<dc:creator>Judy J. Wang; Sonia Persaud; Sara Tabatabai; Nirjhar Chakraborty; Pranam Dey; Niti U. Trivedi; Aaron Philip Mitchell</dc:creator>
+<prism:publicationName>WoltersKluwer: JCO Oncology Practice: Table of Contents</prism:publicationName>
+<prism:doi>10.1200/OP-24-00995</prism:doi>
+<description>Journal: WoltersKluwer: JCO Oncology Practice: Table of Contents | DOI: 10.1200/OP-24-00995</description>
+<content:encoded><![CDATA[
+<p><strong>Journal</strong>: WoltersKluwer: JCO Oncology Practice: Table of Contents</p>
+<p><strong>Authors</strong>: Judy J. Wang; Sonia Persaud; Sara Tabatabai; Nirjhar Chakraborty; Pranam Dey; Niti U. Trivedi; Aaron Philip Mitchell</p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1200/OP-24-00995'>10.1200/OP-24-00995</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
 <p>JCO Oncology Practice, Ahead of Print. <br /></p>
@@ -3534,23 +3638,6 @@ Francis P. Worden</p>
 ]]></content:encoded>
 </item>
 <item>
-<title>Associations Between Cancer-Related Financial Hardship, Pain, and Opioid Use</title>
-<link>https://ascopubs.org/doi/abs/10.1200/OP-25-00683?af=R</link>
-<guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/OP-25-00683?af=R</guid>
-<dc:creator>Courtney P. Williams; Sandra Olisakwe; Joud El Dick; Luqin Deng; Andres Azuero; Maria Pisu; Ellen Eaton; Gabrielle B. Rocque</dc:creator>
-<prism:publicationName>WoltersKluwer: JCO Oncology Practice: Table of Contents</prism:publicationName>
-<prism:doi>10.1200/OP-25-00683</prism:doi>
-<description>Journal: WoltersKluwer: JCO Oncology Practice: Table of Contents | DOI: 10.1200/OP-25-00683</description>
-<content:encoded><![CDATA[
-<p><strong>Journal</strong>: WoltersKluwer: JCO Oncology Practice: Table of Contents</p>
-<p><strong>Authors</strong>: Courtney P. Williams; Sandra Olisakwe; Joud El Dick; Luqin Deng; Andres Azuero; Maria Pisu; Ellen Eaton; Gabrielle B. Rocque</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1200/OP-25-00683'>10.1200/OP-25-00683</a></p>
-<hr/>
-<p><strong>Abstract</strong></p>
-<p>JCO Oncology Practice, Ahead of Print. <br /></p>
-]]></content:encoded>
-</item>
-<item>
 <title>Impact of Drug Shortages on Cancer Care Delivery Within the National Cancer Institute Community Oncology Research Program</title>
 <link>https://ascopubs.org/doi/abs/10.1200/OP-25-00057?af=R</link>
 <guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/OP-25-00057?af=R</guid>
@@ -3585,37 +3672,20 @@ Francis P. Worden</p>
 ]]></content:encoded>
 </item>
 <item>
-<title>Global Trials, Local Relevance: A Scientific and Regulatory Framework for Regional Enrollment in Cancer Drug Development</title>
-<link>https://ascopubs.org/doi/abs/10.1200/GO-25-00285?af=R</link>
-<guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/GO-25-00285?af=R</guid>
-<dc:creator>Denis Horgan; Zorana Maravic; Ken Mastris; Hadi Mohamad Abu Rasheed; Carolina Reduzzi; Adda Bounedjar; Hesham Elghazaly; Alejandro Mohar; Roberto Pestana; Jonathan A. Lal; Umberto Malapelle; Ramin Asgary; Vivek Subbiah</dc:creator>
-<prism:publicationName>WoltersKluwer: JCO Global Oncology: Table of Contents</prism:publicationName>
-<prism:doi>10.1200/GO-25-00285</prism:doi>
-<description>Journal: WoltersKluwer: JCO Global Oncology: Table of Contents | DOI: 10.1200/GO-25-00285</description>
+<title>Optimizing Equitable Inclusion of African American Patients in Oncology Clinical Trials</title>
+<link>https://ascopubs.org/doi/abs/10.1200/OA-25-00146?af=R</link>
+<guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/OA-25-00146?af=R</guid>
+<dc:creator>Tamia S. Williams; Shearwood McClelland</dc:creator>
+<prism:publicationName>WoltersKluwer: JCO Oncology Advances: Table of Contents</prism:publicationName>
+<prism:doi>10.1200/OA-25-00146</prism:doi>
+<description>Journal: WoltersKluwer: JCO Oncology Advances: Table of Contents | DOI: 10.1200/OA-25-00146</description>
 <content:encoded><![CDATA[
-<p><strong>Journal</strong>: WoltersKluwer: JCO Global Oncology: Table of Contents</p>
-<p><strong>Authors</strong>: Denis Horgan; Zorana Maravic; Ken Mastris; Hadi Mohamad Abu Rasheed; Carolina Reduzzi; Adda Bounedjar; Hesham Elghazaly; Alejandro Mohar; Roberto Pestana; Jonathan A. Lal; Umberto Malapelle; Ramin Asgary; Vivek Subbiah</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1200/GO-25-00285'>10.1200/GO-25-00285</a></p>
+<p><strong>Journal</strong>: WoltersKluwer: JCO Oncology Advances: Table of Contents</p>
+<p><strong>Authors</strong>: Tamia S. Williams; Shearwood McClelland</p>
+<p><strong>DOI</strong>: <a href='https://doi.org/10.1200/OA-25-00146'>10.1200/OA-25-00146</a></p>
 <hr/>
 <p><strong>Abstract</strong></p>
-<p>JCO Global Oncology, Issue 12, February 2026. <br /></p>
-]]></content:encoded>
-</item>
-<item>
-<title>Simulation-Based Evaluation of a Large Language Model–Enabled Clinical Decision Support Platform in Oncology</title>
-<link>https://ascopubs.org/doi/abs/10.1200/CCI-25-00244?af=R</link>
-<guid isPermaLink='true'>https://ascopubs.org/doi/abs/10.1200/CCI-25-00244?af=R</guid>
-<dc:creator>Nesrine Lajmi; Mehul Patel; Gareth Obery; Archana Dorge; Ashish Sharma; Jack Halligan; Ernest Lo</dc:creator>
-<prism:publicationName>WoltersKluwer: JCO Clinical Cancer Informatics: Table of Contents</prism:publicationName>
-<prism:doi>10.1200/CCI-25-00244</prism:doi>
-<description>Journal: WoltersKluwer: JCO Clinical Cancer Informatics: Table of Contents | DOI: 10.1200/CCI-25-00244</description>
-<content:encoded><![CDATA[
-<p><strong>Journal</strong>: WoltersKluwer: JCO Clinical Cancer Informatics: Table of Contents</p>
-<p><strong>Authors</strong>: Nesrine Lajmi; Mehul Patel; Gareth Obery; Archana Dorge; Ashish Sharma; Jack Halligan; Ernest Lo</p>
-<p><strong>DOI</strong>: <a href='https://doi.org/10.1200/CCI-25-00244'>10.1200/CCI-25-00244</a></p>
-<hr/>
-<p><strong>Abstract</strong></p>
-<p>JCO Clinical Cancer Informatics, Issue 10, February 2026. <br /></p>
+<p>JCO Oncology Advances, Issue 3, February 2026. <br /></p>
 ]]></content:encoded>
 </item>
 </channel></rss>
