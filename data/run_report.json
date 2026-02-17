@@ -1,5 +1,5 @@
 {
-  "timestamp_utc": "2026-02-16T07:31:06.739830+00:00",
+  "timestamp_utc": "2026-02-17T07:26:30.441124+00:00",
   "feeds": [
     {
       "url": "https://onesearch-rss.nejm.org/api/specialty/rss?context=nejm&specialty=hematology-oncology",
@@ -40,7 +40,7 @@
     {
       "url": "https://jamanetwork.com/rss/site_3/onlineFirst_67.xml",
       "feed_title": "JAMA Online First",
-      "items_in_feed": 17,
+      "items_in_feed": 15,
       "relevant_yes": 0
     },
     {
@@ -70,8 +70,8 @@
     {
       "url": "https://rss.sciencedirect.com/publication/science/13688375",
       "feed_title": "ScienceDirect Publication: Oral Oncology",
-      "items_in_feed": 29,
-      "relevant_yes": 28
+      "items_in_feed": 31,
+      "relevant_yes": 29
     },
     {
       "url": "https://onlinelibrary.wiley.com/feed/10970347/most-recent",
@@ -83,13 +83,13 @@
       "url": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=jco",
       "feed_title": "WoltersKluwer: Journal of Clinical Oncology: Table of Contents",
       "items_in_feed": 113,
-      "relevant_yes": 5
+      "relevant_yes": 3
     },
     {
       "url": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=op",
       "feed_title": "WoltersKluwer: JCO Oncology Practice: Table of Contents",
       "items_in_feed": 242,
-      "relevant_yes": 7
+      "relevant_yes": 5
     },
     {
       "url": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=go",
@@ -101,7 +101,7 @@
       "url": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=cci",
       "feed_title": "WoltersKluwer: JCO Clinical Cancer Informatics: Table of Contents",
       "items_in_feed": 14,
-      "relevant_yes": 0
+      "relevant_yes": 1
     },
     {
       "url": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=po",
@@ -113,7 +113,7 @@
       "url": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=oa",
       "feed_title": "WoltersKluwer: JCO Oncology Advances: Table of Contents",
       "items_in_feed": 6,
-      "relevant_yes": 1
+      "relevant_yes": 0
     },
     {
       "url": "https://ascopubs.org/action/showFeed?type=etoc&feed=rss&jc=edbk",
@@ -123,8 +123,8 @@
     }
   ],
   "decisions_total": {
-    "YES": 143,
-    "NO": 630,
-    "UNCERTAIN": 15
+    "YES": 140,
+    "NO": 632,
+    "UNCERTAIN": 16
   }
 }
